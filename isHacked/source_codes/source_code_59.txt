@@ -1,0 +1,584 @@
+<!doctype html>
+<html dir="rtl" lang="he-IL">
+<head>
+	<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+	<meta name='robots' content='noindex, follow' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v19.13 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Page not found | שערים חשמליים</title>
+	<meta property="og:locale" content="he_IL" />
+	<meta property="og:title" content="Page not found | שערים חשמליים" />
+	<meta property="og:site_name" content="שערים חשמליים" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://mendi.co.il/#website","url":"https://mendi.co.il/","name":"שערים חשמליים","description":"שערים חשמליים","publisher":{"@id":"https://mendi.co.il/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://mendi.co.il/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"he-IL"},{"@type":"Organization","@id":"https://mendi.co.il/#organization","name":"שערים חשמליים","url":"https://mendi.co.il/","logo":{"@type":"ImageObject","inLanguage":"he-IL","@id":"https://mendi.co.il/#/schema/logo/image/","url":"","contentUrl":"","caption":"שערים חשמליים"},"image":{"@id":"https://mendi.co.il/#/schema/logo/image/"}}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel="alternate" type="application/rss+xml" title="שערים חשמליים &laquo; פיד‏" href="https://mendi.co.il/feed/" />
+<link rel="alternate" type="application/rss+xml" title="שערים חשמליים &laquo; פיד תגובות‏" href="https://mendi.co.il/comments/feed/" />
+<style>
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-rtl-css'  href='http://mendi.co.il/wp-includes/css/dist/block-library/style-rtl.min.css?ver=5.9.8' media='all' />
+<style id='global-styles-inline-css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+</style>
+<link rel='stylesheet' id='accessibility-light-css'  href='http://mendi.co.il/wp-content/plugins/accessibility-light/assets/css/accessibility-light.css?ver=5.9.8' media='all' />
+<link rel='stylesheet' id='hello-elementor-css'  href='http://mendi.co.il/wp-content/themes/hello-elementor/style.min.css?ver=2.6.1' media='all' />
+<link rel='stylesheet' id='hello-elementor-theme-style-css'  href='http://mendi.co.il/wp-content/themes/hello-elementor/theme.min.css?ver=2.6.1' media='all' />
+<link rel='stylesheet' id='elementor-icons-css'  href='http://mendi.co.il/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.15.0' media='all' />
+<link rel='stylesheet' id='elementor-frontend-legacy-css'  href='http://mendi.co.il/wp-content/plugins/elementor/assets/css/frontend-legacy-rtl.min.css?ver=3.6.6' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css'  href='http://mendi.co.il/wp-content/plugins/elementor/assets/css/frontend-rtl.min.css?ver=3.6.6' media='all' />
+<link rel='stylesheet' id='elementor-post-4061-css'  href='http://mendi.co.il/wp-content/uploads/elementor/css/post-4061.css?ver=1665553985' media='all' />
+<link rel='stylesheet' id='elementor-pro-css'  href='http://mendi.co.il/wp-content/plugins/elementor-pro/assets/css/frontend-rtl.min.css?ver=3.7.2' media='all' />
+<link rel='stylesheet' id='font-awesome-5-all-css'  href='http://mendi.co.il/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=3.6.6' media='all' />
+<link rel='stylesheet' id='font-awesome-4-shim-css'  href='http://mendi.co.il/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=3.6.6' media='all' />
+<link rel='stylesheet' id='elementor-post-3520-css'  href='http://mendi.co.il/wp-content/uploads/elementor/css/post-3520.css?ver=1665553986' media='all' />
+<link rel='stylesheet' id='elementor-post-4718-css'  href='http://mendi.co.il/wp-content/uploads/elementor/css/post-4718.css?ver=1665553986' media='all' />
+<link rel='stylesheet' id='elementor-post-3792-css'  href='http://mendi.co.il/wp-content/uploads/elementor/css/post-3792.css?ver=1665554014' media='all' />
+<style id='rocket-lazyload-inline-css'>
+.rll-youtube-player{position:relative;padding-bottom:56.23%;height:0;overflow:hidden;max-width:100%;background:#000;margin:5px}.rll-youtube-player iframe{position:absolute;top:0;left:0;width:100%;height:100%;z-index:100;background:0 0}.rll-youtube-player img{bottom:0;display:block;left:0;margin:auto;max-width:100%;width:100%;position:absolute;right:0;top:0;border:none;height:auto;cursor:pointer;-webkit-transition:.4s all;-moz-transition:.4s all;transition:.4s all}.rll-youtube-player img:hover{-webkit-filter:brightness(75%)}.rll-youtube-player .play{height:72px;width:72px;left:50%;top:50%;margin-left:-36px;margin-top:-36px;position:absolute;background:url(http://mendi.co.il/wp-content/plugins/wp-rocket/inc/front/img/youtube.png) no-repeat;cursor:pointer}
+</style>
+<link rel='stylesheet' id='google-fonts-1-css'  href='https://fonts.googleapis.com/css?family=Assistant%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=auto&#038;subset=hebrew&#038;ver=5.9.8' media='all' />
+<link rel='stylesheet' id='elementor-icons-shared-0-css'  href='http://mendi.co.il/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-solid-css'  href='http://mendi.co.il/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3' media='all' />
+<script src='http://mendi.co.il/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>
+<script src='http://mendi.co.il/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script src='http://mendi.co.il/wp-content/plugins/accessibility-light/assets/js/accessibility-light.js?ver=5.9.8' id='accessibility-light-js'></script>
+<script src='http://mendi.co.il/wp-content/plugins/accessibility-light/assets/js/jscolor.js?ver=5.9.8' id='jscolor-js'></script>
+<script src='http://mendi.co.il/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=3.6.6' id='font-awesome-4-shim-js'></script>
+<link rel="https://api.w.org/" href="https://mendi.co.il/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://mendi.co.il/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://mendi.co.il/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.9.8" />
+<meta name="google-site-verification" content="KsGlXRmxeamFTZJQ_6Nw8SNeax1TGeiIhG-IuOrjI78" /></head>
+<body class="rtl error404 wp-custom-logo acl-sitelinx elementor-default elementor-kit-4061 elementor-page-3792">
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-dark-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0.49803921568627" /><feFuncG type="table" tableValues="0 0.49803921568627" /><feFuncB type="table" tableValues="0 0.49803921568627" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-red"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 0.27843137254902" /><feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-midnight"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0" /><feFuncG type="table" tableValues="0 0.64705882352941" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-magenta-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.78039215686275 1" /><feFuncG type="table" tableValues="0 0.94901960784314" /><feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-green"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.44705882352941 0.4" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-orange"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.098039215686275 1" /><feFuncG type="table" tableValues="0 0.66274509803922" /><feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg>
+<a class="skip-link screen-reader-text" href="#content">
+	דלג לתוכן</a>
+
+		<header data-elementor-type="header" data-elementor-id="3520" class="elementor elementor-3520 elementor-location-header">
+					<div class="elementor-section-wrap">
+								<section class="elementor-section elementor-top-section elementor-element elementor-element-a6f1d20 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="a6f1d20" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-f14ec26" data-id="f14ec26" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-f2977bc elementor-nav-menu__align-right elementor-nav-menu--stretch elementor-widget__width-auto elementor-nav-menu--dropdown-tablet elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu" data-id="f2977bc" data-element_type="widget" data-settings="{&quot;full_width&quot;:&quot;stretch&quot;,&quot;layout&quot;:&quot;horizontal&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;i class=\&quot;fas fa-caret-down\&quot;&gt;&lt;\/i&gt;&quot;,&quot;library&quot;:&quot;fa-solid&quot;},&quot;toggle&quot;:&quot;burger&quot;}" data-widget_type="nav-menu.default">
+				<div class="elementor-widget-container">
+						<nav migration_allowed="1" migrated="0" role="navigation" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-underline e--animation-drop-out">
+				<ul id="menu-1-f2977bc" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-4346"><a href="https://mendi.co.il/" class="elementor-item">דף הבית</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4835"><a href="https://mendi.co.il/%d7%90%d7%95%d7%93%d7%95%d7%aa%d7%a0%d7%95/" class="elementor-item">אודותינו</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5196"><a href="https://mendi.co.il/category/%d7%a9%d7%a2%d7%a8%d7%99%d7%9d-%d7%97%d7%a9%d7%9e%d7%9c%d7%99%d7%99%d7%9d/" class="elementor-item">שערים חשמליים</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5197"><a href="https://mendi.co.il/category/%d7%a9%d7%a2%d7%a8-%d7%97%d7%a9%d7%9e%d7%9c%d7%99-%d7%9c%d7%91%d7%99%d7%aa/" class="elementor-item">שער חשמלי לבית</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5198"><a href="https://mendi.co.il/category/%d7%a9%d7%a2%d7%a8-%d7%97%d7%a9%d7%9e%d7%9c%d7%99-%d7%9c%d7%97%d7%a0%d7%99%d7%94/" class="elementor-item">שער חשמלי לחניה</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5195"><a href="https://mendi.co.il/category/%d7%91%d7%9c%d7%95%d7%92/" class="elementor-item">בלוג</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3189"><a href="https://mendi.co.il/%d7%a6%d7%95%d7%a8-%d7%a7%d7%a9%d7%a8-3/" class="elementor-item">צרו קשר</a></li>
+</ul>			</nav>
+					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="כפתור פתיחת תפריט" aria-expanded="false">
+			<i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--open eicon-menu-bar"></i><i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--close eicon-close"></i>			<span class="elementor-screen-only">תפריט</span>
+		</div>
+			<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" role="navigation" aria-hidden="true">
+				<ul id="menu-2-f2977bc" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-4346"><a href="https://mendi.co.il/" class="elementor-item" tabindex="-1">דף הבית</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4835"><a href="https://mendi.co.il/%d7%90%d7%95%d7%93%d7%95%d7%aa%d7%a0%d7%95/" class="elementor-item" tabindex="-1">אודותינו</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5196"><a href="https://mendi.co.il/category/%d7%a9%d7%a2%d7%a8%d7%99%d7%9d-%d7%97%d7%a9%d7%9e%d7%9c%d7%99%d7%99%d7%9d/" class="elementor-item" tabindex="-1">שערים חשמליים</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5197"><a href="https://mendi.co.il/category/%d7%a9%d7%a2%d7%a8-%d7%97%d7%a9%d7%9e%d7%9c%d7%99-%d7%9c%d7%91%d7%99%d7%aa/" class="elementor-item" tabindex="-1">שער חשמלי לבית</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5198"><a href="https://mendi.co.il/category/%d7%a9%d7%a2%d7%a8-%d7%97%d7%a9%d7%9e%d7%9c%d7%99-%d7%9c%d7%97%d7%a0%d7%99%d7%94/" class="elementor-item" tabindex="-1">שער חשמלי לחניה</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5195"><a href="https://mendi.co.il/category/%d7%91%d7%9c%d7%95%d7%92/" class="elementor-item" tabindex="-1">בלוג</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3189"><a href="https://mendi.co.il/%d7%a6%d7%95%d7%a8-%d7%a7%d7%a9%d7%a8-3/" class="elementor-item" tabindex="-1">צרו קשר</a></li>
+</ul>			</nav>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-272ed09 elementor-align-left elementor-widget__width-initial elementor-widget elementor-widget-global elementor-global-5292 elementor-widget-button" data-id="272ed09" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="#" class="elementor-button-link elementor-button elementor-size-md elementor-animation-shrink" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">חייגו אלינו</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+							</div>
+				</header>
+				<div data-elementor-type="error-404" data-elementor-id="3792" class="elementor elementor-3792 elementor-location-single">
+					<div class="elementor-section-wrap">
+								<section class="elementor-section elementor-top-section elementor-element elementor-element-f39f1cf elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="f39f1cf" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-a84e15b" data-id="a84e15b" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-c9cfb12 elementor-widget elementor-widget-heading" data-id="c9cfb12" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h1 class="elementor-heading-title elementor-size-default">404</h1>		</div>
+				</div>
+				<div class="elementor-element elementor-element-869f15b elementor-widget elementor-widget-heading" data-id="869f15b" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-heading-title elementor-size-default">הגעת לעמוד שאינו קיים!
+</div>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-c194747 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="c194747" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-49b0fd7" data-id="49b0fd7" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-de53406 elementor-widget elementor-widget-heading" data-id="de53406" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">ובכל זאת, הנה כמה עמודים שעשויים לעניין אותך
+</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-b61c4c7 elementor-grid-3 elementor-grid-tablet-2 elementor-grid-mobile-1 elementor-posts--thumbnail-top elementor-card-shadow-yes elementor-posts__hover-gradient elementor-widget elementor-widget-posts" data-id="b61c4c7" data-element_type="widget" data-settings="{&quot;cards_columns&quot;:&quot;3&quot;,&quot;cards_columns_tablet&quot;:&quot;2&quot;,&quot;cards_columns_mobile&quot;:&quot;1&quot;,&quot;cards_row_gap&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:35,&quot;sizes&quot;:[]},&quot;cards_row_gap_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;cards_row_gap_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="posts.cards">
+				<div class="elementor-widget-container">
+					<div class="elementor-posts-container elementor-posts elementor-posts--skin-cards elementor-grid">
+				<article class="elementor-post elementor-grid-item post-5214 post type-post status-publish format-standard has-post-thumbnail hentry category-240 category-272 category-273 category-271">
+			<div class="elementor-post__card">
+				<a class="elementor-post__thumbnail__link" href="https://mendi.co.il/5-%d7%98%d7%99%d7%a4%d7%99%d7%9d-%d7%9c%d7%aa%d7%97%d7%96%d7%95%d7%a7%d7%94-%d7%a0%d7%9b%d7%95%d7%a0%d7%94-%d7%a9%d7%9c-%d7%a9%d7%a2%d7%a8-%d7%97%d7%a9%d7%9e%d7%9c%d7%99/" ><div class="elementor-post__thumbnail"><img width="768" height="512" src="https://mendi.co.il/wp-content/uploads/2022/08/garage-door-car-parking-automatic-entrance-gate-underground-car-parking-with-traffic-light-768x512.webp" class="attachment-medium_large size-medium_large" alt="שער חשמלי" loading="lazy" srcset="https://mendi.co.il/wp-content/uploads/2022/08/garage-door-car-parking-automatic-entrance-gate-underground-car-parking-with-traffic-light-768x512.webp 768w, https://mendi.co.il/wp-content/uploads/2022/08/garage-door-car-parking-automatic-entrance-gate-underground-car-parking-with-traffic-light-300x200.webp 300w, https://mendi.co.il/wp-content/uploads/2022/08/garage-door-car-parking-automatic-entrance-gate-underground-car-parking-with-traffic-light-1024x683.webp 1024w, https://mendi.co.il/wp-content/uploads/2022/08/garage-door-car-parking-automatic-entrance-gate-underground-car-parking-with-traffic-light-1536x1024.webp 1536w, https://mendi.co.il/wp-content/uploads/2022/08/garage-door-car-parking-automatic-entrance-gate-underground-car-parking-with-traffic-light.webp 1920w" sizes="(max-width: 768px) 100vw, 768px" /></div></a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://mendi.co.il/5-%d7%98%d7%99%d7%a4%d7%99%d7%9d-%d7%9c%d7%aa%d7%97%d7%96%d7%95%d7%a7%d7%94-%d7%a0%d7%9b%d7%95%d7%a0%d7%94-%d7%a9%d7%9c-%d7%a9%d7%a2%d7%a8-%d7%97%d7%a9%d7%9e%d7%9c%d7%99/" >
+				5 טיפים לתחזוקה נכונה של שער חשמלי			</a>
+		</h3>
+				<div class="elementor-post__excerpt">
+			<p>התחדשתם בשער חשמלי? אסור לכם לשכוח את התחזוקה השוטפת שלו. 5 טיפים לתחזוקה נכונה של שער חשמלי</p>
+		</div>
+					<div class="elementor-post__read-more-wrapper">
+		
+		<a class="elementor-post__read-more" href="https://mendi.co.il/5-%d7%98%d7%99%d7%a4%d7%99%d7%9d-%d7%9c%d7%aa%d7%97%d7%96%d7%95%d7%a7%d7%94-%d7%a0%d7%9b%d7%95%d7%a0%d7%94-%d7%a9%d7%9c-%d7%a9%d7%a2%d7%a8-%d7%97%d7%a9%d7%9e%d7%9c%d7%99/" >
+			לקריאת המאמר »		</a>
+
+					</div>
+				</div>
+					</div>
+		</article>
+				<article class="elementor-post elementor-grid-item post-5211 post type-post status-publish format-standard has-post-thumbnail hentry category-240 category-272 category-273 category-271">
+			<div class="elementor-post__card">
+				<a class="elementor-post__thumbnail__link" href="https://mendi.co.il/%d7%90%d7%99%d7%9a-%d7%91%d7%95%d7%97%d7%a8%d7%99%d7%9d-%d7%98%d7%9b%d7%a0%d7%90%d7%99-%d7%a9%d7%a2%d7%a8%d7%99%d7%9d-%d7%97%d7%a9%d7%9e%d7%9c%d7%99%d7%99%d7%9d/" ><div class="elementor-post__thumbnail"><img width="768" height="538" src="https://mendi.co.il/wp-content/uploads/2022/08/technician-man-installing-checking-function-automatic-gate-768x538.webp" class="attachment-medium_large size-medium_large" alt="טכנאי שערים חשמליים" loading="lazy" srcset="https://mendi.co.il/wp-content/uploads/2022/08/technician-man-installing-checking-function-automatic-gate-768x538.webp 768w, https://mendi.co.il/wp-content/uploads/2022/08/technician-man-installing-checking-function-automatic-gate-300x210.webp 300w, https://mendi.co.il/wp-content/uploads/2022/08/technician-man-installing-checking-function-automatic-gate-1024x717.webp 1024w, https://mendi.co.il/wp-content/uploads/2022/08/technician-man-installing-checking-function-automatic-gate-1536x1075.webp 1536w, https://mendi.co.il/wp-content/uploads/2022/08/technician-man-installing-checking-function-automatic-gate.webp 1920w" sizes="(max-width: 768px) 100vw, 768px" /></div></a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://mendi.co.il/%d7%90%d7%99%d7%9a-%d7%91%d7%95%d7%97%d7%a8%d7%99%d7%9d-%d7%98%d7%9b%d7%a0%d7%90%d7%99-%d7%a9%d7%a2%d7%a8%d7%99%d7%9d-%d7%97%d7%a9%d7%9e%d7%9c%d7%99%d7%99%d7%9d/" >
+				איך בוחרים טכנאי שערים חשמליים?			</a>
+		</h3>
+				<div class="elementor-post__excerpt">
+			<p>במאמר הבא ריכזנו עבורכם מספר פרמטרים שחשוב להתייחס אליהם כשבוחרים טכנאי שערים חשמליים, כדי לוודא שאתם בוחרים בטכנאי איכותי ומקצועי.</p>
+		</div>
+					<div class="elementor-post__read-more-wrapper">
+		
+		<a class="elementor-post__read-more" href="https://mendi.co.il/%d7%90%d7%99%d7%9a-%d7%91%d7%95%d7%97%d7%a8%d7%99%d7%9d-%d7%98%d7%9b%d7%a0%d7%90%d7%99-%d7%a9%d7%a2%d7%a8%d7%99%d7%9d-%d7%97%d7%a9%d7%9e%d7%9c%d7%99%d7%99%d7%9d/" >
+			לקריאת המאמר »		</a>
+
+					</div>
+				</div>
+					</div>
+		</article>
+				<article class="elementor-post elementor-grid-item post-5208 post type-post status-publish format-standard has-post-thumbnail hentry category-240 category-272 category-273 category-271">
+			<div class="elementor-post__card">
+				<a class="elementor-post__thumbnail__link" href="https://mendi.co.il/%d7%a9%d7%a2%d7%a8-%d7%97%d7%a9%d7%9e%d7%9c%d7%99-%d7%9c%d7%97%d7%a0%d7%99%d7%94-%d7%90%d7%99%d7%9a-%d7%91%d7%95%d7%97%d7%a8%d7%99%d7%9d/" ><div class="elementor-post__thumbnail"><img width="768" height="467" src="https://mendi.co.il/wp-content/uploads/2022/08/front-view-old-white-roller-shutter-door-with-car-inside-parking-garage-768x467.webp" class="attachment-medium_large size-medium_large" alt="שער חשמלי לחניה" loading="lazy" srcset="https://mendi.co.il/wp-content/uploads/2022/08/front-view-old-white-roller-shutter-door-with-car-inside-parking-garage-768x467.webp 768w, https://mendi.co.il/wp-content/uploads/2022/08/front-view-old-white-roller-shutter-door-with-car-inside-parking-garage-300x183.webp 300w, https://mendi.co.il/wp-content/uploads/2022/08/front-view-old-white-roller-shutter-door-with-car-inside-parking-garage-1024x623.webp 1024w, https://mendi.co.il/wp-content/uploads/2022/08/front-view-old-white-roller-shutter-door-with-car-inside-parking-garage-1536x934.webp 1536w, https://mendi.co.il/wp-content/uploads/2022/08/front-view-old-white-roller-shutter-door-with-car-inside-parking-garage.webp 1920w" sizes="(max-width: 768px) 100vw, 768px" /></div></a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://mendi.co.il/%d7%a9%d7%a2%d7%a8-%d7%97%d7%a9%d7%9e%d7%9c%d7%99-%d7%9c%d7%97%d7%a0%d7%99%d7%94-%d7%90%d7%99%d7%9a-%d7%91%d7%95%d7%97%d7%a8%d7%99%d7%9d/" >
+				שער חשמלי לחניה- איך בוחרים?			</a>
+		</h3>
+				<div class="elementor-post__excerpt">
+			<p>כשבוחרים שער חשמלי לחניה יש מספר פרמטרים שצריך לקחת בחשבון, בכתבה זו תמצאו כל מה שצריך לדעת על בחירה, התקנה</p>
+		</div>
+					<div class="elementor-post__read-more-wrapper">
+		
+		<a class="elementor-post__read-more" href="https://mendi.co.il/%d7%a9%d7%a2%d7%a8-%d7%97%d7%a9%d7%9e%d7%9c%d7%99-%d7%9c%d7%97%d7%a0%d7%99%d7%94-%d7%90%d7%99%d7%9a-%d7%91%d7%95%d7%97%d7%a8%d7%99%d7%9d/" >
+			לקריאת המאמר »		</a>
+
+					</div>
+				</div>
+					</div>
+		</article>
+				<article class="elementor-post elementor-grid-item post-5205 post type-post status-publish format-standard has-post-thumbnail hentry category-240 category-272 category-273 category-271">
+			<div class="elementor-post__card">
+				<a class="elementor-post__thumbnail__link" href="https://mendi.co.il/%d7%a9%d7%a2%d7%a8-%d7%97%d7%a9%d7%9e%d7%9c%d7%99-%d7%9c%d7%91%d7%99%d7%aa-%d7%9b%d7%9c-%d7%9e%d7%94-%d7%a9%d7%a6%d7%a8%d7%99%d7%9a-%d7%9c%d7%93%d7%a2%d7%aa/" ><div class="elementor-post__thumbnail"><img width="768" height="512" src="https://mendi.co.il/wp-content/uploads/2022/08/slide-grey-house-steel-sliding-door-aluminum-gate-modern-home-entrance-768x512.webp" class="attachment-medium_large size-medium_large" alt="שער חשמלי לבית" loading="lazy" srcset="https://mendi.co.il/wp-content/uploads/2022/08/slide-grey-house-steel-sliding-door-aluminum-gate-modern-home-entrance-768x512.webp 768w, https://mendi.co.il/wp-content/uploads/2022/08/slide-grey-house-steel-sliding-door-aluminum-gate-modern-home-entrance-300x200.webp 300w, https://mendi.co.il/wp-content/uploads/2022/08/slide-grey-house-steel-sliding-door-aluminum-gate-modern-home-entrance-1024x683.webp 1024w, https://mendi.co.il/wp-content/uploads/2022/08/slide-grey-house-steel-sliding-door-aluminum-gate-modern-home-entrance-1536x1025.webp 1536w, https://mendi.co.il/wp-content/uploads/2022/08/slide-grey-house-steel-sliding-door-aluminum-gate-modern-home-entrance.webp 1920w" sizes="(max-width: 768px) 100vw, 768px" /></div></a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://mendi.co.il/%d7%a9%d7%a2%d7%a8-%d7%97%d7%a9%d7%9e%d7%9c%d7%99-%d7%9c%d7%91%d7%99%d7%aa-%d7%9b%d7%9c-%d7%9e%d7%94-%d7%a9%d7%a6%d7%a8%d7%99%d7%9a-%d7%9c%d7%93%d7%a2%d7%aa/" >
+				שער חשמלי לבית- כל מה שצריך לדעת			</a>
+		</h3>
+				<div class="elementor-post__excerpt">
+			<p>כשבוחרים שער חשמלי לבית יש מספר פרמטרים שצריך לקחת בחשבון, בכתבה זו תמצאו כל מה שצריך לדעת על בחירה, התקנה</p>
+		</div>
+					<div class="elementor-post__read-more-wrapper">
+		
+		<a class="elementor-post__read-more" href="https://mendi.co.il/%d7%a9%d7%a2%d7%a8-%d7%97%d7%a9%d7%9e%d7%9c%d7%99-%d7%9c%d7%91%d7%99%d7%aa-%d7%9b%d7%9c-%d7%9e%d7%94-%d7%a9%d7%a6%d7%a8%d7%99%d7%9a-%d7%9c%d7%93%d7%a2%d7%aa/" >
+			לקריאת המאמר »		</a>
+
+					</div>
+				</div>
+					</div>
+		</article>
+				<article class="elementor-post elementor-grid-item post-5202 post type-post status-publish format-standard has-post-thumbnail hentry category-240 category-272 category-273 category-271">
+			<div class="elementor-post__card">
+				<a class="elementor-post__thumbnail__link" href="https://mendi.co.il/5-%d7%98%d7%99%d7%a4%d7%99%d7%9d-%d7%9c%d7%91%d7%97%d7%99%d7%a8%d7%aa-%d7%a9%d7%a2%d7%a8%d7%99%d7%9d-%d7%97%d7%a9%d7%9e%d7%9c%d7%99%d7%99%d7%9d/" ><div class="elementor-post__thumbnail"><img width="768" height="512" src="https://mendi.co.il/wp-content/uploads/2022/08/garage-gate-garage-door-opening-underground-car-parking-modern-automatic-garage-gate-door-768x512.webp" class="attachment-medium_large size-medium_large" alt="שערים חשמליים" loading="lazy" srcset="https://mendi.co.il/wp-content/uploads/2022/08/garage-gate-garage-door-opening-underground-car-parking-modern-automatic-garage-gate-door-768x512.webp 768w, https://mendi.co.il/wp-content/uploads/2022/08/garage-gate-garage-door-opening-underground-car-parking-modern-automatic-garage-gate-door-300x200.webp 300w, https://mendi.co.il/wp-content/uploads/2022/08/garage-gate-garage-door-opening-underground-car-parking-modern-automatic-garage-gate-door-1024x683.webp 1024w, https://mendi.co.il/wp-content/uploads/2022/08/garage-gate-garage-door-opening-underground-car-parking-modern-automatic-garage-gate-door-1536x1024.webp 1536w, https://mendi.co.il/wp-content/uploads/2022/08/garage-gate-garage-door-opening-underground-car-parking-modern-automatic-garage-gate-door.webp 1920w" sizes="(max-width: 768px) 100vw, 768px" /></div></a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://mendi.co.il/5-%d7%98%d7%99%d7%a4%d7%99%d7%9d-%d7%9c%d7%91%d7%97%d7%99%d7%a8%d7%aa-%d7%a9%d7%a2%d7%a8%d7%99%d7%9d-%d7%97%d7%a9%d7%9e%d7%9c%d7%99%d7%99%d7%9d/" >
+				5 טיפים לבחירת שערים חשמליים			</a>
+		</h3>
+				<div class="elementor-post__excerpt">
+			<p>בשוק כיום קיים מגוון רחב של שערים חשמלייים עם נתונים שונים ומגוונים מבחינת תפעול וסגנון. בחירת השער המתאים ביותר זה</p>
+		</div>
+					<div class="elementor-post__read-more-wrapper">
+		
+		<a class="elementor-post__read-more" href="https://mendi.co.il/5-%d7%98%d7%99%d7%a4%d7%99%d7%9d-%d7%9c%d7%91%d7%97%d7%99%d7%a8%d7%aa-%d7%a9%d7%a2%d7%a8%d7%99%d7%9d-%d7%97%d7%a9%d7%9e%d7%9c%d7%99%d7%99%d7%9d/" >
+			לקריאת המאמר »		</a>
+
+					</div>
+				</div>
+					</div>
+		</article>
+				<article class="elementor-post elementor-grid-item post-5199 post type-post status-publish format-standard has-post-thumbnail hentry category-240 category-272 category-273 category-271">
+			<div class="elementor-post__card">
+				<a class="elementor-post__thumbnail__link" href="https://mendi.co.il/%d7%a1%d7%95%d7%92%d7%99-%d7%a9%d7%a2%d7%a8%d7%99%d7%9d-%d7%97%d7%a9%d7%9e%d7%9c%d7%99%d7%99%d7%9d/" ><div class="elementor-post__thumbnail"><img width="768" height="430" src="https://mendi.co.il/wp-content/uploads/2022/08/aluminum-high-sliding-steel-modern-gate-slide-portal-suburb-house-door-768x430.webp" class="attachment-medium_large size-medium_large" alt="שערים חשמליים" loading="lazy" srcset="https://mendi.co.il/wp-content/uploads/2022/08/aluminum-high-sliding-steel-modern-gate-slide-portal-suburb-house-door-768x430.webp 768w, https://mendi.co.il/wp-content/uploads/2022/08/aluminum-high-sliding-steel-modern-gate-slide-portal-suburb-house-door-300x168.webp 300w, https://mendi.co.il/wp-content/uploads/2022/08/aluminum-high-sliding-steel-modern-gate-slide-portal-suburb-house-door-1024x574.webp 1024w, https://mendi.co.il/wp-content/uploads/2022/08/aluminum-high-sliding-steel-modern-gate-slide-portal-suburb-house-door-1536x861.webp 1536w, https://mendi.co.il/wp-content/uploads/2022/08/aluminum-high-sliding-steel-modern-gate-slide-portal-suburb-house-door.webp 1920w" sizes="(max-width: 768px) 100vw, 768px" /></div></a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://mendi.co.il/%d7%a1%d7%95%d7%92%d7%99-%d7%a9%d7%a2%d7%a8%d7%99%d7%9d-%d7%97%d7%a9%d7%9e%d7%9c%d7%99%d7%99%d7%9d/" >
+				סוגי שערים חשמליים			</a>
+		</h3>
+				<div class="elementor-post__excerpt">
+			<p>שערים חשמליים הם אמצעי הגנה וביטחון בפני חדירה של רכבים ו\או אנשים לא רצויים למרחב פרטי או ציבורי, יש מספר</p>
+		</div>
+					<div class="elementor-post__read-more-wrapper">
+		
+		<a class="elementor-post__read-more" href="https://mendi.co.il/%d7%a1%d7%95%d7%92%d7%99-%d7%a9%d7%a2%d7%a8%d7%99%d7%9d-%d7%97%d7%a9%d7%9e%d7%9c%d7%99%d7%99%d7%9d/" >
+			לקריאת המאמר »		</a>
+
+					</div>
+				</div>
+					</div>
+		</article>
+				</div>
+
+
+		
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+							</div>
+				</div>
+				<div data-elementor-type="footer" data-elementor-id="4718" class="elementor elementor-4718 elementor-location-footer">
+					<div class="elementor-section-wrap">
+								<footer class="elementor-section elementor-top-section elementor-element elementor-element-60f6ecb2 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="60f6ecb2" data-element_type="section">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-70f441f" data-id="70f441f" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-40d2709 elementor-widget elementor-widget-theme-site-title elementor-widget-heading" data-id="40d2709" data-element_type="widget" data-widget_type="theme-site-title.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default"><a href="https://mendi.co.il">שערים חשמליים</a></h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-2cbe886 elementor-widget elementor-widget-text-editor" data-id="2cbe886" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p>ברוכים הבאים לאתר שלנו! צריכים שער חשמלי או תיקון לשער קיים? שערים חשמליים עם החברה המובילה בארץ​. אנחנו מציעים שירות מקצועי ואמין, ברמה אחרת, עם ותק ונסיון בתחום.</p>					</div>
+						</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-f1c848a" data-id="f1c848a" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-3dd8808 elementor-widget elementor-widget-heading" data-id="3dd8808" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h4 class="elementor-heading-title elementor-size-default">מאמרים אחרונים</h4>		</div>
+				</div>
+				<div class="elementor-element elementor-element-49d5910 elementor-grid-1 elementor-grid-tablet-1 elementor-posts--thumbnail-right elementor-grid-mobile-1 elementor-widget elementor-widget-posts" data-id="49d5910" data-element_type="widget" data-settings="{&quot;classic_columns&quot;:&quot;1&quot;,&quot;classic_columns_tablet&quot;:&quot;1&quot;,&quot;classic_row_gap&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:24,&quot;sizes&quot;:[]},&quot;classic_columns_mobile&quot;:&quot;1&quot;,&quot;classic_row_gap_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;classic_row_gap_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="posts.classic">
+				<div class="elementor-widget-container">
+					<div class="elementor-posts-container elementor-posts elementor-posts--skin-classic elementor-grid">
+				<article class="elementor-post elementor-grid-item post-5214 post type-post status-publish format-standard has-post-thumbnail hentry category-240 category-272 category-273 category-271">
+				<a class="elementor-post__thumbnail__link" href="https://mendi.co.il/5-%d7%98%d7%99%d7%a4%d7%99%d7%9d-%d7%9c%d7%aa%d7%97%d7%96%d7%95%d7%a7%d7%94-%d7%a0%d7%9b%d7%95%d7%a0%d7%94-%d7%a9%d7%9c-%d7%a9%d7%a2%d7%a8-%d7%97%d7%a9%d7%9e%d7%9c%d7%99/" >
+			<div class="elementor-post__thumbnail"><img width="150" height="150" src="https://mendi.co.il/wp-content/uploads/2022/08/garage-door-car-parking-automatic-entrance-gate-underground-car-parking-with-traffic-light-150x150.webp" class="attachment-thumbnail size-thumbnail" alt="שער חשמלי" loading="lazy" /></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://mendi.co.il/5-%d7%98%d7%99%d7%a4%d7%99%d7%9d-%d7%9c%d7%aa%d7%97%d7%96%d7%95%d7%a7%d7%94-%d7%a0%d7%9b%d7%95%d7%a0%d7%94-%d7%a9%d7%9c-%d7%a9%d7%a2%d7%a8-%d7%97%d7%a9%d7%9e%d7%9c%d7%99/" >
+				5 טיפים לתחזוקה נכונה של שער חשמלי			</a>
+		</h3>
+				</div>
+				</article>
+				<article class="elementor-post elementor-grid-item post-5211 post type-post status-publish format-standard has-post-thumbnail hentry category-240 category-272 category-273 category-271">
+				<a class="elementor-post__thumbnail__link" href="https://mendi.co.il/%d7%90%d7%99%d7%9a-%d7%91%d7%95%d7%97%d7%a8%d7%99%d7%9d-%d7%98%d7%9b%d7%a0%d7%90%d7%99-%d7%a9%d7%a2%d7%a8%d7%99%d7%9d-%d7%97%d7%a9%d7%9e%d7%9c%d7%99%d7%99%d7%9d/" >
+			<div class="elementor-post__thumbnail"><img width="150" height="150" src="https://mendi.co.il/wp-content/uploads/2022/08/technician-man-installing-checking-function-automatic-gate-150x150.webp" class="attachment-thumbnail size-thumbnail" alt="טכנאי שערים חשמליים" loading="lazy" /></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://mendi.co.il/%d7%90%d7%99%d7%9a-%d7%91%d7%95%d7%97%d7%a8%d7%99%d7%9d-%d7%98%d7%9b%d7%a0%d7%90%d7%99-%d7%a9%d7%a2%d7%a8%d7%99%d7%9d-%d7%97%d7%a9%d7%9e%d7%9c%d7%99%d7%99%d7%9d/" >
+				איך בוחרים טכנאי שערים חשמליים?			</a>
+		</h3>
+				</div>
+				</article>
+				<article class="elementor-post elementor-grid-item post-5208 post type-post status-publish format-standard has-post-thumbnail hentry category-240 category-272 category-273 category-271">
+				<a class="elementor-post__thumbnail__link" href="https://mendi.co.il/%d7%a9%d7%a2%d7%a8-%d7%97%d7%a9%d7%9e%d7%9c%d7%99-%d7%9c%d7%97%d7%a0%d7%99%d7%94-%d7%90%d7%99%d7%9a-%d7%91%d7%95%d7%97%d7%a8%d7%99%d7%9d/" >
+			<div class="elementor-post__thumbnail"><img width="150" height="150" src="https://mendi.co.il/wp-content/uploads/2022/08/front-view-old-white-roller-shutter-door-with-car-inside-parking-garage-150x150.webp" class="attachment-thumbnail size-thumbnail" alt="שער חשמלי לחניה" loading="lazy" /></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://mendi.co.il/%d7%a9%d7%a2%d7%a8-%d7%97%d7%a9%d7%9e%d7%9c%d7%99-%d7%9c%d7%97%d7%a0%d7%99%d7%94-%d7%90%d7%99%d7%9a-%d7%91%d7%95%d7%97%d7%a8%d7%99%d7%9d/" >
+				שער חשמלי לחניה- איך בוחרים?			</a>
+		</h3>
+				</div>
+				</article>
+				</div>
+
+
+		
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-1027ba7" data-id="1027ba7" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-1b302ad elementor-widget elementor-widget-heading" data-id="1b302ad" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h4 class="elementor-heading-title elementor-size-default">צרו איתנו קשר</h4>		</div>
+				</div>
+				<div class="elementor-element elementor-element-b1444d7 elementor-widget elementor-widget-text-editor" data-id="b1444d7" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p>השאירו פרטים ונחזור אליכם בהקדם</p>					</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-65a963b elementor-button-align-stretch elementor-widget elementor-widget-global elementor-global-5219 elementor-widget-form" data-id="65a963b" data-element_type="widget" data-settings="{&quot;step_next_label&quot;:&quot;\u05d4\u05d1\u05d0&quot;,&quot;step_previous_label&quot;:&quot;\u05d4\u05e7\u05d5\u05d3\u05dd&quot;,&quot;button_width&quot;:&quot;100&quot;,&quot;step_type&quot;:&quot;number_text&quot;,&quot;step_icon_shape&quot;:&quot;circle&quot;}" data-widget_type="form.default">
+				<div class="elementor-widget-container">
+					<form class="elementor-form" method="post" name="טופס חדש">
+			<input type="hidden" name="post_id" value="4718"/>
+			<input type="hidden" name="form_id" value="65a963b"/>
+			<input type="hidden" name="referer_title" value="Page not found | שערים חשמליים" />
+
+			
+			<div class="elementor-form-fields-wrapper elementor-labels-">
+								<div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-name elementor-col-100 elementor-field-required">
+												<label for="form-field-name" class="elementor-field-label elementor-screen-only">
+								שם							</label>
+														<input size="1" type="text" name="form_fields[name]" id="form-field-name" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="שם" required="required" aria-required="true">
+											</div>
+								<div class="elementor-field-type-tel elementor-field-group elementor-column elementor-field-group-email elementor-col-100 elementor-field-required">
+												<label for="form-field-email" class="elementor-field-label elementor-screen-only">
+								טלפון							</label>
+								<input size="1" type="tel" name="form_fields[email]" id="form-field-email" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="טלפון" required="required" aria-required="true" pattern="[0-9()#&amp;+*-=.]+" title="מותר להשתמש רק במספרים ותווי טלפון (#, -, *, וכו&#039;).">
+
+						</div>
+								<div class="elementor-field-group elementor-column elementor-field-type-submit elementor-col-100 e-form__buttons">
+					<button type="submit" class="elementor-button elementor-size-sm elementor-animation-shrink">
+						<span >
+															<span class=" elementor-button-icon">
+																										</span>
+																						<span class="elementor-button-text">שליחה</span>
+													</span>
+					</button>
+				</div>
+			</div>
+		</form>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-a316e44 elementor-align-justify elementor-widget__width-inherit elementor-widget elementor-widget-global elementor-global-5288 elementor-widget-button" data-id="a316e44" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="#" class="elementor-button-link elementor-button elementor-size-md elementor-animation-shrink" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">או חייגו אלינו</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</footer>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-4dd8399 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4dd8399" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-11361cd7" data-id="11361cd7" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-5553b521 elementor-widget elementor-widget-spacer" data-id="5553b521" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+							</div>
+				</div>
+		
+<button type="button" id="sitelinx-toggle-toolbar" class="normal toolbar-right" style="top: 200px;right: 1px;background-color: #0a76be!important;border-radius: 50% !important;"><img src="http://mendi.co.il/wp-content/plugins/accessibility-light/assets/img/wheelchair.png" alt="סמל נגישות" style="background-color: #0a76be;border-radius: 50% !important;"></button><div id="sitelinx-black-screen"></div>		<!-- Commenting this line to fix the css error by Ashish -->
+	    <!-- <style>#sitelinx-toggle-toolbar{top:px;}</style> -->
+	     <!-- This for bottom left and right position -->
+	    	    <!-- End of bottom right and left positions -->
+
+	    <div id="sitelinx-toolbar" class="sitelinx-toolbar sitelinx-toolbar-skin-1 toolbar-right" aria-hidden="true">
+	    	<button id="sitelinx-close-toolbar">
+	    		<span class="sr-only">סגור את סרגל הכלים של נגישות</span>
+	    		<span class="sitelinx-close-icon" aria-hidden="true"></span>
+	    	</button>
+            <div class="sitelinx-toolbar-heading">
+				<h2 class="toolbar-heading-text">Accessibility Bar</h2>
+            </div>
+	    	<ul class="sitelinx-main-nav" style="padding-left: 30px" >
+		    	<li><ul class="ul-sub"><li><p id="sitelinx_disable_animation" tabindex="-1" aria-label="sitelinx-label-general"><i class="material-icons" aria-hidden="true">visibility_off</i><span>השבת את ההבזקים</span></p></li><li><p id="sitelinx_headings_mark" tabindex="-1" aria-label="sitelinx-label-general"><i class="material-icons" aria-hidden="true">title</i><span>סמן כותרות</span></p></li><li><p id="sitelinx_background_color" tabindex="-1" aria-label="sitelinx-label-general"><i class="material-icons" aria-hidden="true">settings</i><span>צבע רקע</span></p><p class="sitelinx_background_color" style="display: none;"><input class="jscolor" value='66ccff'></p></li></ul></li><li class="sitelinx-li-zoom"><ul class="ul-sub"><li><p id="sitelinx_screen_down" tabindex="-1" aria-label="sitelinx-label-resolution"><i class="material-icons" aria-hidden="true">zoom_out</i><span>זום (הקטנה)</span></p></li><li><p id="sitelinx_screen_up" tabindex="-1" aria-label="sitelinx-label-resolution"><i class="material-icons" aria-hidden="true">zoom_in</i><span>זום (הגדלה)</span></p></li></ul></li><li class="sitelinx-li-fonts"><ul class="ul-sub"><li><p id="sitelinx_fontsize_down" tabindex="-1" aria-label="sitelinx-label-fonts"><i class="material-icons" aria-hidden="true">remove_circle_outline</i><span>הקטנת גופן</span></p></li><li><p id="sitelinx_fontsize_up" tabindex="-1" aria-label="sitelinx-label-fonts"><i class="material-icons" aria-hidden="true">add_circle_outline</i><span>הגדלת גופן</span></p></li></ul><ul class="ul-sub"><li><p id="sitelinx_readable_font" tabindex="-1" aria-label="sitelinx-label-fonts"><i class="material-icons" aria-hidden="true">spellcheck</i><span>גופן קריא</span></p></li></ul></li><li class="sitelinx-li-contrast"><ul class="ul-sub"><li><p id="sitelinx_contrast_bright" tabindex="-1" aria-label="sitelinx-label-contrast"><i class="material-icons" aria-hidden="true">brightness_high</i><span>ניגודיות בהירה</span></p></li><li><p id="sitelinx_contrast_dark" tabindex="-1" aria-label="sitelinx-label-contrast"><i class="material-icons" aria-hidden="true">brightness_low</i><span>ניגודיות כהה</span></p></li></ul></li><li><ul class="ul-sub ul-2-items"><li><p id="sitelinx_links_underline" tabindex="-1" aria-label="sitelinx-label-links"><i class="material-icons" aria-hidden="true">format_underlined</i><span>הוסף קו תחתון לקישורים</span></p></li><li><p id="sitelinx_links_mark" tabindex="-1" aria-label="sitelinx-label-links"><i class="material-icons" aria-hidden="true">font_download</i><span>סמן קישורים</span></p></li></ul></li><li class="sitelinx-li-reset"><ul class="ul-sub ul-general"><li><p id="sitelinx-reset" tabindex="-1" title="לאפס את כל האפשרויות"><span class="sr-only">לאפס את כל האפשרויות</span><i class="material-icons" aria-hidden="true">cached</i></p></li><li class="sitelinx-logolight"><a href="https://sitelinx.co.il" rel="noreferrer noopener" target="_blank"><img class="hover-off" src="http://mendi.co.il/wp-content/plugins/accessibility-light/assets/img/accessibility-light-logolight80.png" alt="נגישות לייט" height="21" width="80"></a></li></ul></li>	    	</ul>
+	    </div>
+		<!-- Click to Chat - https://holithemes.com/plugins/click-to-chat/  v3.15 -->  
+            <div class="ht-ctc ht-ctc-chat ctc-analytics ctc_wp_desktop style-3_1  " id="ht-ctc-chat"  
+                style="display: none;  position: fixed; bottom: 15px; left: 15px;"   >
+                                <div class="ht_ctc_style ht_ctc_chat_style">
+                <style id="ht-ctc-s3">
+.ht-ctc .ctc_s_3_1:hover svg stop{stop-color:#25D366;}.ht-ctc .ctc_s_3_1:hover .ht_ctc_padding,.ht-ctc .ctc_s_3_1:hover .ctc_cta_stick{background-color:#25D366 !important;box-shadow:0px 0px 11px rgba(0,0,0,.5);}
+</style>
+
+<div  style="display:flex;justify-content:center;align-items:center;flex-direction:row-reverse; " class="ctc_s_3_1">
+    <p class="ctc-analytics ctc_cta ctc_cta_stick ht-ctc-cta  ht-ctc-cta-hover " style="padding: 0px 16px; line-height: 1.6; font-size: 15px; background-color: #25d366; color: #ffffff; border-radius:10px; margin:0 10px;  display: none; order: 1; ">אנחנו זמינים גם בוואטסאפ</p>
+    <div class="ctc-analytics ht_ctc_padding" style="background-color: #25D366; padding: 14px; border-radius: 50%; box-shadow: 0px 0px 11px rgba(0,0,0,.5);">
+        <svg style="pointer-events:none; display:block; height:40px; width:40px;" width="40px" height="40px" viewBox="0 0 1219.547 1225.016">
+        <path fill="#E0E0E0" d="M1041.858 178.02C927.206 63.289 774.753.07 612.325 0 277.617 0 5.232 272.298 5.098 606.991c-.039 106.986 27.915 211.42 81.048 303.476L0 1225.016l321.898-84.406c88.689 48.368 188.547 73.855 290.166 73.896h.258.003c334.654 0 607.08-272.346 607.222-607.023.056-162.208-63.052-314.724-177.689-429.463zm-429.533 933.963h-.197c-90.578-.048-179.402-24.366-256.878-70.339l-18.438-10.93-191.021 50.083 51-186.176-12.013-19.087c-50.525-80.336-77.198-173.175-77.16-268.504.111-278.186 226.507-504.503 504.898-504.503 134.812.056 261.519 52.604 356.814 147.965 95.289 95.36 147.728 222.128 147.688 356.948-.118 278.195-226.522 504.543-504.693 504.543z"/>
+        <linearGradient id="htwaicona-chat" gradientUnits="userSpaceOnUse" x1="609.77" y1="1190.114" x2="609.77" y2="21.084">
+            <stop id="s3_1_offset_1" offset="0" stop-color="#25D366"/>
+            <stop id="s3_1_offset_2" offset="1" stop-color="#25D366"/>
+        </linearGradient>
+        <path fill="url(#htwaicona-chat)" d="M27.875 1190.114l82.211-300.18c-50.719-87.852-77.391-187.523-77.359-289.602.133-319.398 260.078-579.25 579.469-579.25 155.016.07 300.508 60.398 409.898 169.891 109.414 109.492 169.633 255.031 169.57 409.812-.133 319.406-260.094 579.281-579.445 579.281-.023 0 .016 0 0 0h-.258c-96.977-.031-192.266-24.375-276.898-70.5l-307.188 80.548z"/>
+        <image overflow="visible" opacity=".08" width="682" height="639" transform="translate(270.984 291.372)"/>
+        <path fill-rule="evenodd" clip-rule="evenodd" fill="#FFF" d="M462.273 349.294c-11.234-24.977-23.062-25.477-33.75-25.914-8.742-.375-18.75-.352-28.742-.352-10 0-26.25 3.758-39.992 18.766-13.75 15.008-52.5 51.289-52.5 125.078 0 73.797 53.75 145.102 61.242 155.117 7.5 10 103.758 166.266 256.203 226.383 126.695 49.961 152.477 40.023 179.977 37.523s88.734-36.273 101.234-71.297c12.5-35.016 12.5-65.031 8.75-71.305-3.75-6.25-13.75-10-28.75-17.5s-88.734-43.789-102.484-48.789-23.75-7.5-33.75 7.516c-10 15-38.727 48.773-47.477 58.773-8.75 10.023-17.5 11.273-32.5 3.773-15-7.523-63.305-23.344-120.609-74.438-44.586-39.75-74.688-88.844-83.438-103.859-8.75-15-.938-23.125 6.586-30.602 6.734-6.719 15-17.508 22.5-26.266 7.484-8.758 9.984-15.008 14.984-25.008 5-10.016 2.5-18.773-1.25-26.273s-32.898-81.67-46.234-111.326z"/>
+        <path fill="#FFF" d="M1036.898 176.091C923.562 62.677 772.859.185 612.297.114 281.43.114 12.172 269.286 12.039 600.137 12 705.896 39.633 809.13 92.156 900.13L7 1211.067l318.203-83.438c87.672 47.812 186.383 73.008 286.836 73.047h.255.003c330.812 0 600.109-269.219 600.25-600.055.055-160.343-62.328-311.108-175.649-424.53zm-424.601 923.242h-.195c-89.539-.047-177.344-24.086-253.93-69.531l-18.227-10.805-188.828 49.508 50.414-184.039-11.875-18.867c-49.945-79.414-76.312-171.188-76.273-265.422.109-274.992 223.906-498.711 499.102-498.711 133.266.055 258.516 52 352.719 146.266 94.195 94.266 146.031 219.578 145.992 352.852-.118 274.999-223.923 498.749-498.899 498.749z"/>
+    </svg>    </div>
+</div>                </div>
+            </div>
+                        <span class="ht_ctc_chat_data" 
+                data-no_number=""
+                data-settings="{&quot;number&quot;:&quot;9720505260618&quot;,&quot;pre_filled&quot;:&quot;\u05d4\u05d9\u05d9 \u05d0\u05e9\u05de\u05d7 \u05dc\u05e7\u05d1\u05dc \u05e4\u05e8\u05d8\u05d9\u05dd \u05e2\u05dc \u05e8\u05e6\u05e4\u05d5\u05ea \u05d0\u05e4\u05d5\u05e7\u05e1\u05d9&quot;,&quot;dis_m&quot;:&quot;show&quot;,&quot;dis_d&quot;:&quot;show&quot;,&quot;css&quot;:&quot;display: none; cursor: pointer; z-index: 99999999;&quot;,&quot;pos_d&quot;:&quot;position: fixed; bottom: 15px; left: 15px;&quot;,&quot;pos_m&quot;:&quot;position: fixed; bottom: 10px; left: 10px;&quot;,&quot;schedule&quot;:&quot;no&quot;,&quot;se&quot;:150,&quot;ani&quot;:&quot;no-animations&quot;,&quot;url_structure_d&quot;:&quot;web&quot;,&quot;url_target_d&quot;:&quot;_blank&quot;,&quot;ga&quot;:&quot;yes&quot;,&quot;fb&quot;:&quot;yes&quot;}" 
+            ></span>
+            <link rel='stylesheet' id='e-animations-css'  href='http://mendi.co.il/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.6.6' media='all' />
+<script id='ht_ctc_app_js-js-extra'>
+var ht_ctc_chat_var = {"number":"9720505260618","pre_filled":"\u05d4\u05d9\u05d9 \u05d0\u05e9\u05de\u05d7 \u05dc\u05e7\u05d1\u05dc \u05e4\u05e8\u05d8\u05d9\u05dd \u05e2\u05dc \u05e8\u05e6\u05e4\u05d5\u05ea \u05d0\u05e4\u05d5\u05e7\u05e1\u05d9","dis_m":"show","dis_d":"show","css":"display: none; cursor: pointer; z-index: 99999999;","pos_d":"position: fixed; bottom: 15px; left: 15px;","pos_m":"position: fixed; bottom: 10px; left: 10px;","schedule":"no","se":"150","ani":"no-animations","url_structure_d":"web","url_target_d":"_blank","ga":"yes","fb":"yes"};
+</script>
+<script src='http://mendi.co.il/wp-content/plugins/click-to-chat-for-whatsapp/new/inc/assets/js/app.js?ver=3.15' id='ht_ctc_app_js-js'></script>
+<script src='http://mendi.co.il/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.0.1' id='smartmenus-js'></script>
+<script src='http://mendi.co.il/wp-includes/js/imagesloaded.min.js?ver=4.1.4' id='imagesloaded-js'></script>
+<script src='http://mendi.co.il/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.7.2' id='elementor-pro-webpack-runtime-js'></script>
+<script src='http://mendi.co.il/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.6.6' id='elementor-webpack-runtime-js'></script>
+<script src='http://mendi.co.il/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.6.6' id='elementor-frontend-modules-js'></script>
+<script src='http://mendi.co.il/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9' id='regenerator-runtime-js'></script>
+<script src='http://mendi.co.il/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0' id='wp-polyfill-js'></script>
+<script src='http://mendi.co.il/wp-includes/js/dist/hooks.min.js?ver=1e58c8c5a32b2e97491080c5b10dc71c' id='wp-hooks-js'></script>
+<script src='http://mendi.co.il/wp-includes/js/dist/i18n.min.js?ver=30fcecb428a0e8383d3776bcdd3a7834' id='wp-i18n-js'></script>
+<script id='wp-i18n-js-after'>
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'rtl' ] } );
+</script>
+<script id='elementor-pro-frontend-js-translations'>
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "elementor-pro", { "locale_data": { "messages": { "": {} } } } );
+</script>
+<script id='elementor-pro-frontend-js-before'>
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/mendi.co.il\/wp-admin\/admin-ajax.php","nonce":"02be64ffca","urls":{"assets":"http:\/\/mendi.co.il\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/mendi.co.il\/wp-json\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"facebook_sdk":{"lang":"he_IL","app_id":""},"lottie":{"defaultAnimationUrl":"http:\/\/mendi.co.il\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+</script>
+<script src='http://mendi.co.il/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.7.2' id='elementor-pro-frontend-js'></script>
+<script src='http://mendi.co.il/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2' id='elementor-waypoints-js'></script>
+<script src='http://mendi.co.il/wp-includes/js/jquery/ui/core.min.js?ver=1.13.1' id='jquery-ui-core-js'></script>
+<script src='http://mendi.co.il/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6' id='swiper-js'></script>
+<script src='http://mendi.co.il/wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js?ver=3.6.6' id='share-link-js'></script>
+<script src='http://mendi.co.il/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.9.0' id='elementor-dialog-js'></script>
+<script id='elementor-frontend-js-before'>
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"\u05e9\u05ea\u05e3 \u05d1\u05e4\u05d9\u05d9\u05e1\u05d1\u05d5\u05e7","shareOnTwitter":"\u05e9\u05ea\u05e3 \u05d1\u05d8\u05d5\u05d5\u05d9\u05d8\u05e8","pinIt":"\u05dc\u05e0\u05e2\u05d5\u05e5 \u05d1\u05e4\u05d9\u05e0\u05d8\u05e8\u05e1\u05d8","download":"\u05d4\u05d5\u05e8\u05d3\u05d4","downloadImage":"\u05d4\u05d5\u05e8\u05d3\u05ea \u05ea\u05de\u05d5\u05e0\u05d4","fullscreen":"\u05de\u05e1\u05da \u05de\u05dc\u05d0","zoom":"\u05de\u05d9\u05e7\u05d5\u05d3","share":"\u05e9\u05ea\u05e3","playVideo":"\u05e0\u05d2\u05df \u05d5\u05d9\u05d3\u05d0\u05d5","previous":"\u05e7\u05d5\u05d3\u05dd","next":"\u05d4\u05d1\u05d0","close":"\u05e1\u05d2\u05d5\u05e8"},"is_rtl":true,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"\u05de\u05d5\u05d1\u05d9\u05d9\u05dc","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"\u05de\u05d5\u05d1\u05d9\u05d9\u05dc \u05d0\u05e7\u05e1\u05d8\u05e8\u05d4","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"\u05d8\u05d0\u05d1\u05dc\u05d8","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"\u05d8\u05d0\u05d1\u05dc\u05d8 \u05d0\u05e7\u05e1\u05d8\u05e8\u05d4","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"\u05dc\u05e4\u05d8\u05d5\u05e4","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"\u05de\u05e1\u05da \u05e8\u05d7\u05d1","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.6.6","is_static":false,"experimentalFeatures":{"e_import_export":true,"e_hidden_wordpress_widgets":true,"theme_builder_v2":true,"landing-pages":true,"elements-color-picker":true,"favorite-widgets":true,"admin-top-bar":true,"page-transitions":true,"notes":true,"form-submissions":true,"e_scroll_snap":true},"urls":{"assets":"http:\/\/mendi.co.il\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":0,"title":"Page not found | \u05e9\u05e2\u05e8\u05d9\u05dd \u05d7\u05e9\u05de\u05dc\u05d9\u05d9\u05dd","excerpt":""}};
+</script>
+<script src='http://mendi.co.il/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.6.6' id='elementor-frontend-js'></script>
+<script src='http://mendi.co.il/wp-content/plugins/elementor-pro/assets/js/preloaded-elements-handlers.min.js?ver=3.7.2' id='pro-preloaded-elements-handlers-js'></script>
+<script src='http://mendi.co.il/wp-content/plugins/elementor/assets/js/preloaded-modules.min.js?ver=3.6.6' id='preloaded-modules-js'></script>
+<script src='http://mendi.co.il/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=3.7.2' id='e-sticky-js'></script>
+<script>(function(w, d){
+	var b = d.getElementsByTagName("body")[0];
+	var s = d.createElement("script"); s.async = true;
+	s.src = !("IntersectionObserver" in w) ? "http://mendi.co.il/wp-content/plugins/wp-rocket/inc/front/js/lazyload-8.12.min.js" : "http://mendi.co.il/wp-content/plugins/wp-rocket/inc/front/js/lazyload-10.12.min.js";
+	w.lazyLoadOptions = {
+		elements_selector: "img,iframe",
+		data_src: "lazy-src",
+		data_srcset: "lazy-srcset",
+		data_sizes: "lazy-sizes",
+		skip_invisible: false,
+		class_loading: "lazyloading",
+		class_loaded: "lazyloaded",
+		threshold: 300,
+		callback_load: function(element) {
+			if ( element.tagName === "IFRAME" && element.dataset.rocketLazyload == "fitvidscompatible" ) {
+				if (element.classList.contains("lazyloaded") ) {
+					if (typeof window.jQuery != "undefined") {
+						if (jQuery.fn.fitVids) {
+							jQuery(element).parent().fitVids();
+						}
+					}
+				}
+			}
+		}
+	}; // Your options here. See "recipes" for more information about async.
+	b.appendChild(s);
+}(window, document));
+
+// Listen to the Initialized event
+window.addEventListener('LazyLoad::Initialized', function (e) {
+    // Get the instance and puts it in the lazyLoadInstance variable
+	var lazyLoadInstance = e.detail.instance;
+
+	var observer = new MutationObserver(function(mutations) {
+		mutations.forEach(function(mutation) {
+			lazyLoadInstance.update();
+		} );
+	} );
+	
+	var b      = document.getElementsByTagName("body")[0];
+	var config = { childList: true, subtree: true };
+	
+	observer.observe(b, config);
+}, false);
+</script>		<script>function lazyLoadThumb(e){var t='<img src="https://i.ytimg.com/vi/ID/hqdefault.jpg">',a='<div class="play"></div>';return t.replace("ID",e)+a}function lazyLoadYoutubeIframe(){var e=document.createElement("iframe"),t="https://www.youtube.com/embed/ID?autoplay=1";t+=0===this.dataset.query.length?'':'&'+this.dataset.query;e.setAttribute("src",t.replace("ID",this.dataset.id)),e.setAttribute("frameborder","0"),e.setAttribute("allowfullscreen","1"),this.parentNode.replaceChild(e,this)}document.addEventListener("DOMContentLoaded",function(){var e,t,a=document.getElementsByClassName("rll-youtube-player");for(t=0;t<a.length;t++)e=document.createElement("div"),e.setAttribute("data-id",a[t].dataset.id),e.setAttribute("data-query", a[t].dataset.query),e.innerHTML=lazyLoadThumb(a[t].dataset.id),e.onclick=lazyLoadYoutubeIframe,a[t].appendChild(e)});</script>
+</body>
+</html>

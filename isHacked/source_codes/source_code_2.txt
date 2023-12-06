@@ -1,0 +1,621 @@
+<html>
+    <head>
+   <title>---Hacked by The Key40 From Algeria---</title>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" /> 
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" /> 
+        <meta name="author" content="The Key40" />
+        <style type="text/css">
+        </head>
+
+}
+/* CSS reset */
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,textarea,p,blockquote,th,td { 
+    margin:0;
+    padding:0;
+}
+html,body {
+    background-image: url("https://thumbs.gfycat.com/CarefreeLeadingFritillarybutterfly-small.gif");
+    background-size: contain;
+    
+
+}
+
+ol,ul {
+    list-style:none;
+}
+caption,th {
+    text-align:left;
+}
+h1,h2,h3,h4,h5,h6 {
+    font-size:70%;
+    font-weight:normal;
+}
+q:before,q:after {
+    content:&acute;;
+}
+abbr,acronym { border:0;
+}
+/* General Demo Style */
+body{
+}
+.ie7 body{
+    overflow:hidden;
+}
+a{
+    color: #333;
+    text-decoration: none;
+}
+.container{
+    position: relative;
+    text-align: center;
+}
+.clr{
+    clear: both;
+}
+.container > header{
+    padding: 25px 25px 10px 10px;
+    margin: 15px 15px 15px 15px;
+    position: center;
+    display: block;
+    text-shadow: 2px 2px 2px rgba(0,0,0,0.2);
+    text-align: center;
+}
+.container > header h1{
+    font-family: BebasNeueRegular, Arial Narrow&acute;, Arial, sans-serif&acute;;
+    font-size: 20px;
+    line-height: 20px;
+    position: center;
+    font-weight: 300;
+    color: #fff;
+    text-shadow: 2px 2px 2px rgba(0,0,0,0.3);
+    padding-left:0px; padding-right:0px; padding-top:0px; padding-bottom:5px
+}
+.container > header h1 span{
+}
+.container > header h2, p.info{
+    font-size: 20px;
+    font-style: italic;
+    color: #f8f8f8;
+    text-shadow: 2px 2px 2px rgba(0,0,0,0.6);
+}
+/* Header Style */
+.codrops-top{
+    font-family: Arial, sans-serif;
+    line-height: 20px;
+    font-size: 20px;
+    width: 100%;
+    background: #061978;
+    opacity: 0.9;
+    text-transform: uppercase;
+    z-index: 9999;
+    position: center;
+    -moz-box-shadow: 1px 0px 2px #000;
+    -webkit-box-shadow: 1px 0px 2px #000;
+    box-shadow: 2px 2px 2px #000;
+}
+.codrops-top a{
+    padding: 0px 10px;
+    letter-spacing: 1px;
+    color: #ddd;
+    display: block;
+    float: left;
+}
+.codrops-top a:hover{
+    color: #fff;
+}
+.codrops-top span.right{
+    float: center;
+}
+.codrops-top span.right a{
+    float: none;
+    display: inline;
+}
+p.codrops-demos{
+    display: block;
+    padding: 15px 0px;
+}
+p.codrops-demos a,
+p.codrops-demos a.current-demo,
+p.codrops-demos a.current-demo:hover{
+    display: inline-block;
+    border: 1px solid #6d0019;
+    padding: 4px 10px 3px;
+    font-size: 13px;
+    line-height: 18px;
+    margin: 2px 3px;
+    font-weight: 800;
+    -webkit-box-shadow: 0px 1px 1px rgba(0,0,0,0.1);
+    -moz-box-shadow:0px 1px 1px rgba(0,0,0,0.1);
+    box-shadow: 0px 1px 1px rgba(0,0,0,0.1);
+    color:#fff;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    background: #061978;
+    background: -moz-linear-gradient(top, #061978 0%, #061978 44%, #061978 70%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#a90329), color-stop(44%,#8f0222), color-stop(70%,#6d0019));
+    background: -webkit-linear-gradient(top, #a90329 0%,#8f0222 44%,#6d0019 70%);
+    background: -o-linear-gradient(top, #a90329 0%,#8f0222 44%,#6d0019 70%);
+    background: -ms-linear-gradient(top, #a90329 0%,#8f0222 44%,#6d0019 70%);
+    background: linear-gradient(top, #a90329 0%,#8f0222 44%,#6d0019 70%);
+}
+p.codrops-demos a:hover{
+    background: #061978;
+}
+p.codrops-demos a:active{
+    background: #061978;
+    background: -moz-linear-gradient(top, #6d0019 0%, #8f0222 56%, #a90329 70%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#6d0019), color-stop(56%,#8f0222), color-stop(70%,#a90329));
+    background: -webkit-linear-gradient(top, #6d0019 0%,#8f0222 56%,#a90329 70%);
+    background: -o-linear-gradient(top, #6d0019 0%,#8f0222 56%,#a90329 70%);
+    background: -ms-linear-gradient(top, #6d0019 0%,#8f0222 56%,#a90329 70%);
+    background: linear-gradient(top, #6d0019 0%,#8f0222 56%,#a90329 70%);
+    -webkit-box-shadow: 0px 1px 1px rgba(255,255,255,0.9);
+    -moz-box-shadow:0px 1px 1px rgba(255,255,255,0.9);
+    box-shadow: 0px 1px 1px rgba(255,255,255,0.9);
+}
+p.codrops-demos a.current-demo,
+p.codrops-demos a.current-demo:hover{
+    color: #061978;
+    background: #061978;
+}
+/* Media Queries */
+@media screen and (max-width: 700px) {
+    .container > header{
+        text-align: center;
+    }
+    p.codrops-demos {
+        position: fixed;
+        top: auto;
+        left: auto;
+    }
+}
+</style>
+<style type="text/css">
+.cb-slideshow,
+.cb-slideshow:after {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0px;
+    left: 0px;
+    z-index: 0;
+}
+.cb-slideshow:after {
+    content: &acute;;
+    background: transparent url() repeat center right;
+}
+.cb-slideshow li span {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    color: transparent;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    opacity: 0;
+    z-index: 0;
+    -webkit-backface-visibility: hidden;
+    -webkit-animation: imageAnimation 100s linear infinite 0s;
+    -moz-animation: imageAnimation 100s linear infinite 0s;
+    -o-animation: imageAnimation 100s linear infinite 0s;
+    -ms-animation: imageAnimation 100s linear infinite 0s;
+    animation: titleAnimation 100s linear infinite 0s;
+}
+.cb-slideshow li div {
+    z-index: absolute;
+    position: absolute;
+    bottom: 10px;
+    left: 0px;
+    width: 100%;
+    text-align: center;
+    opacity: 0;
+    -webkit-animation: titleAnimation 100s linear infinite 0s;
+    -moz-animation: titleAnimation 100s linear infinite 0s;
+    -o-animation: titleAnimation 100s linear infinite 0s;
+    -ms-animation: titleAnimation 100s linear infinite 0s;
+    animation: titleAnimation 100s linear infinite 0s;
+}
+.cb-slideshow li div h3 {
+    font-family: BebasNeueRegular, Arial Narrow&acute;, Arial, sans-serif&acute;;
+    font-size: 160px;
+    line-height: 120px;
+    color: rgba(169,3,41, 0.8); padding-left:30px; padding-right:30px; padding-top:0; padding-bottom:0
+}
+.cb-slideshow li:nth-child(1) span { background-image: url(https://i.ytimg.com/vi/tdah2R8B9oI/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCs9-phIvIwCEhMRuYpUH52zxV43A) }
+.cb-slideshow li:nth-child(2) span {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAhI7p51_Gy-APZWNIzkn30GiZI4cM7Q72knUC_CZtO4CW8OEU8s_XACXp953QMca8ioI&usqp=CAU);
+    -webkit-animation-delay: 8s;
+    -moz-animation-delay: 8s;
+    -o-animation-delay: 8s;
+    -ms-animation-delay: 8s;
+    animation-delay: 8s;
+}
+.cb-slideshow li:nth-child(3) span {
+    background-image: url(https://elasimah.com/uploads/images/2023/10/image_750x_652146a759b5c.jpg);
+    -webkit-animation-delay: 16s;
+    -moz-animation-delay: 16s;
+    -o-animation-delay: 16s;
+    -ms-animation-delay: 16s;
+    animation-delay: 16s;
+}
+.cb-slideshow li:nth-child(4) span {
+    background-image: url(https://www.watanserb.com/wp-content/uploads/2023/10/%D8%B6%D8%B6.webp);
+    -webkit-animation-delay: 22s;
+    -moz-animation-delay: 22s;
+    -o-animation-delay: 22s;
+    -ms-animation-delay: 22s;
+    animation-delay: 22s;
+}
+.cb-slideshow li:nth-child(5) span {
+    background-image: url(https://www.echoroukonline.com/wp-content/uploads/2023/10/ham.png);
+    -webkit-animation-delay: 28s;
+    -moz-animation-delay: 28s;
+    -o-animation-delay: 28s;
+    -ms-animation-delay: 28s;
+    animation-delay: 28s;
+}
+.cb-slideshow li:nth-child(6) span {
+    background-image: url(https://i.ytimg.com/vi/FBdhKBs-7TI/maxresdefault.jpg);
+    -webkit-animation-delay: 32s;
+    -moz-animation-delay: 32s;
+    -o-animation-delay: 32s;
+    -ms-animation-delay: 32s;
+    animation-delay: 32s;
+}
+.cb-slideshow li:nth-child(7) span {
+    background-image: url(https://westchronicles.com/wp-content/uploads/2023/10/image-156.jpg);
+    -webkit-animation-delay: 40s;
+    -moz-animation-delay: 40s;
+    -o-animation-delay: 40s;
+    -ms-animation-delay: 40s;
+    animation-delay: 40s;
+}
+.cb-slideshow li:nth-child(8) span {
+    background-image: url(https://pbs.twimg.com/media/CHbig7EUcAE5hCt.jpg);
+    
+    -webkit-animation-delay: 60s;
+    -moz-animation-delay: 60s;
+    -o-animation-delay: 60s;
+    -ms-animation-delay: 60s;
+    animation-delay: 60s;
+
+}
+
+
+
+@-webkit-keyframes imageAnimation { 
+    0% {
+        opacity: 0;
+        -webkit-animation-timing-function: ease-in;
+    }
+    8% {
+        opacity: 1;
+        -webkit-transform: scale(1.05);
+        -webkit-animation-timing-function: ease-out;
+    }
+    20% {
+        opacity: 1;
+        -webkit-transform: scale(1.1) rotate(3deg);
+    }
+    50% {
+        opacity: 0;
+        -webkit-transform: scale(1.1) rotate(3deg);
+    }
+    100% { opacity: 0 }
+}
+@-moz-keyframes imageAnimation { 
+    0% {
+        opacity: 0;
+        -moz-animation-timing-function: ease-in;
+    }
+    8% {
+        opacity: 1;
+        -moz-transform: scale(1.05);
+        -moz-animation-timing-function: ease-out;
+    }
+    20% {
+        opacity: 1;
+        -moz-transform: scale(1.1) rotate(3deg);
+    }
+    50% {
+        opacity: 0;
+        -moz-transform: scale(1.1) rotate(3deg);
+    }
+    100% { opacity: 0 }
+}
+@-o-keyframes imageAnimation { 
+    0% {
+        opacity: 0;
+        -o-animation-timing-function: ease-in;
+    }
+    8% {
+        opacity: 1;
+        -o-transform: scale(1.05);
+        -o-animation-timing-function: ease-out;
+    }
+    20% {
+        opacity: 1;
+        -o-transform: scale(1.1) rotate(3deg);
+    }
+    50% {
+        opacity: 0;
+        -o-transform: scale(1.1) rotate(3deg);
+    }
+    100% { opacity: 0 }
+}
+@-ms-keyframes imageAnimation { 
+    0% {
+        opacity: 0;
+        -ms-animation-timing-function: ease-in;
+    }
+    8% {
+        opacity: 1;
+        -ms-transform: scale(1.05);
+        -ms-animation-timing-function: ease-out;
+    }
+    20% {
+        opacity: 1;
+        -ms-transform: scale(1.1) rotate(3deg);
+    }
+    50% {
+        opacity: 0;
+        -ms-transform: scale(1.1) rotate(3deg);
+    }
+    100% { opacity: 0 }
+}
+@keyframes imageAnimation { 
+    0% {
+        opacity: 0;
+        animation-timing-function: ease-in;
+    }
+    8% {
+        opacity: 1;
+        transform: scale(1.05);
+        animation-timing-function: ease-out;
+    }
+    20% {
+        opacity: 1;
+        transform: scale(1.1) rotate(3deg);
+    }
+    50% {
+        opacity: 0;
+        transform: scale(1.1) rotate(3deg);
+    }
+    100% { opacity: 0 }
+}
+@-webkit-keyframes titleAnimation { 
+    0% {
+        opacity: 0;
+        -webkit-transform: translateX(200px);
+    }
+    8% {
+        opacity: 1;
+        -webkit-transform: translateX(0px);
+    }
+    20% {
+        opacity: 1;
+        -webkit-transform: translateX(0px);
+    }
+    50% {
+        opacity: 0;
+        -webkit-transform: translateX(-400px);
+    }
+    100% { opacity: 0 }
+}
+@-moz-keyframes titleAnimation { 
+    0% {
+        opacity: 0;
+        -moz-transform: translateX(200px);
+    }
+    8% {
+        opacity: 1;
+        -moz-transform: translateX(0px);
+    }
+    20% {
+        opacity: 1;
+        -moz-transform: translateX(0px);
+    }
+    50% {
+        opacity: 0;
+        -moz-transform: translateX(-400px);
+    }
+    100% { opacity: 0 }
+}
+@-o-keyframes titleAnimation { 
+    0% {
+        opacity: 0;
+        -o-transform: translateX(200px);
+    }
+    8% {
+        opacity: 1;
+        -o-transform: translateX(0px);
+    }
+    20% {
+        opacity: 1;
+        -o-transform: translateX(0px);
+    }
+    50% {
+        opacity: 0;
+        -o-transform: translateX(-400px);
+    }
+    100% { opacity: 0 }
+}
+@-ms-keyframes titleAnimation { 
+    0% {
+        opacity: 0;
+        -ms-transform: translateX(200px);
+    }
+    8% {
+        opacity: 1;
+        -ms-transform: translateX(0px);
+    }
+    20% {
+        opacity: 1;
+        -ms-transform: translateX(0px);
+    }
+    50% {
+        opacity: 0;
+        -ms-transform: translateX(-400px);
+    }
+    100% { opacity: 0 }
+}
+@keyframes titleAnimation { 
+    0% {
+        opacity: 0;
+        transform: translateX(200px);
+    }
+    8% {
+        opacity: 1;
+        transform: translateX(0px);
+    }
+    20% {
+        opacity: 1;
+        transform: translateX(0px);
+    }
+    50% {
+        opacity: 0;
+        transform: translateX(-400px);
+    }
+    100% { opacity: 0 }
+}
+/* Show at least something when animations not supported */
+.no-cssanimations .cb-slideshow li span{
+    opacity: 1;
+}
+@media screen and (max-width: 1140px) { 
+    .cb-slideshow li div h3 { font-size: 100px }
+}
+@media screen and (max-width: 600px) { 
+    .cb-slideshow li div h3 { font-size: 50px }
+}
+</style>
+    <script type="text/javascript" src="googledrive.com/host/0B0FAryoVedK0Szk4WW9GR3ZKWDg/modernizr.custom.86080.js"></script>
+    </head>
+    <body id="page">
+        <ul class="cb-slideshow">
+            <li><span>Image 01</span><div><h3></h3></div></li>
+            <li><span>Image 02</span><div><h3></h3></div></li>
+            <li><span>Image 03</span><div><h3></h3></div></li>
+            <li><span>Image 04</span><div><h3></h3></div></li>
+            <li><span>Image 05</span><div><h3></h3></div></li>
+            <li><span>Image 06</span><div><h3></h3></div></li>
+            <li><span>Image 07</span><div><h3></h3></div></li>
+            <li><span>Image 08</span><div><h3></h3></div></li>
+                    </ul>
+        <div class="container">
+            <!-- Codrops top bar -->
+            <div class="codrops-top">
+                </a>
+                <span class="right">
+                    </a>
+                </span>
+                <div class="clr"></div>
+            </div><!--/ Codrops top bar -->
+            <header>
+                <p >
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta name="Keywords" content="The Key40 From Algeria" />
+        <link rel="shortcut icon" href="" type="image/x-icon" />
+        <script language="JavaScript1.2">
+            function ejs_nodroit()
+              {
+              return(false);
+              }
+            document.oncontextmenu = ejs_nodroit;
+        </script>
+        <style type="text/css">
+            body{
+            background-position:top middle;
+            background-size:60% 60%;
+            background-repeat:no-repeat;
+            background-attachment:fixed;
+            }
+            h1 {color: #333;font-size: 100px;margin: 1px auto;text-align:center;text-transform:uppercase;}
+            .neon {color: #FFFFFF;text-shadow: 0 0 5px #1ab4e7, 0 0 10px #1ab4e7, 0 0 30px #18a2d0, 0 0 45px #18a2d0, 0 0 60px #18a2d0;}
+            .matrix {color: #FFFFFF; font-family:Comic, Comic, Comic; font-size:10pt; text-align:center; width:10px; padding:0px; margin:0px;}
+            .auto-style1 {    text-align: center;}
+            .auto-style2 {
+            text-align: center;
+            color: #5BEEFF;
+            }
+            .auto-style3 {
+            color: #545454;
+            font-size: medium;
+            }
+            .auto-style6 {
+            color: #545454;
+            }
+            .auto-style8 {
+            text-align: center;
+            font-family: Arial;
+            }
+            .auto-style9 {
+            font-size: xx-large;
+            }
+            .auto-style10 {
+            color: #B7B7B7;
+            }
+    </head>
+    <body>
+        <h1></h1>
+        <div id="matrix" class="auto-style12">      
+        </div>
+        </style>
+        <center>
+        <img border="0" src="" </img  alt="" />
+        <p>
+<video autoplay loop allowscriptaccess="always" allowfullscreen="false" width="1" height="0" >
+    <source src="" type=video/mp4>
+    </p>
+<font color="red" face="verdena" size="5"    
+<center>---TH3 Key40 From Algeria--- </center>
+<center>ALL GLORY AND HONOR TO PALESTINIANS</center> 
+<center>THE FLOOD WILL WIPE YOU ALL OUT</center> 
+<center>PALESTINE WILL BE FREE INSHALLAH TODAY OR TOMORROW IT&acute;S THE PROMISE OF ALLAH</center>
+<center>THE END IS VERY SOON</center>
+            </font>
+                </strong>
+            </font>
+            </embed>
+            <footer id="det" style="position:width: 70%; bottom: 0px; font-family: comic; height: 18px; color: darkWhite; font-size: 13px; left: 0px; border-top: 2px solid #222; padding: 0px; background-color: transparent">
+            <center><font color="red" face="gothic" size="10"> <strong><strong></font></center>
+            <center><font color="red" face="gothic" size="10"> <strong><strong></font></center>
+            <center><font color="red" face="gothic" size="10"> <strong><strong></font></center>
+            <center><font color="red" face="gothic" size="10"> <strong><strong></font></center>
+            <marquee scrollamount="5" scrolldelay="50" width="70%">
+                                <strong>
+ <font color="blue" face="comic" size="5"> #Op Al-AKSA FLOOD 7th october 2023 
+ 
+</font>
+            </marquee>
+        </font>
+<center> 
+<p><font size="5"><a href=""><h2> ## ××¡×¤××¨× ×××××¨ ×××× ## <font color="#007700"></h2></a></font></p>  
+<center>
+                </p>
+            </header>
+        </div>
+<script type="text/javascript">$(document).ready(function() {$(".facebookbox").hover(function() {$(this).stop().animate({right: "0"}, "medium");}, function() {$(this).stop().animate({right: "-250"}, "medium");}, 500);});
+</script><style type="text/css">
+.facebookbox{background: url("")
+no-repeat scroll center center transparent !important;display: block;float: right;height: 270px;padding: 0 5px 0 46px;width: 245px;z-index: 99999;position:fixed;right:-250px;top:40%;}
+.facebookbox div{border:none;position:relative;display:block;}
+.facebookbox span{bottom: 12px;font: 8px "lucida grande",tahoma,verdana,arial,sans-serif;position: absolute;right: 6px;text-align: right;z-index: 99999;}
+.facebookbox span a{color: #808080;text-decoration:none;}
+.facebookbox span a:hover{text-decoration:underline;}</style><div class="facebookbox" >
+<iframe scrolling="no" frameborder="0" style="border: medium none; overflow: hidden; height: 270px; width: 245px;background:#fff;" src=""></iframe>
+</div>
+                </font>             
+</p>
+<p align="center"><font face="Arial" size="5" color="#061978"> 
+</font></p></font>
+                </strong>
+    </body>
+</html>     
+

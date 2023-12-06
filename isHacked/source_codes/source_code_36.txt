@@ -1,0 +1,30 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head lang="he"><title>
+	Page not found
+</title><link href="/assets/external/bootstrap/last/css/bootstrap.min.css" rel="stylesheet" type="text/css" /><link href="/assets/external/animate/last/css/animate.min.css" rel="stylesheet" type="text/css" /><link href="/assets/internal/styles/css/core-extended.css" rel="stylesheet" type="text/css" /><link href="/assets/external/fonts/heb/css/fonts.css" rel="stylesheet" type="text/css" /><link href="/assets/external/font-awesome/last/css/font-awesome.min.css" rel="stylesheet" type="text/css" /><link href="/assets/external/bootstrap-rtl/last/css/bootstrap-rtl.min.css" rel="stylesheet" type="text/css" /><link href="/sysvault/styles/mainstyle.css" rel="stylesheet" type="text/css" /><link href="/sysvault/styles/userstylemain.css" rel="stylesheet" type="text/css" />
+    <script src="/assets/external/jquery/last/jquery.min.js"></script>
+    <script src="/assets/external/bootstrap/last/js/bootstrap.min.js"></script>
+</head>
+<body>
+    <!--  Begin accessibility -->
+    
+    <!--  End accessibility -->
+
+    
+    <div id="Panel2" class="container">
+	
+        <div class="row">
+            <div class="'col-xs-12">
+                <div style="direction: rtl; margin: 30px auto; width: 50%; background: #ededed; padding: 15px;"><div style="color: #940000"><h1>אופס!</h1><h2>העמוד לא נמצא</h2></div><div><a href="/">חזרה לדף הבית</a></div><div style="margin: 20px;">קבוצת az'ma </div></div>
+            </div>
+        </div>
+    
+</div>
+
+    
+
+</body>
+</html>

@@ -1,0 +1,1178 @@
+<!doctype html>
+<html lang="he" data-n-head-ssr prefix="og: https://ogp.me/ns#">
+
+<head>
+    <meta name="facebook-domain-verification" content="qdlb47y56743sj2spc1zbcc7sgnkv6">
+
+
+    <title>דרושים IL- חיפוש עבודה בחינם, גיוס עובדים</title><meta data-n-head="ssr" http-equiv="Content-Type" content="text/html; charset=utf-8"><meta data-n-head="ssr" http-equiv="Content-Language" content="he"><meta data-n-head="ssr" name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no,viewport-fit=cover"><meta data-n-head="ssr" name="author" content="דרושים IL" data-hid="author"><meta data-n-head="ssr" name="copyright" content="דרושים IL, 2014" data-hid="COPYRIGHT"><meta data-n-head="ssr" name="Author" content="דרושים - https://www.drushim.co.il/" data-hid="AUTHOR"><meta data-n-head="ssr" name="Generator" content="דרושים - https://www.drushim.co.il/" data-hid="GENERATOR"><meta data-n-head="ssr" name="keywords" content="דרושים, לוח דרושים, עבודה, חיפוש עבודה, משרות, מודעות דרושים, דרושים הייטק, עבודה בחול, גיוס עובדים, פרסום מודעות דרושים." data-hid="KEYWORDS"><meta data-n-head="ssr" name="description" content="דרושים IL הוא לוח דרושים האיכותי בישראל. האתר מאפשר חיפוש עבודה חינם וכן גיוס עובדים באופן מהיר וידידותי עם אלפי משרות. בנוסף, באתר איזור דרושים הייטק." data-hid="DESCRIPTION"><meta data-n-head="ssr" name="ROBOTS" content="INDEX, FOLLOW" data-hid="ROBOTS"><link data-n-head="ssr" rel="icon" type="image/x-icon" href="/favicon.ico"><link data-n-head="ssr" rel="preconnect" href="https://fonts.googleapis.com"><link data-n-head="ssr" rel="preconnect" href="https://fonts.gstatic.com"><link data-n-head="ssr" rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;500&amp;display=swap"><link data-n-head="ssr" rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900&amp;display=swap"><link data-n-head="ssr" rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@mdi/font@latest/css/materialdesignicons.min.css"><style data-n-head="vuetify" type="text/css" id="vuetify-theme-stylesheet" nonce="undefined">.v-application a { color: #ff7100; }
+.v-application .primary {
+  background-color: #ff7100 !important;
+  border-color: #ff7100 !important;
+}
+.v-application .primary--text {
+  color: #ff7100 !important;
+  caret-color: #ff7100 !important;
+}
+.v-application .primary.lighten-5 {
+  background-color: #fffe98 !important;
+  border-color: #fffe98 !important;
+}
+.v-application .primary--text.text--lighten-5 {
+  color: #fffe98 !important;
+  caret-color: #fffe98 !important;
+}
+.v-application .primary.lighten-4 {
+  background-color: #ffe17d !important;
+  border-color: #ffe17d !important;
+}
+.v-application .primary--text.text--lighten-4 {
+  color: #ffe17d !important;
+  caret-color: #ffe17d !important;
+}
+.v-application .primary.lighten-3 {
+  background-color: #ffc461 !important;
+  border-color: #ffc461 !important;
+}
+.v-application .primary--text.text--lighten-3 {
+  color: #ffc461 !important;
+  caret-color: #ffc461 !important;
+}
+.v-application .primary.lighten-2 {
+  background-color: #ffa846 !important;
+  border-color: #ffa846 !important;
+}
+.v-application .primary--text.text--lighten-2 {
+  color: #ffa846 !important;
+  caret-color: #ffa846 !important;
+}
+.v-application .primary.lighten-1 {
+  background-color: #ff8c29 !important;
+  border-color: #ff8c29 !important;
+}
+.v-application .primary--text.text--lighten-1 {
+  color: #ff8c29 !important;
+  caret-color: #ff8c29 !important;
+}
+.v-application .primary.darken-1 {
+  background-color: #de5600 !important;
+  border-color: #de5600 !important;
+}
+.v-application .primary--text.text--darken-1 {
+  color: #de5600 !important;
+  caret-color: #de5600 !important;
+}
+.v-application .primary.darken-2 {
+  background-color: #be3b00 !important;
+  border-color: #be3b00 !important;
+}
+.v-application .primary--text.text--darken-2 {
+  color: #be3b00 !important;
+  caret-color: #be3b00 !important;
+}
+.v-application .primary.darken-3 {
+  background-color: #9f1d00 !important;
+  border-color: #9f1d00 !important;
+}
+.v-application .primary--text.text--darken-3 {
+  color: #9f1d00 !important;
+  caret-color: #9f1d00 !important;
+}
+.v-application .primary.darken-4 {
+  background-color: #810000 !important;
+  border-color: #810000 !important;
+}
+.v-application .primary--text.text--darken-4 {
+  color: #810000 !important;
+  caret-color: #810000 !important;
+}
+.v-application .secondary {
+  background-color: #2e2824 !important;
+  border-color: #2e2824 !important;
+}
+.v-application .secondary--text {
+  color: #2e2824 !important;
+  caret-color: #2e2824 !important;
+}
+.v-application .secondary.lighten-5 {
+  background-color: #a9a19c !important;
+  border-color: #a9a19c !important;
+}
+.v-application .secondary--text.text--lighten-5 {
+  color: #a9a19c !important;
+  caret-color: #a9a19c !important;
+}
+.v-application .secondary.lighten-4 {
+  background-color: #8e8682 !important;
+  border-color: #8e8682 !important;
+}
+.v-application .secondary--text.text--lighten-4 {
+  color: #8e8682 !important;
+  caret-color: #8e8682 !important;
+}
+.v-application .secondary.lighten-3 {
+  background-color: #746d68 !important;
+  border-color: #746d68 !important;
+}
+.v-application .secondary--text.text--lighten-3 {
+  color: #746d68 !important;
+  caret-color: #746d68 !important;
+}
+.v-application .secondary.lighten-2 {
+  background-color: #5c5550 !important;
+  border-color: #5c5550 !important;
+}
+.v-application .secondary--text.text--lighten-2 {
+  color: #5c5550 !important;
+  caret-color: #5c5550 !important;
+}
+.v-application .secondary.lighten-1 {
+  background-color: #443e3a !important;
+  border-color: #443e3a !important;
+}
+.v-application .secondary--text.text--lighten-1 {
+  color: #443e3a !important;
+  caret-color: #443e3a !important;
+}
+.v-application .secondary.darken-1 {
+  background-color: #1a140f !important;
+  border-color: #1a140f !important;
+}
+.v-application .secondary--text.text--darken-1 {
+  color: #1a140f !important;
+  caret-color: #1a140f !important;
+}
+.v-application .secondary.darken-2 {
+  background-color: #000000 !important;
+  border-color: #000000 !important;
+}
+.v-application .secondary--text.text--darken-2 {
+  color: #000000 !important;
+  caret-color: #000000 !important;
+}
+.v-application .secondary.darken-3 {
+  background-color: #000000 !important;
+  border-color: #000000 !important;
+}
+.v-application .secondary--text.text--darken-3 {
+  color: #000000 !important;
+  caret-color: #000000 !important;
+}
+.v-application .secondary.darken-4 {
+  background-color: #000000 !important;
+  border-color: #000000 !important;
+}
+.v-application .secondary--text.text--darken-4 {
+  color: #000000 !important;
+  caret-color: #000000 !important;
+}
+.v-application .accent {
+  background-color: #82b1ff !important;
+  border-color: #82b1ff !important;
+}
+.v-application .accent--text {
+  color: #82b1ff !important;
+  caret-color: #82b1ff !important;
+}
+.v-application .accent.lighten-5 {
+  background-color: #ffffff !important;
+  border-color: #ffffff !important;
+}
+.v-application .accent--text.text--lighten-5 {
+  color: #ffffff !important;
+  caret-color: #ffffff !important;
+}
+.v-application .accent.lighten-4 {
+  background-color: #f8ffff !important;
+  border-color: #f8ffff !important;
+}
+.v-application .accent--text.text--lighten-4 {
+  color: #f8ffff !important;
+  caret-color: #f8ffff !important;
+}
+.v-application .accent.lighten-3 {
+  background-color: #daffff !important;
+  border-color: #daffff !important;
+}
+.v-application .accent--text.text--lighten-3 {
+  color: #daffff !important;
+  caret-color: #daffff !important;
+}
+.v-application .accent.lighten-2 {
+  background-color: #bce8ff !important;
+  border-color: #bce8ff !important;
+}
+.v-application .accent--text.text--lighten-2 {
+  color: #bce8ff !important;
+  caret-color: #bce8ff !important;
+}
+.v-application .accent.lighten-1 {
+  background-color: #9fccff !important;
+  border-color: #9fccff !important;
+}
+.v-application .accent--text.text--lighten-1 {
+  color: #9fccff !important;
+  caret-color: #9fccff !important;
+}
+.v-application .accent.darken-1 {
+  background-color: #6596e2 !important;
+  border-color: #6596e2 !important;
+}
+.v-application .accent--text.text--darken-1 {
+  color: #6596e2 !important;
+  caret-color: #6596e2 !important;
+}
+.v-application .accent.darken-2 {
+  background-color: #467dc6 !important;
+  border-color: #467dc6 !important;
+}
+.v-application .accent--text.text--darken-2 {
+  color: #467dc6 !important;
+  caret-color: #467dc6 !important;
+}
+.v-application .accent.darken-3 {
+  background-color: #2364aa !important;
+  border-color: #2364aa !important;
+}
+.v-application .accent--text.text--darken-3 {
+  color: #2364aa !important;
+  caret-color: #2364aa !important;
+}
+.v-application .accent.darken-4 {
+  background-color: #004c90 !important;
+  border-color: #004c90 !important;
+}
+.v-application .accent--text.text--darken-4 {
+  color: #004c90 !important;
+  caret-color: #004c90 !important;
+}
+.v-application .error {
+  background-color: #ff5252 !important;
+  border-color: #ff5252 !important;
+}
+.v-application .error--text {
+  color: #ff5252 !important;
+  caret-color: #ff5252 !important;
+}
+.v-application .error.lighten-5 {
+  background-color: #ffe4d5 !important;
+  border-color: #ffe4d5 !important;
+}
+.v-application .error--text.text--lighten-5 {
+  color: #ffe4d5 !important;
+  caret-color: #ffe4d5 !important;
+}
+.v-application .error.lighten-4 {
+  background-color: #ffc6b9 !important;
+  border-color: #ffc6b9 !important;
+}
+.v-application .error--text.text--lighten-4 {
+  color: #ffc6b9 !important;
+  caret-color: #ffc6b9 !important;
+}
+.v-application .error.lighten-3 {
+  background-color: #ffa99e !important;
+  border-color: #ffa99e !important;
+}
+.v-application .error--text.text--lighten-3 {
+  color: #ffa99e !important;
+  caret-color: #ffa99e !important;
+}
+.v-application .error.lighten-2 {
+  background-color: #ff8c84 !important;
+  border-color: #ff8c84 !important;
+}
+.v-application .error--text.text--lighten-2 {
+  color: #ff8c84 !important;
+  caret-color: #ff8c84 !important;
+}
+.v-application .error.lighten-1 {
+  background-color: #ff6f6a !important;
+  border-color: #ff6f6a !important;
+}
+.v-application .error--text.text--lighten-1 {
+  color: #ff6f6a !important;
+  caret-color: #ff6f6a !important;
+}
+.v-application .error.darken-1 {
+  background-color: #df323b !important;
+  border-color: #df323b !important;
+}
+.v-application .error--text.text--darken-1 {
+  color: #df323b !important;
+  caret-color: #df323b !important;
+}
+.v-application .error.darken-2 {
+  background-color: #bf0025 !important;
+  border-color: #bf0025 !important;
+}
+.v-application .error--text.text--darken-2 {
+  color: #bf0025 !important;
+  caret-color: #bf0025 !important;
+}
+.v-application .error.darken-3 {
+  background-color: #9f0010 !important;
+  border-color: #9f0010 !important;
+}
+.v-application .error--text.text--darken-3 {
+  color: #9f0010 !important;
+  caret-color: #9f0010 !important;
+}
+.v-application .error.darken-4 {
+  background-color: #800000 !important;
+  border-color: #800000 !important;
+}
+.v-application .error--text.text--darken-4 {
+  color: #800000 !important;
+  caret-color: #800000 !important;
+}
+.v-application .info {
+  background-color: #2196f3 !important;
+  border-color: #2196f3 !important;
+}
+.v-application .info--text {
+  color: #2196f3 !important;
+  caret-color: #2196f3 !important;
+}
+.v-application .info.lighten-5 {
+  background-color: #d4ffff !important;
+  border-color: #d4ffff !important;
+}
+.v-application .info--text.text--lighten-5 {
+  color: #d4ffff !important;
+  caret-color: #d4ffff !important;
+}
+.v-application .info.lighten-4 {
+  background-color: #b5ffff !important;
+  border-color: #b5ffff !important;
+}
+.v-application .info--text.text--lighten-4 {
+  color: #b5ffff !important;
+  caret-color: #b5ffff !important;
+}
+.v-application .info.lighten-3 {
+  background-color: #95e8ff !important;
+  border-color: #95e8ff !important;
+}
+.v-application .info--text.text--lighten-3 {
+  color: #95e8ff !important;
+  caret-color: #95e8ff !important;
+}
+.v-application .info.lighten-2 {
+  background-color: #75ccff !important;
+  border-color: #75ccff !important;
+}
+.v-application .info--text.text--lighten-2 {
+  color: #75ccff !important;
+  caret-color: #75ccff !important;
+}
+.v-application .info.lighten-1 {
+  background-color: #51b0ff !important;
+  border-color: #51b0ff !important;
+}
+.v-application .info--text.text--lighten-1 {
+  color: #51b0ff !important;
+  caret-color: #51b0ff !important;
+}
+.v-application .info.darken-1 {
+  background-color: #007cd6 !important;
+  border-color: #007cd6 !important;
+}
+.v-application .info--text.text--darken-1 {
+  color: #007cd6 !important;
+  caret-color: #007cd6 !important;
+}
+.v-application .info.darken-2 {
+  background-color: #0064ba !important;
+  border-color: #0064ba !important;
+}
+.v-application .info--text.text--darken-2 {
+  color: #0064ba !important;
+  caret-color: #0064ba !important;
+}
+.v-application .info.darken-3 {
+  background-color: #004d9f !important;
+  border-color: #004d9f !important;
+}
+.v-application .info--text.text--darken-3 {
+  color: #004d9f !important;
+  caret-color: #004d9f !important;
+}
+.v-application .info.darken-4 {
+  background-color: #003784 !important;
+  border-color: #003784 !important;
+}
+.v-application .info--text.text--darken-4 {
+  color: #003784 !important;
+  caret-color: #003784 !important;
+}
+.v-application .success {
+  background-color: #4caf50 !important;
+  border-color: #4caf50 !important;
+}
+.v-application .success--text {
+  color: #4caf50 !important;
+  caret-color: #4caf50 !important;
+}
+.v-application .success.lighten-5 {
+  background-color: #dcffd6 !important;
+  border-color: #dcffd6 !important;
+}
+.v-application .success--text.text--lighten-5 {
+  color: #dcffd6 !important;
+  caret-color: #dcffd6 !important;
+}
+.v-application .success.lighten-4 {
+  background-color: #beffba !important;
+  border-color: #beffba !important;
+}
+.v-application .success--text.text--lighten-4 {
+  color: #beffba !important;
+  caret-color: #beffba !important;
+}
+.v-application .success.lighten-3 {
+  background-color: #a2ff9e !important;
+  border-color: #a2ff9e !important;
+}
+.v-application .success--text.text--lighten-3 {
+  color: #a2ff9e !important;
+  caret-color: #a2ff9e !important;
+}
+.v-application .success.lighten-2 {
+  background-color: #85e783 !important;
+  border-color: #85e783 !important;
+}
+.v-application .success--text.text--lighten-2 {
+  color: #85e783 !important;
+  caret-color: #85e783 !important;
+}
+.v-application .success.lighten-1 {
+  background-color: #69cb69 !important;
+  border-color: #69cb69 !important;
+}
+.v-application .success--text.text--lighten-1 {
+  color: #69cb69 !important;
+  caret-color: #69cb69 !important;
+}
+.v-application .success.darken-1 {
+  background-color: #2d9437 !important;
+  border-color: #2d9437 !important;
+}
+.v-application .success--text.text--darken-1 {
+  color: #2d9437 !important;
+  caret-color: #2d9437 !important;
+}
+.v-application .success.darken-2 {
+  background-color: #00791e !important;
+  border-color: #00791e !important;
+}
+.v-application .success--text.text--darken-2 {
+  color: #00791e !important;
+  caret-color: #00791e !important;
+}
+.v-application .success.darken-3 {
+  background-color: #006000 !important;
+  border-color: #006000 !important;
+}
+.v-application .success--text.text--darken-3 {
+  color: #006000 !important;
+  caret-color: #006000 !important;
+}
+.v-application .success.darken-4 {
+  background-color: #004700 !important;
+  border-color: #004700 !important;
+}
+.v-application .success--text.text--darken-4 {
+  color: #004700 !important;
+  caret-color: #004700 !important;
+}
+.v-application .warning {
+  background-color: #fb8c00 !important;
+  border-color: #fb8c00 !important;
+}
+.v-application .warning--text {
+  color: #fb8c00 !important;
+  caret-color: #fb8c00 !important;
+}
+.v-application .warning.lighten-5 {
+  background-color: #ffff9e !important;
+  border-color: #ffff9e !important;
+}
+.v-application .warning--text.text--lighten-5 {
+  color: #ffff9e !important;
+  caret-color: #ffff9e !important;
+}
+.v-application .warning.lighten-4 {
+  background-color: #fffb82 !important;
+  border-color: #fffb82 !important;
+}
+.v-application .warning--text.text--lighten-4 {
+  color: #fffb82 !important;
+  caret-color: #fffb82 !important;
+}
+.v-application .warning.lighten-3 {
+  background-color: #ffdf67 !important;
+  border-color: #ffdf67 !important;
+}
+.v-application .warning--text.text--lighten-3 {
+  color: #ffdf67 !important;
+  caret-color: #ffdf67 !important;
+}
+.v-application .warning.lighten-2 {
+  background-color: #ffc24b !important;
+  border-color: #ffc24b !important;
+}
+.v-application .warning--text.text--lighten-2 {
+  color: #ffc24b !important;
+  caret-color: #ffc24b !important;
+}
+.v-application .warning.lighten-1 {
+  background-color: #ffa72d !important;
+  border-color: #ffa72d !important;
+}
+.v-application .warning--text.text--lighten-1 {
+  color: #ffa72d !important;
+  caret-color: #ffa72d !important;
+}
+.v-application .warning.darken-1 {
+  background-color: #db7200 !important;
+  border-color: #db7200 !important;
+}
+.v-application .warning--text.text--darken-1 {
+  color: #db7200 !important;
+  caret-color: #db7200 !important;
+}
+.v-application .warning.darken-2 {
+  background-color: #bb5900 !important;
+  border-color: #bb5900 !important;
+}
+.v-application .warning--text.text--darken-2 {
+  color: #bb5900 !important;
+  caret-color: #bb5900 !important;
+}
+.v-application .warning.darken-3 {
+  background-color: #9d4000 !important;
+  border-color: #9d4000 !important;
+}
+.v-application .warning--text.text--darken-3 {
+  color: #9d4000 !important;
+  caret-color: #9d4000 !important;
+}
+.v-application .warning.darken-4 {
+  background-color: #802700 !important;
+  border-color: #802700 !important;
+}
+.v-application .warning--text.text--darken-4 {
+  color: #802700 !important;
+  caret-color: #802700 !important;
+}
+.v-application .secondary2 {
+  background-color: #363636 !important;
+  border-color: #363636 !important;
+}
+.v-application .secondary2--text {
+  color: #363636 !important;
+  caret-color: #363636 !important;
+}
+.v-application .secondary2.lighten-5 {
+  background-color: #b2b2b2 !important;
+  border-color: #b2b2b2 !important;
+}
+.v-application .secondary2--text.text--lighten-5 {
+  color: #b2b2b2 !important;
+  caret-color: #b2b2b2 !important;
+}
+.v-application .secondary2.lighten-4 {
+  background-color: #979797 !important;
+  border-color: #979797 !important;
+}
+.v-application .secondary2--text.text--lighten-4 {
+  color: #979797 !important;
+  caret-color: #979797 !important;
+}
+.v-application .secondary2.lighten-3 {
+  background-color: #7e7e7e !important;
+  border-color: #7e7e7e !important;
+}
+.v-application .secondary2--text.text--lighten-3 {
+  color: #7e7e7e !important;
+  caret-color: #7e7e7e !important;
+}
+.v-application .secondary2.lighten-2 {
+  background-color: #656565 !important;
+  border-color: #656565 !important;
+}
+.v-application .secondary2--text.text--lighten-2 {
+  color: #656565 !important;
+  caret-color: #656565 !important;
+}
+.v-application .secondary2.lighten-1 {
+  background-color: #4d4d4d !important;
+  border-color: #4d4d4d !important;
+}
+.v-application .secondary2--text.text--lighten-1 {
+  color: #4d4d4d !important;
+  caret-color: #4d4d4d !important;
+}
+.v-application .secondary2.darken-1 {
+  background-color: #212121 !important;
+  border-color: #212121 !important;
+}
+.v-application .secondary2--text.text--darken-1 {
+  color: #212121 !important;
+  caret-color: #212121 !important;
+}
+.v-application .secondary2.darken-2 {
+  background-color: #0a0a0a !important;
+  border-color: #0a0a0a !important;
+}
+.v-application .secondary2--text.text--darken-2 {
+  color: #0a0a0a !important;
+  caret-color: #0a0a0a !important;
+}
+.v-application .secondary2.darken-3 {
+  background-color: #000000 !important;
+  border-color: #000000 !important;
+}
+.v-application .secondary2--text.text--darken-3 {
+  color: #000000 !important;
+  caret-color: #000000 !important;
+}
+.v-application .secondary2.darken-4 {
+  background-color: #000000 !important;
+  border-color: #000000 !important;
+}
+.v-application .secondary2--text.text--darken-4 {
+  color: #000000 !important;
+  caret-color: #000000 !important;
+}
+.v-application .tertiary {
+  background-color: #3e4a54 !important;
+  border-color: #3e4a54 !important;
+}
+.v-application .tertiary--text {
+  color: #3e4a54 !important;
+  caret-color: #3e4a54 !important;
+}
+.v-application .tertiary.lighten-5 {
+  background-color: #bdcad6 !important;
+  border-color: #bdcad6 !important;
+}
+.v-application .tertiary--text.text--lighten-5 {
+  color: #bdcad6 !important;
+  caret-color: #bdcad6 !important;
+}
+.v-application .tertiary.lighten-4 {
+  background-color: #a2afbb !important;
+  border-color: #a2afbb !important;
+}
+.v-application .tertiary--text.text--lighten-4 {
+  color: #a2afbb !important;
+  caret-color: #a2afbb !important;
+}
+.v-application .tertiary.lighten-3 {
+  background-color: #8794a0 !important;
+  border-color: #8794a0 !important;
+}
+.v-application .tertiary--text.text--lighten-3 {
+  color: #8794a0 !important;
+  caret-color: #8794a0 !important;
+}
+.v-application .tertiary.lighten-2 {
+  background-color: #6e7b86 !important;
+  border-color: #6e7b86 !important;
+}
+.v-application .tertiary--text.text--lighten-2 {
+  color: #6e7b86 !important;
+  caret-color: #6e7b86 !important;
+}
+.v-application .tertiary.lighten-1 {
+  background-color: #55626c !important;
+  border-color: #55626c !important;
+}
+.v-application .tertiary--text.text--lighten-1 {
+  color: #55626c !important;
+  caret-color: #55626c !important;
+}
+.v-application .tertiary.darken-1 {
+  background-color: #28333d !important;
+  border-color: #28333d !important;
+}
+.v-application .tertiary--text.text--darken-1 {
+  color: #28333d !important;
+  caret-color: #28333d !important;
+}
+.v-application .tertiary.darken-2 {
+  background-color: #131e27 !important;
+  border-color: #131e27 !important;
+}
+.v-application .tertiary--text.text--darken-2 {
+  color: #131e27 !important;
+  caret-color: #131e27 !important;
+}
+.v-application .tertiary.darken-3 {
+  background-color: #000513 !important;
+  border-color: #000513 !important;
+}
+.v-application .tertiary--text.text--darken-3 {
+  color: #000513 !important;
+  caret-color: #000513 !important;
+}
+.v-application .tertiary.darken-4 {
+  background-color: #000000 !important;
+  border-color: #000000 !important;
+}
+.v-application .tertiary--text.text--darken-4 {
+  color: #000000 !important;
+  caret-color: #000000 !important;
+}
+.v-application .lightBlack {
+  background-color: #231f20 !important;
+  border-color: #231f20 !important;
+}
+.v-application .lightBlack--text {
+  color: #231f20 !important;
+  caret-color: #231f20 !important;
+}
+.v-application .lightBlack.lighten-5 {
+  background-color: #9a9596 !important;
+  border-color: #9a9596 !important;
+}
+.v-application .lightBlack--text.text--lighten-5 {
+  color: #9a9596 !important;
+  caret-color: #9a9596 !important;
+}
+.v-application .lightBlack.lighten-4 {
+  background-color: #807b7d !important;
+  border-color: #807b7d !important;
+}
+.v-application .lightBlack--text.text--lighten-4 {
+  color: #807b7d !important;
+  caret-color: #807b7d !important;
+}
+.v-application .lightBlack.lighten-3 {
+  background-color: #676364 !important;
+  border-color: #676364 !important;
+}
+.v-application .lightBlack--text.text--lighten-3 {
+  color: #676364 !important;
+  caret-color: #676364 !important;
+}
+.v-application .lightBlack.lighten-2 {
+  background-color: #4f4b4c !important;
+  border-color: #4f4b4c !important;
+}
+.v-application .lightBlack--text.text--lighten-2 {
+  color: #4f4b4c !important;
+  caret-color: #4f4b4c !important;
+}
+.v-application .lightBlack.lighten-1 {
+  background-color: #383435 !important;
+  border-color: #383435 !important;
+}
+.v-application .lightBlack--text.text--lighten-1 {
+  color: #383435 !important;
+  caret-color: #383435 !important;
+}
+.v-application .lightBlack.darken-1 {
+  background-color: #0d0608 !important;
+  border-color: #0d0608 !important;
+}
+.v-application .lightBlack--text.text--darken-1 {
+  color: #0d0608 !important;
+  caret-color: #0d0608 !important;
+}
+.v-application .lightBlack.darken-2 {
+  background-color: #000000 !important;
+  border-color: #000000 !important;
+}
+.v-application .lightBlack--text.text--darken-2 {
+  color: #000000 !important;
+  caret-color: #000000 !important;
+}
+.v-application .lightBlack.darken-3 {
+  background-color: #000000 !important;
+  border-color: #000000 !important;
+}
+.v-application .lightBlack--text.text--darken-3 {
+  color: #000000 !important;
+  caret-color: #000000 !important;
+}
+.v-application .lightBlack.darken-4 {
+  background-color: #000000 !important;
+  border-color: #000000 !important;
+}
+.v-application .lightBlack--text.text--darken-4 {
+  color: #000000 !important;
+  caret-color: #000000 !important;
+}</style><script data-n-head="ssr" data-hid="gtm-script">if(!window._gtm_init){window._gtm_init=1;(function (w,n,d,m,e,p){w[d]=(w[d]==1||n[d]=='yes'||n[d]==1||n[m]==1||(w[e]&&w[e][p]&&w[e][p]()))?1:0})(window,navigator,'doNotTrack','msDoNotTrack','external','msTrackingProtectionEnabled');(function(w,d,s,l,x,y){w[x]={};w._gtm_inject=function(i){if(w.doNotTrack||w[x][i])return;w[x][i]=1;w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s);j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i;f.parentNode.insertBefore(j,f);};w[y]('GTM-526CVM')})(window,document,'script','dataLayer','_gtm_ids','_gtm_inject')}</script><script data-n-head="ssr" id="google-publisher-tag-lib-script" src="https://www.googletagservices.com/tag/js/gpt.js" async></script><script data-n-head="ssr" id="google-publisher-tag-init-script">var googletag = googletag || {};googletag.cmd = googletag.cmd || [];
+    googletag.cmd.push(function(){
+      googletag.pubads().enableSingleRequest();
+      googletag.pubads().disableInitialLoad();
+      
+      googletag.enableServices();
+    });
+  </script><script data-n-head="ssr" type="application/ld+json">{"@context":"https://schema.org","@type":"Organization","name":"DRUSHIM IL","url":"https://www.drushim.co.il/","logo":"https://www.drushim.co.il/images/logo.png","sameAs":["https://www.facebook.com/drushim.co.il?mibextid=ZbWKwL","https://www.linkedin.com/company/portal-drushim-israel","https://www.youtube.com/@drushim","https://www.instagram.com/drushim__il/?igshid=NTc4MTIwNjQ2YQ%3D%3D"]}</script><link rel="preload" href="/_nuxt/runtime.[10-24-2023].js?v=465aa59adde939256998" as="script"><link rel="preload" href="/_nuxt/commons/app.[10-24-2023].js?v=465aa59adde939256998" as="script"><link rel="preload" href="/_nuxt/vendors~app.[10-24-2023].css?v=465aa59adde939256998" as="style"><link rel="preload" href="/_nuxt/vendors~app.[10-24-2023].js?v=465aa59adde939256998" as="script"><link rel="preload" href="/_nuxt/app.[10-24-2023].css?v=465aa59adde939256998" as="style"><link rel="preload" href="/_nuxt/app.[10-24-2023].js?v=465aa59adde939256998" as="script"><link rel="stylesheet" href="/_nuxt/vendors~app.[10-24-2023].css?v=465aa59adde939256998"><link rel="stylesheet" href="/_nuxt/app.[10-24-2023].css?v=465aa59adde939256998">
+
+    <script>window.interdeal={sitekey:"cf433c0ac1b2d996056a4de8cc126acf",Position:"Left",Menulang:"HE",domains:{js:"https://js.nagich.co.il/",acc:"https://access.nagich.co.il/"},btnStyle:{color:{main:"#FF7100",second:"#fff"},vPosition:["72px","undefined"],scale:["0.5","0.5"],icon:{type:6,shape:"semicircle",outline:!0}}},function(c,e,i){var n=c.createElement("script");n.src="https://js.nagich.co.il/core/4.4.0/accessibility.js",n.defer=!0,n.integrity="sha512-3lGJBcuai1J0rGJHJj4e4lYOzm7K08oEHsg1Llt7x24OOsa/Ca0wwbSi9HhWUn92FKN3fylaq9xmIKVZnUsT3Q==",n.crossOrigin="anonymous",n.setAttribute("data-cfasync",!0),i?i.appendChild(n):e.appendChild(n)}(document,document.head,document.body)</script>
+    <style>ul#article-breadcrumbs{list-style:none}ul#article-breadcrumbs li{display:inline-flex}.v-breadcrumbs.breadcrumbs-container li.breadcrumb-item{list-style:none;align-items:center;display:inline-flex}.v-breadcrumbs.breadcrumbs-container li.breadcrumb-item a.v-breadcrumbs__item{color:#000}</style>
+    <!-- Hotjar Tracking Code for Drushim -->
+    <script>!function(t,h,e,j,s,n){t.hj=t.hj||function(){(t.hj.q=t.hj.q||[]).push(arguments)},t._hjSettings={hjid:3485849,hjsv:6},s=h.getElementsByTagName("head")[0],(n=h.createElement("script")).async=1,n.src="https://static.hotjar.com/c/hotjar-"+t._hjSettings.hjid+".js?sv="+t._hjSettings.hjsv,s.appendChild(n)}(window,document)</script>
+
+</head>
+
+
+
+<body >
+
+    <noscript>
+        <style>.noScript{display:none}</style>
+    </noscript>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-526CVM" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+    <noscript data-n-head="ssr" data-hid="gtm-noscript" data-pbody="true"><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-526CVM&" height="0" width="0" style="display:none;visibility:hidden" title="gtm"></iframe></noscript><div data-server-rendered="true" id="__nuxt"><div data-v-e55fff3e><!----></div><div id="__layout"><div data-app="true" app-data="true" id="app" class="v-application application--is-rtl main-app v-application--is-rtl theme--light"><div class="v-application--wrap"><div class="container grid-list-xl text-center nav-wrapper container--fluid grid-list-xs" data-v-73ce2a43 data-v-73ce2a43><div class="layout nav-items align-start justify-center mb-0 pa-0 ma-0" data-v-73ce2a43 data-v-73ce2a43><div id="mobile-menu-wrapper" data-v-4949f10c data-v-73ce2a43><button type="button" id="side-toolbar-icon" class="v-btn v-btn--flat v-btn--icon v-btn--round theme--light v-size--default" data-v-4949f10c><span class="v-btn__content"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAOCAYAAAAmL5yKAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAABFSURBVHgB7ZGxCQAgDAR9kJAyIzhCVnEyV02fImaFVIp48Hz1fHFQ1UFEKyKkFXH32bMNgGRK4zw0Zi6fvgi+hQs4b2EDKCsmQT16aakAAAAASUVORK5CYII=" alt="" data-v-4949f10c></span></button> <aside id="mobile-menu" class="v-navigation-drawer v-navigation-drawer--absolute v-navigation-drawer--close v-navigation-drawer--is-mobile v-navigation-drawer--right v-navigation-drawer--temporary theme--light" style="height:100%;top:0px;transform:translateX(100%);width:260px;" data-v-4949f10c><div class="v-navigation-drawer__content"><div role="list" class="v-list pa-1 v-sheet theme--light" data-v-4949f10c><!----> <div tabindex="-1" role="listitem" class="v-list-item theme--light" data-v-4949f10c><div id="inner-close" class="v-list-item__action" data-v-4949f10c><button type="button" aria-label="סגור תפריט" class="v-btn v-btn--flat v-btn--icon v-btn--round theme--light v-size--default" data-v-4949f10c><span class="v-btn__content"><img src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48IS0tIFVwbG9hZGVkIHRvOiBTVkcgUmVwbywgd3d3LnN2Z3JlcG8uY29tLCBHZW5lcmF0b3I6IFNWRyBSZXBvIE1peGVyIFRvb2xzIC0tPg0KPHN2ZyBmaWxsPSIjMDAwMDAwIiB3aWR0aD0iODAwcHgiIGhlaWdodD0iODAwcHgiIHZpZXdCb3g9IjAgMCAyNTYgMjU2IiBpZD0iRmxhdCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4NCiAgPHBhdGggZD0iTTIwMi44Mjg2MSwxOTcuMTcxODhhMy45OTk5MSwzLjk5OTkxLDAsMSwxLTUuNjU3MjIsNS42NTYyNEwxMjgsMTMzLjY1NzIzLDU4LjgyODYxLDIwMi44MjgxMmEzLjk5OTkxLDMuOTk5OTEsMCwwLDEtNS42NTcyMi01LjY1NjI0TDEyMi4zNDMsMTI4LDUzLjE3MTM5LDU4LjgyODEyYTMuOTk5OTEsMy45OTk5MSwwLDAsMSw1LjY1NzIyLTUuNjU2MjRMMTI4LDEyMi4zNDI3N2w2OS4xNzEzOS02OS4xNzA4OWEzLjk5OTkxLDMuOTk5OTEsMCwwLDEsNS42NTcyMiw1LjY1NjI0TDEzMy42NTcsMTI4WiIvPg0KPC9zdmc+" alt="" width="20px" data-v-4949f10c></span></button></div></div></div> <div role="list" class="v-list pt-0 v-sheet theme--light" data-v-4949f10c><div tabindex="-1" role="listitem" class="text-right v-list-item theme--light" data-v-4949f10c><div class="v-list-item__content list-item-row" data-v-4949f10c><a href="/categories.aspx" target="_self" class="white--text" data-v-4949f10c><div class="v-list-item__title" data-v-4949f10c><span data-v-4949f10c>
+                כל הקטגוריות
+              </span> <!----></div></a></div></div><div tabindex="-1" role="listitem" class="text-right v-list-item theme--light" data-v-4949f10c><div class="v-list-item__content list-item-row" data-v-4949f10c><a href="/companies.aspx" target="_self" class="white--text" data-v-4949f10c><div class="v-list-item__title" data-v-4949f10c><span data-v-4949f10c>
+                חברות מובילות
+              </span> <!----></div></a></div></div><div tabindex="-1" role="listitem" class="text-right v-list-item theme--light" data-v-4949f10c><div class="v-list-item__content list-item-row" data-v-4949f10c><a href="/דרושים-הייטק/" target="_self" class="white--text" data-v-4949f10c><div class="v-list-item__title" data-v-4949f10c><span data-v-4949f10c>
+                דרושים הייטק
+              </span> <!----></div></a></div></div><div tabindex="-1" role="listitem" class="text-right v-list-item theme--light" data-v-4949f10c><div class="v-list-item__content list-item-row" data-v-4949f10c><a href="/משרות-ללא-קורות-חיים/?cv=1" target="_self" class="white--text" data-v-4949f10c><div class="v-list-item__title no-cv-badge" data-v-4949f10c><span data-v-4949f10c>
+                משרות ללא קו&quot;ח
+              </span> <img src="/stamp-menu.png" data-v-4949f10c></div></a></div></div><div tabindex="-1" role="listitem" class="text-right v-list-item theme--light" data-v-4949f10c><div class="v-list-item__content list-item-row" data-v-4949f10c><a href="/קורות-חיים/" target="_self" class="white--text" data-v-4949f10c><div class="v-list-item__title" data-v-4949f10c><span data-v-4949f10c>
+                קורות חיים בקליק
+              </span> <!----></div></a></div></div><div tabindex="-1" role="listitem" class="text-right v-list-item theme--light" data-v-4949f10c><div class="v-list-item__content list-item-row" data-v-4949f10c><a href="/articles/" target="_self" class="white--text" data-v-4949f10c><div class="v-list-item__title" data-v-4949f10c><span data-v-4949f10c>
+                מגזין קריירה
+              </span> <!----></div></a></div></div><div tabindex="-1" role="listitem" class="text-right v-list-item theme--light" data-v-4949f10c><div class="v-list-item__content list-item-row" data-v-4949f10c><a href="/contactus.aspx" target="_self" class="white--text" data-v-4949f10c><div class="v-list-item__title" data-v-4949f10c><span data-v-4949f10c>
+                צור קשר
+              </span> <!----></div></a></div></div><div tabindex="-1" role="listitem" class="text-right v-list-item theme--light" data-v-4949f10c><div class="v-list-item__content list-item-row" data-v-4949f10c><a href="/smartalerts.aspx" target="_self" class="white--text" data-v-4949f10c><div class="v-list-item__title" data-v-4949f10c><span data-v-4949f10c>הסוכנת החכמה</span> <!----></div></a></div></div> <div tabindex="-1" role="listitem" class="mt-12 white--text text-right v-list-item theme--light" data-v-4949f10c><div class="v-list-item__content list-item-row" data-v-4949f10c><a href="/myJobs.aspx" class="white--text" data-v-4949f10c><div class="v-list-item__title" data-v-4949f10c><i aria-hidden="true" class="v-icon notranslate icon-like white--text material-icons theme--light" data-v-4949f10c></i>
+              משרות שאהבתי
+            </div></a></div></div> <div tabindex="-1" role="listitem" class="v-list-item theme--light" data-v-4949f10c><div class="v-list-item__content list-item-row" data-v-4949f10c><a href="https://admin.drushim.co.il/home/" data-v-4949f10c><div class="v-list-item__title" data-v-4949f10c><i aria-hidden="true" class="v-icon notranslate icon-megaphone-7 material-icons theme--light" data-v-4949f10c></i>
+              גיוס עובדים
+            </div></a></div></div> <div tabindex="-1" role="listitem" class="white-text text-right v-list-item theme--light" data-v-4949f10c><div class="v-list-item__content" style="display:none;" data-v-4949f10c><a href="/#" data-v-4949f10c><div class="v-list-item__title" data-v-4949f10c><i aria-hidden="true" class="v-icon notranslate icon-user material-icons theme--light primary--text text--lighten-1" data-v-4949f10c></i>
+              יציאה
+            </div></a></div></div></div></div><div class="v-navigation-drawer__border"></div></aside></div> <div class="flex main-toolbar pa-0" data-v-73ce2a43 data-v-73ce2a43><header text="" justify-space-between="" class="transparent pa-0 elevation-0 nav-bar v-sheet theme--light v-toolbar v-toolbar--dense v-app-bar v-app-bar--fixed" style="height:48px;margin-top:0px;transform:translateY(0px);left:0px;right:0px;position:inherit;" data-v-73ce2a43><div class="v-toolbar__content" style="height:48px;"><div id="headerMenu" pa-0="" class="v-toolbar__items" data-v-73ce2a43><a href="/" aria-current="page" title="דרושים IL" class="border-none headerLogo nuxt-link-exact-active nuxt-link-active" data-v-288f2feb data-v-73ce2a43><img src="/_nuxt/img/logo.e75be30.svg" width="100%" height="100%" alt="דרושים IL" data-v-288f2feb></a> <div class="menu-item" data-v-73ce2a43><a href="/categories.aspx" title="כל הקטגוריות" class="'menu-items-border v-btn v-btn--text text hidden-sm-and-down' d-link"><span class="d-nowrap"><span>כל הקטגוריות</span></span> <span class="d-wrap"><span>כל הקטגוריות</span></span> <!----></a></div><div class="menu-item" data-v-73ce2a43><a href="/companies.aspx" title="חברות מובילות" class="'menu-items-border v-btn v-btn--text text hidden-sm-and-down' d-link"><span class="d-nowrap"><span>חברות מובילות</span></span> <span class="d-wrap"><span>חברות מובילות</span></span> <!----></a></div><div class="menu-item" data-v-73ce2a43><a href="/דרושים-הייטק/" title="דרושים הייטק" class="'menu-items-border v-btn v-btn--text text hidden-sm-and-down' d-link"><span class="d-nowrap"><span>דרושים הייטק</span></span> <span class="d-wrap"><span>דרושים הייטק</span></span> <!----></a></div><div class="menu-item" data-v-73ce2a43><a href="/משרות-ללא-קורות-חיים/?cv=1" title="משרות ללא קו&quot;ח" class="'menu-items-border v-btn v-btn--text text hidden-sm-and-down' d-link"><span class="d-nowrap"><span>משרות ללא קו"ח</span></span> <span class="d-wrap"><span>משרות ללא קו"ח</span></span> <span class="new-agent">חדש</span></a></div><div class="menu-item" data-v-73ce2a43><a href="/קורות-חיים/" title="קורות חיים בקליק" class="'menu-items-border v-btn v-btn--text text hidden-sm-and-down' d-link"><span class="d-nowrap"><span>קורות חיים בקליק</span></span> <span class="d-wrap"><span>קורות חיים</br>בקליק</span></span> <!----></a></div><div class="menu-item" data-v-73ce2a43><a href="/articles/" title="מגזין קריירה" class="'menu-items-border v-btn v-btn--text text hidden-sm-and-down' d-link"><span class="d-nowrap"><span>מגזין קריירה</span></span> <span class="d-wrap"><span>מגזין</br>קריירה</span></span> <!----></a></div><div class="menu-item" data-v-73ce2a43><a href="/contactus.aspx" title="צור קשר" class="'menu-items-border v-btn v-btn--text text hidden-sm-and-down' d-link"><span class="d-nowrap"><span>צור קשר</span></span> <span class="d-wrap"><span>צור</br>קשר</span></span> <!----></a></div><div class="menu-item" data-v-73ce2a43><a href="/smartalerts.aspx" title="הסוכנת החכמה" class="'menu-items-border v-btn v-btn--text text hidden-sm-and-down'"><span class="d-nowrap"><span>הסוכנת החכמה</span></span> <span class="d-wrap"><span>הסוכנת החכמה</span></span> <!----></a></div></div> <div pa-0="" class="v-toolbar__items" data-v-73ce2a43><div mt-2="" id="user-menu" class="layout align-center justify-end ma-0 user-menu" data-v-62f58da1 data-v-62f58da1 data-v-73ce2a43><div class="flex mobile-smart sm4" data-v-62f58da1 data-v-62f58da1><a href="/smartalerts.aspx" title="הסוכנת החכמה" id="mobile-smart-btn" class="v-btn v-btn--text text" data-v-62f58da1><img src="/_nuxt/img/avatar.d519f99.svg" alt="" width="40" data-v-62f58da1></a></div> <div class="flex" data-v-62f58da1 data-v-62f58da1><a href="/myjobs.aspx" id="like-btn" text="" title="משרות שאהבתי" class="favorites-jobs-btn d-block" data-v-70668a84 data-v-62f58da1><!----> <img src="/_nuxt/img/heart.038e90a.svg" class="like-sum-icon" data-v-70668a84></a></div> <div class="flex pa-0" data-v-62f58da1 data-v-62f58da1><div id="user-menu-wrapper" data-v-62f58da1><!----></div></div> <div class="flex hidden-sm-and-down" data-v-62f58da1 data-v-62f58da1><a href="https://admin.drushim.co.il/home/" id="publish-job" class="ma-0 pa-0 primary--text v-btn v-btn--flat v-btn--text theme--light v-size--default" data-v-206bf307 data-v-62f58da1><span class="v-btn__content"><span class="btn-text" data-v-206bf307>גיוס עובדים</span></span></a></div></div></div></div></header></div></div></div> <div data-v-0d4afd1a><div id="no-cv-top" data-v-0d4afd1a><a href="/משרות-ללא-קורות-חיים/?cv=1" class="no-underline white--text" data-v-0d4afd1a>
+      משרות ללא קו”ח &gt;
+    </a> <span class="no-cv-stamp" data-v-0d4afd1a><img src="/stamp-hp.png" data-v-0d4afd1a></span></div> <div class="top-board-wrap" data-v-0d4afd1a><div class="container container--fluid pa-0 ma-0" data-v-0d4afd1a><div id="home-board" relaive="" class="row"><div xs="12" class="col-md-10 col-lg-6 col-12"><div class="layout home-board-content column"><div class="flex text-center"><h1 class="home-board-hdr"><span class="d-block l1">
+              ככה מחפשים היום עבודה
+            </span> <span class="mob-display d-block l2 mt-2 mb-4">
+              אלפי משרות מחכות רק לכם
+            </span></h1></div> <div id="home-search" class="flex xs6 text-center"><div class="container container--fluid py-0" data-v-ba52eebc data-v-ba52eebc><div id="sticky-wrapper" class="row" data-v-ba52eebc data-v-ba52eebc><div id="AutoCompleteSearchBox" class="pt-0 col-lg-12 col-12" data-v-ba52eebc data-v-ba52eebc><!----> <!----></div> <!----></div></div></div> <div class="row links-wrapper"><div class="popular-links pl-0 col"><div><p>חיפושים פופולריים:</p></div> <div class="links-wrapper-inner"><a href="/jobs/subcat/669/" title="התנדבות" class="volunteer">התנדבות</a> <a href="/jobs/search/משרה%20חיונית%20לשעת%20חירום/?ssaen=1" title="משרות לשעת חירום" class="volunteer">משרות לשעת חירום</a> <a href="/jobs/search/משרה%20זמנית/?ssaen=1" title="משרה זמנית" class="volunteer">משרה זמנית</a></div></div> <div class="show-all-selection-wrapper col"><p class="pointer show-all-selection text-no-wrap">
+                בחירה מרשימת הקטגוריות המלאה &gt;
+              </p> <div data-fetch-key="0" class="layout drop-down-wrapper xs12" style="display:none;" data-v-3e7cef5e data-v-3e7cef5e><div class="flex" data-v-3e7cef5e data-v-3e7cef5e><div class="drop-down pt-4 pb-4 pl-6 pr-6 v-card v-card--raised v-sheet theme--light" data-v-3e7cef5e><div class="v-card__title d-flex rtl pa-0 titleCats" data-v-3e7cef5e><div class="pa-0 ma-0 col col-6" data-v-3e7cef5e><p class="pa-0 ma-0" data-v-3e7cef5e>בחירת קטגוריה</p></div> <div class="pa-0 ma-0 text-left col col-6" data-v-3e7cef5e><span class="text-left pa-0 ma-0" data-v-3e7cef5e><i aria-hidden="true" id="cat-close-x" class="v-icon notranslate icon-forma-1-2 pointer display-18 material-icons theme--light" data-v-3e7cef5e></i></span></div></div> <div class="v-card__text rtl text-right px-0 pt-1" data-v-3e7cef5e><div class="row px-0" data-v-3e7cef5e><div xs="6" class="py-2 pb-1 col-sm-6 col-md-4 col-lg-4 col-xl-4 col-6" data-v-3e7cef5e><a href="/jobs/cat30" target="_self" data-cy="cy-cat-item" title="אבטחת מידע" class="display-14 black--text no-underline d-flex" data-v-3e7cef5e><span class="inline-flex display-14 cat-name" data-v-3e7cef5e>
+                אבטחת מידע
+              </span></a></div><div xs="6" class="py-2 pb-1 col-sm-6 col-md-4 col-lg-4 col-xl-4 col-6" data-v-3e7cef5e><a href="/jobs/cat1" target="_self" data-cy="cy-cat-item" title="אדמיניסטרציה" class="display-14 black--text no-underline d-flex" data-v-3e7cef5e><span class="inline-flex display-14 cat-name" data-v-3e7cef5e>
+                אדמיניסטרציה
+              </span></a></div><div xs="6" class="py-2 pb-1 col-sm-6 col-md-4 col-lg-4 col-xl-4 col-6" data-v-3e7cef5e><a href="/jobs/cat32" target="_self" data-cy="cy-cat-item" title="אופנה" class="display-14 black--text no-underline d-flex" data-v-3e7cef5e><span class="inline-flex display-14 cat-name" data-v-3e7cef5e>
+                אופנה
+              </span></a></div><div xs="6" class="py-2 pb-1 col-sm-6 col-md-4 col-lg-4 col-xl-4 col-6" data-v-3e7cef5e><a href="/jobs/cat28" target="_self" data-cy="cy-cat-item" title="אינטרנט" class="display-14 black--text no-underline d-flex" data-v-3e7cef5e><span class="inline-flex display-14 cat-name" data-v-3e7cef5e>
+                אינטרנט
+              </span></a></div><div xs="6" class="py-2 pb-1 col-sm-6 col-md-4 col-lg-4 col-xl-4 col-6" data-v-3e7cef5e><a href="/jobs/cat23" target="_self" data-cy="cy-cat-item" title="ביטוח" class="display-14 black--text no-underline d-flex" data-v-3e7cef5e><span class="inline-flex display-14 cat-name" data-v-3e7cef5e>
+                ביטוח
+              </span></a></div><div xs="6" class="py-2 pb-1 col-sm-6 col-md-4 col-lg-4 col-xl-4 col-6" data-v-3e7cef5e><a href="/jobs/cat2" target="_self" data-cy="cy-cat-item" title="בכירים / ניהול" class="display-14 black--text no-underline d-flex" data-v-3e7cef5e><span class="inline-flex display-14 cat-name" data-v-3e7cef5e>
+                בכירים / ניהול
+              </span></a></div><div xs="6" class="py-2 pb-1 col-sm-6 col-md-4 col-lg-4 col-xl-4 col-6" data-v-3e7cef5e><a href="/jobs/cat35" target="_self" data-cy="cy-cat-item" title="בנייה ונדל&quot;ן" class="display-14 black--text no-underline d-flex" data-v-3e7cef5e><span class="inline-flex display-14 cat-name" data-v-3e7cef5e>
+                בנייה ונדל&quot;ן
+              </span></a></div><div xs="6" class="py-2 pb-1 col-sm-6 col-md-4 col-lg-4 col-xl-4 col-6" data-v-3e7cef5e><a href="/jobs/cat3" target="_self" data-cy="cy-cat-item" title="בעלי מקצוע" class="display-14 black--text no-underline d-flex" data-v-3e7cef5e><span class="inline-flex display-14 cat-name" data-v-3e7cef5e>
+                בעלי מקצוע
+              </span></a></div><div xs="6" class="py-2 pb-1 col-sm-6 col-md-4 col-lg-4 col-xl-4 col-6" data-v-3e7cef5e><a href="/jobs/cat7" target="_self" data-cy="cy-cat-item" title="הדרכה / הוראה" class="display-14 black--text no-underline d-flex" data-v-3e7cef5e><span class="inline-flex display-14 cat-name" data-v-3e7cef5e>
+                הדרכה / הוראה
+              </span></a></div><div xs="6" class="py-2 pb-1 col-sm-6 col-md-4 col-lg-4 col-xl-4 col-6" data-v-3e7cef5e><a href="/jobs/cat24" target="_self" data-cy="cy-cat-item" title="הייטק-QA" class="display-14 black--text no-underline d-flex" data-v-3e7cef5e><span class="inline-flex display-14 cat-name" data-v-3e7cef5e>
+                הייטק-QA
+              </span></a></div><div xs="6" class="py-2 pb-1 col-sm-6 col-md-4 col-lg-4 col-xl-4 col-6" data-v-3e7cef5e><a href="/jobs/cat4" target="_self" data-cy="cy-cat-item" title="הייטק-חומרה" class="display-14 black--text no-underline d-flex" data-v-3e7cef5e><span class="inline-flex display-14 cat-name" data-v-3e7cef5e>
+                הייטק-חומרה
+              </span></a></div><div xs="6" class="py-2 pb-1 col-sm-6 col-md-4 col-lg-4 col-xl-4 col-6" data-v-3e7cef5e><a href="/jobs/cat5" target="_self" data-cy="cy-cat-item" title="הייטק-כללי" class="display-14 black--text no-underline d-flex" data-v-3e7cef5e><span class="inline-flex display-14 cat-name" data-v-3e7cef5e>
+                הייטק-כללי
+              </span></a></div><div xs="6" class="py-2 pb-1 col-sm-6 col-md-4 col-lg-4 col-xl-4 col-6" data-v-3e7cef5e><a href="/jobs/cat6" target="_self" data-cy="cy-cat-item" title="הייטק-תוכנה" class="display-14 black--text no-underline d-flex" data-v-3e7cef5e><span class="inline-flex display-14 cat-name" data-v-3e7cef5e>
+                הייטק-תוכנה
+              </span></a></div><div xs="6" class="py-2 pb-1 col-sm-6 col-md-4 col-lg-4 col-xl-4 col-6" data-v-3e7cef5e><a href="/jobs/cat10" target="_self" data-cy="cy-cat-item" title="הנדסה" class="display-14 black--text no-underline d-flex" data-v-3e7cef5e><span class="inline-flex display-14 cat-name" data-v-3e7cef5e>
+                הנדסה
+              </span></a></div><div xs="6" class="py-2 pb-1 col-sm-6 col-md-4 col-lg-4 col-xl-4 col-6" data-v-3e7cef5e><a href="/jobs/cat36" target="_self" data-cy="cy-cat-item" title="התנדבות" class="display-14 black--text no-underline d-flex" data-v-3e7cef5e><span class="inline-flex display-14 cat-name" data-v-3e7cef5e>
+                התנדבות
+              </span></a></div><div xs="6" class="py-2 pb-1 col-sm-6 col-md-4 col-lg-4 col-xl-4 col-6" data-v-3e7cef5e><a href="/jobs/cat34" target="_self" data-cy="cy-cat-item" title="יופי, טיפוח וספא" class="display-14 black--text no-underline d-flex" data-v-3e7cef5e><span class="inline-flex display-14 cat-name" data-v-3e7cef5e>
+                יופי, טיפוח וספא
+              </span></a></div><div xs="6" class="py-2 pb-1 col-sm-6 col-md-4 col-lg-4 col-xl-4 col-6" data-v-3e7cef5e><a href="/jobs/cat8" target="_self" data-cy="cy-cat-item" title="כללי" class="display-14 black--text no-underline d-flex" data-v-3e7cef5e><span class="inline-flex display-14 cat-name" data-v-3e7cef5e>
+                כללי
+              </span></a></div><div xs="6" class="py-2 pb-1 col-sm-6 col-md-4 col-lg-4 col-xl-4 col-6" data-v-3e7cef5e><a href="/jobs/cat9" target="_self" data-cy="cy-cat-item" title="כספים / שוק ההון" class="display-14 black--text no-underline d-flex" data-v-3e7cef5e><span class="inline-flex display-14 cat-name" data-v-3e7cef5e>
+                כספים / שוק ההון
+              </span></a></div><div xs="6" class="py-2 pb-1 col-sm-6 col-md-4 col-lg-4 col-xl-4 col-6" data-v-3e7cef5e><a href="/jobs/cat21" target="_self" data-cy="cy-cat-item" title="לוגיסטיקה / שילוח" class="display-14 black--text no-underline d-flex" data-v-3e7cef5e><span class="inline-flex display-14 cat-name" data-v-3e7cef5e>
+                לוגיסטיקה / שילוח
+              </span></a></div><div xs="6" class="py-2 pb-1 col-sm-6 col-md-4 col-lg-4 col-xl-4 col-6" data-v-3e7cef5e><a href="/jobs/cat20" target="_self" data-cy="cy-cat-item" title="מדעים / ביוטק" class="display-14 black--text no-underline d-flex" data-v-3e7cef5e><span class="inline-flex display-14 cat-name" data-v-3e7cef5e>
+                מדעים / ביוטק
+              </span></a></div><div xs="6" class="py-2 pb-1 col-sm-6 col-md-4 col-lg-4 col-xl-4 col-6" data-v-3e7cef5e><a href="/jobs/cat17" target="_self" data-cy="cy-cat-item" title="מכירות" class="display-14 black--text no-underline d-flex" data-v-3e7cef5e><span class="inline-flex display-14 cat-name" data-v-3e7cef5e>
+                מכירות
+              </span></a></div><div xs="6" class="py-2 pb-1 col-sm-6 col-md-4 col-lg-4 col-xl-4 col-6" data-v-3e7cef5e><a href="/jobs/cat12" target="_self" data-cy="cy-cat-item" title="מלונאות / מסעדנות" class="display-14 black--text no-underline d-flex" data-v-3e7cef5e><span class="inline-flex display-14 cat-name" data-v-3e7cef5e>
+                מלונאות / מסעדנות
+              </span></a></div><div xs="6" class="py-2 pb-1 col-sm-6 col-md-4 col-lg-4 col-xl-4 col-6" data-v-3e7cef5e><a href="/jobs/cat13" target="_self" data-cy="cy-cat-item" title="משאבי אנוש" class="display-14 black--text no-underline d-flex" data-v-3e7cef5e><span class="inline-flex display-14 cat-name" data-v-3e7cef5e>
+                משאבי אנוש
+              </span></a></div><div xs="6" class="py-2 pb-1 col-sm-6 col-md-4 col-lg-4 col-xl-4 col-6" data-v-3e7cef5e><a href="/jobs/cat19" target="_self" data-cy="cy-cat-item" title="עבודה מהבית" class="display-14 black--text no-underline d-flex" data-v-3e7cef5e><span class="inline-flex display-14 cat-name" data-v-3e7cef5e>
+                עבודה מהבית
+              </span></a></div><div xs="6" class="py-2 pb-1 col-sm-6 col-md-4 col-lg-4 col-xl-4 col-6" data-v-3e7cef5e><a href="/jobs/cat26" target="_self" data-cy="cy-cat-item" title="עיצוב" class="display-14 black--text no-underline d-flex" data-v-3e7cef5e><span class="inline-flex display-14 cat-name" data-v-3e7cef5e>
+                עיצוב
+              </span></a></div><div xs="6" class="py-2 pb-1 col-sm-6 col-md-4 col-lg-4 col-xl-4 col-6" data-v-3e7cef5e><a href="/jobs/cat14" target="_self" data-cy="cy-cat-item" title="עריכת דין" class="display-14 black--text no-underline d-flex" data-v-3e7cef5e><span class="inline-flex display-14 cat-name" data-v-3e7cef5e>
+                עריכת דין
+              </span></a></div><div xs="6" class="py-2 pb-1 col-sm-6 col-md-4 col-lg-4 col-xl-4 col-6" data-v-3e7cef5e><a href="/jobs/cat15" target="_self" data-cy="cy-cat-item" title="פרסום / מדיה / תקשורת" class="display-14 black--text no-underline d-flex" data-v-3e7cef5e><span class="inline-flex display-14 cat-name" data-v-3e7cef5e>
+                פרסום / מדיה / תקשורת
+              </span></a></div><div xs="6" class="py-2 pb-1 col-sm-6 col-md-4 col-lg-4 col-xl-4 col-6" data-v-3e7cef5e><a href="/jobs/cat33" target="_self" data-cy="cy-cat-item" title="קמעונאות" class="display-14 black--text no-underline d-flex" data-v-3e7cef5e><span class="inline-flex display-14 cat-name" data-v-3e7cef5e>
+                קמעונאות
+              </span></a></div><div xs="6" class="py-2 pb-1 col-sm-6 col-md-4 col-lg-4 col-xl-4 col-6" data-v-3e7cef5e><a href="/jobs/cat29" target="_self" data-cy="cy-cat-item" title="רכב / תחבורה" class="display-14 black--text no-underline d-flex" data-v-3e7cef5e><span class="inline-flex display-14 cat-name" data-v-3e7cef5e>
+                רכב / תחבורה
+              </span></a></div><div xs="6" class="py-2 pb-1 col-sm-6 col-md-4 col-lg-4 col-xl-4 col-6" data-v-3e7cef5e><a href="/jobs/cat16" target="_self" data-cy="cy-cat-item" title="רפואה / בריאות" class="display-14 black--text no-underline d-flex" data-v-3e7cef5e><span class="inline-flex display-14 cat-name" data-v-3e7cef5e>
+                רפואה / בריאות
+              </span></a></div><div xs="6" class="py-2 pb-1 col-sm-6 col-md-4 col-lg-4 col-xl-4 col-6" data-v-3e7cef5e><a href="/jobs/cat27" target="_self" data-cy="cy-cat-item" title="שיווק" class="display-14 black--text no-underline d-flex" data-v-3e7cef5e><span class="inline-flex display-14 cat-name" data-v-3e7cef5e>
+                שיווק
+              </span></a></div><div xs="6" class="py-2 pb-1 col-sm-6 col-md-4 col-lg-4 col-xl-4 col-6" data-v-3e7cef5e><a href="/jobs/cat11" target="_self" data-cy="cy-cat-item" title="שירות לקוחות" class="display-14 black--text no-underline d-flex" data-v-3e7cef5e><span class="inline-flex display-14 cat-name" data-v-3e7cef5e>
+                שירות לקוחות
+              </span></a></div><div xs="6" class="py-2 pb-1 col-sm-6 col-md-4 col-lg-4 col-xl-4 col-6" data-v-3e7cef5e><a href="/jobs/cat25" target="_self" data-cy="cy-cat-item" title="שמירה / אבטחה" class="display-14 black--text no-underline d-flex" data-v-3e7cef5e><span class="inline-flex display-14 cat-name" data-v-3e7cef5e>
+                שמירה / אבטחה
+              </span></a></div><div xs="6" class="py-2 pb-1 col-sm-6 col-md-4 col-lg-4 col-xl-4 col-6" data-v-3e7cef5e><a href="/jobs/cat31" target="_self" data-cy="cy-cat-item" title="תיירות/ תעופה" class="display-14 black--text no-underline d-flex" data-v-3e7cef5e><span class="inline-flex display-14 cat-name" data-v-3e7cef5e>
+                תיירות/ תעופה
+              </span></a></div><div xs="6" class="py-2 pb-1 col-sm-6 col-md-4 col-lg-4 col-xl-4 col-6" data-v-3e7cef5e><a href="/jobs/cat18" target="_self" data-cy="cy-cat-item" title="תעשיה / ייצור" class="display-14 black--text no-underline d-flex" data-v-3e7cef5e><span class="inline-flex display-14 cat-name" data-v-3e7cef5e>
+                תעשיה / ייצור
+              </span></a></div></div></div></div></div></div></div></div></div></div></div></div></div> <!----> <div class="recommender-holder" data-v-0d4afd1a><!----></div> <a href="/article/87/" class="d-block" data-v-dbba2c02 data-v-0d4afd1a><div class="container pt-0" data-v-dbba2c02><div class="row banner align-center justify-center mobile-img" data-v-dbba2c02><!----> <div class="text-center salary-box col-md-1 col-3" data-v-dbba2c02><img src="/_nuxt/img/price-list.25e3c72.svg" class="salary-img" data-v-dbba2c02></div> <div class="text-col col" data-v-dbba2c02><span class="hdr1" data-v-dbba2c02>
+          כמה אתם
+          <br class="brh" data-v-dbba2c02>
+          אמורים להרוויח &gt;
+        </span> <span class="d-block hdr2" data-v-dbba2c02>
+          טבלאות שכר מעודכנות
+          <br class="brh" data-v-dbba2c02>
+          לשנת 2023
+        </span></div> <!----></div></div></a> <div class="container" data-v-8490eb80 data-v-8490eb80 data-v-0d4afd1a><div class="row justify-center mt-1" data-v-8490eb80 data-v-8490eb80><div class="col" data-v-8490eb80 data-v-8490eb80><h2 class="mentors-headline primary--text text-center" data-v-8490eb80>מנטורים IL</h2></div></div> <div class="row mentors-text display-24 justify-center secondary2--text text-center mb-5" data-v-8490eb80 data-v-8490eb80>
+    ריכזנו עבורכם מגוון סרטוני הדרכה של
+    <br data-v-8490eb80>
+    המומחים שלנו בנושאים
+    <!---->
+    הכי חמים של
+    <br data-v-8490eb80>
+    עולם העבודה
+  </div> <div data-fetch-key="1" class="row text-center articles-container section_inner mt-2" data-v-eae8a952 data-v-eae8a952 data-v-8490eb80><div class="article-tip pointer col-sm-4 col-lg-4 col-12" data-v-eae8a952 data-v-eae8a952><i aria-hidden="true" class="v-icon notranslate play-icon mdi mdi-play-circle-outline theme--light" style="font-size:68px;color:#ffffff;caret-color:#ffffff;" data-v-eae8a952></i> <span class="white--text img-text pa-2" data-v-eae8a952>איך מגייסים מסתכלים על קורות החיים שלכם?</span> <div class="v-image v-responsive rounded article-img theme--light" data-v-eae8a952><div class="v-image__image v-image__image--preload v-image__image--cover" style="background-image:;background-position:center center;"></div><div class="v-responsive__content"></div></div></div><div class="article-tip pointer col-sm-4 col-lg-4 col-12" data-v-eae8a952 data-v-eae8a952><i aria-hidden="true" class="v-icon notranslate play-icon mdi mdi-play-circle-outline theme--light" style="font-size:68px;color:#ffffff;caret-color:#ffffff;" data-v-eae8a952></i> <span class="white--text img-text pa-2" data-v-eae8a952>איך מתחילים לחפש עבודה?</span> <div class="v-image v-responsive rounded article-img theme--light" data-v-eae8a952><div class="v-image__image v-image__image--preload v-image__image--cover" style="background-image:;background-position:center center;"></div><div class="v-responsive__content"></div></div></div><div class="article-tip pointer col-sm-4 col-lg-4 col-12" data-v-eae8a952 data-v-eae8a952><i aria-hidden="true" class="v-icon notranslate play-icon mdi mdi-play-circle-outline theme--light" style="font-size:68px;color:#ffffff;caret-color:#ffffff;" data-v-eae8a952></i> <span class="white--text img-text pa-2" data-v-eae8a952>איך למצוא עבודה בהייטק ללא ניסיון?</span> <div class="v-image v-responsive rounded article-img theme--light" data-v-eae8a952><div class="v-image__image v-image__image--preload v-image__image--cover" style="background-image:;background-position:center center;"></div><div class="v-responsive__content"></div></div></div></div> <div class="row text-center mt-8" data-v-8490eb80 data-v-8490eb80><div class="col" data-v-8490eb80 data-v-8490eb80><a href="/articles/cat10/" data-v-8490eb80><button type="button" class="btn-all v-btn v-btn--contained v-btn--rounded theme--light v-size--default primary" data-v-8490eb80><span class="v-btn__content">
+          לכל סרטוני ההדרכה
+        </span></button></a></div></div></div> <a href="/מדד-תעסוקה/#utm_source=hp&amp;utm_medium=banner" class="d-block my-6" data-v-14510d19 data-v-0d4afd1a><div class="container pt-0" data-v-14510d19><div class="row banner align-center justify-center mobile-img" data-v-14510d19><!----> <div class="text-center salary-box col-md-1 col-3" data-v-14510d19><img src="/_nuxt/img/dashboard.fe0e980.png" class="salary-img" data-v-14510d19></div> <div class="text-col col" data-v-14510d19><span class="hdr1" data-v-14510d19>
+          מדד התעסוקה של דרושים &gt;
+          <br class="brh" data-v-14510d19></span> <span class="d-block hdr2" data-v-14510d19>
+          להתקדם עם הקריירה
+          <br class="brh" data-v-14510d19>
+          שלכם בזמן אמת
+        </span></div> <!----></div></div></a> <!----> <div id="section-tips" class="container" data-v-8cef6dc4 data-v-8cef6dc4 data-v-0d4afd1a><div class="layout justify-center align-center column" data-v-8cef6dc4 data-v-8cef6dc4><div class="flex text-center" data-v-8cef6dc4 data-v-8cef6dc4><h2 class="primary--text mt-2 mb-4" data-v-8cef6dc4><span data-v-8cef6dc4>טיפים לקריירה ומציאת עבודה</span></h2></div> <div class="container" data-v-8cef6dc4 data-v-8cef6dc4><div class="layout section_inner text-center align-center wrap justify-space-between" data-v-8cef6dc4 data-v-8cef6dc4><div class="flex section-tips-item row grow d-flex d-center lg3 md3 xs6" data-v-8cef6dc4 data-v-8cef6dc4><a href="https://www.drushim.co.il/article/411" data-v-fb7da1de data-v-8cef6dc4><div class="ma-2 v-card v-card--flat v-sheet theme--light" data-v-fb7da1de><div class="v-image v-responsive theme--light" data-v-fb7da1de><div class="v-responsive__sizer" style="padding-bottom:76.92307692307692%;"></div><div class="v-image__image v-image__image--preload v-image__image--cover" style="background-image:;background-position:center center;"></div><div class="v-responsive__content"></div></div> <div class="v-card__text text-xs-center" data-v-fb7da1de><span class="display-18 black--text" data-v-fb7da1de>איך נרשמים לסוכן החכם ומה יש באזור האישי?</span></div></div></a></div><div class="flex section-tips-item row grow d-flex d-center lg3 md3 xs6" data-v-8cef6dc4 data-v-8cef6dc4><a href="https://www.drushim.co.il/article/127" data-v-fb7da1de data-v-8cef6dc4><div class="ma-2 v-card v-card--flat v-sheet theme--light" data-v-fb7da1de><div class="v-image v-responsive theme--light" data-v-fb7da1de><div class="v-responsive__sizer" style="padding-bottom:76.92307692307692%;"></div><div class="v-image__image v-image__image--preload v-image__image--cover" style="background-image:;background-position:center center;"></div><div class="v-responsive__content"></div></div> <div class="v-card__text text-xs-center" data-v-fb7da1de><span class="display-18 black--text" data-v-fb7da1de>מדריך למציאת העבודה הראשונה - ללא ניסיון</span></div></div></a></div><div class="flex section-tips-item row grow d-flex d-center lg3 md3 xs6" data-v-8cef6dc4 data-v-8cef6dc4><a href="https://www.drushim.co.il/article/410" data-v-fb7da1de data-v-8cef6dc4><div class="ma-2 v-card v-card--flat v-sheet theme--light" data-v-fb7da1de><div class="v-image v-responsive theme--light" data-v-fb7da1de><div class="v-responsive__sizer" style="padding-bottom:76.92307692307692%;"></div><div class="v-image__image v-image__image--preload v-image__image--cover" style="background-image:;background-position:center center;"></div><div class="v-responsive__content"></div></div> <div class="v-card__text text-xs-center" data-v-fb7da1de><span class="display-18 black--text" data-v-fb7da1de>איך מחפשים עבודה בדרושים IL?</span></div></div></a></div><div class="flex section-tips-item row grow d-flex d-center lg3 md3 xs6" data-v-8cef6dc4 data-v-8cef6dc4><a href="https://www.drushim.co.il/article/13" data-v-fb7da1de data-v-8cef6dc4><div class="ma-2 v-card v-card--flat v-sheet theme--light" data-v-fb7da1de><div class="v-image v-responsive theme--light" data-v-fb7da1de><div class="v-responsive__sizer" style="padding-bottom:76.92307692307692%;"></div><div class="v-image__image v-image__image--preload v-image__image--cover" style="background-image:;background-position:center center;"></div><div class="v-responsive__content"></div></div> <div class="v-card__text text-xs-center" data-v-fb7da1de><span class="display-18 black--text" data-v-fb7da1de>איך כותבים קורות חיים איכותיים?</span></div></div></a></div></div></div> <div class="layout text-center justify-center" data-v-8cef6dc4 data-v-8cef6dc4><div class="dr-btn-wrapper" data-v-8cef6dc4><a href="/articles/" target="_self" data-cy="" class="v-btn v-btn--contained v-btn--router theme--light v-size--default orange_btn_large"><span class="v-btn__content">
+        לכל הטיפים
+      </span></a></div></div></div></div> <div id="seo-section" class="container mt-6 container--fluid" data-v-38214f03 data-v-38214f03 data-v-0d4afd1a><div class="layout justify-center" data-v-38214f03 data-v-38214f03><div class="flex sm8 xs12" data-v-38214f03 data-v-38214f03><div class="layout justify-center" data-v-38214f03 data-v-38214f03><div class="flex text-center sm6 xs12" data-v-38214f03 data-v-38214f03><p class="primary--text mt-md-10 mb-md-4 mb-1 hdr" data-v-38214f03>אז למה אנחנו אתר
+              <br />
+              הדרושים של ישראל?</p></div></div> <div class="layout col wrap pt-2" data-v-38214f03 data-v-38214f03><div class="flex sm6 xs12 px-4" data-v-38214f03 data-v-38214f03><div class="layout column" data-v-38214f03 data-v-38214f03><div class="flex py-2" data-v-38214f03 data-v-38214f03><ul data-v-38214f03><li xs6="" class="py-2 display-18" data-v-38214f03><span data-v-38214f03>כפי שאתם יכולים לראות באתר, מעסיקים רבים מצהירים כי דרושים IL מהווה עבורם מקור הגיוס המוביל באינטרנט.</span></li><li xs6="" class="py-2 display-18" data-v-38214f03><span data-v-38214f03>צוות האתר, המונה עשרות עובדים, מסייע באופן צמוד לאלפי מעסיקים בפרסום אלפי משרות כל חודש.</span></li><li xs6="" class="py-2 display-18" data-v-38214f03><span data-v-38214f03>כשאתם שולחים קורות חיים למשרה המפורסמת באתר, אתם יכולים להיות בטוחים שמדובר במודעת דרושים רלוונטית ואמיתית אשר פורסמה ע"י המעסיק באופן ישיר.</span></li></ul></div></div></div> <div class="flex sm6 xs12 px-4" data-v-38214f03 data-v-38214f03><div class="layout column" data-v-38214f03 data-v-38214f03><div class="flex py-2" data-v-38214f03 data-v-38214f03><ul data-v-38214f03><li xs6="" class="py-2 display-18" data-v-38214f03><span data-v-38214f03>אנו לא מעתיקים משרות ממקורות אחרים! לכן אנו יכולים להבטיח כי פרטי יצירת הקשר של הגורם המגייס באותו ארגון הינם תקינים ועדכניים.</span></li><li xs6="" class="py-2 display-18" data-v-38214f03><span data-v-38214f03>כל משרה באתר יורדת באופן אוטומטי, לאחר 30 יום. כך אנו מבטיחים את הרלוונטיות של כל המשרות המפורסמות באתר.</span></li><li xs6="" class="py-2 display-18" data-v-38214f03><span data-v-38214f03>כל השירותים הניתנים באתר למחפשי עבודה הינם לגמרי בחינם: <a href="/smartalerts.aspx">סוכן חכם</a> | <a href="/personal/cvfiles.aspx">איזור אישי</a> | <a href="https://www.drushim.co.il/%D7%A7%D7%95%D7%A8%D7%95%D7%AA-%D7%97%D7%99%D7%99%D7%9D/">מערכת ליצירת קורות חיים</a></span></li></ul></div></div></div></div></div></div> <div class="layout column justify-center" data-v-38214f03 data-v-38214f03><div class="flex text-center my-6" data-v-38214f03 data-v-38214f03><p class="display-18 font-weight-medium" data-v-38214f03>מה עוד עושה אותנו לאתר הדרושים של ישראל?</p></div> <div class="flex text-center mb-3" data-v-38214f03 data-v-38214f03><div class="dr-btn-wrapper" data-v-38214f03><a href="/article/131/" target="_self" data-cy="" class="v-btn v-btn--contained v-btn--router theme--light v-size--default orange_btn_large"><span class="v-btn__content">
+        אני רוצה לדעת!
+      </span></a></div></div></div></div> <div role="dialog" id="confirmDialog" class="v-dialog__container confirmDialog" data-v-6c325e57 data-v-0d4afd1a><!----></div></div> <div class="footer-wrap" data-v-5ed56e20><div class="row footer" data-v-5ed56e20 data-v-5ed56e20><div class="col col-12" data-v-5ed56e20 data-v-5ed56e20><p class="text-center pt-12 font-weight-medium white--text" data-v-5ed56e20>
+        דרושים IL אתר הדרושים של ישראל
+      </p></div> <div class="row footer-inner mt-3 ma-auto justify-center" data-v-5ed56e20 data-v-5ed56e20><div class="col-sm-3 col-md-auto col-lg-auto col-6" data-v-5ed56e20 data-v-5ed56e20><p class="white--text pb-2 text-decoration-underline display-12" data-v-5ed56e20>
+          דרושים לפי קטגוריות
+        </p> <ul data-v-5ed56e20><li data-v-5ed56e20><a href="/categories.aspx/" title="דרושים כל הקטגוריות" class="pb-0 display-12 white--text d-block" data-v-5ed56e20>
+              דרושים כל הקטגוריות
+            </a></li><li data-v-5ed56e20><a href="/jobs/cat30/" title="דרושים אבטחת מידע" class="pb-0 display-12 white--text d-block" data-v-5ed56e20>
+              דרושים אבטחת מידע
+            </a></li><li data-v-5ed56e20><a href="/jobs/cat1/" title="דרושים אדמיניסטרציה" class="pb-0 display-12 white--text d-block" data-v-5ed56e20>
+              דרושים אדמיניסטרציה
+            </a></li><li data-v-5ed56e20><a href="/jobs/cat32/" title="דרושים אופנה" class="pb-0 display-12 white--text d-block" data-v-5ed56e20>
+              דרושים אופנה
+            </a></li><li data-v-5ed56e20><a href="/jobs/cat28/" title="דרושים אינטרנט" class="pb-0 display-12 white--text d-block" data-v-5ed56e20>
+              דרושים אינטרנט
+            </a></li><li data-v-5ed56e20><a href="/jobs/cat23/" title="דרושים ביטוח" class="pb-0 display-12 white--text d-block" data-v-5ed56e20>
+              דרושים ביטוח
+            </a></li><li data-v-5ed56e20><a href="/jobs/cat2/" title="דרושים בכירים" class="pb-0 display-12 white--text d-block" data-v-5ed56e20>
+              דרושים בכירים
+            </a></li><li data-v-5ed56e20><a href="/jobs/cat3/" title="דרושים בעלי מקצוע" class="pb-0 display-12 white--text d-block" data-v-5ed56e20>
+              דרושים בעלי מקצוע
+            </a></li><li data-v-5ed56e20><a href="/jobs/cat7/" title="דרושים הוראה" class="pb-0 display-12 white--text d-block" data-v-5ed56e20>
+              דרושים הוראה
+            </a></li><li data-v-5ed56e20><a href="/jobs/cat10/" title="דרושים הנדסה" class="pb-0 display-12 white--text d-block" data-v-5ed56e20>
+              דרושים הנדסה
+            </a></li><li data-v-5ed56e20><a href="/jobs/cat8/" title="דרושים כללי" class="pb-0 display-12 white--text d-block" data-v-5ed56e20>
+              דרושים כללי
+            </a></li><li data-v-5ed56e20><a href="/jobs/cat9/" title="דרושים כספים" class="pb-0 display-12 white--text d-block" data-v-5ed56e20>
+              דרושים כספים
+            </a></li><li data-v-5ed56e20><a href="/jobs/cat21/" title="דרושים לוגיסטיקה" class="pb-0 display-12 white--text d-block" data-v-5ed56e20>
+              דרושים לוגיסטיקה
+            </a></li><li data-v-5ed56e20><a href="/jobs/cat20/" title="דרושים ביוטק" class="pb-0 display-12 white--text d-block" data-v-5ed56e20>
+              דרושים ביוטק
+            </a></li><li data-v-5ed56e20><a href="/jobs/cat17/" title="דרושים מכירות" class="pb-0 display-12 white--text d-block" data-v-5ed56e20>
+              דרושים מכירות
+            </a></li><li data-v-5ed56e20><a href="/jobs/cat4/" title="הייטק חומרה" class="pb-0 display-12 white--text d-block" data-v-5ed56e20>
+              הייטק חומרה
+            </a></li></ul></div><div class="col-sm-3 col-md-auto col-lg-auto col-6" data-v-5ed56e20 data-v-5ed56e20><p class="white--text pb-2 text-decoration-underline display-12" data-v-5ed56e20>
+          דרושים לפי קטגוריות - המשך
+        </p> <ul data-v-5ed56e20><li data-v-5ed56e20><a href="/jobs/cat12/" title="דרושים מלונאות" class="pb-0 display-12 white--text d-block" data-v-5ed56e20>
+              דרושים מלונאות
+            </a></li><li data-v-5ed56e20><a href="/jobs/cat13/" title="דרושים משאבי אנוש" class="pb-0 display-12 white--text d-block" data-v-5ed56e20>
+              דרושים משאבי אנוש
+            </a></li><li data-v-5ed56e20><a href="/jobs/cat19/" title="דרושים עבודה מהבית" class="pb-0 display-12 white--text d-block" data-v-5ed56e20>
+              דרושים עבודה מהבית
+            </a></li><li data-v-5ed56e20><a href="/jobs/cat26/" title="דרושים עיצוב" class="pb-0 display-12 white--text d-block" data-v-5ed56e20>
+              דרושים עיצוב
+            </a></li><li data-v-5ed56e20><a href="/jobs/cat14/" title="דרושים עורכי דין" class="pb-0 display-12 white--text d-block" data-v-5ed56e20>
+              דרושים עורכי דין
+            </a></li><li data-v-5ed56e20><a href="/jobs/cat15/" title="דרושים מדיה" class="pb-0 display-12 white--text d-block" data-v-5ed56e20>
+              דרושים מדיה
+            </a></li><li data-v-5ed56e20><a href="/jobs/cat33/" title="דרושים קמעונאות" class="pb-0 display-12 white--text d-block" data-v-5ed56e20>
+              דרושים קמעונאות
+            </a></li><li data-v-5ed56e20><a href="/jobs/cat29/" title="דרושים תחבורה" class="pb-0 display-12 white--text d-block" data-v-5ed56e20>
+              דרושים תחבורה
+            </a></li><li data-v-5ed56e20><a href="/jobs/cat16/" title="דרושים רפואה" class="pb-0 display-12 white--text d-block" data-v-5ed56e20>
+              דרושים רפואה
+            </a></li><li data-v-5ed56e20><a href="/jobs/cat27/" title="דרושים שיווק" class="pb-0 display-12 white--text d-block" data-v-5ed56e20>
+              דרושים שיווק
+            </a></li><li data-v-5ed56e20><a href="/jobs/cat11/" title="דרושים שירות לקוחות" class="pb-0 display-12 white--text d-block" data-v-5ed56e20>
+              דרושים שירות לקוחות
+            </a></li><li data-v-5ed56e20><a href="/jobs/cat25/" title="דרושים אבטחה" class="pb-0 display-12 white--text d-block" data-v-5ed56e20>
+              דרושים אבטחה
+            </a></li><li data-v-5ed56e20><a href="/jobs/cat31/" title="דרושים תיירות" class="pb-0 display-12 white--text d-block" data-v-5ed56e20>
+              דרושים תיירות
+            </a></li><li data-v-5ed56e20><a href="/jobs/cat18/" title="דרושים תעשייה" class="pb-0 display-12 white--text d-block" data-v-5ed56e20>
+              דרושים תעשייה
+            </a></li><li data-v-5ed56e20><a href="/jobs/cat5/" title="הייטק כללי " class="pb-0 display-12 white--text d-block" data-v-5ed56e20>
+              הייטק כללי 
+            </a></li><li data-v-5ed56e20><a href="/jobs/cat6/" title="הייטק תוכנה" class="pb-0 display-12 white--text d-block" data-v-5ed56e20>
+              הייטק תוכנה
+            </a></li></ul></div><div class="col-sm-3 col-md-auto col-lg-auto col-6" data-v-5ed56e20 data-v-5ed56e20><p class="white--text pb-2 text-decoration-underline display-12" data-v-5ed56e20>
+          דרושים לפי אזורים
+        </p> <ul data-v-5ed56e20><li data-v-5ed56e20><a href="/article/150/" title="דרושים בישראל" class="pb-0 display-12 white--text d-block" data-v-5ed56e20>
+              דרושים בישראל
+            </a></li><li data-v-5ed56e20><a href="/jobs/area/1/" title="דרושים תל אביב" class="pb-0 display-12 white--text d-block" data-v-5ed56e20>
+              דרושים תל אביב
+            </a></li><li data-v-5ed56e20><a href="/jobs/area/3/" title="דרושים חולון" class="pb-0 display-12 white--text d-block" data-v-5ed56e20>
+              דרושים חולון
+            </a></li><li data-v-5ed56e20><a href="/jobs/area/4/" title="דרושים ראשון לציון" class="pb-0 display-12 white--text d-block" data-v-5ed56e20>
+              דרושים ראשון לציון
+            </a></li><li data-v-5ed56e20><a href="/jobs/area/5/" title="דרושים  פתח תקווה" class="pb-0 display-12 white--text d-block" data-v-5ed56e20>
+              דרושים  פתח תקווה
+            </a></li><li data-v-5ed56e20><a href="/jobs/area/9/" title="דרושים ראש העין" class="pb-0 display-12 white--text d-block" data-v-5ed56e20>
+              דרושים ראש העין
+            </a></li><li data-v-5ed56e20><a href="/jobs/area/10/" title="דרושים נתניה" class="pb-0 display-12 white--text d-block" data-v-5ed56e20>
+              דרושים נתניה
+            </a></li><li data-v-5ed56e20><a href="/jobs/area/11/" title="דרושים כפר סבא" class="pb-0 display-12 white--text d-block" data-v-5ed56e20>
+              דרושים כפר סבא
+            </a></li><li data-v-5ed56e20><a href="/jobs/area/12/" title="דרושים הרצליה" class="pb-0 display-12 white--text d-block" data-v-5ed56e20>
+              דרושים הרצליה
+            </a></li><li data-v-5ed56e20><a href="/jobs/area/13/" title="דרושים הוד השרון" class="pb-0 display-12 white--text d-block" data-v-5ed56e20>
+              דרושים הוד השרון
+            </a></li><li data-v-5ed56e20><a href="/jobs/area/14/" title="דרושים חדרה" class="pb-0 display-12 white--text d-block" data-v-5ed56e20>
+              דרושים חדרה
+            </a></li><li data-v-5ed56e20><a href="/jobs/area/21/" title="דרושים חיפה" class="pb-0 display-12 white--text d-block" data-v-5ed56e20>
+              דרושים חיפה
+            </a></li><li data-v-5ed56e20><a href="/jobs/area/22/" title="דרושים קריות" class="pb-0 display-12 white--text d-block" data-v-5ed56e20>
+              דרושים קריות
+            </a></li><li data-v-5ed56e20><a href="/jobs/area/23/" title="דרושים נהריה" class="pb-0 display-12 white--text d-block" data-v-5ed56e20>
+              דרושים נהריה
+            </a></li><li data-v-5ed56e20><a href="/jobs/area/25/" title="דרושים טבריה" class="pb-0 display-12 white--text d-block" data-v-5ed56e20>
+              דרושים טבריה
+            </a></li><li data-v-5ed56e20><a href="/jobs/area/26/" title="דרושים עפולה" class="pb-0 display-12 white--text d-block" data-v-5ed56e20>
+              דרושים עפולה
+            </a></li></ul></div><div class="col-sm-3 col-md-auto col-lg-auto col-6" data-v-5ed56e20 data-v-5ed56e20><p class="white--text pb-2 text-decoration-underline display-12" data-v-5ed56e20>
+          דרושים לפי איזורים - המשך
+        </p> <ul data-v-5ed56e20><li data-v-5ed56e20><a href="/jobs/area/30/" title="דרושים באר שבע" class="pb-0 display-12 white--text d-block" data-v-5ed56e20>
+              דרושים באר שבע
+            </a></li><li data-v-5ed56e20><a href="/jobs/area/31/" title="דרושים אשקלון" class="pb-0 display-12 white--text d-block" data-v-5ed56e20>
+              דרושים אשקלון
+            </a></li><li data-v-5ed56e20><a href="/jobs/area/34/" title="דרושים אילת" class="pb-0 display-12 white--text d-block" data-v-5ed56e20>
+              דרושים אילת
+            </a></li><li data-v-5ed56e20><a href="/jobs/area/18/" title="דרושים ירושלים" class="pb-0 display-12 white--text d-block" data-v-5ed56e20>
+              דרושים ירושלים
+            </a></li><li data-v-5ed56e20><a href="/jobs/area/19/" title="דרושים בית שמש" class="pb-0 display-12 white--text d-block" data-v-5ed56e20>
+              דרושים בית שמש
+            </a></li><li data-v-5ed56e20><a href="/jobs/area/20/" title="דרושים מעלה אדומים" class="pb-0 display-12 white--text d-block" data-v-5ed56e20>
+              דרושים מעלה אדומים
+            </a></li><li data-v-5ed56e20><a href="/jobs/area/15/" title="דרושים אשדוד" class="pb-0 display-12 white--text d-block" data-v-5ed56e20>
+              דרושים אשדוד
+            </a></li><li data-v-5ed56e20><a href="/jobs/area/16/" title="דרושים רחובות" class="pb-0 display-12 white--text d-block" data-v-5ed56e20>
+              דרושים רחובות
+            </a></li><li data-v-5ed56e20><a href="/jobs/area/1-2-3-4-5-6-7-8-9/" title="דרושים מרכז" class="pb-0 display-12 white--text d-block" data-v-5ed56e20>
+              דרושים מרכז
+            </a></li><li data-v-5ed56e20><a href="/jobs/area/18-19-20/" title="דרושים ירושלים" class="pb-0 display-12 white--text d-block" data-v-5ed56e20>
+              דרושים ירושלים
+            </a></li><li data-v-5ed56e20><a href="/jobs/area/36-37-38-39-40-41/" title="דרושים יהודה ושומרון" class="pb-0 display-12 white--text d-block" data-v-5ed56e20>
+              דרושים יהודה ושומרון
+            </a></li><li data-v-5ed56e20><a href="/jobs/area/21-22-23-24-25-26-27-28-29/" title="דרושים צפון" class="pb-0 display-12 white--text d-block" data-v-5ed56e20>
+              דרושים צפון
+            </a></li><li data-v-5ed56e20><a href="/jobs/area/30-31-32-33-34/" title="דרושים דרום" class="pb-0 display-12 white--text d-block" data-v-5ed56e20>
+              דרושים דרום
+            </a></li><li data-v-5ed56e20><a href="/jobs/subcat/89/" title="עבודות בחו&quot;ל" class="pb-0 display-12 white--text d-block" data-v-5ed56e20>
+              עבודות בחו&quot;ל
+            </a></li></ul></div><div class="col-sm-3 col-md-auto col-lg-auto col-6" data-v-5ed56e20 data-v-5ed56e20><p class="white--text pb-2 text-decoration-underline display-12" data-v-5ed56e20>
+          חיפושים פופלריים
+        </p> <ul data-v-5ed56e20><li data-v-5ed56e20><a href="/jobs/cat19/" title="עבודה מהבית" class="pb-0 display-12 white--text d-block" data-v-5ed56e20>
+              עבודה מהבית
+            </a></li><li data-v-5ed56e20><a href="/דרושים-1477861-קורל-תל/" title="יד 2" class="pb-0 display-12 white--text d-block" data-v-5ed56e20>
+              יד 2
+            </a></li><li data-v-5ed56e20><a href="/דרושים-23179-בנק-הפועלים/" title="בנק הפועלים" class="pb-0 display-12 white--text d-block" data-v-5ed56e20>
+              בנק הפועלים
+            </a></li><li data-v-5ed56e20><a href="/jobs/cat25/" title="אבטחה" class="pb-0 display-12 white--text d-block" data-v-5ed56e20>
+              אבטחה
+            </a></li><li data-v-5ed56e20><a href="/דרושים-5709-החברה-המרכזית-למכירות/" title="קוקה קולה" class="pb-0 display-12 white--text d-block" data-v-5ed56e20>
+              קוקה קולה
+            </a></li><li data-v-5ed56e20><a href="/דרושים-183961-תעשייה-אווירית/" title="התעשייה האווירית" class="pb-0 display-12 white--text d-block" data-v-5ed56e20>
+              התעשייה האווירית
+            </a></li><li data-v-5ed56e20><a href="/jobs/subcat/461/" title="נהג עד 12 טון" class="pb-0 display-12 white--text d-block" data-v-5ed56e20>
+              נהג עד 12 טון
+            </a></li><li data-v-5ed56e20><a href="/jobs/subcat/557/" title="נהג מעל 15 טון" class="pb-0 display-12 white--text d-block" data-v-5ed56e20>
+              נהג מעל 15 טון
+            </a></li><li data-v-5ed56e20><a href="/jobs/subcat/88/" title="סטודנטים" class="pb-0 display-12 white--text d-block" data-v-5ed56e20>
+              סטודנטים
+            </a></li><li data-v-5ed56e20><a href="/jobs/subcat/426/" title="דרושים נהגים" class="pb-0 display-12 white--text d-block" data-v-5ed56e20>
+              דרושים נהגים
+            </a></li><li data-v-5ed56e20><a href="/קורות-חיים/" title="קורות חיים" class="pb-0 display-12 white--text d-block" data-v-5ed56e20>
+              קורות חיים
+            </a></li><li data-v-5ed56e20><a href="/article/87/" title="טבלאות שכר" class="pb-0 display-12 white--text d-block" data-v-5ed56e20>
+              טבלאות שכר
+            </a></li><li data-v-5ed56e20><a href="/מדד-תעסוקה/" title="מדד התעסוקה" class="pb-0 display-12 white--text d-block" data-v-5ed56e20>
+              מדד התעסוקה
+            </a></li></ul></div><div class="col-sm-3 col-md-auto col-lg-auto col-6" data-v-5ed56e20 data-v-5ed56e20><p class="white--text pb-2 text-decoration-underline display-12" data-v-5ed56e20>
+          דרושים IL
+        </p> <ul data-v-5ed56e20><li data-v-5ed56e20><a href="/article/2/" title="תקנון האתר" class="pb-0 display-12 white--text d-block" data-v-5ed56e20>
+              תקנון האתר
+            </a></li><li data-v-5ed56e20><a href="/article/103/" title="מדיניות הפרטיות" class="pb-0 display-12 white--text d-block" data-v-5ed56e20>
+              מדיניות הפרטיות
+            </a></li><li data-v-5ed56e20><a href="/article/151/" title="הסכם מעסיקים" class="pb-0 display-12 white--text d-block" data-v-5ed56e20>
+              הסכם מעסיקים
+            </a></li><li data-v-5ed56e20><a href="/article/237/" title="הצהרת נגישות" class="pb-0 display-12 white--text d-block" data-v-5ed56e20>
+              הצהרת נגישות
+            </a></li><li data-v-5ed56e20><a href="/companies.aspx/" title="כל החברות" class="pb-0 display-12 white--text d-block" data-v-5ed56e20>
+              כל החברות
+            </a></li><li data-v-5ed56e20><a href="/article/247/" title="חברות בישראל   " class="pb-0 display-12 white--text d-block" data-v-5ed56e20>
+              חברות בישראל   
+            </a></li><li data-v-5ed56e20><a href="/contactus.aspx/" title="צור קשר" class="pb-0 display-12 white--text d-block" data-v-5ed56e20>
+              צור קשר
+            </a></li><li data-v-5ed56e20><a href="/help.aspx/" title="עזרה" class="pb-0 display-12 white--text d-block" data-v-5ed56e20>
+              עזרה
+            </a></li><li data-v-5ed56e20><a href="/דרושים-1055-פורטל-דרושים/" title="בואו לעבוד אצלנו" class="pb-0 display-12 white--text d-block" data-v-5ed56e20>
+              בואו לעבוד אצלנו
+            </a></li><li data-v-5ed56e20><a href="/article/328/" title="אודות" class="pb-0 display-12 white--text d-block" data-v-5ed56e20>
+              אודות
+            </a></li></ul></div><div class="col-sm-3 col-md-auto col-lg-auto col-6" data-v-5ed56e20 data-v-5ed56e20><p class="white--text pb-2 text-decoration-underline display-12" data-v-5ed56e20>
+          כתבות ומדריכים
+        </p> <ul data-v-5ed56e20><li data-v-5ed56e20><a href="/article/87/" title="טבלאות שכר" class="pb-0 display-12 white--text d-block" data-v-5ed56e20>
+              טבלאות שכר
+            </a></li><li data-v-5ed56e20><a href="/article/191/" title="עבודה לנוער" class="pb-0 display-12 white--text d-block" data-v-5ed56e20>
+              עבודה לנוער
+            </a></li><li data-v-5ed56e20><a href="/article/12/" title="חיפוש עבודה" class="pb-0 display-12 white--text d-block" data-v-5ed56e20>
+              חיפוש עבודה
+            </a></li><li data-v-5ed56e20><a href="/article/171/" title="אבטלה" class="pb-0 display-12 white--text d-block" data-v-5ed56e20>
+              אבטלה
+            </a></li><li data-v-5ed56e20><a href="/article/13/" title="איך לכתוב קורות חיים" class="pb-0 display-12 white--text d-block" data-v-5ed56e20>
+              איך לכתוב קורות חיים
+            </a></li><li data-v-5ed56e20><a href="/article/44/" title="איך להתכונן לראיון עבודה" class="pb-0 display-12 white--text d-block" data-v-5ed56e20>
+              איך להתכונן לראיון עבודה
+            </a></li><li data-v-5ed56e20><a href="/article/185/" title="מכתב התפטרות לדוגמא" class="pb-0 display-12 white--text d-block" data-v-5ed56e20>
+              מכתב התפטרות לדוגמא
+            </a></li><li data-v-5ed56e20><a href="/article/157/" title="קורות חיים באנגלית" class="pb-0 display-12 white--text d-block" data-v-5ed56e20>
+              קורות חיים באנגלית
+            </a></li><li data-v-5ed56e20><a href="/article/138/" title=" מכתב התפטרות " class="pb-0 display-12 white--text d-block" data-v-5ed56e20>
+               מכתב התפטרות 
+            </a></li></ul></div> <div class="col" data-v-5ed56e20 data-v-5ed56e20></div> <div class="pt-2 col col-12" data-v-5ed56e20 data-v-5ed56e20><div class="row social-inner justify-space-between" data-v-5ed56e20 data-v-5ed56e20><div class="social-inner-ico col-sm-6 col-12" data-v-5ed56e20 data-v-5ed56e20><a href="https://instagram.com/drushim__il?igshid=NTc4MTIwNjQ2YQ==" title="instagram" target="_blank" data-v-5ed56e20><img src="/_nuxt/img/insta.caefff2.svg" alt="instagram" data-v-5ed56e20></a> <a href="https://www.linkedin.com/company/portal-drushim-israel/mycompany/?viewAsMember=true" title="linkedin" target="_blank" data-v-5ed56e20><img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzYiIGhlaWdodD0iMzYiIHZpZXdCb3g9IjAgMCAzNiAzNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4NCjxjaXJjbGUgY3g9IjE4IiBjeT0iMTgiIHI9IjE4IiBmaWxsPSJibGFjayIvPg0KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0xMy4zNTA5IDEzLjY3NDdIOS44Njk0M1YyNC44NzI3SDEzLjM1MDlWMTMuNjc0N1pNMTMuNjI3MiAxMC4xMjcyQzEzLjYyNzIgOS4wMTI2NyAxMi43MjI5IDguMTA4NCAxMS42MTAyIDguMTA4NEMxMC40OTQ5IDguMTA4NCA5LjU5MzI2IDkuMDEyNjcgOS41OTMyNiAxMC4xMjcyQzkuNTkzMjYgMTEuMjQwNyAxMC40OTQ5IDEyLjE0NSAxMS42MTAyIDEyLjE0NUMxMi43MjI5IDEyLjE0NSAxMy42MjcyIDExLjI0MDcgMTMuNjI3MiAxMC4xMjcyWk0xOC44NzIxIDEzLjY3NDhIMTUuNTMzOFYyNC44NzI3SDE5LjAxMjZWMTkuMzMzOEMxOS4wMTI2IDE3Ljg3MzcgMTkuMjg4OSAxNi40NTc5IDIxLjEwMDEgMTYuNDU3OUMyMi44ODYgMTYuNDU3OSAyMi45MDg2IDE4LjEyODIgMjIuOTA4NiAxOS40MjcxVjI0Ljg3MjdIMjYuMzg3NFYxOC43MzExQzI2LjM4NzQgMTUuNzE2IDI1LjczNjkgMTMuMzk3NSAyMi4yMTI2IDEzLjM5NzVDMjAuNTE5OSAxMy4zOTc1IDE5LjM4NDMgMTQuMzI1MiAxOC45MTk2IDE1LjIwNkgxOC44NzIxVjEzLjY3NDhaIiBmaWxsPSJ3aGl0ZSIvPg0KPC9zdmc+DQo=" alt="linkedin" data-v-5ed56e20></a> <a href="https://www.facebook.com/drushim.co.il?mibextid=ZbWKwL" title="facebook" target="_blank" data-v-5ed56e20><img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzYiIGhlaWdodD0iMzYiIHZpZXdCb3g9IjAgMCAzNiAzNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4NCjxjaXJjbGUgY3g9IjE4IiBjeT0iMTgiIHI9IjE4IiBmaWxsPSJibGFjayIvPg0KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0xOS4zMTk4IDI1Ljk3MjlIMTUuNzcyNVYxNy40ODUySDE0VjE0LjU2MDdIMTUuNzcyNVYxMi44MDQ5QzE1Ljc3MjUgMTAuNDE5MiAxNi43NzI5IDguOTk5NzYgMTkuNjE2NyA4Ljk5OTc2SDIxLjk4MzdWMTEuOTI1NEgyMC41MDQ0QzE5LjM5NzMgMTEuOTI1NCAxOS4zMjQxIDEyLjMzNDEgMTkuMzI0MSAxMy4wOTY4TDE5LjMxOTIgMTQuNTYwN0gyMkwyMS42ODYyIDE3LjQ4NTJIMTkuMzE5MlYyNS45NzI5SDE5LjMxOThaIiBmaWxsPSJ3aGl0ZSIvPg0KPC9zdmc+DQo=" alt="facebook" data-v-5ed56e20></a> <a href="https://www.youtube.com/@drushim" title="youtube" target="_blank" data-v-5ed56e20><img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzYiIGhlaWdodD0iMzYiIHZpZXdCb3g9IjAgMCAzNiAzNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4NCjxjaXJjbGUgY3g9IjE4IiBjeT0iMTgiIHI9IjE4IiBmaWxsPSJibGFjayIvPg0KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0yNyAyMS42MDI1VjE1LjEyMzFDMjcgMTUuMTIzMSAyNyAxMiAyMy44OTggMTJIMTIuMTAwOUMxMi4xMDA5IDEyIDkgMTIgOSAxNS4xMjMxVjIxLjYwMjVDOSAyMS42MDI1IDkgMjQuNzI1NiAxMi4xMDA5IDI0LjcyNTZIMjMuODk4QzIzLjg5OCAyNC43MjU2IDI3IDI0LjcyNTYgMjcgMjEuNjAyNVpNMjEuNDk0NiAxOC4zNzE4TDE1LjYwMTggMjEuODU2MVYxNC44ODY0TDIxLjQ5NDYgMTguMzcxOFoiIGZpbGw9IndoaXRlIi8+DQo8L3N2Zz4NCg==" alt="youtube" data-v-5ed56e20></a></div> <div class="social-inner-app col-sm-6 col-12" data-v-5ed56e20 data-v-5ed56e20><a href="https://apps.apple.com/us/app/%D7%93%D7%A8%D7%95%D7%A9%D7%99%D7%9D-il/id1180529703" title="appstore" target="_blank" data-v-5ed56e20><img src="/_nuxt/img/appstore.7948273.svg" alt="appstore" data-v-5ed56e20></a> <a href="https://play.google.com/store/apps/details?id=drushim.app" title="googleplay" target="_blank" data-v-5ed56e20><img src="/_nuxt/img/googleplay.07120e7.svg" alt="googleplay" data-v-5ed56e20></a></div></div></div></div></div> <div class="row" data-v-5ed56e20 data-v-5ed56e20><div class="text-center pt-0 pb-0 px-2 col col-12" data-v-5ed56e20 data-v-5ed56e20><p class="rtl text-center display-12 py-1 ma-0 px-3" data-v-5ed56e20>
+        דרושים IL - גיבורי ישראל 7, נתניה. ליצירת קשר
+        <a href="/contactus.aspx" title="צור קשר" data-v-5ed56e20>לחץ כאן</a></p></div></div> <div class="row" data-v-5ed56e20 data-v-5ed56e20><div class="py-0 text-center googleDec font-weight-thin col" data-v-5ed56e20 data-v-5ed56e20>
+      אתר זה מוגן באמצעות Google reCAPTCHA ומחוייב ל-
+      <a href="https://www.google.com/intl/he/policies/privacy/" target="_blank" data-v-5ed56e20>מדיניות הפרטיות</a>
+      וכן
+      <a href="https://www.google.com/intl/he/policies/terms/" target="_blank" data-v-5ed56e20>תנאי השירות</a>
+      של Google
+    </div></div></div></div></div></div></div><script>window.__NUXT__=(function(a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z,A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R){return {layout:"default",data:[{}],fetch:[{categories:[{id:w,name:"אבטחת מידע"},{id:c,name:"אדמיניסטרציה"},{id:x,name:"אופנה"},{id:28,name:"אינטרנט"},{id:23,name:"ביטוח"},{id:d,name:"בכירים \u002F ניהול"},{id:y,name:"בנייה ונדל\"ן"},{id:e,name:"בעלי מקצוע"},{id:f,name:"הדרכה \u002F הוראה"},{id:24,name:"הייטק-QA"},{id:n,name:"הייטק-חומרה"},{id:o,name:"הייטק-כללי"},{id:m,name:"הייטק-תוכנה"},{id:l,name:"הנדסה"},{id:z,name:"התנדבות"},{id:A,name:"יופי, טיפוח וספא"},{id:h,name:"כללי"},{id:i,name:"כספים \u002F שוק ההון"},{id:21,name:"לוגיסטיקה \u002F שילוח"},{id:20,name:"מדעים \u002F ביוטק"},{id:B,name:"מכירות"},{id:p,name:"מלונאות \u002F מסעדנות"},{id:q,name:"משאבי אנוש"},{id:19,name:C},{id:26,name:"עיצוב"},{id:r,name:"עריכת דין"},{id:t,name:"פרסום \u002F מדיה \u002F תקשורת"},{id:D,name:"קמעונאות"},{id:29,name:"רכב \u002F תחבורה"},{id:E,name:"רפואה \u002F בריאות"},{id:27,name:"שיווק"},{id:g,name:"שירות לקוחות"},{id:25,name:"שמירה \u002F אבטחה"},{id:F,name:"תיירות\u002F תעופה"},{id:G,name:"תעשיה \u002F ייצור"}]},{articles:[{date:"10.05.2022",link:"\u002Farticle\u002F395\u002F",readingTime:d,id:395,author:u,title:"איך מגייסים מסתכלים על קורות החיים שלכם?",script:"\u003Cp\u003E\u003Cstrong\u003Eאם שלחתם עשרות קורות חיים ולא קיבלתם כל תגובה או שקיבלתם תשובה שלילית, אולי שווה לכם להבין לעומק איך מגייסים מסתכלים על קורות החיים שלכם...\u003C\u002Fstrong\u003E\u003C\u002Fp\u003E\r\n\r\n\u003Cp\u003E&nbsp;\u003C\u002Fp\u003E\r\n\r\n\u003Cp\u003E\u003Ciframe allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\" frameborder=\"0\" height=\"576\" src=\"https:\u002F\u002Fwww.youtube.com\u002Fembed\u002FhYMyLoWT7_0\" title=\"YouTube video player\" width=\"100%\"\u003E\u003C\u002Fiframe\u003E\u003C\u002Fp\u003E\r\n\r\n\u003Cp\u003E&nbsp;\u003C\u002Fp\u003E\r\n\r\n\u003Cp\u003Eרויטל אליאס, מנטורית דרושים IL ויועצת קריירה, מסבירה מהם הדברים החשובים בקורות החיים שלכם שכדאי לשים אליהם לב כי עבור המגייסים והמעסיקים הם מאוד חשובים!\u003C\u002Fp\u003E\r\n\r\n\u003Cp dir=\"RTL\"\u003E\u003Cstrong\u003Eאז הנה כמה טיפים פשוטים, מתוך הסרטון, שיעזרו לכם להעלות את אחוזי ההצלחה:\u003C\u002Fstrong\u003E\u003C\u002Fp\u003E\r\n\r\n\u003Cp dir=\"RTL\"\u003E\u003Cstrong\u003E1. תייצרו העדפה\u003C\u002Fstrong\u003E\u003C\u002Fp\u003E\r\n\r\n\u003Cp dir=\"RTL\"\u003Eתייצרו העדפה, כי אחרת ידפדפו אתכם...\u003Cbr \u002F\u003E\r\nמקמו בחלק העליון של קורות החיים את המידע המחמיא ביותר עליכם והרלוונטי ביותר עבור המשרה.\u003C\u002Fp\u003E\r\n\r\n\u003Cp dir=\"RTL\"\u003E\u003Cstrong\u003E2. מילות מפתח\u003C\u002Fstrong\u003E\u003C\u002Fp\u003E\r\n\r\n\u003Cp dir=\"RTL\"\u003Eהשתמשו במילות מפתח.\u003Cbr \u002F\u003E\r\nאלו אותן המילים שבהן המעסיק השתמש כשפרסם את המודעה. שלבו אותן בקורות החיים שלכם.\u003C\u002Fp\u003E\r\n\r\n\u003Cp dir=\"RTL\"\u003E\u003Cstrong\u003E3. תהיו רלוונטיים\u003C\u002Fstrong\u003E\u003C\u002Fp\u003E\r\n\r\n\u003Cp dir=\"RTL\"\u003Eתהיו רלוונטיים.\u003C\u002Fp\u003E\r\n\r\n\u003Cp dir=\"RTL\"\u003Eסננו ניסיון מקצועי שלא קשור לתחום. הציגו רק את מה שרלוונטי עבור המשרה המבוקשת.\u003C\u002Fp\u003E\r\n\r\n\u003Cp dir=\"RTL\"\u003E\u003Cstrong\u003E4. תהיו אובייקטיבים\u003C\u002Fstrong\u003E\u003C\u002Fp\u003E\r\n\r\n\u003Cp dir=\"RTL\"\u003Eתהיו אובייקטיבים\u003C\u002Fp\u003E\r\n\r\n\u003Cp dir=\"RTL\"\u003Eהציגו את הניסיון והכישורים שלכם על ידי שם הפעולה ואל תדברו בגוף ראשון.\u003C\u002Fp\u003E\r\n\r\n\u003Cp dir=\"RTL\"\u003Eלדוגמה: ניהלתי צוות &ndash; לא.\u003C\u002Fp\u003E\r\n\r\n\u003Cp dir=\"RTL\"\u003E\u003Cspan dir=\"RTL\"\u003Eניהול צוות &ndash; כן.\u003C\u002Fspan\u003E\u003C\u002Fp\u003E\r\n\r\n\u003Cp dir=\"RTL\"\u003E\u003Cstrong\u003E5\u003C\u002Fstrong\u003E. \u003Cstrong\u003Eתמצתו\u003C\u002Fstrong\u003E\u003C\u002Fp\u003E\r\n\r\n\u003Cp dir=\"RTL\"\u003Eבקיצור...תמצתו.\u003C\u002Fp\u003E\r\n\r\n\u003Cp dir=\"RTL\"\u003Eקורות חיים הם לא המקום לחפור. תארגנו מסמך רק עם המלל החשוב, שיהיה נוח ונעים לקריאה.\u003C\u002Fp\u003E\r\n\r\n\u003Cp dir=\"RTL\"\u003E\u003Cstrong\u003E6. תהיו שונים\u003C\u002Fstrong\u003E\u003C\u002Fp\u003E\r\n\r\n\u003Cp dir=\"RTL\"\u003Eאגב זה גם בסדר לא להיות כמו כולם...\u003C\u002Fp\u003E\r\n\r\n\u003Cp dir=\"RTL\"\u003Eתהיו מעט שונים.\u003C\u002Fp\u003E\r\n\r\n\u003Cp dir=\"RTL\"\u003Eאל תפחדו לציין תחביבים אישיים. זה יאפשר למעסיק להכיר אתכם מזווית נוספת\u003C\u002Fp\u003E\r\n\r\n\u003Cp dir=\"RTL\"\u003E&nbsp;\u003C\u002Fp\u003E\r\n",description:H,metaImageUrl:I,articleOfTheWeek:b,promotedArticle:b,guide:b,catId:l,isLecture:b,articleOfTheWeekMentors:b,lectureOfTheWeekMentors:b,order:k,text:H,imageSrc:I,videoSrc:"https:\u002F\u002Fwww.youtube.com\u002Fembed\u002FhYMyLoWT7_0",CategoryCode:l},{date:"11.05.2022",link:"\u002Farticle\u002F396\u002F",readingTime:d,id:396,author:u,title:"איך מתחילים לחפש עבודה?",script:"\u003Cp\u003E\u003Cstrong\u003Eכל כך הרבה נאמר על חיפוש עבודה. אינספור מאמרים נכתבו, טיפים כיד המלך חולקו ושוק התעסוקה שהשתנה גרם למחפשי עבודה רבים להבין שמה שהיה נכון לעשות עד לא מזמן, כעת הוא לא רלוונטי. אז בעולם התעסוקה החדש יש דרך חדשה להתחיל לחפש עבודה\u003C\u002Fstrong\u003E\u003C\u002Fp\u003E\r\n\r\n\u003Cp\u003E&nbsp;\u003C\u002Fp\u003E\r\n\r\n\u003Cp\u003E\u003Ciframe allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\" frameborder=\"0\" height=\"506\" src=\"https:\u002F\u002Fwww.youtube.com\u002Fembed\u002FXw7OCnGNJ4k\" title=\"YouTube video player\" width=\"100%\"\u003E\u003C\u002Fiframe\u003E\u003C\u002Fp\u003E\r\n\r\n\u003Cp\u003E&nbsp;\u003C\u002Fp\u003E\r\n\r\n\u003Cp\u003Eמנטורית דרושים IL ויועצת הקריירה, רויטל אליאס, מסבירה:\u003C\u002Fp\u003E\r\n\r\n\u003Cp\u003E&nbsp;\u003C\u002Fp\u003E\r\n\r\n\u003Cp\u003E\u003Cu\u003Eאיך תשפרו את הסיכויים שלכם למצוא עבודה?\u003C\u002Fu\u003E\u003C\u002Fp\u003E\r\n\r\n\u003Cp\u003E&nbsp;\u003C\u002Fp\u003E\r\n\r\n\u003Cp\u003Eתזכרו \u003Cstrong\u003Eשכל מועמד הוא פתית שלג מיוחד\u003C\u002Fstrong\u003E, אבל כשאתם שולחים קורות חיים&nbsp;אתם מיוחדים כמו עוד כמה דפים לבנים...\u003C\u002Fp\u003E\r\n\r\n\u003Cp dir=\"RTL\"\u003Eאיך תוכלו למצוא עבודה בקלות?&nbsp;עם כמה דרכים עקיפות... ויצירתיות...\u003C\u002Fp\u003E\r\n\r\n\u003Cp dir=\"RTL\"\u003Eקודם כל חפשו מיוזמתכם! טרגטו חברות שבאמת בא לכם לעבוד בהן&nbsp;ותראו אם מחפשים שם עובדים\u003C\u002Fp\u003E\r\n\r\n\u003Cp dir=\"RTL\"\u003E&nbsp;\u003C\u002Fp\u003E\r\n\r\n\u003Cp dir=\"RTL\"\u003E\u003Cstrong\u003Eתציקו לכולם! \u003C\u002Fstrong\u003E\u003C\u002Fp\u003E\r\n\r\n\u003Cp dir=\"RTL\"\u003Eלהורים, לחברים, לחברים של ההורים, לשכנים, למפקד מהצבא... שכולם ירתמו לחיפוש שלכם\u003C\u002Fp\u003E\r\n\r\n\u003Cp dir=\"RTL\"\u003Eחשוב שגם תזכרו שזו לא בושה לשתף פעולה ולהתייעץ עם אנשים שמחפשים משרות כמו שלכם.\u003C\u002Fp\u003E\r\n\r\n\u003Cp dir=\"RTL\"\u003Eאתם רק תרוויחו מזה!\u003C\u002Fp\u003E\r\n\r\n\u003Cp dir=\"RTL\"\u003E&nbsp;\u003C\u002Fp\u003E\r\n\r\n\u003Cp dir=\"RTL\"\u003E\u003Cstrong\u003Eתהפכו עולמות!\u003C\u002Fstrong\u003E\u003C\u002Fp\u003E\r\n\r\n\u003Cp dir=\"RTL\"\u003Eלא בהגזמה כן?&nbsp;אבל תחפשו אנשים שכבר עובדים בחברות להן שלחתם קורות חיים, שיעזרו לכם מבפנים.\u003C\u002Fp\u003E\r\n\r\n\u003Cp dir=\"RTL\"\u003E&nbsp;\u003C\u002Fp\u003E\r\n\r\n\u003Cp dir=\"RTL\"\u003E\u003Cstrong\u003Eתהיו מקוריים\u003C\u002Fstrong\u003E\u003C\u002Fp\u003E\r\n\r\n\u003Cp dir=\"RTL\"\u003Eתעלו פוסט או סרטון ברשתות החברתיות בו אתם מספרים על חיפוש העבודה שלכם, לא תאמינו כמה פוסט מקורי יכול להיות אפקטיבי!\u003C\u002Fp\u003E\r\n\r\n\u003Cdiv style=\"clear:both;\"\u003E&nbsp;\u003C\u002Fdiv\u003E\r\n",description:"שוק התעסוקה שהשתנה גרם למחפשי עבודה רבים להבין שמה שהיה נכון לעשות עד לא מזמן, כעת הוא לא רלוונטי. אז בעולם התעסוקה החדש יש דרך חדשה להתחיל לחפש עבודה",metaImageUrl:J,articleOfTheWeek:b,promotedArticle:b,guide:b,catId:l,isLecture:b,articleOfTheWeekMentors:b,lectureOfTheWeekMentors:b,order:k,text:"אינספור מאמרים נכתבו, טיפים כיד המלך חולקו ושוק התעסוקה שהשתנה גרם למחפשי עבודה רבים להבין שמה שהיה נכון לעשות עד לא מזמן, כעת הוא לא רלוונטי. אז בעולם התעסוקה החדש יש דרך חדשה להתחיל לחפש עבודה",imageSrc:J,videoSrc:"https:\u002F\u002Fwww.youtube.com\u002Fembed\u002FXw7OCnGNJ4k",CategoryCode:l},{date:"20.10.2022",link:"\u002Farticle\u002F397\u002F",readingTime:c,id:397,author:u,title:"איך למצוא עבודה בהייטק ללא ניסיון?",script:"\u003Cp\u003E\u003Cstrong\u003Eרבים רוצים להשתלב בתחום ההייטק ולומדים את התחום, אך מתאכזבים לגלות שהדרך להשתלב בשוק העבודה בהייטק הוא לא פשוט... אז איך בכל זאת ניתן למצוא עבודה ללא ניסיון בהייטק? מנטורית דרושים IL ויועצת הקריירה, מאיה&nbsp;בוכניק מסבירה איך עושים את זה ונשארים בחיים\u003C\u002Fstrong\u003E\u003C\u002Fp\u003E\r\n\r\n\u003Cp\u003E&nbsp;\u003C\u002Fp\u003E\r\n\r\n\u003Cp\u003E\u003Ciframe allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\" frameborder=\"0\" height=\"506\" src=\"https:\u002F\u002Fwww.youtube.com\u002Fembed\u002FrrMMuALLmIs\" title=\"YouTube video player\" width=\"100%\"\u003E\u003C\u002Fiframe\u003E\u003C\u002Fp\u003E\r\n\r\n\u003Cp\u003E&nbsp;\u003C\u002Fp\u003E\r\n\r\n\u003Cp\u003E\u003Cu\u003Eכרטיס הכניסה שלכם לעולם ההייטק-\u003C\u002Fu\u003E\u003C\u002Fp\u003E\r\n\r\n\u003Cp\u003E&nbsp;\u003C\u002Fp\u003E\r\n\r\n\u003Cp\u003E\u003Cstrong\u003Eקבלו כמה טיפים מתוך הסרטון: &nbsp;\u003C\u002Fstrong\u003E\u003C\u002Fp\u003E\r\n\r\n\u003Cp\u003E&nbsp;\u003C\u002Fp\u003E\r\n\r\n\u003Cp\u003Eפתחו חשבון\u003Cstrong\u003E בלינקדין,\u003C\u002Fstrong\u003E זאת הזירה בה דברים קורים!\u003C\u002Fp\u003E\r\n\r\n\u003Cp\u003E&nbsp;\u003C\u002Fp\u003E\r\n\r\n\u003Cp\u003E-כתבו קורות חיים מקצועיים \u003Cstrong\u003Eבאנגלית\u003C\u002Fstrong\u003E\u003C\u002Fp\u003E\r\n\r\n\u003Cp\u003E&nbsp;\u003C\u002Fp\u003E\r\n\r\n\u003Cp\u003E-\u003Cstrong\u003Eתתנדבו ותכתבו על כך!\u003C\u002Fstrong\u003E&nbsp; תתנדבו להקים אתר לשכן ולהתמקצע בתחום בו בחרתם כי זה יתווסף לתיק העבודות, אותו תוכלו להציג גם ללא ניסיון! בתיק העבודות תוסיפו גם את הפרויקטים שביצעתם במהלך הלימודים שלכם.\u003C\u002Fp\u003E\r\n\r\n\u003Cp\u003E&nbsp;\u003C\u002Fp\u003E\r\n\r\n\u003Cp\u003E-נצלו כל רגע כדי \u003Cstrong\u003Eלחקור, ללמוד ולהתמקצע,\u003C\u002Fstrong\u003E כך שכשישאלו אתכם שאלות בראיון תדעו לענות כמו שצריך.\u003C\u002Fp\u003E\r\n\r\n\u003Cp\u003E&nbsp;\u003C\u002Fp\u003E\r\n\r\n\u003Cp\u003E-תעשו\u003Cstrong\u003E נטוורקינג \u003C\u002Fstrong\u003E- תפתחו קשרים עם אנשים מהתחום. -\u003C\u002Fp\u003E\r\n\r\n\u003Cp\u003E&nbsp;\u003C\u002Fp\u003E\r\n\r\n\u003Cp\u003Eאבל הכי חשוב - \u003Cstrong\u003Eתנשמו\u003C\u002Fstrong\u003E ואל תקחו כל דחייה באופן אישי!\u003C\u002Fp\u003E\r\n",description:"רבים רוצים להשתלב בתחום ההייטק ולומדים את התחום, אך מתאכזבים לגלות שהדרך להשתלב בהייטק הוא לא פשוט... אז איך בכל זאת ניתן למצוא עבודה ללא ניסיון בהייטק? ",metaImageUrl:K,articleOfTheWeek:b,promotedArticle:b,guide:b,catId:l,isLecture:b,articleOfTheWeekMentors:b,lectureOfTheWeekMentors:b,order:k,text:"רבים רוצים להשתלב בתחום ההייטק ולומדים את התחום, אך מתאכזבים לגלות שהדרך להשתלב בשוק העבודה בהייטק הוא לא פשוט... אז איך בכל זאת ניתן למצוא עבודה ללא ניסיון בהייטק? מנטורית דרושים IL ויועצת הקריירה, מאיב בוכניק מסבירה איך עושים את זה ונשארים בחיי",imageSrc:K,videoSrc:"https:\u002F\u002Fwww.youtube.com\u002Fembed\u002FrrMMuALLmIs",CategoryCode:l}]}],error:k,state:{homeDrushim:{initialized:v,sanitized:b,nativeDevice:b,errors:[],allCategories:[],allSubCategories:[],allRegions:[],allZones:[],data:{footerLinks:[{id:c,title:"דרושים לפי קטגוריות",order:c,links:[{id:60,name:"דרושים כל הקטגוריות",link:"\u002Fcategories.aspx\u002F",order:j,Subject:c},{id:62,name:"דרושים אבטחת מידע",link:"\u002Fjobs\u002Fcat30\u002F",order:j,Subject:c},{id:63,name:"דרושים אדמיניסטרציה",link:"\u002Fjobs\u002Fcat1\u002F",order:j,Subject:c},{id:64,name:"דרושים אופנה",link:"\u002Fjobs\u002Fcat32\u002F",order:j,Subject:c},{id:65,name:"דרושים אינטרנט",link:"\u002Fjobs\u002Fcat28\u002F",order:j,Subject:c},{id:66,name:"דרושים ביטוח",link:"\u002Fjobs\u002Fcat23\u002F",order:j,Subject:c},{id:67,name:"דרושים בכירים",link:"\u002Fjobs\u002Fcat2\u002F",order:j,Subject:c},{id:68,name:"דרושים בעלי מקצוע",link:"\u002Fjobs\u002Fcat3\u002F",order:j,Subject:c},{id:69,name:"דרושים הוראה",link:"\u002Fjobs\u002Fcat7\u002F",order:j,Subject:c},{id:70,name:"דרושים הנדסה",link:"\u002Fjobs\u002Fcat10\u002F",order:j,Subject:c},{id:71,name:"דרושים כללי",link:"\u002Fjobs\u002Fcat8\u002F",order:j,Subject:c},{id:72,name:"דרושים כספים",link:"\u002Fjobs\u002Fcat9\u002F",order:j,Subject:c},{id:73,name:"דרושים לוגיסטיקה",link:"\u002Fjobs\u002Fcat21\u002F",order:j,Subject:c},{id:74,name:"דרושים ביוטק",link:"\u002Fjobs\u002Fcat20\u002F",order:j,Subject:c},{id:75,name:"דרושים מכירות",link:"\u002Fjobs\u002Fcat17\u002F",order:j,Subject:c},{id:93,name:"הייטק חומרה",link:"\u002Fjobs\u002Fcat4\u002F",order:a,Subject:c}]},{id:d,title:"דרושים לפי קטגוריות - המשך",order:d,links:[{id:w,name:"דרושים מלונאות",link:"\u002Fjobs\u002Fcat12\u002F",order:a,Subject:d},{id:F,name:"דרושים משאבי אנוש",link:"\u002Fjobs\u002Fcat13\u002F",order:j,Subject:d},{id:x,name:"דרושים עבודה מהבית",link:L,order:a,Subject:d},{id:D,name:"דרושים עיצוב",link:"\u002Fjobs\u002Fcat26\u002F",order:a,Subject:d},{id:A,name:"דרושים עורכי דין",link:"\u002Fjobs\u002Fcat14\u002F",order:a,Subject:d},{id:y,name:"דרושים מדיה",link:"\u002Fjobs\u002Fcat15\u002F",order:a,Subject:d},{id:z,name:"דרושים קמעונאות",link:"\u002Fjobs\u002Fcat33\u002F",order:a,Subject:d},{id:37,name:"דרושים תחבורה",link:"\u002Fjobs\u002Fcat29\u002F",order:a,Subject:d},{id:38,name:"דרושים רפואה",link:"\u002Fjobs\u002Fcat16\u002F",order:a,Subject:d},{id:39,name:"דרושים שיווק",link:"\u002Fjobs\u002Fcat27\u002F",order:a,Subject:d},{id:40,name:"דרושים שירות לקוחות",link:"\u002Fjobs\u002Fcat11\u002F",order:a,Subject:d},{id:41,name:"דרושים אבטחה",link:M,order:a,Subject:d},{id:42,name:"דרושים תיירות",link:"\u002Fjobs\u002Fcat31\u002F",order:a,Subject:d},{id:43,name:"דרושים תעשייה",link:"\u002Fjobs\u002Fcat18\u002F",order:a,Subject:d},{id:44,name:"הייטק כללי ",link:"\u002Fjobs\u002Fcat5\u002F",order:a,Subject:d},{id:91,name:"הייטק תוכנה",link:"\u002Fjobs\u002Fcat6\u002F",order:c,Subject:d}]},{id:e,title:"דרושים לפי אזורים",order:e,links:[{id:c,name:"דרושים בישראל",link:"\u002Farticle\u002F150\u002F",order:a,Subject:e},{id:d,name:"דרושים תל אביב",link:"\u002Fjobs\u002Farea\u002F1\u002F",order:a,Subject:e},{id:e,name:"דרושים חולון",link:"\u002Fjobs\u002Farea\u002F3\u002F",order:a,Subject:e},{id:n,name:"דרושים ראשון לציון",link:"\u002Fjobs\u002Farea\u002F4\u002F",order:a,Subject:e},{id:o,name:"דרושים  פתח תקווה",link:"\u002Fjobs\u002Farea\u002F5\u002F",order:a,Subject:e},{id:m,name:"דרושים ראש העין",link:"\u002Fjobs\u002Farea\u002F9\u002F",order:a,Subject:e},{id:h,name:"דרושים נתניה",link:"\u002Fjobs\u002Farea\u002F10\u002F",order:a,Subject:e},{id:i,name:"דרושים כפר סבא",link:"\u002Fjobs\u002Farea\u002F11\u002F",order:a,Subject:e},{id:l,name:"דרושים הרצליה",link:"\u002Fjobs\u002Farea\u002F12\u002F",order:a,Subject:e},{id:g,name:"דרושים הוד השרון",link:"\u002Fjobs\u002Farea\u002F13\u002F",order:a,Subject:e},{id:p,name:"דרושים חדרה",link:"\u002Fjobs\u002Farea\u002F14\u002F",order:a,Subject:e},{id:r,name:"דרושים חיפה",link:"\u002Fjobs\u002Farea\u002F21\u002F",order:a,Subject:e},{id:t,name:"דרושים קריות",link:"\u002Fjobs\u002Farea\u002F22\u002F",order:a,Subject:e},{id:E,name:"דרושים נהריה",link:"\u002Fjobs\u002Farea\u002F23\u002F",order:a,Subject:e},{id:B,name:"דרושים טבריה",link:"\u002Fjobs\u002Farea\u002F25\u002F",order:a,Subject:e},{id:G,name:"דרושים עפולה",link:"\u002Fjobs\u002Farea\u002F26\u002F",order:a,Subject:e}]},{id:f,title:"דרושים לפי איזורים - המשך",order:n,links:[{id:110,name:"דרושים באר שבע",link:"\u002Fjobs\u002Farea\u002F30\u002F",order:d,Subject:f},{id:111,name:"דרושים אשקלון",link:"\u002Fjobs\u002Farea\u002F31\u002F",order:e,Subject:f},{id:112,name:"דרושים אילת",link:"\u002Fjobs\u002Farea\u002F34\u002F",order:n,Subject:f},{id:113,name:N,link:"\u002Fjobs\u002Farea\u002F18\u002F",order:o,Subject:f},{id:114,name:"דרושים בית שמש",link:"\u002Fjobs\u002Farea\u002F19\u002F",order:m,Subject:f},{id:115,name:"דרושים מעלה אדומים",link:"\u002Fjobs\u002Farea\u002F20\u002F",order:f,Subject:f},{id:116,name:"דרושים אשדוד",link:"\u002Fjobs\u002Farea\u002F15\u002F",order:h,Subject:f},{id:117,name:"דרושים רחובות",link:"\u002Fjobs\u002Farea\u002F16\u002F",order:i,Subject:f},{id:136,name:"דרושים מרכז",link:"\u002Fjobs\u002Farea\u002F1-2-3-4-5-6-7-8-9\u002F",order:l,Subject:f},{id:137,name:N,link:"\u002Fjobs\u002Farea\u002F18-19-20\u002F",order:g,Subject:f},{id:138,name:"דרושים יהודה ושומרון",link:"\u002Fjobs\u002Farea\u002F36-37-38-39-40-41\u002F",order:p,Subject:f},{id:139,name:"דרושים צפון",link:"\u002Fjobs\u002Farea\u002F21-22-23-24-25-26-27-28-29\u002F",order:q,Subject:f},{id:140,name:"דרושים דרום",link:"\u002Fjobs\u002Farea\u002F30-31-32-33-34\u002F",order:r,Subject:f},{id:142,name:"עבודות בחו\"ל",link:"\u002Fjobs\u002Fsubcat\u002F89\u002F",order:t,Subject:f}]},{id:g,title:"חיפושים פופלריים",order:o,links:[{id:154,name:C,link:L,order:d,Subject:g},{id:155,name:"יד 2",link:"\u002Fדרושים-1477861-קורל-תל\u002F",order:e,Subject:g},{id:156,name:"בנק הפועלים",link:"\u002Fדרושים-23179-בנק-הפועלים\u002F",order:n,Subject:g},{id:157,name:"אבטחה",link:M,order:o,Subject:g},{id:158,name:"קוקה קולה",link:"\u002Fדרושים-5709-החברה-המרכזית-למכירות\u002F",order:m,Subject:g},{id:159,name:"התעשייה האווירית",link:"\u002Fדרושים-183961-תעשייה-אווירית\u002F",order:f,Subject:g},{id:160,name:"נהג עד 12 טון",link:"\u002Fjobs\u002Fsubcat\u002F461\u002F",order:h,Subject:g},{id:161,name:"נהג מעל 15 טון",link:"\u002Fjobs\u002Fsubcat\u002F557\u002F",order:i,Subject:g},{id:162,name:"סטודנטים",link:"\u002Fjobs\u002Fsubcat\u002F88\u002F",order:l,Subject:g},{id:163,name:"דרושים נהגים",link:"\u002Fjobs\u002Fsubcat\u002F426\u002F",order:g,Subject:g},{id:165,name:"קורות חיים",link:"\u002Fקורות-חיים\u002F",order:p,Subject:g},{id:166,name:O,link:P,order:q,Subject:g},{id:167,name:"מדד התעסוקה",link:"\u002Fמדד-תעסוקה\u002F",order:r,Subject:g}]},{id:h,title:"דרושים IL",order:m,links:[{id:119,name:"תקנון האתר",link:"\u002Farticle\u002F2\u002F",order:e,Subject:h},{id:120,name:"מדיניות הפרטיות",link:"\u002Farticle\u002F103\u002F",order:o,Subject:h},{id:121,name:"הסכם מעסיקים",link:"\u002Farticle\u002F151\u002F",order:m,Subject:h},{id:122,name:"הצהרת נגישות",link:"\u002Farticle\u002F237\u002F",order:f,Subject:h},{id:123,name:"כל החברות",link:"\u002Fcompanies.aspx\u002F",order:h,Subject:h},{id:124,name:"חברות בישראל   ",link:"\u002Farticle\u002F247\u002F",order:i,Subject:h},{id:125,name:"צור קשר",link:"\u002Fcontactus.aspx\u002F",order:p,Subject:h},{id:126,name:"עזרה",link:"\u002Fhelp.aspx\u002F",order:q,Subject:h},{id:153,name:"בואו לעבוד אצלנו",link:"\u002Fדרושים-1055-פורטל-דרושים\u002F",order:n,Subject:h},{id:164,name:"אודות",link:"\u002Farticle\u002F328\u002F",order:r,Subject:h}]},{id:i,title:"כתבות ומדריכים",order:f,links:[{id:Q,name:O,link:P,order:d,Subject:i},{id:128,name:"עבודה לנוער",link:"\u002Farticle\u002F191\u002F",order:e,Subject:i},{id:129,name:"חיפוש עבודה",link:"\u002Farticle\u002F12\u002F",order:n,Subject:i},{id:130,name:"אבטלה",link:"\u002Farticle\u002F171\u002F",order:o,Subject:i},{id:131,name:"איך לכתוב קורות חיים",link:"\u002Farticle\u002F13\u002F",order:m,Subject:i},{id:132,name:"איך להתכונן לראיון עבודה",link:"\u002Farticle\u002F44\u002F",order:f,Subject:i},{id:133,name:"מכתב התפטרות לדוגמא",link:"\u002Farticle\u002F185\u002F",order:h,Subject:i},{id:134,name:"קורות חיים באנגלית",link:"\u002Farticle\u002F157\u002F",order:i,Subject:i},{id:135,name:" מכתב התפטרות ",link:"\u002Farticle\u002F138\u002F",order:l,Subject:i}]}],articles:[{id:g,name:"איך נרשמים לסוכן החכם ומה יש באזור האישי?",order:m,link:"https:\u002F\u002Fwww.drushim.co.il\u002Farticle\u002F411",articleId:411,imageSrc:"https:\u002F\u002Fadmin.drushim.co.il\u002Fcontent\u002Fuploads\u002F637896724505320418_shutterstock_780204952%20%281%29.jpg"},{id:m,name:"מדריך למציאת העבודה הראשונה - ללא ניסיון",order:f,link:"https:\u002F\u002Fwww.drushim.co.il\u002Farticle\u002F127",articleId:Q,imageSrc:"https:\u002F\u002Fadmin.drushim.co.il\u002Fcontent\u002Fuploads\u002F636637859509943900_24.jpg"},{id:l,name:"איך מחפשים עבודה בדרושים IL?",order:h,link:"https:\u002F\u002Fwww.drushim.co.il\u002Farticle\u002F410",articleId:410,imageSrc:"https:\u002F\u002Fadmin.drushim.co.il\u002Fcontent\u002Fuploads\u002F637896707675762648_shutterstock_1955634820.jpg"},{id:n,name:"איך כותבים קורות חיים איכותיים?",order:i,link:"https:\u002F\u002Fwww.drushim.co.il\u002Farticle\u002F13",articleId:q,imageSrc:"https:\u002F\u002Fadmin.drushim.co.il\u002Fcontent\u002Fuploads\u002F636668996625380556_25.1.jpg"}]},firedInAppGtmFlag:b},authUser:{jobsBasket:new Set([]),noJobsBasket:new Set([]),userIsLoggedIn:b,smartAgent:{currentStep:c,firstStepCategory:{cat:R,email:R}}},smartAlertsSettings:{allSettingsData:{},local:{mainCategory:k,mainSubCategories:s,secondaryCategory:k,locations:{},secondarySubCategories:s,secondaryCatSelected:s,zones:s,scopes:s,experience:k,mailing:c,keywordsJD:k,allowMailing:v,initialized:b,reason:k,companyName:k,companyCode:k,tooManyEmails:k,description:k},removeData:{}},cvwizard:{userStatus:{cvFiles:k,isRegisteredSmartAlerts:b},currentStep:c,stepperStatus:{},errors:[],initializedCVW:b},auth:{user:k,loggedIn:b,strategy:"local"}},serverRendered:v,routePath:"\u002F",config:{}}}(0,false,1,2,3,7,11,8,9,-1,null,10,6,4,5,12,13,14,void 0,15,"מערכת דרושים IL",true,30,32,35,36,34,17,"עבודה מהבית",33,16,31,18,"רויטל אליאס, מנטורית דרושים IL ויועצת קריירה, מסבירה מהם הדברים החשובים בקורות החיים שלכם שכדאי לשים אליהם לב כי עבור המגייסים והמעסיקים הם מאוד חשובים!","https:\u002F\u002Fadmin.drushim.co.il\u002FContent\u002FUploads\u002F637877818834279313_%D7%A7%D7%95%D7%A8%D7%95%D7%AA%20%D7%97%D7%99%D7%99%D7%9D.png","https:\u002F\u002Fadmin.drushim.co.il\u002FContent\u002FUploads\u002F637890733061526041_%D7%97%D7%99%D7%A4%D7%95%D7%A9%20%D7%A2%D7%91%D7%95%D7%93%D7%94.PNG","https:\u002F\u002Fadmin.drushim.co.il\u002FContent\u002FUploads\u002F637878583876481343_%D7%94%D7%99%D7%99%D7%98%D7%A7.PNG","\u002Fjobs\u002Fcat19\u002F","\u002Fjobs\u002Fcat25\u002F","דרושים ירושלים","טבלאות שכר","\u002Farticle\u002F87\u002F",127,""));</script><script src="/_nuxt/runtime.[10-24-2023].js?v=465aa59adde939256998" defer></script><script src="/_nuxt/commons/app.[10-24-2023].js?v=465aa59adde939256998" defer></script><script src="/_nuxt/vendors~app.[10-24-2023].js?v=465aa59adde939256998" defer></script><script src="/_nuxt/app.[10-24-2023].js?v=465aa59adde939256998" defer></script>
+
+</body>
+
+</html>

@@ -1,0 +1,185 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="he" lang="he" dir="rtl"> 
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta name="author" content="Niv Huga" /> 
+	<meta http-equiv="description" content="Hacked By Ayoub001" /> 
+	<meta http-equiv="keywords" content="Hacked By Ayoub001" /> 
+	<meta name="rating" content="General" /> 
+	<meta name="distribution" content="global" /> 
+	<title>Hacked By Ayoub001</title> 
+	<meta name="robots" content="all, index, follow" /> 
+	<meta name="allow-search" content="yes" /> 
+	<meta name="audience" content="all" /> 
+	<link rel="stylesheet" href="style.css" type="text/css" media="screen" />
+	<script type="text/javascript" src="js/jquery.js"></script>
+	<script type="text/javascript" src="js/general.js"></script>
+	
+		<script type="text/javascript">var switchTo5x=true;</script>
+<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+<script type="text/javascript">stLight.options({publisher: "cb7ccd20-e7dc-449c-aaac-53403c512c7a", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
+</head> 
+<body>
+
+<div id="main">
+		<div id="top_site">
+			<h1 id="logo"><a href="index.php" title="ביתר ירושלים"><span>בית"ר ירושלים</span></a></h1>
+<ul id="fast_nav">
+	<li><a href="index.php">דף הבית</a></li>
+	<li><a href="contact.php">צור קשר</a></li>
+	<li style="margin-top: 5px; height: 36px;"><a href="#"><img src="images/topsite/icon/israel.png" width="48" height="36" /></a></li>
+	<li style="margin-top: 5px; border: 0px;"><a href="#"><img src="images/topsite/icon/usa.png" width="48" height="36" /></a></li>
+</ul>
+<ul id="social_nav">
+	<li><a href="http://instagram.com/betar_jer_bc"><img src="images/topsite/icon/instagram.png" width="43" height="43" /></a></li>
+	<li><a href="http://www.youtube.com/channel/UCPSuMHw6iB8ZIMBPvHzcfBQ"><img src="images/topsite/icon/youtube.png" width="43" height="43" /></a></li>
+	<li><a href="https://twitter.com/Betar_Jer_BC"><img src="images/topsite/icon/twitter.png" width="43" height="43" /></a></li>
+	<li><a href="https://www.facebook.com/Beitar.BC"><img src="images/topsite/icon/facebook.png" width="43" height="43" /></a></li>
+</ul>
+<div id="search">
+	<form method="post" action="http://www.google.co.il/">
+		<input type="text" name="search" value="הקלד כאן מילות חיפוש .." onfocus="if(this.value=='הקלד כאן מילות חיפוש ..') this.value=='';" onblur="if(this.value=='') this.value=='הקלד כאן מילות חיפוש ..';" />
+		<input type="submit" name="submit" value="" />
+	</form>
+</div>
+<ul id="hot_updates">
+	<li style="font-weight: bold;">עדכונים חמים</li>
+		<li><marquee width="600" height="25" behavior="scroll">Hacked By Ayoub001</marquee></li>
+</ul><div id="nav">
+	<ul>
+		<li><a href="index.php">ראשי</a></li>
+		<li><a href="#">אודות המועדון</a>
+			<ul class="drop-nav">
+				<li><a href="Roles.php">בעלי תפקידים</a></li>
+				<li><a href="crew.php">הצוות המקצועי</a></li>
+				<li><a href="auditorium.php">האולם הביתי</a></li>
+				<li><a href="contact.php">צור קשר</a></li>
+			</ul>
+		</li>
+		<li><a href="#">הקבוצה</a>
+			<ul class="drop-nav">
+				<li><a href="team.php">סגל הקבוצה</a></li>
+				<li><a href="table.php">טבלת הליגה</a></li>
+				<li><a href="schedule.php">לוח משחקים</a></li>
+			</ul>
+		</li>
+		<li><a href="news.php">חדשות</a>
+			<ul class="drop-nav">
+				<li><a href="news.php">חדשות</a></li>
+				<li><a href="Written.php">כתבו עלינו</a></li>
+			</ul>
+		</li>
+		<li><a href="multimedia.php">מולטימדיה</a>
+			<ul class="drop-nav">
+				<li><a href="multimedia.php">מולטימדיה</a></li>
+				<li><a href="Pictures.php">גלרייה</a></li>
+				<li><a href="Youtube.php">יוטיוב</a></li>
+				<li><a href="facebook.php">פייסבוק</a></li>
+			</ul>
+		</li>
+		<li><a href="History.php">היסטוריה</a></li>
+		<li><a href="Youth.php">נוער</a>
+			<ul class="drop-nav">
+				<li><a href="Youth.php">מחלקת הנוער</a></li>
+				<li><a href="g.youth.php">קבוצות מחלקת הנוער</a></li>
+				<li><a href="BasketballSchool.php">ביה"ס לכדורסל</a></li>
+				<li><a href="crew.youth.php">צוות מחלקת הנוער</a></li>
+				<li><a href="aim.gyout.php">מטרת מחלקת הנוער</a></li>
+				<li><a href="Registration.php">הרשמה</a></li>
+			</ul>
+		</li>
+		<li><a href="store.php">חנות הקבוצה</a></li>
+		<li><a href="Sponsors.php">ספונסרים</a></li>
+		<li><a href="links.php">לינקים</a></li>
+	</ul>
+</div>		</div>
+	
+					<div id="title_one">
+					Hacked By Ayoub001				</div>
+				<div id="facebook_one">
+					<iframe frameborder="0" scrolling="no"
+						src="http://www.facebook.com/plugins/likebox.php?href=https://www.facebook.com/Beitar.BC"
+						style="border:none; background: white; width:292px; height:290px">
+					</iframe>
+				</div>
+				<div id="title2_one">
+					Hacked By Ayoub001				</div>
+				<div id="date_one">
+					האתר הרשמי 30,09,2021 - 09:25				</div>
+
+		<div id="pic_one">
+				<img src="data:image/jpeg;base64,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" width="464" height="345" />
+		</div>
+		<div id="store_one" class="fade">
+			<a href="store.php"><img src="images/store.png" width="292" height="290" alt="חנות הקבוצה הרשמית" /></a>
+		</div>
+		
+		
+<div id="share_one">
+<span class='st_facebook_hcount' displayText='Facebook'></span>
+<span class='st_googleplus_hcount' displayText='Google +'></span>
+<span class='st_twitter_hcount' displayText='Tweet'></span>
+<span class='st_email_hcount' displayText='Email'></span>
+<span class='st_fbrec_hcount' displayText='Facebook Recommend'></span>
+<span class='st_fblike_hcount' displayText='Facebook Like'></span>
+<span class='st_twitterfollow_hcount' displayText='Twitter Follow' st_username='Betar Jerusalem.BC'></span>
+</div>
+<br />
+<div id="text_one">
+Hacked By Ayoub001</div>
+</br>
+</br>
+</br>
+</br>
+<div id="morenews_one">		
+<TABLE  CELLSPACING=15 CELLPADDING=1 BORDER=0 WIDTH=300px height=200px style=" color:white; font-size:12px;">
+<tr><th><strong style="color:white; font-size:16px; float:right; margin:0px 0px; border-top: 1px dashed grey;"> לחדשות נוספות:</strong></th></tr>
+
+<tr>
+		<td>
+		<a href="news.php?id=710"><img src="http://betar.co.il/uploads/1400937574.jpg" width="100" height="100"/></a><br />
+		<a href="news.php?id=710" style="color: yellow; font-weight: bold; width:100px; ">אימוני טרום ליגת הקיץ של בית&quot;ר ירושלים מתחילים השבוע</a><br />
+		<strong style="color:grey; width:70px;">בית&quot;ר  תקיים ליגת קיץ בחודש הבא, קבוצות הליגה ייבנו מהשחקנים שייבחנו בשבועות הקרובים</strong>
+	</td>
+	
+	<td>
+		<a href="news.php?id=682"><img src="http://betar.co.il/uploads/1386668647.jpg" width="100" height="100"/></a><br />
+		<a href="news.php?id=682" style="color: yellow; font-weight: bold; width:100px; ">בית&quot;ר ירושלים גברה על הפועל הרי יהודה 104-85</a><br />
+		<strong style="color:grey; width:70px;">בית&quot;ר ניצחה ברבי הירושלמי את הפועל הרי יהודה, ומתכוננת למשחק העונה</strong>
+	</td>
+	
+	<td>
+		<a href="news.php?id=716"><img src="http://betar.co.il/uploads/1421724407.jpg" width="100" height="100"/></a><br />
+		<a href="news.php?id=716" style="color: yellow; font-weight: bold; width:100px; ">מסכמים סיבוב במחלקת הנוער</a><br />
+		<strong style="color:grey; width:70px;">סיכום הסיבוב הראשון במחלקת הנוער</strong>
+	</td>
+	
+	<td>
+		<a href="news.php?id=746"><img src="http://betar.co.il/uploads/1465209595.jpg" width="100" height="100"/></a><br />
+		<a href="news.php?id=746" style="color: yellow; font-weight: bold; width:100px; ">אסי טיכטל יאמן את הקבוצה בעונת 2016-2017</a><br />
+		<strong style="color:grey; width:70px;">הנהלת הקבוצה החליטה למנות את אסי טיכטל למאמן הקבוצה. דורון אברהמי מונה למנהל הקבוצה</strong>
+	</td>
+</tr>
+</table>
+
+</br>
+</br>
+</div>
+			
+		
+		
+<div id="r">
+</br>
+</div>
+
+
+		<div id="copyrights">
+	<strong style="float: left; direction: ltr;">Powered By <a href="https://nivwebup.co.il/">NivWebUp בניית אתרים בירושלים</a> </strong>
+	<strong style="float: right;">כל הזכויות שמורות ל<a href="contact.php">בית"ר ירושלים בכדורסל</a></strong>
+</div>
+
+		<div class="border"></div>
+	</div>
+</body>
+</html>

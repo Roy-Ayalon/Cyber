@@ -1,0 +1,1143 @@
+
+
+<!DOCTYPE html>
+<html id="theHtml" lang="en">
+<head id="theHead"><title>404</title><meta charset="utf-8" /><meta id="metaDescription" name="description" content="404 - 404 - חנות" /><meta id="metaKeywords" name="keywords" content="404, 404, חנות" /><meta id="metaRobots" name="robots" content="index,follow" /><meta id="metaAuthor" name="Author" content="Truppo Websites - https://www.truppo.co.il - Developed by Artvision Ltd" /><meta id="metaGenerator" name="generator" content="Truppo Web System By Artvision Ltd - v: 10.7.051 " />
+ <!-- Site: 154153 - Page: 89 -->
+
+<!-- Begin favicons-->
+<link rel="apple-touch-icon" sizes="152x152" href="/sysvault/favicon/apple-touch-icon.png" />
+<link rel="icon" type="image/png" href="/sysvault/favicon/favicon-32x32.png" sizes="32x32" />
+<link rel="icon" type="image/png" href="/sysvault/favicon/favicon-16x16.png" sizes="16x16" />
+<link rel="manifest" href="/sysvault/favicon/manifest.json?638348769903635755" />
+<meta name="theme-color" content="#ffffff" />
+<!-- End favicons-->
+
+    <!-- Begin page scripts and CSS -->
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+<link rel="stylesheet" type="text/css" href="/vault/assets/css/vendors/fontawesome.css" />
+<link rel="stylesheet" type="text/css" href="/vault/assets/css/vendors/slick.css" />
+<link rel="stylesheet" type="text/css" href="/vault/assets/css/vendors/slick-theme.css" />
+<link rel="stylesheet" type="text/css" href="/vault/assets/css/vendors/animate.css" />
+<link rel="stylesheet" type="text/css" href="/vault/assets/css/vendors/themify-icons.css" />
+<link rel="stylesheet" type="text/css" href="/vault/assets/css/vendors/bootstrap.css" />
+<link rel="stylesheet" type="text/css" href="/vault/assets/css/style.css" />
+    <!-- End page scripts and CSS -->
+    <!-- Begin Facebook pixel -->
+    
+    <!-- End Facebook pixel -->
+    <!-- Begin Google Analytics for website -->
+    <!-- Google Tag Manager -->
+<script type="7d11705d461c31e3a82fb13b-text/javascript">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TLH5FDG');</script>
+<!-- End Google Tag Manager -->
+    <!-- End Google Analytics for website -->
+    <!-- Begin Google Analytics for current page -->
+    
+    <!-- End Google Analytics for current page -->
+    <!--  Begin page meta scripts -->
+          
+<meta property="og:locale" content="he_IL" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="הוצאת ספרים אח בע"מ - ">
+<meta property="og:url" content="http://www.achbooks.co.il/AnonGhost.html" />
+<meta property="og:description" content="">
+<meta property="og:site_name" content="הוצאת ספרים אח בע"מ" />
+<meta property="og:image" content="">
+<meta property="og:image:type" content="image/jpg">
+<meta property="og:image:width" content="400">  
+    <!--  End page meta scripts -->
+    <!--  Begin Inline CSS -->
+    
+<style type='text/css'>@import url("https://fonts.googleapis.com/css2?family=Assistant:wght@200;300;400;600;700;800&display=swap");body{font-family:'Assistant', sans-serif;font-display:swap;}/* Begin Truppo Default */.hidden-true, .hidden-True, .hidden-is-0, .visible-false, .visible-False, .invisible-True, .DESVALErrorText{display:none;visibility:hidden;}.hidden-false, .hidden-False, .visible-true, .visible-True, .visible-is-0{visibility:visible;display:block;}.text-ltr{direction:ltr;}.text-rtl{direction:rtl;}.TextBoxAS{display:none;visibility:hidden;}.breadcrumb-item + .breadcrumb-item::before{float:right;}body.rtl .text-right{ text-align:right!important;}.breadcrumb-section .page-title h1{ font-size:18px; margin-bottom:0;}.shipping-details{display:flex;flex-wrap:wrap;justify-content:center;align-items:stretch;}.shipping-details > div{flex-basis:calc(100% - 30px);}.shipping-details .shipping-details-text > div{margin-bottom:15px;}.shipping-details .shipping-details-name{font-size:1.25em;}.shipping-details .shipping-details-continue{padding:15px 0 0;}.shipping-details .details-update-main-header{margin-bottom:15px;}@media (min-width:768px){.shipping-details{justify-content:space-between;}.shipping-details > div{flex-basis:calc(50% - 30px);}}.divHPFooter, .divPageFooter{width:100%;display:flex;justify-content:flex-end;background:#25221e;margin:0;padding:4px 10px;}.divHPFooter, .divPageFooter a{font-size:8pt;color:#888;}</style>
+
+<style type='text/css'>/**** add the list of caracteristics option under the products in mobile View ****//*.filter-product-wrapper{max-width:1100px;width:100%;margin:0 auto;}@media (min-width:768px){.col-40{float:left;}.col-41{float:right;}}*//*MM-103*/.rtl .top-header .header-dropdown li:first-child{padding-right:0;}.header-social-menu{height:100%;}.flex-row{display:flex;justify-content:flex-start;align-items:center;height:100%;}.flex-row > li{margin:0 7.5px;flex-basis:auto;}.flex-row > li a{color:#cecece;}.flex-row > li a:hover{color:#fff;}.flex-row > li svg{width:16px;height:16px;}/* ----------------------- */header{background-color:#fac738;}@media (max-width:577px){.top-header .header-dropdown .mobile-account{position:fixed;bottom:20px;right:calc(20% - 27px);}}/*MN-64*/.main-menu{width:100%;}@media (max-width:480px){.brand-logo img{height:50px;}}@media (min-width:1200px){.pixelstrap.sm-vertical a .sub-arrow:before{content:"\f104";font-family:FontAwesome;position:absolute;}}/*IC-5*/.grid-sizer, .grid-item{width:calc(100% - 2.66%);}.gutter-sizer{width:2.66%;}.sm-horizontal .mobile-back{justify-content:flex-start;}.pixelstrap ul a .sub-arrow:before{content:"\f104";font-family:FontAwesome;position:absolute;}@media (min-width:1200px){.pixelstrap .full-mega-menu .mega-box{width:20%;flex-basis:20%;}.mega-box{border-right:1px solid rgba(250,199,56,.5);}}/*CD8-89*/.search-container{}.divSearch{width:100%;}.search-overlay > div .overlay-content input, .search-overlay > div .overlay-content select{ background-color:transparent; border:0; border-bottom:2px solid #777777; border-radius:0; padding:20px 0;height:60px;width:100%;}.categories-wrapper{display:flex;flex-wrap:wrap;}.categories-wrapper > div{margin:0 15px;}.categories-wrapper > div .spanField{display:block;}.categories-wrapper > div{flex-basis:100%;}.categories-wrapper .divSearchButton a{display:flex;justify-content:center;align-items:center;width:100%;height:100%;}.divFieldIcID89 label{width:0;height:0;overflow:hidden;}@media (min-width:768px){.categories-wrapper > div{flex-basis:32%;}.categories-wrapper .divSearchButton{flex-basis:4%;}}@media (max-width:577px){.main-menu .menu-right .icon-nav .mobile-setting, .main-menu .menu-right .icon-nav .mobile-cart, .main-menu .menu-right .icon-nav .mobile-search{font-size:16px;}}/*CD20-90*/.main-menu .menu-right .icon-nav .onhover-div .show-div.shopping-cart li .media .media-body h4 > span{display:flex;align-items:center;}.main-menu .menu-right .icon-nav .onhover-div .show-div.shopping-cart li .total h5:after,.main-menu .menu-right .icon-nav .onhover-div .show-div.shopping-cart li .total h5:before{content:'';display:table;}.main-menu .menu-right .icon-nav .onhover-div .show-div.shopping-cart li .total h5:after{clear:both;}.main-menu .menu-right .icon-nav .onhover-div .show-div.shopping-cart li .total h5{}/*FM-Contact*/.form-group .field-Label-wrapper{height:0;overflow:hidden;}.form-group .form-main{width:100%;}.form-group .field-main-wrapper{margin-bottom:15px;}.dark-layout .footer-theme2 .subscribe-wrapper .subscribe-block .form-group .btn-solid{min-width:100px;}.dark-layout .footer-theme2,.dark-layout .footer-theme2 p,.dark-layout .footer-theme2 .contact-details li{color:#fff;}/* Validator style */.validator-style{border:solid 1px #990000;color:#990000;background-color:#ffa;text-align:right;padding:10px;border-radius:5px;margin:20px auto;}.validator-header-style{font-weight:700;}.validator-style a{color:#990000;}/*MN-69*/.footer-theme2 .footer-link-382 h4{ margin-top:50px;}.footer-link{margin-bottom:15px;}</style>
+
+    <!--  End Inline CSS -->
+<link href="/DESGetFiles.axd?type=styles&amp;version=127644966742&amp;files=9_12" rel="stylesheet" type="text/css" />
+</head>
+<body id="mpBody" class="body89 ">
+    <!-- Begin Google tag manager scripts for site -->
+    <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TLH5FDG"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+    <!-- End Google tag manager scripts form site -->
+    <!-- Begin Google tag manager scripts for current page -->
+    
+    <!-- End Google tag manager scripts for current page -->
+    <!-- Begin Body top scripts -->
+    
+
+    <!-- Begin body top scripts -->
+    <!-- Begin accessibility -->
+    
+    <!-- End accessibility -->
+    <form method="post" action="/AnonGhost.html" onsubmit="if (!window.__cfRLUnblockHandlers) return false; javascript:return WebForm_OnSubmit();" id="form1" onreset="if (!window.__cfRLUnblockHandlers) return false; if (window.setTimeout) window.setTimeout(&#39;DES_OnReset(false);&#39;, 100);" data-cf-modified-7d11705d461c31e3a82fb13b-="">
+<div class="aspNetHidden">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="DES_Group" id="DES_Group" value="" />
+<input type="hidden" name="DES_LinkIDState" id="DES_LinkIDState" value="9|12" />
+<input type="hidden" name="DES_ScriptFileIDState" id="DES_ScriptFileIDState" value="0|1|2|15|16|18|24|47|49|54|57|59" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="PTjbZB9GMcn3oImyN/1R4COJiyIF9f1d041Ib9dQJN6O3dxi7utTyh7jSWo1a8crPsOnLWs6uCcKW6H/XidoheT52OEw0u5cGitf0acqxizFQjkM05AdFNvV0qKvI8tpcF1qC7o9A4a9b/qXeTZuEBI9ildEdiic+vHgz8uZ/1jXRfTduweYkzHSonJNWI9D" />
+</div>
+
+<script type="7d11705d461c31e3a82fb13b-text/javascript">
+//<![CDATA[
+var theForm = document.forms['form1'];
+if (!theForm) {
+    theForm = document.form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=pynGkmcFUV13He1Qd6_TZNtCjamdVDnaMTlOQkBIMHExUl5L5Whn6Tn-LUgQZa-qtNlBvqHC7G8pmg8BByszJg2&amp;t=638286154241696996" type="7d11705d461c31e3a82fb13b-text/javascript"></script>
+
+
+<script type="7d11705d461c31e3a82fb13b-text/javascript">
+//<![CDATA[
+function submitForm89() { 
+	var qStr = '';
+	var cdTB89 = document.getElementById('cdtext89'); 
+ if (cdTB89.value) {  qStr += '&sft=' + encodeURIComponent(cdTB89.value); 
+  };var searchUrl = '/home/doc.aspx?mCatID=66&mode=s';
+parent.location.href = searchUrl +  qStr; } 
+//]]>
+</script>
+
+<script src="/ScriptResource.axd?d=NJmAwtEo3Ipnlaxl6CMhvmW-BglmuZx4Rk6Wi9WIMKPxglrm3Vo0cpAGRReKfyKLr_2MIBAR-gg2S7wkH7J4Xz7U8SCHjreK6WvoEUdDAi29VkKIyoTfvoywWdrsHjgUxECuSqCRenNBug757QA1s9xVhGZeutITEMceFgDehRA1&amp;t=ffffffffa0418512" type="7d11705d461c31e3a82fb13b-text/javascript"></script>
+<script src="/ScriptResource.axd?d=dwY9oWetJoJoVpgL6Zq8OBmFXnzoj5fO4VyxGLWK2p8hYls5m_j3sQRldRKgcXtflfbCVOPPFGbLU1drK4vcRyPNd0NTIrful6sNnQyA9IivFJnhUUB298U8kdvztJNFhzbaO4qR1yNTIa6aD02OsVweyO16Y1bSNnc2KV3bxUI1&amp;t=ffffffffa0418512" type="7d11705d461c31e3a82fb13b-text/javascript"></script>
+<script src="/DESGetFiles.axd?type=scripts&amp;version=5.0.5.5000&amp;files=0_1_2_15_16_18_24_47_49_54_57_59" type="7d11705d461c31e3a82fb13b-text/javascript"></script><script type="7d11705d461c31e3a82fb13b-text/javascript">
+//<![CDATA[
+var gDES_VG={VCnt:2,POC:1,FOC:true,AOC:false,POS:1,FOS:true,AOS:false,ErrCtlCss:' DESVALFieldWithError',ErrLstCss:' DESVALListWithError',ErrChkCss:'DESVALCheckBoxWithError',ErrCtlCss2:' DESVALFieldWithErrorAlt',ErrLstCss2:' DESVALListWithErrorAlt',ErrChkCss2:'DESVALCheckBoxWithErrorAlt',CBECCMd:0,AltTmpt:'',AltLdTxt:'',AltLstStl:true,BlkT:1000,BlkOC:0,BlkOS:0,SOrd:new Array(1,2,0),FAA:1,ADVal:1};
+var gDES_CultureInfo={NGSep:',',NDSep:'.',NegN:'-{0}',CDSep:'.',CDDig:2,CGSep:',',CSym:'₪',PosC:'₪ {0}',NegC:'₪-{0}',PSym:'%',PosP:'{0}%',NegP:'-{0}%',DSep:'/',CBrk:29,Today:DES_MakeUTCDate(2023,10,6),SDO:'D|M|Y',SDP:'dd/MM/yyyy',ASDP:'dd/MMMM/yyyy',LDO:'D|M|Y',LDP:'dd MMMM yyyy',AMN:new Array('ינו','פבר','מרץ','אפר','מאי','יונ','יול','אוג','ספט','אוק','נוב','דצמ',''),MN:new Array('ינואר','פברואר','מרץ','אפריל','מאי','יוני','יולי','אוגוסט','ספטמבר','אוקטובר','נובמבר','דצמבר',''),LDPW:'ww dd MMMM yyyy',ADN:new Array('יום א','יום ב','יום ג','יום ד','יום ה','יום ו','שבת'),DN:new Array('יום ראשון','יום שני','יום שלישי','יום רביעי','יום חמישי','יום שישי','שבת'),FDOW:0,CWR:0,TSep:':',AMD:'AM',PMD:'PM',Mil:1,STP:'HH:mm',STPD:'hh:mm tt',STPN:'HH:mm',LTP:'HH:mm:ss',LTPD:'hh:mm:ss tt',LTPN:'HH:mm:ss',SDurP:'HH:mm',LDurP:'HH:mm:ss'};
+//]]>
+</script>
+
+<script type="7d11705d461c31e3a82fb13b-text/javascript">
+//<![CDATA[
+function WebForm_OnSubmit() {
+if (!DES_ValOnSubmit())return false;
+return true;
+}
+//]]>
+</script>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="71242927" />
+	<input type="hidden" name="__SCROLLPOSITIONX" id="__SCROLLPOSITIONX" value="0" />
+	<input type="hidden" name="__SCROLLPOSITIONY" id="__SCROLLPOSITIONY" value="0" />
+</div>
+        <script type="7d11705d461c31e3a82fb13b-text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ScriptManager1', 'form1', ['tctl05$UpdatePanel1',''], [], [], 90, '');
+//]]>
+</script>
+
+        
+<!-- Begin group multimedia - 103 - header 2 - top header -->
+<header>
+	<div class="mobile-fix-option"></div>
+	<div class="top-header top-header-dark2">
+		<div class="container container-82">
+			<div class="row">
+				<div class="col-lg-6">
+					<div class="header-contact">
+						<ul>
+							<li>ברוכים באים לאתר של הוצאת הספרים אח בע"מ</li>
+							<li><i class="fa fa-phone" aria-hidden="true"></i>צרו איתנו קשר: 04-8722096</li>
+						</ul>
+					</div>
+				</div>
+				<div class="col-lg-6 text-end">
+					<ul class="header-dropdown">
+						<!--<li class="mobile-wishlist">
+							<a href="/home/doc.aspx?mCatID=76">
+								<i class="fa fa-heart" aria-hidden="true"></i>
+								wishlist
+							</a>
+						</li>-->
+						<li class="onhover-dropdown mobile-account"> <i class="fa fa-user" aria-hidden="true"></i>
+							החשבון שלי
+							<ul class="onhover-show-div">
+								<li><a href="/home/doc.aspx?mCatID=67">התחברות</a></li>
+								<li><a href="/home/doc.aspx?mCatID=81">הרשמה</a></li>
+							</ul>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="container container-82">
+		<div class="row">
+			<div class="col-sm-12">
+				<div class="main-menu">
+<!-- End group multimedia - 103 - header 2 - top header -->
+
+<!--  Begin group menus 64 - header 2 - left menu -->
+<div class="menu-left">	
+	<div class="navbar"> 
+		<a href="#" onclick="if (!window.__cfRLUnblockHandlers) return false; openNav()" data-cf-modified-7d11705d461c31e3a82fb13b-=""><i class="fa fa-bars sidebar-bar" aria-hidden="true"></i></a>
+		<div id="mySidenav" class="sidenav">
+			<a href="javascript:void(0)" class="sidebar-overlay" onclick="if (!window.__cfRLUnblockHandlers) return false; closeNav()" data-cf-modified-7d11705d461c31e3a82fb13b-=""></a>
+			<nav>
+				<a href="javascript:void(0)" onclick="if (!window.__cfRLUnblockHandlers) return false; closeNav()" data-cf-modified-7d11705d461c31e3a82fb13b-="">
+					<div class="sidebar-back text-start"><i class="fa fa-angle-right pe-2" aria-hidden="true"></i> סגור</div>
+				</a>
+				<ul id="sub-menu" class="sm pixelstrap sm-vertical">
+					<li>
+	<a href="/">דף הבית</a>
+	
+</li><li>
+	<a href="/doc/אודות">אודות</a>
+	
+</li><li>
+	<a href="/doc/תנאי-רכישה">תנאי רכישה</a>
+	
+</li><li>
+	<a href="/home/doc.aspx?mCatID=54">יצירת קשר</a>
+	
+</li>
+				</ul>
+			</nav>
+		</div>
+	</div>
+	<div class="brand-logo">
+		<a href="/" title="הוצאת ספרים אח בע"מ"><img alt="לוגו הוצאת ספרים אח בע" מ" src="https://www.achbooks.co.il/sysvault/sysimg/sitelogo.jpg" class="img-fluid blur-up lazyload" /></a>
+	</div>
+</div>
+<!--  End group menus 64 - header 2 - left menu -->
+
+<!-- Begin group categories - 2 - header 2 - תפריט ראשי -->
+<div class="menu-right pull-right">
+	<div>
+		<nav id="main-nav">
+			<div class="toggle-nav"><i class="fa fa-bars sidebar-bar"></i></div>
+			<ul id="main-menu" class="sm pixelstrap sm-horizontal">
+				<li>
+					<div class="mobile-back">
+						<i class="fa fa-angle-right ps-2" aria-hidden="true"></i> סגור
+					</div>
+				</li>
+				<li>
+					<a href='/' title="">
+						דף הבית
+					</a>
+				</li>
+				<li>
+					<a href='/doc/אודות' title="">
+						אודות
+					</a>
+				</li>
+				<li class="mega" id="hover-cls">
+					<a href="javascript:void(0);" title="">
+						ספרים
+					</a>
+										<ul class="mega-menu full-mega-menu aa">
+						<li>
+							<div class="container">
+								<div class="row">
+									
+				<div class="col mega-box" style="margin:0 0 25px 0;">
+					<div class="link-section" >
+						<ul>
+							<li style="font-weight: 700; margin-bottom: 10px; text-align: right;"><h5>תרפיה</h5></li>
+							<li>
+	<a style="padding:0 5px 0 5px;" href="/home/doc.aspx?mCatID=66&mode=s&iccID=51&icpID=89&icID=119" title="לאינטליגנציה רגשית">
+		אינטליגנציה רגשית
+	</a>
+</li>
+<li>
+	<a style="padding:0 5px 0 5px;" href="/home/doc.aspx?mCatID=66&mode=s&iccID=51&icpID=89&icID=117" title="לביבליותרפיה">
+		ביבליותרפיה
+	</a>
+</li>
+<li>
+	<a style="padding:0 5px 0 5px;" href="/home/doc.aspx?mCatID=66&mode=s&iccID=51&icpID=89&icID=122" title="לדרמה תרפיה פסיכודרמה ודמיון מודרך">
+		דרמה תרפיה פסיכודרמה ודמיון מודרך
+	</a>
+</li>
+<li>
+	<a style="padding:0 5px 0 5px;" href="/home/doc.aspx?mCatID=66&mode=s&iccID=51&icpID=89&icID=118" title="להפרעות אכילה">
+		הפרעות אכילה
+	</a>
+</li>
+<li>
+	<a style="padding:0 5px 0 5px;" href="/home/doc.aspx?mCatID=66&mode=s&iccID=51&icpID=89&icID=112" title="לטיפול בעזרת בע&quot;ח">
+		טיפול בעזרת בע&quot;ח
+	</a>
+</li>
+<li>
+	<a style="padding:0 5px 0 5px;" href="/home/doc.aspx?mCatID=66&mode=s&iccID=51&icpID=89&icID=123" title="לטיפול זוגי ומשפחתי">
+		טיפול זוגי ומשפחתי
+	</a>
+</li>
+<li>
+	<a style="padding:0 5px 0 5px;" href="/home/doc.aspx?mCatID=66&mode=s&iccID=51&icpID=89&icID=120" title="לעבודה טיפולית עם ילדים">
+		עבודה טיפולית עם ילדים
+	</a>
+</li>
+<li>
+	<a style="padding:0 5px 0 5px;" href="/home/doc.aspx?mCatID=66&mode=s&iccID=51&icpID=89&icID=121" title="לתרפיה - תחומים נוספים">
+		תרפיה - תחומים נוספים
+	</a>
+</li>
+<li>
+	<a style="padding:0 5px 0 5px;" href="/home/doc.aspx?mCatID=66&mode=s&iccID=51&icpID=89&icID=116" title="לתרפיה באמנות">
+		תרפיה באמנות
+	</a>
+</li>
+<li>
+	<a style="padding:0 5px 0 5px;" href="/home/doc.aspx?mCatID=66&mode=s&iccID=51&icpID=89&icID=114" title="לתרפיה ופסיכולוגיה">
+		תרפיה ופסיכולוגיה
+	</a>
+</li>
+<li>
+	<a style="padding:0 5px 0 5px;" href="/home/doc.aspx?mCatID=66&mode=s&iccID=51&icpID=89&icID=111" title="לתרפיה קבוצתית">
+		תרפיה קבוצתית
+	</a>
+</li>
+
+						</ul>
+					</div>
+				</div>
+
+
+				<div class="col mega-box" style="margin:0 0 25px 0;">
+					<div class="link-section" >
+						<ul>
+							<li style="font-weight: 700; margin-bottom: 10px; text-align: right;"><h5>הוראה וחינוך</h5></li>
+							<li>
+	<a style="padding:0 5px 0 5px;" href="/home/doc.aspx?mCatID=66&mode=s&iccID=51&icpID=100&icID=158" title="לאבחונים ומבדקים">
+		אבחונים ומבדקים
+	</a>
+</li>
+<li>
+	<a style="padding:0 5px 0 5px;" href="/home/doc.aspx?mCatID=66&mode=s&iccID=51&icpID=100&icID=160" title="להקניית קריאה">
+		הקניית קריאה
+	</a>
+</li>
+<li>
+	<a style="padding:0 5px 0 5px;" href="/home/doc.aspx?mCatID=66&mode=s&iccID=51&icpID=100&icID=155" title="לחינוך">
+		חינוך
+	</a>
+</li>
+<li>
+	<a style="padding:0 5px 0 5px;" href="/home/doc.aspx?mCatID=66&mode=s&iccID=51&icpID=100&icID=156" title="לחינוך והוראה">
+		חינוך והוראה
+	</a>
+</li>
+<li>
+	<a style="padding:0 5px 0 5px;" href="/home/doc.aspx?mCatID=66&mode=s&iccID=51&icpID=100&icID=157" title="ללימוד והעשרה">
+		לימוד והעשרה
+	</a>
+</li>
+<li>
+	<a style="padding:0 5px 0 5px;" href="/home/doc.aspx?mCatID=66&mode=s&iccID=51&icpID=100&icID=154" title="ללמידה בכיתה ובגן">
+		למידה בכיתה ובגן
+	</a>
+</li>
+<li>
+	<a style="padding:0 5px 0 5px;" href="/home/doc.aspx?mCatID=66&mode=s&iccID=51&icpID=100&icID=153" title="ללמידה מתווכת וחשיבה">
+		למידה מתווכת וחשיבה
+	</a>
+</li>
+<li>
+	<a style="padding:0 5px 0 5px;" href="/home/doc.aspx?mCatID=66&mode=s&iccID=51&icpID=100&icID=159" title="למוכנות ללמידה">
+		מוכנות ללמידה
+	</a>
+</li>
+<li>
+	<a style="padding:0 5px 0 5px;" href="/home/doc.aspx?mCatID=66&mode=s&iccID=51&icpID=100&icID=152" title="למחול וחינוך">
+		מחול וחינוך
+	</a>
+</li>
+
+						</ul>
+					</div>
+				</div>
+
+
+				<div class="col mega-box" style="margin:0 0 25px 0;">
+					<div class="link-section" >
+						<ul>
+							<li style="font-weight: 700; margin-bottom: 10px; text-align: right;"><h5>ליקויי למידה והתפתחות</h5></li>
+							<li>
+	<a style="padding:0 5px 0 5px;" href="/home/doc.aspx?mCatID=66&mode=s&iccID=51&icpID=96&icID=145" title="לADD, ADHD, טורט ותסמונות נוספות">
+		ADD, ADHD, טורט ותסמונות נוספות
+	</a>
+</li>
+<li>
+	<a style="padding:0 5px 0 5px;" href="/home/doc.aspx?mCatID=66&mode=s&iccID=51&icpID=96&icID=147" title="לבעיות תקשורת">
+		בעיות תקשורת
+	</a>
+</li>
+<li>
+	<a style="padding:0 5px 0 5px;" href="/home/doc.aspx?mCatID=66&mode=s&iccID=51&icpID=96&icID=142" title="לדיסלקסיה וליקויי למידה">
+		דיסלקסיה וליקויי למידה
+	</a>
+</li>
+<li>
+	<a style="padding:0 5px 0 5px;" href="/home/doc.aspx?mCatID=66&mode=s&iccID=51&icpID=96&icID=143" title="לליקויי תקשורת קשב והתפתחות">
+		ליקויי תקשורת קשב והתפתחות
+	</a>
+</li>
+<li>
+	<a style="padding:0 5px 0 5px;" href="/home/doc.aspx?mCatID=66&mode=s&iccID=51&icpID=96&icID=144" title="לליקויים סנסוריים, מוטוריים ופיגור">
+		ליקויים סנסוריים, מוטוריים ופיגור
+	</a>
+</li>
+<li>
+	<a style="padding:0 5px 0 5px;" href="/home/doc.aspx?mCatID=66&mode=s&iccID=51&icpID=96&icID=148" title="לצרכים מיוחדים - פעילויות">
+		צרכים מיוחדים - פעילויות
+	</a>
+</li>
+<li>
+	<a style="padding:0 5px 0 5px;" href="/home/doc.aspx?mCatID=66&mode=s&iccID=51&icpID=96&icID=146" title="לקשיים רגשיים ובעיות התנהגות">
+		קשיים רגשיים ובעיות התנהגות
+	</a>
+</li>
+
+						</ul>
+					</div>
+				</div>
+
+
+				<div class="col mega-box" style="margin:0 0 25px 0;">
+					<div class="link-section" >
+						<ul>
+							<li style="font-weight: 700; margin-bottom: 10px; text-align: right;"><h5>פסיכולוגיה</h5></li>
+							<li>
+	<a style="padding:0 5px 0 5px;" href="/home/doc.aspx?mCatID=66&mode=s&iccID=51&icpID=92&icID=132" title="לדיכאון וחרדה">
+		דיכאון וחרדה
+	</a>
+</li>
+<li>
+	<a style="padding:0 5px 0 5px;" href="/home/doc.aspx?mCatID=66&mode=s&iccID=51&icpID=92&icID=133" title="להתמכרויות">
+		התמכרויות
+	</a>
+</li>
+<li>
+	<a style="padding:0 5px 0 5px;" href="/home/doc.aspx?mCatID=66&mode=s&iccID=51&icpID=92&icID=134" title="למחלות נפש והפרעות התנהגות">
+		מחלות נפש והפרעות התנהגות
+	</a>
+</li>
+<li>
+	<a style="padding:0 5px 0 5px;" href="/home/doc.aspx?mCatID=66&mode=s&iccID=51&icpID=92&icID=138" title="למשחק ודמיון">
+		משחק ודמיון
+	</a>
+</li>
+<li>
+	<a style="padding:0 5px 0 5px;" href="/home/doc.aspx?mCatID=66&mode=s&iccID=51&icpID=92&icID=136" title="לנשים, מגדר ומיניות">
+		נשים, מגדר ומיניות
+	</a>
+</li>
+<li>
+	<a style="padding:0 5px 0 5px;" href="/home/doc.aspx?mCatID=66&mode=s&iccID=51&icpID=92&icID=137" title="לפגיעה רגשית ופיזית">
+		פגיעה רגשית ופיזית
+	</a>
+</li>
+<li>
+	<a style="padding:0 5px 0 5px;" href="/home/doc.aspx?mCatID=66&mode=s&iccID=51&icpID=92&icID=135" title="לפסיכולוגיה - כללי">
+		פסיכולוגיה - כללי
+	</a>
+</li>
+
+						</ul>
+					</div>
+				</div>
+
+
+				<div class="col mega-box" style="margin:0 0 25px 0;">
+					<div class="link-section" >
+						<ul>
+							<li style="font-weight: 700; margin-bottom: 10px; text-align: right;"><h5>הגיל הרך</h5></li>
+							<li>
+	<a style="padding:0 5px 0 5px;" href="/home/doc.aspx?mCatID=66&mode=s&iccID=51&icpID=91&icID=127" title="לאמנות בגיל הרך">
+		אמנות בגיל הרך
+	</a>
+</li>
+<li>
+	<a style="padding:0 5px 0 5px;" href="/home/doc.aspx?mCatID=66&mode=s&iccID=51&icpID=91&icID=130" title="לחינוך בגיל הרך">
+		חינוך בגיל הרך
+	</a>
+</li>
+<li>
+	<a style="padding:0 5px 0 5px;" href="/home/doc.aspx?mCatID=66&mode=s&iccID=51&icpID=91&icID=129" title="לפעילויות לגיל הרך וכיתות יסוד">
+		פעילויות לגיל הרך וכיתות יסוד
+	</a>
+</li>
+<li>
+	<a style="padding:0 5px 0 5px;" href="/home/doc.aspx?mCatID=66&mode=s&iccID=51&icpID=91&icID=131" title="לפעילויות משפחתיות לגיל הרך">
+		פעילויות משפחתיות לגיל הרך
+	</a>
+</li>
+<li>
+	<a style="padding:0 5px 0 5px;" href="/home/doc.aspx?mCatID=66&mode=s&iccID=51&icpID=91&icID=128" title="לתינוקות ופעוטות">
+		תינוקות ופעוטות
+	</a>
+</li>
+
+						</ul>
+					</div>
+				</div>
+
+
+				<div class="col mega-box" style="margin:0 0 25px 0;">
+					<div class="link-section" >
+						<ul>
+							<li style="font-weight: 700; margin-bottom: 10px; text-align: right;"><h5>עבודה קבוצתית</h5></li>
+							<li>
+	<a style="padding:0 5px 0 5px;" href="/home/doc.aspx?mCatID=66&mode=s&iccID=51&icpID=90&icID=126" title="להנחיה קבוצתית בארגונים">
+		הנחיה קבוצתית בארגונים
+	</a>
+</li>
+<li>
+	<a style="padding:0 5px 0 5px;" href="/home/doc.aspx?mCatID=66&mode=s&iccID=51&icpID=90&icID=124" title="לתרפיה קבוצתית">
+		תרפיה קבוצתית
+	</a>
+</li>
+
+						</ul>
+					</div>
+				</div>
+
+				<div class="col mega-box" style="margin:0 0 25px 0;">
+					<div class="link-section" >
+						<ul>
+							<li style="font-weight: 700; margin-bottom: 10px; text-align: right;">
+								<h5><a style="padding:0 5px 0 5px; font-weight: 700;" href="/home/doc.aspx?mCatID=66&mode=s&iccID=51&icpID=98&icID=150" title="לגרפולוגיה">גרפולוגיה</a></h5>
+							</li>
+						</ul>
+					</div>
+				</div>				<div class="col mega-box" style="margin:0 0 25px 0;">
+					<div class="link-section" >
+						<ul>
+							<li style="font-weight: 700; margin-bottom: 10px; text-align: right;">
+								<h5><a style="padding:0 5px 0 5px; font-weight: 700;" href="/home/doc.aspx?mCatID=66&mode=s&iccID=51&icpID=175&icID=176" title="לCBT טיפול קוגניטיבי התנהגותי">CBT טיפול קוגניטיבי התנהגותי</a></h5>
+							</li>
+						</ul>
+					</div>
+				</div>				<div class="col mega-box" style="margin:0 0 25px 0;">
+					<div class="link-section" >
+						<ul>
+							<li style="font-weight: 700; margin-bottom: 10px; text-align: right;">
+								<h5><a style="padding:0 5px 0 5px; font-weight: 700;" href="/home/doc.aspx?mCatID=66&mode=s&iccID=51&icpID=95&icID=141" title="לאורח חיים בריא">אורח חיים בריא</a></h5>
+							</li>
+						</ul>
+					</div>
+				</div>				<div class="col mega-box" style="margin:0 0 25px 0;">
+					<div class="link-section" >
+						<ul>
+							<li style="font-weight: 700; margin-bottom: 10px; text-align: right;">
+								<h5><a style="padding:0 5px 0 5px; font-weight: 700;" href="/home/doc.aspx?mCatID=66&mode=s&iccID=51&icpID=105&icID=165" title="לאימון (coaching) וגישור">אימון (coaching) וגישור</a></h5>
+							</li>
+						</ul>
+					</div>
+				</div>				<div class="col mega-box" style="margin:0 0 25px 0;">
+					<div class="link-section" >
+						<ul>
+							<li style="font-weight: 700; margin-bottom: 10px; text-align: right;">
+								<h5><a style="padding:0 5px 0 5px; font-weight: 700;" href="/home/doc.aspx?mCatID=66&mode=s&iccID=51&icpID=107&icID=167" title="לאמנות">אמנות</a></h5>
+							</li>
+						</ul>
+					</div>
+				</div>				<div class="col mega-box" style="margin:0 0 25px 0;">
+					<div class="link-section" >
+						<ul>
+							<li style="font-weight: 700; margin-bottom: 10px; text-align: right;">
+								<h5><a style="padding:0 5px 0 5px; font-weight: 700;" href="/home/doc.aspx?mCatID=66&mode=s&iccID=51&icpID=97&icID=149" title="להורות">הורות</a></h5>
+							</li>
+						</ul>
+					</div>
+				</div>				<div class="col mega-box" style="margin:0 0 25px 0;">
+					<div class="link-section" >
+						<ul>
+							<li style="font-weight: 700; margin-bottom: 10px; text-align: right;">
+								<h5><a style="padding:0 5px 0 5px; font-weight: 700;" href="/home/doc.aspx?mCatID=66&mode=s&iccID=51&icpID=109&icID=169" title="למוכנות לכיתה א'">מוכנות לכיתה א'</a></h5>
+							</li>
+						</ul>
+					</div>
+				</div>				<div class="col mega-box" style="margin:0 0 25px 0;">
+					<div class="link-section" >
+						<ul>
+							<li style="font-weight: 700; margin-bottom: 10px; text-align: right;">
+								<h5><a style="padding:0 5px 0 5px; font-weight: 700;" href="/home/doc.aspx?mCatID=66&mode=s&iccID=51&icpID=106&icID=166" title="לקרימינולוגיה">קרימינולוגיה</a></h5>
+							</li>
+						</ul>
+					</div>
+				</div>				<div class="col mega-box" style="margin:0 0 25px 0;">
+					<div class="link-section" >
+						<ul>
+							<li style="font-weight: 700; margin-bottom: 10px; text-align: right;">
+								<h5><a style="padding:0 5px 0 5px; font-weight: 700;" href="/home/doc.aspx?mCatID=66&mode=s&iccID=51&icpID=103&icID=163" title="לכוח לקרוא - דגנית שניר">כוח לקרוא - דגנית שניר</a></h5>
+							</li>
+						</ul>
+					</div>
+				</div>				<div class="col mega-box" style="margin:0 0 25px 0;">
+					<div class="link-section" >
+						<ul>
+							<li style="font-weight: 700; margin-bottom: 10px; text-align: right;">
+								<h5><a style="padding:0 5px 0 5px; font-weight: 700;" href="/home/doc.aspx?mCatID=66&mode=s&iccID=51&icpID=171&icID=172" title="לבכתיבה ראשונה - דגנית שניר">בכתיבה ראשונה - דגנית שניר</a></h5>
+							</li>
+						</ul>
+					</div>
+				</div>				<div class="col mega-box" style="margin:0 0 25px 0;">
+					<div class="link-section" >
+						<ul>
+							<li style="font-weight: 700; margin-bottom: 10px; text-align: right;">
+								<h5><a style="padding:0 5px 0 5px; font-weight: 700;" href="/home/doc.aspx?mCatID=66&mode=s&iccID=51&icpID=104&icID=164" title="לבסימן קריאה, בסימן כתיבה">בסימן קריאה, בסימן כתיבה</a></h5>
+							</li>
+						</ul>
+					</div>
+				</div>				<div class="col mega-box" style="margin:0 0 25px 0;">
+					<div class="link-section" >
+						<ul>
+							<li style="font-weight: 700; margin-bottom: 10px; text-align: right;">
+								<h5><a style="padding:0 5px 0 5px; font-weight: 700;" href="/home/doc.aspx?mCatID=66&mode=s&iccID=51&icpID=110&icID=170" title="לספרים מהוצאת עלה">ספרים מהוצאת עלה</a></h5>
+							</li>
+						</ul>
+					</div>
+				</div>				<div class="col mega-box" style="margin:0 0 25px 0;">
+					<div class="link-section" >
+						<ul>
+							<li style="font-weight: 700; margin-bottom: 10px; text-align: right;">
+								<h5><a style="padding:0 5px 0 5px; font-weight: 700;" href="/home/doc.aspx?mCatID=66&mode=s&iccID=51&icpID=101&icID=161" title="לספרים חדשים">ספרים חדשים</a></h5>
+							</li>
+						</ul>
+					</div>
+				</div>				<div class="col mega-box" style="margin:0 0 25px 0;">
+					<div class="link-section" >
+						<ul>
+							<li style="font-weight: 700; margin-bottom: 10px; text-align: right;">
+								<h5><a style="padding:0 5px 0 5px; font-weight: 700;" href="/home/doc.aspx?mCatID=66&mode=s&iccID=51&icpID=99&icID=151" title="לכללי">כללי</a></h5>
+							</li>
+						</ul>
+					</div>
+				</div>
+								</div>
+							</div>
+						</li>
+					</ul>
+				</li>
+				<!--
+				<li>
+					<a href='/home/doc.aspx?mCatID=57&mode=s&iccID=52&icpID=59&icID=63' title="">
+						שאלות ותשובות
+					</a>
+				</li>
+				-->
+				<li>
+					<a href='/doc/תנאי-רכישה' title="">
+						תנאי רכישה
+					</a>
+				</li>
+<!--				
+				<li>
+					<a href='/home/doc.aspx?mCatID=77&mode=s&iccID=52&icpID=59&icID=65' title="">
+						בלוג
+					</a>
+				</li>
+-->				
+				<li>
+					<a href='/home/doc.aspx?mCatID=54' title="go to צור קשר">צור קשר</a>
+				</li>
+			</ul>
+		</nav>
+	</div>
+<!-- End group categories - 2 - header 2 - תפריט ראשי -->
+
+
+<!-- Begin group custom docs - CD8 - 89 - header 2 - search engine -->
+
+<div>
+	<div class="icon-nav">
+		<ul>
+			<li class="onhover-div mobile-search">
+				<div>
+					<img src="/vault/assets/images/icon/layout4/search.png" onclick="if (!window.__cfRLUnblockHandlers) return false; openSearch()" class="img-fluid blur-up lazyload" alt="" data-cf-modified-7d11705d461c31e3a82fb13b-=""> 
+					<i class="ti-search" onclick="if (!window.__cfRLUnblockHandlers) return false; openSearch()" data-cf-modified-7d11705d461c31e3a82fb13b-=""></i>
+				</div>
+				<div id="search-overlay" class="search-overlay">
+					<div> 
+						<span class="closebtn" onclick="if (!window.__cfRLUnblockHandlers) return false; closeSearch()" title="Close Overlay" data-cf-modified-7d11705d461c31e3a82fb13b-="">×</span>
+						<div class="overlay-content">
+							<div class="container">
+								<div class="row">
+									<div class="col-xl-12">
+										<div class="search-container">
+
+										
+
+
+<div class="divSearch divSearch89 divSearch89-89">
+  <div id="ctl05_UpdatePanel1" class="categories-wrapper">
+	
+      
+      <div class="divField divFieldCategories divFieldIcID89">
+        <span class="spanField">
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+        </span>
+      </div>
+      
+      
+      <div class="divFieldTextBox"><input type='text' class='form-control-auto-complete' id='cdtext89' placeholder='חיפוש ספר' value='' onkeydown="if (!window.__cfRLUnblockHandlers) return false; if(event.which || event.keyCode){if ((event.which == 13) || (event.keyCode == 13)) {document.getElementById('aSearchButton89').click();return false; }} else {return true}; " aria-label='חפש/י' data-cf-modified-7d11705d461c31e3a82fb13b-="" /></div><div class="divSearchButton"><a id='aSearchButton89' href='javascript:void(0)' class='' onclick="if (!window.__cfRLUnblockHandlers) return false; submitForm89()" data-cf-modified-7d11705d461c31e3a82fb13b-=""><img src="https://www.achbooks.co.il/sysvault/sysimg/btn-search-1-22-.png" alt='חיפוש' /></a></div>
+      
+    
+</div>
+</div>
+<div id="ctl05_UpdateProgress2" style="display:none;">
+	
+    <div id="ctl05_PanelProgress" class="PanelProgress">
+		
+      <img src="/mainimages/animations/loader17.gif" alt="" />
+    
+	</div>
+    
+  
+</div>
+										</div>									
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</li>
+			
+			
+<!-- End group custom docs - CD8 - 89 - header 2 - search engine -->
+
+<!-- Begin group custom docs - CD20 - 90 - header 2 - סל קניות, לוגו, טריגר לפתיחת חיפוש -->
+			<li class="onhover-div mobile-cart">
+				<div>
+					<img src="/vault/assets/images/icon/layout4/cart.png" class="img-fluid blur-up lazyload" alt=""> <i class="ti-shopping-cart"></i>
+				</div>
+				<span class="cart_qty_cls">0</span>
+				<ul class="show-div shopping-cart">
+					<li class="text-center bold">
+						הסל ריק 
+					</li>
+				</ul>
+			</li>
+		</ul>
+	</div>
+</div>
+
+
+<!-- End group custom docs - CD20 - 90 - header 2 - סל קניות, לוגו, טריגר לפתיחת חיפוש -->
+<!-- Begin group multimedia - 104 - header 2 - bottom header  -->
+
+				</div>
+			</div>
+		</div>
+	</div>
+</header>
+<!-- End group multimedia - 104 - header 2 - bottom header  -->
+
+<!-- Begin group multimedia - 117 - 404 -->
+<!-- breadcrumb start -->
+<div class="breadcrumb-section">
+	<div class="container">
+		<div class="row">
+			<div class="col-sm-6">
+				<div class="page-title">
+					<h1>דף 404</h1>
+				</div>
+			</div>
+			<div class="col-sm-6">
+				<nav aria-label="breadcrumb" class="theme-breadcrumb">
+					<ol class="breadcrumb">
+						<li class="breadcrumb-item"><a href="/">דף הבית</a></li>
+						<li class="breadcrumb-item active">דף 404</li>
+					</ol>
+				</nav>
+			</div>
+		</div>
+	</div>
+</div>
+<!-- breadcrumb end -->
+
+
+<!-- section start -->
+    <section class="p-0">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12">
+                    <div class="error-section">
+                        <h1>404</h1>
+                        <h2>אוופס, אם הגעתם לפה כנראה שמשהו השתבש</h2>
+                        <a href="/" class="btn btn-solid">חזרה לדף הבית</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Section ends -->
+<!-- End group multimedia - 117 - 404 -->
+
+<!-- Begin group multimedia - 97 - footer - open -->
+<footer>
+<!-- End group multimedia - 97 - footer - open -->
+
+<!-- Begin group forms - FM13 - 71 - הרשמה לדיוור -->
+
+
+<input type="hidden" name="ctl10$ctl00$HiddenFieldGuid" id="ctl10_ctl00_HiddenFieldGuid" value="4a6afb39-850b-4e81-acdb-c77fa51f2efc" />
+
+<div class="dark-layout">
+	<div class="container">
+		<section class="section-b-space border-b">
+			<div class="row footer-theme2">
+				<div class="col-lg-3">
+					<div class="footer-title footer-mobile-title">
+						<h4>אודות</h4>
+					</div>
+					<div class="footer-contant">
+						<div class="footer-logo"><img src="https://www.achbooks.co.il/sysvault/sysimg/sitelogo.jpg" alt=""></div>
+						<p>שרות מיוחד לספריות ציבוריות, אוניברסיטאות, מכללות, ספריות בתי ספר ולארגונים שונים 
+אנו מקבלים הצעות לספרים בתחום מדעי ההתנהגות והחינוך.
+ברוכים הבאים לאתר של הוצאת ספרים "אח"
+אנו מציעים ספרים איכותיים במחירים אטרקטיביים לפונים דרך האתר</p>
+					</div>
+				</div>
+				<div class="col-lg-6 subscribe-wrapper">
+					<div class="subscribe-block">
+						<h2>הרשמה לדיוור</h2>
+						<div class="form-group">
+
+
+
+        <div class="form-header divFormHeader71">
+            
+        </div>
+        <div class="form-main divFormFieldsMain71">
+            <div class="form-blocks" id="divBlock711"><div class="field-main-wrapper"><div class="field-Label-wrapper">הכנס/י את כתובת המייל שלך</div><div class="field-input-wrapper"><input name="ctl10$ctl00$TextBoxMailTo147169" type="text" value="הכנס/י את כתובת המייל שלך" id="TextBoxMailTo147169" class="mailTextBox mailTextBox7169 form-control" /></div></div><div class="field-main-wrapper"><div class="field-Label-wrapper">מאשר קבלת דיוור </div><div class="field-input-wrapper"><span class="checkBox checkBox7170 form-control input-sm"><input id="CheckBox37170" type="checkbox" name="ctl10$ctl00$CheckBox37170" checked="checked" /><label for="CheckBox37170" class="field-label">מאשר קבלת דיוור</label></span></div></div></div>
+            <div class="form-button-wrapper">
+                <label class="hidden-true" for="ctl10_ctl00_TextBoxAS">שדה אבטחה. אין צורך למלא אותו</label><input name="ctl10$ctl00$TextBoxAS" type="text" id="ctl10_ctl00_TextBoxAS" class="TextBoxAS" /><div id="ctl10_ctl00_validator-summary-71" class="validator-style validator-style-71" style="visibility:hidden;display:none;">
+	
+</div><input type="submit" name="ctl10$ctl00$ButtonSend" value="שליחה" id="ctl10_ctl00_ButtonSend" class="btn btn-solid" data-sitekey="6LdGfbUZAAAAABgGRZ-uUoR6zs3snfayqmvlDzER" data-callback="onSubmit" data-action="submit" />
+            </div>
+        </div>
+    						</div>
+					</div>
+				</div>
+				<div class="col-lg-3">
+					<div class="footer-title">
+						<h4>ליצירת קשר</h4>
+					</div>
+					<div class="footer-contant">
+						<ul class="contact-details">
+							<li>הוצאת ספרים אח בע"מ</li>
+							<li>כתובת: רח' מיכאל 16, כפר ביאליק, 2790500</li>
+							<li>טל: 04-8722096, 04-8727227</li>
+							<li>פקס: 04-8417839</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</section>
+	</div>
+</div><span id='ctl10_ctl00_emav147169' style='visibility:hidden;' class='DESVALErrorText'><span id='ctl10_ctl00_emav147169_Txt'>כתובת דואר האלקטרוני לא תקינה</span></span>
+
+<!-- End group forms - FM13 - 71 - הרשמה לדיוור -->
+
+<!--  Begin group menus 69 - Footer Menu -->
+<div class="dark-layout">
+	<div class="container">
+		<section class="small-section">
+			<div class="row footer-theme2">
+				<div class="col p-set">
+					<div class="footer-link footer-link-447">
+	<div class="footer-title">
+		<h4>נושאים ראשיים</h4>
+	</div>
+	<div class="footer-contant">
+		<ul>
+			<li>
+	<a href='/home/doc.aspx?mCatID=91&mode=s&iccID=51&icPID=89'>תרפיה</a>
+</li><li>
+	<a href='/home/doc.aspx?mCatID=91&mode=s&iccID=51&icPID=100'>הוראה וחינוך</a>
+</li><li>
+	<a href='/home/doc.aspx?mCatID=91&mode=s&iccID=51&icPID=96'>ליקויי למידה והתפתחות</a>
+</li><li>
+	<a href='/home/doc.aspx?mCatID=91&mode=s&iccID=51&icPID=92'>פסיכולוגיה</a>
+</li><li>
+	<a href='/home/doc.aspx?mCatID=91&mode=s&iccID=51&icPID=91'>הגיל הרך</a>
+</li><li>
+	<a href='/home/doc.aspx?mCatID=91&mode=s&iccID=51&icPID=90'>עבודה קבוצתית</a>
+</li><li>
+	<a href='/home/doc.aspx?mCatID=66&mode=s&iccID=51&icpID=98&icID=150'>גרפולוגיה</a>
+</li><li>
+	<a href='/home/doc.aspx?mCatID=66&mode=s&iccID=51&icpID=175&icID=176'>CBT טיפול קוגניטיבי התנהגותי</a>
+</li><li>
+	<a href='/home/doc.aspx?mCatID=66&mode=s&iccID=51&icpID=95&icID=141'>אורח חיים בריא</a>
+</li><li>
+	<a href='/home/doc.aspx?mCatID=66&mode=s&iccID=51&icpID=105&icID=165'>אימון (Coaching) וגישור</a>
+</li><li>
+	<a href='/home/doc.aspx?mCatID=66&mode=s&iccID=51&icpID=107&icID=167'>אמנות</a>
+</li><li>
+	<a href='/home/doc.aspx?mCatID=66&mode=s&iccID=51&icpID=97&icID=149'>הורות</a>
+</li><li>
+	<a href='/home/doc.aspx?mCatID=66&mode=s&iccID=51&icpID=109&icID=169'>מוכנות לכיתה א'</a>
+</li><li>
+	<a href='/home/doc.aspx?mCatID=66&mode=s&iccID=51&icpID=106&icID=166'>קרימינולוגיה</a>
+</li><li>
+	<a href='/home/doc.aspx?mCatID=66&mode=s&iccID=51&icpID=103&icID=163'>כוח לקרוא - דגנית שניר</a>
+</li><li>
+	<a href='/home/doc.aspx?mCatID=66&mode=s&iccID=51&icpID=171&icID=172'>בכתיבה ראשונה - דגנית שניר</a>
+</li><li>
+	<a href='/home/doc.aspx?mCatID=66&mode=s&iccID=51&icpID=104&icID=164'>בסימן קריאה, בסימן כתיבה</a>
+</li><li>
+	<a href='/home/doc.aspx?mCatID=66&mode=s&iccID=51&icpID=110&icID=170'>ספרים מהוצאת עלה</a>
+</li><li>
+	<a href='/home/doc.aspx?mCatID=66&mode=s&iccID=51&icpID=101&icID=161'>ספרים חדשים</a>
+</li><li>
+	<a href='/home/doc.aspx?mCatID=66&mode=s&iccID=51&icpID=99&icID=151'>כללי</a>
+</li>
+		</ul>
+	</div>
+</div><div class="footer-link footer-link-448">
+	<div class="footer-title">
+		<h4>הוצאת ספרים אח </h4>
+	</div>
+	<div class="footer-contant">
+		<ul>
+			<li>
+	<a href='/doc/אודות'>אודות</a>
+</li><li>
+	<a href='/doc/תנאי-רכישה'>תנאי רכישה</a>
+</li><li>
+	<a href='/home/doc.aspx?mCatID=54'>צור קשר</a>
+</li>
+		</ul>
+	</div>
+</div>
+				</div>
+			</div>
+		</section>
+	</div>
+</div>
+<div class="sub-footer darker-subfooter">
+	<div class="container">
+		<div class="row">
+			<div class="col-xl-6 col-md-6 col-sm-12">
+				<div class="footer-end">
+					<p><i class="fa fa-copyright" aria-hidden="true"></i> כל הזכויות שמורות להוצאת ספרים אח בע"מ</p>
+				</div>
+			</div>
+			<div class="col-xl-6 col-md-6 col-sm-12">
+				<div class="payment-card-bottom">
+					<ul>
+						<li>
+							<a href="#"><img src="/vault/assets/images/icon/visa.png" alt=""></a>
+						</li>
+						<li>
+							<a href="#"><img src="/vault/assets/images/icon/mastercard.png" alt=""></a>
+						</li>
+						<li>
+							<a href="#"><img src="/vault/assets/images/icon/paypal.png" alt=""></a>
+						</li>
+						<li>
+							<a href="#"><img src="/vault/assets/images/icon/american-express.png" alt=""></a>
+						</li>
+						<li>
+							<a href="#"><img src="/vault/assets/images/icon/discover.png" alt=""></a>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<!--  End group menus 69 - Footer Menu -->
+
+<!-- Begin group multimedia - 98 - Footer Close -->
+</footer>
+<!-- End group multimedia - 98 - Footer Close -->
+
+    
+<script type="7d11705d461c31e3a82fb13b-text/javascript">
+//<![CDATA[
+var gDES_Actions =  new Array({Run:DES_DoValidate,Init:DES_InitValAction,Enabled:true,CID:'CTL10_CTL00_RFV147169',Cond:{Eval:DES_EvalReqTextCond,Init:DES_InitOneFldCond,Enabled:true,HUEvts:1,Req:1,ToDel:DES_ToDelCond,IDToEval:'TextBoxMailTo147169',CaseIns:true},CanRun:DES_CanRunVal,VT:'VAL',ToDel:DES_ToDelVal,VIdx:0,ErrMsg:'E-Mail',SumMsg:'E-Mail',Group:'VGFORMS71',Dspl:0}, {Run:DES_DoValidate,Init:DES_InitValAction,Enabled:true,CID:'CTL10_CTL00_EMAV147169',Cond:{Eval:DES_EvalRegexCond,Init:DES_InitOneFldCond,Enabled:true,HUEvts:1,ToDel:DES_ToDelCond,IDToEval:'TextBoxMailTo147169',Expr:'^([\\w\\.!#\\$%\\-+.\'_]+@[A-Za-z0-9\\-]+(\\.[A-Za-z0-9\\-]{2,})+)$',Flags:'i',IBT:-1},CanRun:DES_CanRunVal,VT:'VAL',ToDel:DES_ToDelVal,VIdx:1,ErrMsg:'כתובת דואר האלקטרוני לא תקינה',SumMsg:'כתובת דואר האלקטרוני לא תקינה',Group:'VGFORMS71',Dspl:1,Format:DES_TextFmttr,ErrFldID:'ctl10_ctl00_emav147169',Blnk:true,BlnkCss:'DESVALBlinkText'});
+//]]>
+</script>
+
+
+<script type="7d11705d461c31e3a82fb13b-text/javascript">
+//<![CDATA[
+Sys.Extended.UI.Localization.SetLocale("he");//]]>
+</script>
+
+<script src="/ScriptResource.axd?d=eE6V8nDbUVn0gtG6hKNX_AXb6GUF9xpGNDhmnhnmPmed6SRuDVq_2GUeRzMIV6hWHY3-anDtiCla82CgA9TxF0zxVJMV0kjgDzblxjwCm2mdBFy2pGjuPFcY-wUEiYGX0&amp;t=7d5986a" type="7d11705d461c31e3a82fb13b-text/javascript"></script>
+<script src="/ScriptResource.axd?d=nuDbSO38JnImEf_sxSrqHC6gQa226OLhABey-GcOM59oSnA4e2v1_8nLgAvPVPKKaFaB-Myp5DTcHViJMkNy8NucsgbhbUCeBIf8zVdZKGW9-X5hey1SIuJFAWi-zzQlqksuifrWGZKTedYHXuUHeA2&amp;t=7d5986a" type="7d11705d461c31e3a82fb13b-text/javascript"></script>
+<script src="/ScriptResource.axd?d=mcAASOSteirJeuV-3by3UcHSJUnTmJdnt64a0Goaa2ctVfdE-td3pGktg3jRStTBQgfq9C5p0YP4S79pN-58y2TUkLbQ1ZlqKrECm8_nlLk1&amp;t=7d5986a" type="7d11705d461c31e3a82fb13b-text/javascript"></script>
+<script src="/ScriptResource.axd?d=jwf4VSQi7LeShc44FJ-gARFZOlJ-5yWG6HlMZzEfihu3BaVGYBRN6otXN6HFhU_EEpdjUo_M21DtS53X3FBVDY8ehLRc4DhLUhtfFV4-_Y_OGd8WOhsJAhQc3xJit-PE0&amp;t=7d5986a" type="7d11705d461c31e3a82fb13b-text/javascript"></script>
+<script src="/ScriptResource.axd?d=nai7mGcYyE2dix_TwveLDbXr0wF_YsziM20r4Qox0Yx20Q16muFSNvlbt8f_3ZaqivWhP55tQqHF1_SRxIYNi945oGUrj7V7Yc0DQGCrfQImb4wQq0GCsmDZbCd1H5mq0&amp;t=7d5986a" type="7d11705d461c31e3a82fb13b-text/javascript"></script>
+<script src="/ScriptResource.axd?d=LQ1q2RBSthBAZhliMjtG_4uYusdVnOuUAVJHqN19L5BdqmNpQtfFlEW5JnjYtJzi4rjxahGeX-ZoOWYl1ZW9XjyCovUqshTzKfyPBK8FoN4kAITX60XDAl0VqpkjddC30&amp;t=7d5986a" type="7d11705d461c31e3a82fb13b-text/javascript"></script>
+<script src="/ScriptResource.axd?d=HEFpVKbnoeQjkjHkFKu3MIgs-lM-QAZTC9fzE9Y-LRlX6O_vF25uBSUViWMNbocY0krZ3q8zw1EpfqHwfDN6C01ecRu7-vflnuqsHUGotjVU-HWFS3mR05FYewIFNa8Q0&amp;t=7d5986a" type="7d11705d461c31e3a82fb13b-text/javascript"></script>
+<script src="/ScriptResource.axd?d=yFN8H9hq0hejoFW9beRmol8IyPLMnW8_64TFTMqPF7LewVZmm0kCRFEvekqByXhwAEEKQtB0iUE0PA8qWhvZxtoCtxhQM5qOXnWRQrvvg0uYddirB200onFOchTnl9Nv0&amp;t=7d5986a" type="7d11705d461c31e3a82fb13b-text/javascript"></script><script type="7d11705d461c31e3a82fb13b-text/javascript">
+//<![CDATA[
+DES_InitSIOs(new Array({id:'ctl10_ctl00_ButtonSend',Grp:'VGFORMS71'}));
+DES_InitActions();
+DES_InitKOs(new Array({CID:'TextBoxMailTo147169',ATab:1,EBtn:'ctl10_ctl00_ButtonSend'},{CID:'ctl10_ctl00_TextBoxAS',ATab:1},{CID:'TextBoxMailTo147169',ATab:1,EBtn:'ctl10_ctl00_ButtonSend'}));
+DES_InitVSOs(new Array({ValSumID:'ctl10_ctl00_validator-summary-71',FmtListFnc:DES_ValSumFmtItemList,GetInner:DES_ValSumInnerHTML,Grp:'VGFORMS71',AutoUpd:false,InvSpc:false,Links:true,PreListFnc:DES_ValSumPreDefault,PostListFnc:DES_ValSumPostDefault,Hdr:'<span class=\'validator-header-style validator-header-style-71\'>נא למלא את כל שדות החובה</span>',Ftr:'',ErrMsgCss:'validator-error-msg-style validator-error-msg-style-71',ErrMsgCss2:'DESVALSummaryErrorsAlt',LinkTT:'נא ללחוץ לבחירת השדה',Showing:false,HdrSep:'<br />',ListLdTxt:'',ListRSep:'',DispMode:'1'}));
+DES_InitSOCs(new Array({id:'TextBoxMailTo147169'},{id:'ctl10_ctl00_TextBoxAS'},{id:'TextBoxMailTo147169'}));
+window.gDES_VWBMd=2;
+DES_VWBInit(new Array({CID:'TextBoxMailTo147169',VWB:'הכנס/י את כתובת המייל שלך',Css:''},{CID:'TextBoxMailTo147169',VWB:'הכנס/י את כתובת המייל שלך',Css:''}));
+//]]>
+</script>
+
+<script type="7d11705d461c31e3a82fb13b-text/javascript">
+//<![CDATA[
+
+theForm.oldSubmit = theForm.submit;
+theForm.submit = WebForm_SaveScrollPositionSubmit;
+
+theForm.oldOnSubmit = theForm.onsubmit;
+theForm.onsubmit = WebForm_SaveScrollPositionOnSubmit;
+Sys.Application.add_init(function() {
+    $create(Sys.Extended.UI.AlwaysVisibleControlBehavior, {"id":"ctl05_AlwaysVisibleControlExtender1","scrollEffectDuration":0.3}, null, null, $get("ctl05_PanelProgress"));
+});
+Sys.Application.add_init(function() {
+    $create(Sys.UI._UpdateProgress, {"associatedUpdatePanelId":null,"displayAfter":0,"dynamicLayout":true}, null, null, $get("ctl05_UpdateProgress2"));
+});
+//]]>
+</script>
+</form>
+    <!-- Begin footer -->
+    <div class='divPageFooter'>
+<div>  <a title="הקמת אתרים רק עם ארטוויז'ן" href="https://www.artvision.co.il" target="_blank" rel="nofollow">  בניית אתרים - ארטוויז'ן בע''מ
+  </a>  </div></div>
+    <!-- End footer -->
+    <!-- Begin body bottom scripts -->
+    <script src="/vault/assets/js/jquery-3.3.1.min.js" type="7d11705d461c31e3a82fb13b-text/javascript"></script>
+<script src="/vault/assets/js/menu.js" type="7d11705d461c31e3a82fb13b-text/javascript"></script>
+<script src="/vault/assets/js/lazysizes.min.js" type="7d11705d461c31e3a82fb13b-text/javascript"></script>
+<script src="/vault/assets/js/slick.js" type="7d11705d461c31e3a82fb13b-text/javascript"></script>
+<script src="/vault/assets/js/bootstrap.bundle.min.js" type="7d11705d461c31e3a82fb13b-text/javascript"></script>
+<script src="/vault/assets/js/bootstrap-notify.min.js" type="7d11705d461c31e3a82fb13b-text/javascript"></script>
+
+
+<link href="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css" rel="stylesheet" />
+<script src="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js" type="7d11705d461c31e3a82fb13b-text/javascript"></script>
+<script type="7d11705d461c31e3a82fb13b-text/javascript">
+	$(document).ready(function() {
+		$('.js-example-basic-single').select2(
+			{
+				language: "he",
+				dir: "rtl"
+			});
+	});
+</script>
+
+
+
+<!--
+<script src="/vault/assets/js/theme-setting.js"></script>
+-->
+<script src="/vault/assets/js/script.js" type="7d11705d461c31e3a82fb13b-text/javascript"></script>
+<script type="7d11705d461c31e3a82fb13b-text/javascript">
+	$(window).on('load', function () {
+		setTimeout(function () {
+			$('#exampleModal').modal('show');
+		}, 2500);
+	});
+
+	function openSearch() {
+		document.getElementById("search-overlay").style.display = "block";
+	}
+
+	function closeSearch() {
+		document.getElementById("search-overlay").style.display = "none";
+	}
+</script>
+<script type="7d11705d461c31e3a82fb13b-text/javascript">
+    var galleryTop = new Swiper('.gallery-top', {
+        nextButton: '.swiper-button-next',
+        prevButton: '.swiper-button-prev',
+        spaceBetween: 10,
+    });
+    var galleryThumbs = new Swiper('.gallery-thumbs', {
+        spaceBetween: 10,
+        centeredSlides: true,
+        slidesPerView: 'auto',
+        touchRatio: 0.2,
+        slideToClickedSlide: true
+    });
+    galleryTop.params.control = galleryThumbs;
+    galleryThumbs.params.control = galleryTop;
+</script>   
+    <!-- End body bottom scripts -->
+    <!-- Begin body bottom groups scripts -->
+    <!-- Begin script categories group - 2 - header 2 - תפריט ראשי -->
+<script src="/vault/js/masonry.pkgd.min.js" type="7d11705d461c31e3a82fb13b-text/javascript"></script>
+<!--
+<script>
+	$( document ).ready(function() {
+		$('.grid').masonry({
+			// options
+			itemSelector: '.grid-item',
+			columnWidth: 200
+		});
+	});
+</script>
+-->
+<!-- End script categories group - 2 - header 2 - תפריט ראשי -->
+<!-- Begin script group custom docs - 89 - header 2 - search engine -->
+<link href="/assets/external/jquery-ui/last/jquery-ui.min.css" rel="stylesheet" type="text/css" />
+<script src="/assets/external/jquery-ui/last/jquery-ui.min.js" type="7d11705d461c31e3a82fb13b-text/javascript"></script>
+
+
+<script type="7d11705d461c31e3a82fb13b-text/javascript">
+$(document).ready(function(){
+    $(".btn-search").click(function(){
+        $(".search").toggle();
+    });
+});
+</script>
+<script type="7d11705d461c31e3a82fb13b-text/javascript">
+$(document).ready(function(){ 
+  $('form').find("#cdtext22").each(function(ev){
+     if(!$(this).val()) { 
+     $(this).attr("placeholder", "חיפוש");
+  }
+  });
+});
+</script>
+<!-- End script group custom docs - 89 - header 2 - search engine -->
+<script type="7d11705d461c31e3a82fb13b-text/javascript">/* Autocomplete */$(function () {$('#cdtext89').autocomplete({ minLength: 2, source: function (request, response) { $.post('/api/internal/system/autocomplete/customdocs/search/freetext', { 'cdtid': 1, 'fsrch': 1, 'fdsply': 1, 'fimg': 5, 'docredir': 'True', 'term': request.term }, function (data) { response(data.data) }); }, position: { my: 'right top', at: 'right bottom'  }, _resizeMenu: function () {this.menu.element.outerWidth(700); },  select: function (event, ui)  {window.location.href = ui.item.link; }, }) .autocomplete('instance')._renderItem = function (ul, item) { return $('<li>') .append('<div class="ac-item-img">' + item.icon + '</div><div class="ac-item-text">' + item.label + '</div>')  .appendTo(ul); }; });</script>
+    <!-- End body bottom groups scripts -->
+    <!-- Begin Google Remarketing for website -->
+    
+    <!-- End Google Remarketing for website -->
+    <!-- Begin Google Remarketing for current page -->
+    
+    <!-- End Google Remarketing for current page -->
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="7d11705d461c31e3a82fb13b-|49" defer></script></body>
+</html>

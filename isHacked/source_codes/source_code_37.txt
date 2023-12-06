@@ -1,0 +1,48 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head lang="he"><title>
+	Page not found
+</title><meta id="metaRobots" name="robots" content="noindex,nofollow" /><link href="/assets/external/bootstrap/last/css/bootstrap.min.css" rel="stylesheet" type="text/css" /><link href="/assets/external/animate/last/css/animate.min.css" rel="stylesheet" type="text/css" /><link href="/assets/internal/styles/css/core-extended.css" rel="stylesheet" type="text/css" /><link href="/assets/external/fonts/heb/css/fonts.css" rel="stylesheet" type="text/css" /><link href="/assets/external/font-awesome/last/css/font-awesome.min.css" rel="stylesheet" type="text/css" /><link href="/assets/external/bootstrap-rtl/last/css/bootstrap-rtl.min.css" rel="stylesheet" type="text/css" /><link href="/sysvault/styles/mainstyle.css" rel="stylesheet" type="text/css" /><link href="/sysvault/styles/userstylemain.css" rel="stylesheet" type="text/css" />
+    <script src="/assets/external/jquery/last/jquery.min.js"></script>
+    <script src="/assets/external/bootstrap/last/js/bootstrap.min.js"></script>
+</head>
+<body>
+    <!--  Begin accessibility -->
+    <div id='qw-menu-accessibility'></div>
+    <!--  End accessibility -->
+
+    <div id="Panel1" class="container">
+	
+        <div class="row">
+            <div class="'col-xs-12 margin-top-40">
+                <img id="Image1" src="/sysvault/sysimg/sitelogo.png" />
+            </div>
+        </div>
+        <div class="row">
+            <div class="'col-xs-12 margin-top-40">
+                <h1>
+                    הדף המבוקש אינו נמצא
+                </h1>
+            </div>
+        </div>
+        <div class="row">
+            <div class="'col-xs-12 margin-top-40">
+                <a href="https://www.hadaralon.co.il" class="btn">
+                    חזור לדף הראשי
+                </a>
+            </div>
+        </div>
+    
+</div>
+    
+
+    
+<link href='/assets/internal/styles/accessibility/acc-menu-001.min.css?t=638348769812697162' rel='stylesheet' type='text/css' />
+<script src='/assets/internal/scripts/accessibility/acc-menu-001.min.js?t=638348769812697162'></script>
+<script>accessibilitySettings = {"buttons":[{"value":"monochrome","title":"מונוכרום","icon":"fa-adjust-000000","alt":"לחץ/י כאן להפעלת מונוכרום"},{"value":"highcontrast","title":"ניגודיות בהירה","icon":"fa-circle-o-000000","alt":"לחץ/י כאן להפעלת ניגודיות בהירה"},{"value":"darkcontrast","title":"ניגודיות כהה","icon":"fa-circle-000000","alt":"לחץ/י כאן להפעלת ניגודיות כהה"},{"value":"font1","title":"גופן 155%","icon":"fa-search-plus-000000","alt":"לחץ/י כאן להפעלת גופן 155%"},{"value":"font2","title":"גופן 175%","icon":"fa-search-plus-000000","alt":"לחץ/י כאן להפעלת גופן 175%"},{"value":"font3","title":"גופן 200%","icon":"fa-search-plus-000000","alt":"לחץ/י כאן להפעלת גופן 200%"},{"value":"fontaccess","title":"פונט נגיש","icon":"fa-font-000000","alt":"לחץ/י כאן להפעלת פונט נגיש"},{"value":"highlightlinks","title":"הדגשת קישורים","icon":"fa-chain-000000","alt":"לחץ/י כאן להפעלת הדגשת קישורים"},{"value":"highlightheaders","title":"הדגשת כותרות","icon":"fa-header-000000","alt":"לחץ/י כאן להפעלת הדגשת כותרות"},{"value":"resetsettings","title":"איפוס כל ההגדרות","icon":"fa-undo-000000","alt":"לחץ/י כאן לאיפוס כל ההגדרות"}],"buttonsLinks":[{"title":"הצהרת נגישות","link":"/accessibility/declaration.aspx?acsID=1","alt":"הצהרת נגישות"}],"layoutSettings":{"transformValue":"100%"},"btnMain":{"btnText":"<img src='/assets/internal/images/accessibility/fa-wheelchair-ffffff.png' aria-hidden='true' alt='כפתור נגישות' width='50' height='50'></i>","btnTitle":"כפתור נגישות"},"cssMain":{"btnOpen":{"width":"50px","height":"50px","right":"250px","top":"0","background":"#0000ff","color":"#ffffff","textAlign":"center","padding":"0","cursor":"pointer","position":"absolute","zIndex":"9999","fontSize":"14px","fontFamily":"Tahoma, Arial","border":"none"},"menu":{"background":"#ffffff","color":"#000000","textAlign":"right","right":"0","width":"250px","height":"450px","top":"120px","bottom":"0","position":"fixed","cursor":"pointer","zIndex":"9999","transform":"translateX(100%)"},"menuOptions":{"background":"#ffffff","color":"#000000","position":"relative","display":"block","padding":"10px 15px","border":"1px solid #000","fontSize":"14px","fontFamily":"Tahoma, Arial","width":"100%","textAlign":"right"}}}; Accessibility.menu(accessibilitySettings);</script>
+
+
+</body>
+</html>

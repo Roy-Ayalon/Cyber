@@ -1,0 +1,701 @@
+<!DOCTYPE html>
+<html lang='en' xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/" prefix="og: http://ogp.me/ns#">
+
+<head>
+
+	
+	
+
+
+          <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title> | HACKED BY MachineGun X_x FUCK ISRAEL  | موقع المدار الاول في الشمال</title><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+<meta name="description" content=" | HACKED BY MachineGun X_x FUCK ISRAEL  | موقع المدار الاول في الشمال ,  , ">
+
+<meta name="keywords" content="  | HACKED BY MachineGun X_x FUCK ISRAEL  | موقع المدار الاول في الشمال , ,">
+
+
+	<meta property="fb:pages" content="122208737844685" />
+
+		
+<meta property="og:site_name" content="almadar" />
+
+<meta property="og:type" content="article"/>
+<meta property="og:title" content=" | HACKED BY MachineGun X_x FUCK ISRAEL  | موقع المدار الاول في الشمال"/>
+<meta property="og:description" content="">
+<meta property="og:image" content="https://static.almadar.co.il/pic/2023/11/1/almadar-20231131125957.jpg"/>
+<meta property="og:image:type" content="image/jpeg" />
+<meta property="og:image:width" content="470" />
+<meta property="og:image:height" content="255" />
+
+
+
+
+<meta property="fb:app_id" content="294100167319971"/>
+<script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+<script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+</script>
+
+<script>
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/282172443/almadar/120x600', [[1, 1], [120, 600], [160, 600]], 'div-gpt-ad-1530706976924-0').addService(googletag.pubads());
+    googletag.defineSlot('/282172443/almadar/300x250', [[300, 250], [1, 1]], 'div-gpt-ad-1530706976924-1').addService(googletag.pubads());
+    googletag.defineSlot('/282172443/almadar/728x90', [[728, 90], [1, 1], [468, 60]], 'div-gpt-ad-1530706976924-2').addService(googletag.pubads());
+    googletag.pubads().collapseEmptyDivs();
+    googletag.enableServices();
+  });
+</script>
+  <link rel="stylesheet" type="text/css" href="style-new.css" />
+
+
+<meta name="google-site-verification" content="16Ge88Qoq_zdH4YYvwCyDD2bspFouwYbfPfH0uioMTo" />
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="rss.xml"> 
+<!--adv clos-->
+
+<script type='text/javascript' src='/js/jquery.min.js?ver=1.4.2'></script>
+<!--end adv clos-->
+<script type="text/javascript" src="/js/jquery-1.2.6.pack.js"></script>
+	<script type="text/javascript" src="/js/jquery.jcarousel.pack.js"></script>
+
+
+  <meta name="robots" content="index,follow"> 
+ <link rel="icon" href="/images/favicon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon" />
+
+
+
+<script>
+	
+		// When the document is loaded...
+	    $(document).ready(function()
+		{	
+
+			// Hide the toTop button when the page loads.
+			$("#toTop").css("display", "none");
+			
+			// This function runs every time the user scrolls the page.
+			$(window).scroll(function(){
+
+				// Check weather the user has scrolled down (if "scrollTop()"" is more than 0)
+				if($(window).scrollTop() > 0){
+
+					// If it's more than or equal to 0, show the toTop button.
+					console.log("is more");
+					$("#toTop").fadeIn("slow");
+				}
+				else {
+					// If it's less than 0 (at the top), hide the toTop button.
+					console.log("is less");
+					$("#toTop").fadeOut("slow");
+
+				}
+			});
+
+			// When the user clicks the toTop button, we want the page to scroll to the top.
+			$("#toTop").click(function(){
+
+				// Disable the default behaviour when a user clicks an empty anchor link.
+				// (The page jumps to the top instead of // animating)
+				event.preventDefault();
+
+				// Animate the scrolling motion.
+				$("html, body").animate({
+					scrollTop:0
+				},"slow");
+
+			});
+			
+		});
+    </script>
+    <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-7775700-1', 'auto');
+  ga('send', 'pageview');
+
+</script>  
+	<!-- Insert to your webpage before the </head> -->
+    <script src="carouselengine/jquery.js"></script>
+    <script src="carouselengine/amazingcarousel.js"></script>
+    <link rel="stylesheet" type="text/css" href="carouselengine/initcarousel-1.css">
+    <script src="carouselengine/initcarousel-1.js"></script>
+    <!-- End of head section HTML codes -->
+</head>
+<body>
+
+
+
+	<div id='main'>
+
+
+
+<div id="wrap">
+
+
+<div id="head">
+<!--main adv-->
+	
+	
+	
+		<div class="baner-980-150" align="center">
+<iframe marginwidth='0' marginheight='0' scrolling='no' frameborder='0' src='baner.php?sort_adv=1&id_adv_cat=1&width=980&height=150&margin=on' style='border:0px solid #680006;width:980px;height:150px;margin-top:0px;float:center'></iframe>  
+</div>
+	
+	
+	
+	
+	
+<div class="clearsize5"></div>
+<script type="text/javascript">
+// Add to Favorites 
+function add_favorite( a ) { 
+  title = document.title; 
+  url = document.location; 
+  try { 
+    // Internet Explorer 
+    window.external.AddFavorite( url, title ); 
+  } 
+  catch (e) { 
+    try { 
+      // Mozilla 
+      window.sidebar.addPanel( title, url, "" ); 
+    } 
+    catch (e) { 
+      // Opera 
+      if( typeof( opera ) == "object" ) { 
+        a.rel = "sidebar"; 
+        a.title = title; 
+        a.url = url; 
+        return true; 
+      } 
+      else { 
+        // Unknown 
+        alert( 'المتصفح لا يدعم الاضافة التلقائية ولكن بإمكانك استعمال الأمر ctrl-D' ); 
+      } 
+    } 
+  } 
+  return false; 
+}
+
+</script> 
+
+<div class="line">
+
+	<div class="link">
+    	<ul>
+        	<li><a href="index.html"><img src="images/home1.png" class="icone" /><font style="color:#000000">الرئيسية</font></a><img src="images/line.jpg" class="icone1" /></li>
+        	<li><a  href="#" onclick="return add_favorite(this);"><img src="images/fav1.png" class="icone" /><font style="color:#000000">اضفنا للمفضلة</font></a><img src="images/line.jpg" class="icone1" /></li>
+        	<li><a href="javascript:history.go(0)" onClick="javascript:this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.almadar.co.il');" TARGET="_self"><img src="images/home1.png" class="icone" /><font style="color:#000000">اجعلنا صفحة البداية</font></a><img src="images/line.jpg" class="icone1" /></li>
+        	<li><a href="contact.html"><img src="images/contact.png" class="icone" /><font style="color:#000000">اتصل بنا</font></a></li>
+          
+        </ul>
+    </div>
+    <div class="share">
+
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<div class="addthis_inline_share_toolbox" style="float:left;margin-left:5px;" dir="ltr"></div>
+
+    </div>    
+</div>
+<div class="clearsize"></div>
+<!--end home page link-->
+<div id="logo"><a href="index.html"><img src="images/logo/logo.png" /></a></div>
+<div id="manue">
+	<ul>
+    	<li><a href="/catup-1.html"><div class="text77">اخبار محلية</div></a></li>
+        <li style="margin-right:4px;"><a href="/catup-3.html"><div class="text77">تربية وتعليم</div></a></li>
+        <li style="margin-right:4px;"><a href="/catup-16.html"><div class="text77">انتخابات 2018 </div></a></li>
+
+        <li style="margin-right:4px;"><a href="/catup-8.html"><div class="text77" style="margin-top:25px;">رياضة</div></a></li>
+        <li style="margin-right:4px;"><a href="/catup-2.html"><div class="text77">منبر المدار</div></a></li>
+        <li style="margin-right:4px;"><a href="/catup-6.html"><div class="text77"  style="margin-top:25px;">كوكتيل</div></a></li>
+        <li style="margin-right:4px;"><a href="/catup-12.html"><div class="text77"  style="margin-top:25px;">اجتماعيات</div></a></li>
+        <li style="margin-right:4px;"><a href="/catup-10.html"><div class="text77">شوبينغ واقتصاد</div></a></li>
+        <li style="margin-right:4px;"><a href="" target="_blank"><div class="text77">Live المدار</div></a></li>
+
+    </ul>
+</div>
+<div class="clearsize"></div>
+<div id="searchmnaue">
+<div id="date">
+الاحد 12.11.2023&nbsp;&nbsp;   
+
+
+</div>
+<div id="clockDisplay" class="clock" style="float:right"></div>
+<script>
+function renderTime() {
+	var currentTime = new Date();
+	var diem = "AM";
+	var h = currentTime.getHours();
+	var m = currentTime.getMinutes();
+    var s = currentTime.getSeconds();
+	setTimeout('renderTime()',1000);
+    if (h == 0) {
+		h = 12;
+	} else if (h > 12) { 
+		h = h - 12;
+		diem="PM";
+	}
+	if (h < 10) {
+		h = "0" + h;
+	}
+	if (m < 10) {
+		m = "0" + m;
+	}
+	if (s < 10) {
+		s = "0" + s;
+	}
+    var myClock = document.getElementById('clockDisplay');
+	myClock.textContent = h + ":" + m + ":" + s + " " + diem;
+	myClock.innerText = h + ":" + m + ":" + s + " " + diem;
+}
+renderTime();
+</script>
+<form class="serch" action="http://www.google.co.il/cse" target="_blank" >
+  
+    <input type="hidden" name="cx" value="partner-pub-2151689637730786:1742537105" />
+    <input type="hidden" name="ie" value="UTF-8" />
+    <input type="text" name="q" class="searchgoogle2" />
+    <input type="submit" name="sa" value="ابحث بالموقع" class="searchgoogle1" />
+  
+</form>
+
+
+<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=ar"></script>
+
+
+
+<div style="width:102px;height:27px;margin-right:8px;margin-left:3px;margin-top:4px;float:right;"><a href="https://play.google.com/store/apps/details?id=io.sigmaspace.almadar" target="_blank"><img src="/images/btn2.png" border="0"/></a></div>
+<div style="width:102px;height:27px;margin-right:8px;margin-left:3px;margin-top:4px;float:right;"><a href="https://itunes.apple.com/il/app/almadar/id611730894" target="_blank"><img src="/images/btn1.png" border="0"/></a></div>
+<div class="youtube"><a href="https://www.youtube.com/user/2009almadar" target="_blank"><img  src="images/spacer.gif" /></a></div>
+<div class="facebook"><a href="https://www.facebook.com/almadar2016/" target="_blank"><img  src="images/spacer.gif" /></a></div>
+<div class="rss"><a href="rss.html" target="_blank"><img  src="images/spacer.gif" /></a></div>
+
+</div>
+</div>
+<!--end head-->
+<div class="clearsize"></div>
+
+
+    
+<div class="clearsize"></div>
+<div class="baner-480-80" align="center">
+<iframe marginwidth='0' marginheight='0' scrolling='no' frameborder='0' src='baner.php?sort_adv=1&id_adv_cat=2&width=480&height=80&margin=on' style='border:0px solid #680006;width:480px;height:80px;margin-top:0px;float:center'></iframe>  
+</div>
+
+<div class="baner-480-80" align="center" style="margin-right:10px;">
+<iframe marginwidth='0' marginheight='0' scrolling='no' frameborder='0' src='baner.php?sort_adv=2&id_adv_cat=2&width=480&height=80&margin=on' style='border:0px solid #680006;width:480px;height:80px;margin-top:0px;float:center'></iframe>  
+
+</div>
+
+<div class="clearsize"></div>
+<div class="rightm">
+
+<div class="baner-300-250" align="center">
+<iframe marginwidth='0' marginheight='0' scrolling='no' frameborder='0' src='baner.php?sort_adv=1&id_adv_cat=7&width=300&height=250&margin=on' style='border:0px solid #680006;width:300px;height:250px;margin-top:0px;float:center'></iframe>  
+</div>
+<div class="clearsize"></div>
+<div class="baner-300-250" align="center">
+<iframe marginwidth='0' marginheight='0' scrolling='no' frameborder='0' src='baner.php?sort_adv=2&id_adv_cat=7&width=300&height=250&margin=on' style='border:0px solid #680006;width:300px;height:250px;margin-top:0px;float:center'></iframe>  
+</div>
+<div class="clearsize"></div>
+
+<div class="rightside"><!--poll-->
+        <div class="clearsize"></div>
+
+
+<script type="text/javascript">
+
+
+function getposOffset(overlay, offsettype){
+var totaloffset=(offsettype=="left")? overlay.offsetLeft : overlay.offsetTop;
+var parentEl=overlay.offsetParent;
+while (parentEl!=null){
+totaloffset=(offsettype=="left")? totaloffset+parentEl.offsetLeft : totaloffset+parentEl.offsetTop;
+parentEl=parentEl.offsetParent;
+}
+return totaloffset;
+}
+
+function overlay(curobj, subobjstr, opt_position){
+if (document.getElementById){
+var subobj=document.getElementById(subobjstr)
+subobj.style.display=(subobj.style.display!="block")? "block" : "none"
+var xpos=getposOffset(curobj, "left")+((typeof opt_position!="undefined" && opt_position.indexOf("right")!=-1)? -(subobj.offsetWidth-curobj.offsetWidth) : 0) 
+var ypos=getposOffset(curobj, "top")+((typeof opt_position!="undefined" && opt_position.indexOf("bottom")!=-1)? curobj.offsetHeight : 0)
+subobj.style.left=xpos+"px"
+subobj.style.top=ypos+"px"
+return false
+}
+else
+return true
+}
+
+function overlayclose(subobj){
+document.getElementById(subobj).style.display="none"
+}
+</script>	
+<div class="manue"><a href="#" onclick="return overlay(this, 'id_maincat1', 'rightbottom')">اخبار</a></div><div id="id_maincat1" style="display:none;"><div style="float:right;margin-right:14px;margin-top:6px;">
+			<img src="images/hets.jpg" align="middle" style="width:14px;height:10px">
+			&nbsp;<a href="/cat-15.html">
+		<b>اخبار محلية </b></a></div><div class="clear:both;"></div><div style="float:right;margin-right:14px;margin-top:6px;">
+			<img src="images/hets.jpg" align="middle" style="width:14px;height:10px">
+			&nbsp;<a href="/cat-16.html">
+		<b>اخبار عالمية </b></a></div><div class="clear:both;"></div></div><div class="manue" style="margin-top:7px;"><a href="#" onclick="return overlay(this, 'id_maincat3', 'rightbottom')">تربية وتعليم</a></div><div id="id_maincat3" style="display:none;"><div style="float:right;margin-right:14px;margin-top:6px;">
+			<img src="images/hets.jpg" align="middle" style="width:14px;height:10px">
+			&nbsp;<a href="/cat-5.html">
+		<b>مدارس</b></a></div><div class="clear:both;"></div><div style="float:right;margin-right:14px;margin-top:6px;">
+			<img src="images/hets.jpg" align="middle" style="width:14px;height:10px">
+			&nbsp;<a href="/cat-6.html">
+		<b>حفلات تخريج</b></a></div><div class="clear:both;"></div><div style="float:right;margin-right:14px;margin-top:6px;">
+			<img src="images/hets.jpg" align="middle" style="width:14px;height:10px">
+			&nbsp;<a href="/cat-7.html">
+		<b>تربية وتعليم</b></a></div><div class="clear:both;"></div></div><div class="manue" style="margin-top:7px;"><a href="#" onclick="return overlay(this, 'id_maincat2', 'rightbottom')">منبر المدار</a></div><div id="id_maincat2" style="display:none;"><div style="float:right;margin-right:14px;margin-top:6px;">
+			<img src="images/hets.jpg" align="middle" style="width:14px;height:10px">
+			&nbsp;<a href="/cat-13.html">
+		<b>ادب وشعر</b></a></div><div class="clear:both;"></div><div style="float:right;margin-right:14px;margin-top:6px;">
+			<img src="images/hets.jpg" align="middle" style="width:14px;height:10px">
+			&nbsp;<a href="/cat-12.html">
+		<b>شخصيات محلية</b></a></div><div class="clear:both;"></div><div style="float:right;margin-right:14px;margin-top:6px;">
+			<img src="images/hets.jpg" align="middle" style="width:14px;height:10px">
+			&nbsp;<a href="/cat-11.html">
+		<b>الراي الحر</b></a></div><div class="clear:both;"></div><div style="float:right;margin-right:14px;margin-top:6px;">
+			<img src="images/hets.jpg" align="middle" style="width:14px;height:10px">
+			&nbsp;<a href="/cat-14.html">
+		<b>منبر المدار</b></a></div><div class="clear:both;"></div></div><div class="manue" style="margin-top:7px;"><a href="#" onclick="return overlay(this, 'id_maincat10', 'rightbottom')">شوبينج واقتصاد</a></div><div id="id_maincat10" style="display:none;"><div style="float:right;margin-right:14px;margin-top:6px;">
+			<img src="images/hets.jpg" align="middle" style="width:14px;height:10px">
+			&nbsp;<a href="/cat-4.html">
+		<b>شوبينج واقتصاد</b></a></div><div class="clear:both;"></div><div style="float:right;margin-right:14px;margin-top:6px;">
+			<img src="images/hets.jpg" align="middle" style="width:14px;height:10px">
+			&nbsp;<a href="/cat-3.html">
+		<b>محلات تجارية</b></a></div><div class="clear:both;"></div></div><div class="manue" style="margin-top:7px;"><a href="#" onclick="return overlay(this, 'id_maincat5', 'rightbottom')">صحة ومطبخ</a></div><div id="id_maincat5" style="display:none;"><div style="float:right;margin-right:14px;margin-top:6px;">
+			<img src="images/hets.jpg" align="middle" style="width:14px;height:10px">
+			&nbsp;<a href="/cat-10.html">
+		<b>صحة ومطبخ</b></a></div><div class="clear:both;"></div><div style="float:right;margin-right:14px;margin-top:6px;">
+			<img src="images/hets.jpg" align="middle" style="width:14px;height:10px">
+			&nbsp;<a href="/cat-9.html">
+		<b>صحة وطب</b></a></div><div class="clear:both;"></div><div style="float:right;margin-right:14px;margin-top:6px;">
+			<img src="images/hets.jpg" align="middle" style="width:14px;height:10px">
+			&nbsp;<a href="/cat-8.html">
+		<b>مطبخ المدار</b></a></div><div class="clear:both;"></div></div><div class="manue" style="margin-top:7px;"><a href="#" onclick="return overlay(this, 'id_maincat15', 'rightbottom')">الأسرة والقانون</a></div><div id="id_maincat15" style="display:none;"><div style="float:right;margin-right:14px;margin-top:6px;">
+			<img src="images/hets.jpg" align="middle" style="width:14px;height:10px">
+			&nbsp;<a href="/cat-32.html">
+		<b>الأسرة والقانون</b></a></div><div class="clear:both;"></div></div>
+	<div style="float:right;width:150 px;height:auto;">
+	<script src="https://www.googletagservices.com/tag/js/gpt.js">
+  googletag.pubads().definePassback("/7532/RON/almadar.co.il/mobile-320x480", [320, 480]).display();
+</script>
+	</div>
+	<div class="clearsize5"></div>
+	
+	<div style="float:right;margin-left:5px;width:150px;height:150px;">
+	<a href='http://www.almadar.co.il/adv-2100.html' target='_blank'>
+					<img border='0' hspace='0' vspace='0'  align='middle'  src='http://static.almadar.co.il/adv/20221046233514-Untitled-1.jpg'>
+					</a>
+					
+	</div>
+	
+	<div style="float:right;margin-left:5px;width:150px;height:150px;">
+	<a href='http://www.almadar.co.il/news-3,N-84908.html' target='_blank'>
+					<img border='0' hspace='0' vspace='0'  align='middle'  src='http://static.almadar.co.il/adv/2020212412111-Untitled-1.jpg'>
+					</a>
+					
+	</div>
+	
+	<div style="float:right;margin-left:5px;width:150px;height:150px;">
+	<a href='http://www.almadar.co.il/adv-2059.html' target='_blank'>
+					<img border='0' hspace='0' vspace='0'  align='middle'  src='http://static.almadar.co.il/adv/20223410102431-Untitled-1.jpg'>
+					</a>
+					
+	</div>
+	
+	<div style="float:right;margin-left:5px;margin-top:5px;width:150px;height:150px;">
+	<a href='http://www.almadar.co.il/news-4,N-56017.html' target='_blank'>
+					<img border='0' hspace='0' vspace='0'  align='middle'  src='http://static.almadar.co.il/adv/20161133013545-20161122952547-Untitled-1.jpg'>
+					</a>
+					
+	</div>
+	
+	<div style="float:right;margin-left:5px;margin-top:5px;width:150px;height:150px;">
+	<a href='http://www.almadar.co.il/contact.html' target='_blank'>
+					<img border='0' hspace='0' vspace='0'  align='middle'  src='http://static.almadar.co.il/adv/20161133014951-20161122961137-111.jpg'>
+					</a>
+					
+	</div>
+	
+</div>
+<div class="rightside">
+	<div style="float:right;width:150 px;height:auto;">
+	<script src="https://www.googletagservices.com/tag/js/gpt.js">
+   googletag.pubads().definePassback("/7532/RON/almadar.co.il/120x600", [120, 600]).display();
+</script>
+	</div>
+	<div class="clearsize5"></div>
+	</div>
+<div class="clearsize"></div>
+<div class="baner-300-250" align="center">
+<iframe marginwidth='0' marginheight='0' scrolling='no' frameborder='0' src='baner.php?sort_adv=3&id_adv_cat=7&width=300&height=250&margin=on' style='border:0px solid #680006;width:300px;height:250px;margin-top:0px;float:center'></iframe>  
+</div>
+<div class="clearsize"></div>
+<div class="baner-300-250" align="center">
+<iframe marginwidth='0' marginheight='0' scrolling='no' frameborder='0' src='baner.php?sort_adv=4&id_adv_cat=7&width=300&height=250&margin=on' style='border:0px solid #680006;width:300px;height:250px;margin-top:0px;float:center'></iframe>  
+</div>
+	<div class="clearsize"></div>
+<div class="baner-300-250" align="center">
+<iframe marginwidth='0' marginheight='0' scrolling='no' frameborder='0' src='baner.php?sort_adv=5&id_adv_cat=7&width=300&height=250&margin=on' style='border:0px solid #680006;width:300px;height:250px;margin-top:0px;float:center'></iframe>  
+</div>
+	<div class="clearsize"></div>
+<div class="baner-300-250" align="center">
+<iframe marginwidth='0' marginheight='0' scrolling='no' frameborder='0' src='baner.php?sort_adv=6&id_adv_cat=7&width=300&height=250&margin=on' style='border:0px solid #680006;width:300px;height:250px;margin-top:0px;float:center'></iframe>  
+</div>
+</div>
+<div class="leftside">
+
+
+<div class="news">
+<div class="articmid">
+	<script type="text/javascript">
+				function validForm(setForm){
+	if (setForm.dwqd233dwd3.value==""){
+		alert("ادخل الاسم الكامل")
+		setForm.dwqd233dwd3.focus()
+		return false
+	}
+		else{
+			if (setForm.dwdwd2edd.value==""){
+				alert("ادخل التعليق")
+				setForm.dwdwd2edd.focus()
+				return false
+
+			}
+			
+		}
+	
+					return true
+}
+
+</script>
+
+
+	<div class="cat">
+	<a href="index.html">الرئيسية</a> <font style="color:#F45600;font-size:11px;">>></font> <a href="/cat-0.html"></a>
+	</div>
+	<div class="addcom"><a href="#coment">(اضف تعقيب)</a></div>
+	    <div class="clearsize"></div>
+    
+
+     <div class="title"><div style="padding-right:5px;">HACKED BY MachineGun X_x FUCK ISRAEL </div></div>
+     <div class="clearsize5"></div>
+
+   <div style="float:right"> 
+   
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.8&appId=1151732844904666";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<div class="fb-like" data-href="http://www.almadar.co.il/news-0-N-91357.html" data-layout="standard" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
+
+
+<iframe src="https://www.facebook.com/plugins/share_button.php?href=http%3A%2F%2Fwww.almadar.co.il%2Fnews-0%2CN-91357.html&layout=button_count&size=small&mobile_iframe=true&appId=1151732844904666&width=69&height=20" width="69" height="20" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" style="float:right;"></iframe>
+ 
+
+   
+<div class="addthis_inline_share_toolbox" style="float:left;margin-left:5px;" dir="rtl"></div></div>
+
+    <div class="date">01/11/2023&nbsp;-&nbsp;01:21:12 pm</div>
+     <div class="clearsize"></div>
+     <div class="nasher"><u>Allahu Akbar</u></div>
+		 <div class="clearsize5"></div>     <div class="subject" align="center">
+     <div style="padding:5px;padding-left: 15px;">
+		 <style>
+			 p{font-size:22px; font-weight:bold; text-align:justify;}
+		 </style>
+    
+     
+	 
+	 <h1><span style="font-family:Arabic Typesetting"><strong>أنا سيء جدًا في التواصل في العالم الحقيقي، أعني أن أكون AFK. ولكن ليس هنا، في عالم الإنترنت. أنتم مجرمون أنتم كافرون أنتم مذنبون يجب إزاحتكم من الدنيا أنصروا قيزي {الله أكبر}</strong><br />
+<br />
+FUCK ISRAEL AND .il DOMAINS </span></h1>
+
+<p>-------------------------------------------<br />
+<span style="background-color:#ff0000">im so bad at communication in the real world, I mean being AFK. But not here, in the cyberworld. You are criminals, you are unbelievers, you are guilty, you must be removed from the world Support Qaze </span><br />
+<span style="background-color:#ff0000">{Allahu Akbar}</span><br />
+<br />
+<a href="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages2.alphacoders.com%2F978%2Fthumb-1920-978784.jpg&amp;f=1&amp;nofb=1&amp;ipt=b1e579b54830521f6c4b12f8e009a3daacc6a3426fdd02774303f4244d3dc8fb&amp;ipo=images" target="_self"><img alt="IRAN FLAG " src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages2.alphacoders.com%2F978%2Fthumb-1920-978784.jpg&amp;f=1&amp;nofb=1&amp;ipt=b1e579b54830521f6c4b12f8e009a3daacc6a3426fdd02774303f4244d3dc8fb&amp;ipo=images" style="float:left; height:1080px; width:1728px" /></a></p>
+
+<div class="simple-translate-system-theme" id="simple-translate">
+<div>
+<div class="simple-translate-button isShow" style="background-image: url(">&nbsp;</div>
+
+<div class="simple-translate-panel " style="width: 300px; height: 200px; top: 0px; left: 0px; font-size: 13px;">
+<div class="simple-translate-result-wrapper" style="overflow: hidden;">
+<div class="simple-translate-move">&nbsp;</div>
+
+<div class="simple-translate-result-contents">
+<p dir="auto">&nbsp;</p>
+
+<p dir="auto">&nbsp;</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+           </div>
+   
+      <div class="clearsize"></div>
+      
+  
+	<div style="width:640;height:100%;" algin="center"> 
+	<script src="https://s3.eu-central-1.amazonaws.com/shufuni-media/in_page_hide_video_v2.js"></script>
+<iframe width="0" src="" scrolling="no" height="0" frameborder="0" name="dcif" id="dcif" marginwidth="0" marginheight="0" style="display:none"></iframe>
+<a id="_href" href="#" target="_new"><video id="video1" width="1" height="0" muted >Your browser does not support HTML5 video.</video></a>
+<script>
+    var _sz = "660x371";
+    var _AU = "7532/RON/almadar.co.il/video-inread";
+    var _KQ = 2;
+    var _Set = 24;
+    tmo_util.startme(_AU, _sz,_KQ,_Set)
+</script>
+
+	</div>
+	      
+      
+      <div class="clearsize"></div>
+
+     <!--picture-->
+      <div class="pictureview">
+		      </div>
+     <!--picture-->
+        <div class="clearsize" style=" color:#ff0000"></div>
+      <div align="center" style="font-size:13px;color:#95262C;font-weight:bold">المقالات المنشورة تعبر عن رأي كاتبها فقط، وموقع المدار بفسح المجال أمام الكاتب لطرح افكاره االتي كتبت بقلمه ويقدم للجميع مساحة حرة للتعبير</div>        <div class="clearsize"></div>
+        <div id ="engageya_tag" style="clear:both;"><script type="text/javascript">var dbnwid = 48574; var dbnpid = 137425; var dbnwebid = 88514; var dbnlayout = 20; var dbncolor = "#789900"; var dbntitlefontsize = "14"; var dbndirection = "rtl"; var dbnbgcolortype = 1; var dbnheader = "&#1605;&#1602;&#1575;&#1604;&#1575;&#1578; &#1584;&#1575;&#1578; &#1589;&#1604;&#1577;"; var dbnremindercolor = 2; var dbn_protocol = (("https:" == document.location.protocol) ? "https://" : "http://"); document.write(unescape("%3Cscript src='" + dbn_protocol + "widget.engageya.com/sprk.1.0.2.js' id='grazit_script' class='grazit_script' type='text/javascript'%3E%3C/script%3E")); </script></div>
+        
+  <div class="clear"></div>
+     <!--coment bar-->
+     <div class="coment-bar" align="center">
+     <iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.almadar.co.il%2Fnews.aspx%3Fcid%3D77%26aid%3D68432&amp;layout=button_count&amp;show_faces=true&amp;width=150&amp;action=like&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:150px; height:21px;" allowTransparency="true"></iframe>
+<div class="addthis_inline_share_toolbox" style="float:left;margin-left:5px;" dir="rtl"></div>
+
+</div>
+
+   
+     <!--end coment bar-->
+      <div class="clearsize"></div>
+      <div class="coment">
+      <div class="title"><a name="coment">تعليق فيسبوك</a></div>
+        <div class="clearsize"></div>
+        
+        <div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.8&appId=1151732844904666";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <div class="fb-comments" data-href="https://www.almadar.co.il:443/news-0,N-91357.html" data-width="670" data-numposts="20"></div>      
+       </div>
+      <!--coment send-->
+		<div class="coment">
+        <div class="title"><a name="coment">تعليقك على الموضوع</a></div>
+        <div class="clearsize5"></div>
+        <div class="add">
+        
+  
+	 
+<form action="news-0,N-91357.html" method="post"  onSubmit="return validForm(this)" name="form_add" enctype="multipart/form-data">
+<div class="filed">الاسم الكامل	:  </div><input class="input1" name="dwqd233dwd3"  value="">
+<div class="clearsize5"></div>
+<div class="filed">مكان الاقامة	 : </div><input class="input1" name="dwdwd2edd"  value="">
+<div class="clearsize5"></div>
+<div class="filed">التعليق : </div>
+<textarea  name="fedfcfdvfvrv3" class="textar"></textarea>
+<div class="clearsize5"></div>
+<div class="span">
+هام جدا :
+أدارة الموقع لا تنشر اي تعقيب فيه تجاوز لقانون القذف والتشهير, وتقع المسؤلية على كاتب التعقيب</div>
+<div class="clearsize5"></div>
+
+
+
+<input type="submit" class="send" value="ارســل" name="add_com">
+
+</form>
+
+        </div>
+        </div>
+      <!--end coment send-->
+       <div class="clearsize"></div>
+      <!--show coment-->
+            <!--end show coment-->
+     
+</div>
+
+</div>
+</div>
+
+<!--footer-->
+
+<div class="clearsize"></div>
+	<div class="baner-980-150" align="center">
+<iframe marginwidth='0' marginheight='0' scrolling='no' frameborder='0' src='baner.php?sort_adv=3&id_adv_cat=1&width=980&height=150&margin=on' style='border:0px solid #680006;width:980px;height:150px;margin-top:0px;float:center'></iframe>  
+</div>
+<div class="clearsize"></div>
+
+<div style="padding-top:6px;width:990px;height:auto;color:#000000; border-top:10px solid #EF6B00; font-size:12x;" dir="rtl">
+<div  align="center" style="text-align:center;">
+Copyright © almadar.co.il 2010-2023  | All Rights Reserved © 
+	 جميع الحقوق محفوظة لموقع المدار الاول في الشمال
+     </div>
+    <div  style="float:left;margin-top:6px;width:65px;margin-left:5px;height:auto;">
+<a href="http://www.sigma-space.com" target="_blank"><img src="http://www.sigma-space.com/images/sigma.png" style="width:65px;height:35px;" alt="سيجما سبيس بناء مواقع انترنت">
+</a>
+</div></div>
+<!--end footer-->
+</div>
+</div>
+    <div class="towerBanner">
+      <div class="close" onclick="javascript:$('.towerBanner').hide();">X أغلق</div>
+       <div class="object" align="left">
+
+<iframe marginwidth='0' marginheight='0' scrolling='no' frameborder='0' src='baner.php?sort_adv=1&id_adv_cat=8&width=120&height=600&margin=off' style='border:0px solid #680006;width:120px;height:600px;margin-top:0px;float:center'></iframe>  
+  
+ 
+
+        </div>
+      </div>
+      
+      
+           <div class="towerBanner1">
+      <div class="close1" onclick="javascript:$('.towerBanner1').hide();">X أغلق</div>
+       <div class="object1" align="right">
+
+<iframe marginwidth='0' marginheight='0' scrolling='no' frameborder='0' src='baner.php?sort_adv=2&id_adv_cat=8&width=120&height=600&margin=off' style='border:0px solid #680006;width:120px;height:600px;margin-top:0px;float:center'></iframe>  
+
+        </div>
+		
+      </div>
+    
+    
+          <a id="toTop" href="#"><img src="/images/up1.png"></a>
+     
+
+
+
+
+    <!-- Go to www.addthis.com/dashboard to customize your tools --> <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5803d06331821718"></script> 
+
+</body>
+</html>
+ 

@@ -1,0 +1,1585 @@
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<meta http-equiv="Content-Language" content="zh-tw" />
+<meta name="google-site-verification" content="TRb99uP9YVlhuBik1s8YRiWPLCJuMW-3L31E8xWHxKE" />
+<meta http-equiv="expires" content="-1" />
+<meta http-equiv="Pragma" content="no-cache" />
+<meta http-equiv="Cache-Control" content="no-cache" />
+<link rel="alternate" hreflang="zh-TW" href="https://www.yam.com/" />
+<link rel="canonical" href="https://www.yam.com/" />
+<meta name="application-name" content="蕃薯藤｜Yam" />
+<meta http-equiv="windows-Target" content="_top" />
+<meta name="robots" content="index,follow" />
+<meta name="googlebot" content="index,follow" />
+<meta name="copyright" content="天空傳媒(股)公司 版權所有" />
+<meta name="author" content="yam 蕃薯藤 , yam_service@yam.com" />
+<meta name="description" content="天空傳媒(蕃薯藤)，1997年成立，目前是台灣最大影音視頻網站、第二大入口網站；擁有天空部落、新聞財金、小蕃薯、揪團購、購物中心等多元頻道，點閱率超過一個半台灣人口數，是擁有入口、新聞、影音、社群、電子商務的全威力網路媒體。" />
+<meta name="keywords" content="yam,天空,蕃薯藤, 影音分享,音樂, 輕旅行,地球圖輯隊,天空部落,部落格,社群,新聞, 電視新聞, 星座運勢, 運勢分析, 星座算命,要聞, 購物, 遊戲, 運動,精選影片,財經,即時股市,揪便宜, 電影,線上購物, 網路購物, 娛樂,旅遊 , 生活情報達人,食記,外拍,彩妝保養, 藝文,寵物,票券" />
+<title>yam 蕃薯藤</title>
+<link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+<meta name="application-name" content="yam 蕃薯藤" />
+<meta name="msapplication-tooltip" content="yam 蕃薯藤" />
+<meta name="msapplication-starturl" content="/" />
+<meta name="msapplication-TileColor" content="#cbffd7" />
+<meta name="msapplication-TileImage" content="IMAGES/5f8d756b-fa8d-486a-a53a-1d26b79a1ae2.png" />
+<meta name="pubdate" content="1997-01-01T00:00:00.000Z" />
+<meta name="lastmod" content="2023-11-26T16:45:00.000Z" />
+<meta name="facebook-domain-verification" content="6sukr7iqck6ab04ddsqets45778qly" />
+<meta property="og:title" content="yam 蕃薯藤" />
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css" />
+<link href="/Content/css?v=ERggY3qlTpOmsxAsBD9C3YY5AkRVSk7Jdl88xjFWayA1" rel="stylesheet" />
+
+<script type="1a06b954a3bee31b9bf2f992-text/javascript">
+        var _comscore = _comscore || [];
+        _comscore.push({ c1: "2", c2: "38111965" });
+        (function () {
+            var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+            s.src = "https://sb.scorecardresearch.com/cs/38111965/beacon.js";
+            el.parentNode.insertBefore(s, el);
+        })();
+    </script>
+<noscript>
+        <img src="https://sb.scorecardresearch.com/p?c1=2&c2=38111965&cv=3.6.0&cj=1">
+    </noscript>
+
+<script type="1a06b954a3bee31b9bf2f992-text/javascript">
+        function imgerr(o) {
+            o.src = 'https://www.yam.com/assets/images/logo.png';
+        }
+    </script>
+</head>
+<body>
+<header class="header dFlex">
+<h1 class="logo">
+<a href="/">
+蕃薯藤
+</a>
+</h1>
+<form action method="post" class="searchArea">
+<select name id class="searchAreaSelect">
+<option value="https://travel.yam.com/find/">輕旅行</option>
+<option value="https://dq.yam.com/search/g/">DQ地球圖輯隊</option>
+</select>
+<input type="text" name id class="searchAreaInput" placeholder="請輸入關鍵字">
+<a href class="goSearchBtn">
+<i class="fa-solid fa-magnifying-glass"></i>
+</a>
+</form>
+<div class="loginArea">
+<a class="userName" href="#">登入</a>
+<a class="loginHead" href="#">
+<img src="./assets/images/logo.png" alt>
+</a>
+</div>
+</header>
+<input type="checkbox" name id="headerNavHamBtnInput" class="headerNavHamBtnInput">
+<div class="headerNavArea dFlex">
+<label for="headerNavHamBtnInput" class="headerNavHamBtn">
+<span></span>
+</label>
+<nav class="headerNav">
+<ul class="navUl">
+<li><a href="https://n.yam.com" target="_self" class="ga_trackEvent" ga_event="Nav" ga_actions="Nav_點擊" ga_labels="蕃新聞">蕃新聞</a></li>
+<li><a href="https://travel.yam.com/" target="_self" class="ga_trackEvent" ga_event="Nav" ga_actions="Nav_點擊" ga_labels="輕旅行">輕旅行</a></li>
+<li><a href="https://dq.yam.com" target="_self" class="ga_trackEvent" ga_event="Nav" ga_actions="Nav_點擊" ga_labels="DQ地球圖輯隊">DQ地球圖輯隊</a></li>
+<li><a href="https://tour.yam.com" target="_self" class="ga_trackEvent" ga_event="Nav" ga_actions="Nav_點擊" ga_labels="限時選物">限時選物</a></li>
+</ul>
+</nav>
+</div>
+<div class="container todaysWeatherContainer">
+<div class>
+<a href="//weather.yam.com/" class="todaysWeatherDate">
+2023年11月26日
+</a>
+<select name id class="todaysWeatherSelect">
+<option value="基隆市">基隆市</option>
+<option value="臺北市" selected>臺北市</option>
+<option value="新北市">新北市</option>
+<option value="桃園市">桃園市</option>
+<option value="新竹市">新竹市</option>
+<option value="新竹縣">新竹縣</option>
+<option value="苗栗縣">苗栗縣</option>
+<option value="臺中市">臺中市</option>
+<option value="彰化縣">彰化縣</option>
+<option value="南投縣">南投縣</option>
+<option value="雲林縣">雲林縣</option>
+<option value="嘉義市">嘉義市</option>
+<option value="嘉義縣">嘉義縣</option>
+<option value="臺南市">臺南市</option>
+<option value="高雄市">高雄市</option>
+<option value="屏東縣">屏東縣</option>
+<option value="宜蘭縣">宜蘭縣</option>
+<option value="花蓮縣">花蓮縣</option>
+<option value="臺東縣">臺東縣</option>
+<option value="澎湖縣">澎湖縣</option>
+<option value="金門縣">金門縣</option>
+<option value="連江縣">連江縣</option>
+</select>
+</div>
+<a href="#" class="todaysWeather">
+18~19℃ <img src="https://weather.yam.com/images/status/now/b.png"> 降雨10%
+</a>
+</div>
+<section>
+<div class="container-lg indexBannerArea">
+<div class="row">
+<div class="mainItemContent col-lg-12 col-md-12">
+<a href="https://n.yam.com/Article/20231124843969" target class="mainItem mainItemBig mainItem1 ga_trackEvent" ga_event="熱門文章" ga_actions="熱門文章_點擊" ga_labels="竹縣竹北市興隆路右側環境改善工程 獲2023馬路好行佳作">
+<figure class="mainItemImg  ">
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="1a06b954a3bee31b9bf2f992-|49"></script><img src="https://imagedelivery.net/UYQOTZcPn8gGeaNtnHVGeg/9460b945-ef44-4db8-1a99-88323f1c2e00/w=638" class="figure-img img-fluid" alt="..." loading="lazy" onerror="imgerr(this)">
+</figure>
+<figcaption class="figure-caption">
+<span class="textOverflow">
+竹縣竹北市興隆路右側環境改善工程 獲2023馬路好行佳作
+</span>
+</figcaption>
+</a>
+<a href="https://travel.yam.com/article/132705" target class="mainItem mainItemMedium mainItem2 ga_trackEvent" ga_event="熱門文章" ga_actions="熱門文章_點擊" ga_labels="新北｜烏來6間特色湯屋、住宿推薦：泡美人湯、主題湯屋，享山水美景">
+<figure class="mainItemImg  ">
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="1a06b954a3bee31b9bf2f992-|49"></script><img src="https://imagedelivery.net/UYQOTZcPn8gGeaNtnHVGeg/137cbc6a-9abf-4436-04ae-4f0d12333700/w=638" class="figure-img img-fluid" alt="..." loading="lazy" onerror="imgerr(this)">
+</figure>
+<figcaption class="figure-caption">
+<span class="textOverflow">
+新北｜烏來6間特色湯屋、住宿推薦：泡美人湯、主題湯屋，享山水美景
+</span>
+</figcaption>
+</a>
+<a href="https://www.facebook.com/taipeitravel/posts/pfbid02bX5TPrZXaDDbmBXmy3pXJ2YTxDyerm9K3oKy4KiKnznENYJ7n6sa1Rb9LPtJUps9l" target="_blank" class="mainItem mainItemSmall mainItem3 ga_trackEvent" ga_event="熱門文章" ga_actions="熱門文章_點擊" ga_labels="冷冷的&#129398;冬天該去哪裡玩？">
+<figure class="mainItemImg  ">
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="1a06b954a3bee31b9bf2f992-|49"></script><img src="https://imagedelivery.net/UYQOTZcPn8gGeaNtnHVGeg/5bbe2d8c-930e-43bb-a12b-2b2740254300/w=638" class="figure-img img-fluid" alt="..." loading="lazy" onerror="imgerr(this)">
+</figure>
+<figcaption class="figure-caption">
+<span class="textOverflow">
+冷冷的&#129398;冬天該去哪裡玩？
+</span>
+</figcaption>
+</a>
+<a href="https://dq.yam.com/post/15837" target class="mainItem mainItemSmall mainItem4 ga_trackEvent" ga_event="熱門文章" ga_actions="熱門文章_點擊" ga_labels="奢侈品首購族越來越年輕，Z世代成奢侈品牌最大購買戶">
+<figure class="mainItemImg  ">
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="1a06b954a3bee31b9bf2f992-|49"></script><img src="https://imagedelivery.net/UYQOTZcPn8gGeaNtnHVGeg/6b8170dc-6f22-4782-bc6c-ad45bd5c6d00/w=638" class="figure-img img-fluid" alt="..." loading="lazy" onerror="imgerr(this)">
+</figure>
+<figcaption class="figure-caption">
+<span class="textOverflow">
+奢侈品首購族越來越年輕，Z世代成奢侈品牌最大購買戶
+</span>
+</figcaption>
+</a>
+<a href="https://n.yam.com/Article/20231019882477" target class="mainItem mainItemSmall mainItem5 ga_trackEvent" ga_event="熱門文章" ga_actions="熱門文章_點擊" ga_labels="七期毛胚豪宅見9、土地破300萬 帶旺「遠雄琉蘊」新坪種產品熱度">
+<figure class="mainItemImg  ">
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="1a06b954a3bee31b9bf2f992-|49"></script><img src="https://imagedelivery.net/UYQOTZcPn8gGeaNtnHVGeg/eb7b319a-e0f5-437d-0fbe-4c189f0ba300/w=638" class="figure-img img-fluid" alt="..." loading="lazy" onerror="imgerr(this)">
+</figure>
+<figcaption class="figure-caption">
+<span class="textOverflow">
+七期毛胚豪宅見9、土地破300萬 帶旺「遠雄琉蘊」新坪種產品熱度
+</span>
+</figcaption>
+</a>
+<a href="https://n.yam.com/Article/20231126304859" target class="mainItem mainItemSmall mainItem6 ga_trackEvent" ga_event="熱門文章" ga_actions="熱門文章_點擊" ga_labels="南投露營嘉年華　國姓橋聳雲天綠雕園區登場">
+<figure class="mainItemImg  ">
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="1a06b954a3bee31b9bf2f992-|49"></script><img src="https://imagedelivery.net/UYQOTZcPn8gGeaNtnHVGeg/489b0920-a64d-4d04-7d45-235e72adb800/w=638" class="figure-img img-fluid" alt="..." loading="lazy" onerror="imgerr(this)">
+</figure>
+<figcaption class="figure-caption">
+<span class="textOverflow">
+南投露營嘉年華　國姓橋聳雲天綠雕園區登場
+</span>
+</figcaption>
+</a>
+<a href="https://n.yam.com/Article/20231123985540" target class="mainItem mainItemSmall mainItem7 ga_trackEvent" ga_event="熱門文章" ga_actions="熱門文章_點擊" ga_labels="宜蘭溫泉Villa推薦！從平價到頂級，一次整理給你！">
+<figure class="mainItemImg  ">
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="1a06b954a3bee31b9bf2f992-|49"></script><img src="https://imagedelivery.net/UYQOTZcPn8gGeaNtnHVGeg/da2e8c4a-06b8-4a76-d8c2-cb9271a58d00/w=638" class="figure-img img-fluid" alt="..." loading="lazy" onerror="imgerr(this)">
+</figure>
+<figcaption class="figure-caption">
+<span class="textOverflow">
+宜蘭溫泉Villa推薦！從平價到頂級，一次整理給你！
+</span>
+</figcaption>
+</a>
+<a href="https://dq.yam.com/post/15836" target class="mainItem mainItemSmall mainItem8 ga_trackEvent" ga_event="熱門文章" ga_actions="熱門文章_點擊" ga_labels="日本偵測到超強宇宙射線「天照粒子」　繼「歐買尬粒子」後威力最強">
+<figure class="mainItemImg  ">
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="1a06b954a3bee31b9bf2f992-|49"></script><img src="https://imagedelivery.net/UYQOTZcPn8gGeaNtnHVGeg/d7a1a79b-c2e7-4fc9-a3b2-5870d66f4300/w=638" class="figure-img img-fluid" alt="..." loading="lazy" onerror="imgerr(this)">
+</figure>
+<figcaption class="figure-caption">
+<span class="textOverflow">
+日本偵測到超強宇宙射線「天照粒子」　繼「歐買尬粒子」後威力最強
+</span>
+</figcaption>
+</a>
+<a href="https://travel.yam.com/article/132880" target class="mainItem mainItemSmall mainItem9 ga_trackEvent" ga_event="熱門文章" ga_actions="熱門文章_點擊" ga_labels="嘉義｜阿里山7個賞雲海景點推薦：絕美雲瀑彷彿在仙境；還有日出、神木秘境、夕陽景觀一次收齊！">
+<figure class="mainItemImg  ">
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="1a06b954a3bee31b9bf2f992-|49"></script><img src="https://imagedelivery.net/UYQOTZcPn8gGeaNtnHVGeg/cbabebcb-5419-412e-7ebe-ed9ad224b400/w=638" class="figure-img img-fluid" alt="..." loading="lazy" onerror="imgerr(this)">
+</figure>
+<figcaption class="figure-caption">
+<span class="textOverflow">
+嘉義｜阿里山7個賞雲海景點推薦：絕美雲瀑彷彿在仙境；還有日出、神木秘境、夕陽景觀一次收齊！
+</span>
+</figcaption>
+</a>
+<a href="https://dq.yam.com/post/15813" target class="mainItem mainItemMedium mainItem10 ga_trackEvent" ga_event="熱門文章" ga_actions="熱門文章_點擊" ga_labels="「沒有劉姥姥，何來大觀園」台北新劇團2023新編京劇《劉姥姥和王熙鳳》">
+<figure class="mainItemImg  ">
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="1a06b954a3bee31b9bf2f992-|49"></script><img src="https://imagedelivery.net/UYQOTZcPn8gGeaNtnHVGeg/ffb1bd6a-6152-45ab-4443-f19014fa0600/w=638" class="figure-img img-fluid" alt="..." loading="lazy" onerror="imgerr(this)">
+</figure>
+<figcaption class="figure-caption">
+<span class="textOverflow">
+「沒有劉姥姥，何來大觀園」台北新劇團2023新編京劇《劉姥姥和王熙鳳》
+</span>
+</figcaption>
+</a>
+<a href="https://www.facebook.com/taipeitravel/posts/pfbid02newWeNkN32nAn1FJbjKoCy1obwQSCsxpaACxMjVeQJ1VybJxNZLSxGvqtMaW8q5El" target="_blank" class="mainItem mainItemSmall mainItem11 ga_trackEvent" ga_event="熱門文章" ga_actions="熱門文章_點擊" ga_labels="水岸景致漂亮、風景幽美的舊雙溪河步道">
+<figure class="mainItemImg  ">
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="1a06b954a3bee31b9bf2f992-|49"></script><img src="https://imagedelivery.net/UYQOTZcPn8gGeaNtnHVGeg/ed8ca3cb-1803-4305-fe24-738adfa56d00/w=638" class="figure-img img-fluid" alt="..." loading="lazy" onerror="imgerr(this)">
+</figure>
+<figcaption class="figure-caption">
+<span class="textOverflow">
+水岸景致漂亮、風景幽美的舊雙溪河步道
+</span>
+</figcaption>
+</a>
+<a href="https://travel.yam.com/article/132906" target class="mainItem mainItemSmall mainItem12 ga_trackEvent" ga_event="熱門文章" ga_actions="熱門文章_點擊" ga_labels=" 台灣三井不動產集團四設施聯手 打造迪士尼100周年主題造景">
+<figure class="mainItemImg  ">
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="1a06b954a3bee31b9bf2f992-|49"></script><img src="https://imagedelivery.net/UYQOTZcPn8gGeaNtnHVGeg/f4719685-9bc1-4f64-5422-b7178e82b000/w=638" class="figure-img img-fluid" alt="..." loading="lazy" onerror="imgerr(this)">
+</figure>
+<figcaption class="figure-caption">
+<span class="textOverflow">
+台灣三井不動產集團四設施聯手 打造迪士尼100周年主題造景
+</span>
+</figcaption>
+</a>
+<a href="https://n.yam.com/Article/20231123261381" target class="mainItem mainItemSmall mainItem13 ga_trackEvent" ga_event="熱門文章" ga_actions="熱門文章_點擊" ga_labels="屏縣府挹注經費 改善東振村西湖景觀.設施">
+<figure class="mainItemImg  ">
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="1a06b954a3bee31b9bf2f992-|49"></script><img src="https://imagedelivery.net/UYQOTZcPn8gGeaNtnHVGeg/405d09d9-e159-4842-5522-78478b4d1d00/w=638" class="figure-img img-fluid" alt="..." loading="lazy" onerror="imgerr(this)">
+</figure>
+<figcaption class="figure-caption">
+<span class="textOverflow">
+屏縣府挹注經費 改善東振村西湖景觀.設施
+</span>
+</figcaption>
+</a>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="container">
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2675037296853968" crossorigin="anonymous" type="1a06b954a3bee31b9bf2f992-text/javascript"></script>
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2675037296853968" data-ad-slot="9429362951" data-ad-format="auto" data-full-width-responsive="true"></ins>
+<script type="1a06b954a3bee31b9bf2f992-text/javascript">
+                            (adsbygoogle = window.adsbygoogle || []).push({});
+                        </script>
+</div>
+</section>
+<section>
+<div class="container rowStyle8">
+<div class="rowTitle">
+<h2><a href="https://n.yam.com/" class="ga_trackEvent" ga_event="熱門即時新聞" ga_actions="熱門即時新聞點擊" ga_labels="h2標題">熱門即時新聞</a></h2>
+</div>
+<ul class="row g-lg-3 g-3">
+<li class="boxStyle8">
+<a href="https://n.yam.com/Article/20231112503226" target="_blank" class="ga_trackEvent" ga_event="熱門即時新聞" ga_actions="熱門即時新聞點擊" ga_labels="24小時內發生1400次地震 冰島宣布進入緊急狀態、撤離Grindav&#237;k民眾">
+<figure class="figure">
+<div class="figureImgDiv">
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="1a06b954a3bee31b9bf2f992-|49"></script><img src="https://imagedelivery.net/UYQOTZcPn8gGeaNtnHVGeg/83e2a47c-a8e0-4bf4-4802-e051bb5f2600/w=312,h=203,fit=cover" class="figure-img img-fluid" alt="..." loading="lazy" onerror="imgerr(this)">
+</div>
+<figcaption class="figure-caption textOverflow">
+<span class="textOverflow">
+24小時內發生1400次地震 冰島宣布進入緊急狀態、撤離Grindav&#237;k民眾
+</span>
+</figcaption>
+</figure>
+</a>
+</li>
+<li class="boxStyle8">
+<a href="https://n.yam.com/Article/20231126225011" target="_blank" class="ga_trackEvent" ga_event="熱門即時新聞" ga_actions="熱門即時新聞點擊" ga_labels="埔里推動食農教育 千人拔蘿蔔參加踴躍">
+<figure class="figure">
+<div class="figureImgDiv">
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="1a06b954a3bee31b9bf2f992-|49"></script><img src="https://imagedelivery.net/UYQOTZcPn8gGeaNtnHVGeg/3b962c8e-e19f-424d-eb46-9fd0f4c6a600/w=312,h=203,fit=cover" class="figure-img img-fluid" alt="..." loading="lazy" onerror="imgerr(this)">
+</div>
+<figcaption class="figure-caption textOverflow">
+<span class="textOverflow">
+埔里推動食農教育 千人拔蘿蔔參加踴躍
+</span>
+</figcaption>
+</figure>
+</a>
+</li>
+<li class="boxStyle8">
+<a href="https://n.yam.com/Article/20231125958448" target="_blank" class="ga_trackEvent" ga_event="熱門即時新聞" ga_actions="熱門即時新聞點擊" ga_labels="財政部公布112年度每人基本生活所需之費用金額">
+<figure class="figure">
+<div class="figureImgDiv">
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="1a06b954a3bee31b9bf2f992-|49"></script><img src="https://imagedelivery.net/UYQOTZcPn8gGeaNtnHVGeg/4ebd6724-5fba-43b5-d7d8-275cc2023c00/w=312,h=203,fit=cover" class="figure-img img-fluid" alt="..." loading="lazy" onerror="imgerr(this)">
+</div>
+<figcaption class="figure-caption textOverflow">
+<span class="textOverflow">
+財政部公布112年度每人基本生活所需之費用金額
+</span>
+</figcaption>
+</figure>
+</a>
+</li>
+<li class="boxStyle8">
+<a href="https://n.yam.com/Article/20231126948485" target="_blank" class="ga_trackEvent" ga_event="熱門即時新聞" ga_actions="熱門即時新聞點擊" ga_labels="搭乘獅山線遊竹縣 穿越時光感受古道之美">
+<figure class="figure">
+<div class="figureImgDiv">
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="1a06b954a3bee31b9bf2f992-|49"></script><img src="https://imagedelivery.net/UYQOTZcPn8gGeaNtnHVGeg/919ed833-8f7a-4aae-b22e-471d92f17300/w=312,h=203,fit=cover" class="figure-img img-fluid" alt="..." loading="lazy" onerror="imgerr(this)">
+</div>
+<figcaption class="figure-caption textOverflow">
+<span class="textOverflow">
+搭乘獅山線遊竹縣 穿越時光感受古道之美
+</span>
+</figcaption>
+</figure>
+</a>
+</li>
+<li class="boxStyle8">
+<a href="https://n.yam.com/Article/20231126199983" target="_blank" class="ga_trackEvent" ga_event="熱門即時新聞" ga_actions="熱門即時新聞點擊" ga_labels="霧峰林家宮保第園區開放十周年！中市文化局：感謝對文化傳承努力">
+<figure class="figure">
+<div class="figureImgDiv">
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="1a06b954a3bee31b9bf2f992-|49"></script><img src="https://imagedelivery.net/UYQOTZcPn8gGeaNtnHVGeg/9d6ea258-1509-44cd-2484-9acc96c2a400/w=312,h=203,fit=cover" class="figure-img img-fluid" alt="..." loading="lazy" onerror="imgerr(this)">
+</div>
+<figcaption class="figure-caption textOverflow">
+<span class="textOverflow">
+霧峰林家宮保第園區開放十周年！中市文化局：感謝對文化傳承努力
+</span>
+</figcaption>
+</figure>
+</a>
+</li>
+<li class="boxStyle8" style="max-height:260px;">
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2675037296853968" crossorigin="anonymous" type="1a06b954a3bee31b9bf2f992-text/javascript"></script>
+
+<ins class="adsbygoogle" style="display: block;height: 260px;" data-ad-client="ca-pub-2675037296853968" data-ad-slot="5205083468" data-full-width-responsive="true"></ins>
+<script type="1a06b954a3bee31b9bf2f992-text/javascript">
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+                </script>
+</li>
+</ul>
+</div>
+</section>
+<section>
+<div class="container rowStyle2">
+<div class="rowTitle">
+<h2><a href="https://travel.yam.com/" class="ga_trackEvent" ga_event="熱門旅遊資訊" ga_actions="熱門旅遊資訊點擊" ga_labels="h2標題">熱門旅遊資訊</a></h2>
+</div>
+<ul class="row g-lg-3 g-3">
+<li class="boxStyle2">
+<a href="https://travel.yam.com/article/129949" target="_blank" class="ga_trackEvent" ga_event="熱門旅遊資訊" ga_actions="熱門旅遊資訊點擊" ga_labels="貓奴必收！可愛貓咪療癒你，超人氣8間貓咪咖啡廳">
+<figure class="figure">
+<div class="figureImgDiv">
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="1a06b954a3bee31b9bf2f992-|49"></script><img src="https://imagedelivery.net/UYQOTZcPn8gGeaNtnHVGeg/ad237056-c566-4f7a-2d11-0ecab97f7d00/w=340,h=200,fit=cover" class="figure-img img-fluid" alt="..." loading="lazy" onerror="imgerr(this)">
+</div>
+<figcaption class="figure-caption textOverflow">
+<span class="textOverflow">
+貓奴必收！可愛貓咪療癒你，超人氣8間貓咪咖啡廳
+</span>
+</figcaption>
+</figure>
+</a>
+</li>
+<li class="boxStyle2">
+<a href="https://travel.yam.com/article/129930" target="_blank" class="ga_trackEvent" ga_event="熱門旅遊資訊" ga_actions="熱門旅遊資訊點擊" ga_labels="歡迎來到異國夢幻島！漂浮早餐超好拍的恆春民宿">
+<figure class="figure">
+<div class="figureImgDiv">
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="1a06b954a3bee31b9bf2f992-|49"></script><img src="https://imagedelivery.net/UYQOTZcPn8gGeaNtnHVGeg/bde4e0c0-d158-4f17-e7c4-d4fbb4b1e900/w=340,h=200,fit=cover" class="figure-img img-fluid" alt="..." loading="lazy" onerror="imgerr(this)">
+</div>
+<figcaption class="figure-caption textOverflow">
+<span class="textOverflow">
+歡迎來到異國夢幻島！漂浮早餐超好拍的恆春民宿
+</span>
+</figcaption>
+</figure>
+</a>
+</li>
+<li class="boxStyle2">
+<a href="https://travel.yam.com/article/129873" target="_blank" class="ga_trackEvent" ga_event="熱門旅遊資訊" ga_actions="熱門旅遊資訊點擊" ga_labels="精選8間單身友善餐廳，一個人吃飯再也不孤單 !">
+<figure class="figure">
+<div class="figureImgDiv">
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="1a06b954a3bee31b9bf2f992-|49"></script><img src="https://imagedelivery.net/UYQOTZcPn8gGeaNtnHVGeg/8ee8a884-35b3-4523-da07-2ef85c7d2b00/w=340,h=200,fit=cover" class="figure-img img-fluid" alt="..." loading="lazy" onerror="imgerr(this)">
+</div>
+<figcaption class="figure-caption textOverflow">
+<span class="textOverflow">
+精選8間單身友善餐廳，一個人吃飯再也不孤單 !
+</span>
+</figcaption>
+</figure>
+</a>
+</li>
+<li class="boxStyle2">
+<a href="https://travel.yam.com/article/129763" target="_blank" class="ga_trackEvent" ga_event="熱門旅遊資訊" ga_actions="熱門旅遊資訊點擊" ga_labels="連假去台南必看！吃喝玩樂、秘境、夜市、牛肉湯、伴手禮全收錄">
+<figure class="figure">
+<div class="figureImgDiv">
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="1a06b954a3bee31b9bf2f992-|49"></script><img src="https://imagedelivery.net/UYQOTZcPn8gGeaNtnHVGeg/82a4bf8d-a639-4fb4-1b5c-12b4472f7b00/w=340,h=200,fit=cover" class="figure-img img-fluid" alt="..." loading="lazy" onerror="imgerr(this)">
+</div>
+<figcaption class="figure-caption textOverflow">
+<span class="textOverflow">
+連假去台南必看！吃喝玩樂、秘境、夜市、牛肉湯、伴手禮全收錄
+</span>
+</figcaption>
+</figure>
+</a>
+</li>
+<li class="boxStyle2">
+<a href="https://travel.yam.com/article/129977" target="_blank" class="ga_trackEvent" ga_event="熱門旅遊資訊" ga_actions="熱門旅遊資訊點擊" ga_labels="迪士尼經典人物在澎湖！2023澎湖花火節來摟～">
+<figure class="figure">
+<div class="figureImgDiv">
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="1a06b954a3bee31b9bf2f992-|49"></script><img src="https://imagedelivery.net/UYQOTZcPn8gGeaNtnHVGeg/540b0d00-8876-40bc-f790-5b7515bb9c00/w=340,h=200,fit=cover" class="figure-img img-fluid" alt="..." loading="lazy" onerror="imgerr(this)">
+</div>
+<figcaption class="figure-caption textOverflow">
+<span class="textOverflow">
+迪士尼經典人物在澎湖！2023澎湖花火節來摟～
+</span>
+</figcaption>
+</figure>
+</a>
+</li>
+</ul>
+</div>
+</section>
+<section>
+<div class="container rowStyle1">
+<div class="rowTitle">
+<h2><a href="https://dq.yam.com/" class="ga_trackEvent" ga_event="熱門國際新聞" ga_actions="熱門國際新聞點擊" ga_labels="h2標題">熱門國際新聞</a></h2>
+</div>
+<ul class="row g-lg-3 g-3">
+<li class="col-lg-3 col-md-6 col-6 boxStyle1 transformY10">
+<a href="https://dq.yam.com/post/15837" target="_blank" class="ga_trackEvent" ga_event="熱門國際新聞" ga_actions="熱門國際新聞點擊" ga_labels="奢侈品首購族越來越年輕，Z世代成奢侈品牌最大購買戶">
+<figure class="figure">
+<div class="figureImgDiv">
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="1a06b954a3bee31b9bf2f992-|49"></script><img src="https://imagedelivery.net/UYQOTZcPn8gGeaNtnHVGeg/6b8170dc-6f22-4782-bc6c-ad45bd5c6d00/w=340,h=200,fit=cover" class="figure-img img-fluid" alt="..." loading="lazy" onerror="imgerr(this)">
+</div>
+<figcaption class="figure-caption ">
+<span class="textOverflow">
+奢侈品首購族越來越年輕，Z世代成奢侈品牌最大購買戶
+</span>
+</figcaption>
+</figure>
+</a>
+</li>
+<li class="col-lg-3 col-md-6 col-6 boxStyle1 transformY10">
+<a href="https://dq.yam.com/post/15836" target="_blank" class="ga_trackEvent" ga_event="熱門國際新聞" ga_actions="熱門國際新聞點擊" ga_labels="日本偵測到超強宇宙射線「天照粒子」　繼「歐買尬粒子」後威力最強">
+<figure class="figure">
+<div class="figureImgDiv">
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="1a06b954a3bee31b9bf2f992-|49"></script><img src="https://imagedelivery.net/UYQOTZcPn8gGeaNtnHVGeg/d7a1a79b-c2e7-4fc9-a3b2-5870d66f4300/w=340,h=200,fit=cover" class="figure-img img-fluid" alt="..." loading="lazy" onerror="imgerr(this)">
+</div>
+<figcaption class="figure-caption ">
+<span class="textOverflow">
+日本偵測到超強宇宙射線「天照粒子」　繼「歐買尬粒子」後威力最強
+</span>
+</figcaption>
+</figure>
+</a>
+</li>
+<li class="col-lg-3 col-md-6 col-6 boxStyle1 transformY10">
+<a href="https://dq.yam.com/post/15831" target="_blank" class="ga_trackEvent" ga_event="熱門國際新聞" ga_actions="熱門國際新聞點擊" ga_labels="「濾鏡之前，人人平等？」沒開濾鏡就寸步難行，美顏文化該由誰決定">
+<figure class="figure">
+<div class="figureImgDiv">
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="1a06b954a3bee31b9bf2f992-|49"></script><img src="https://imagedelivery.net/UYQOTZcPn8gGeaNtnHVGeg/eae5516d-e547-4392-9c66-1ef6b54c5c00/w=340,h=200,fit=cover" class="figure-img img-fluid" alt="..." loading="lazy" onerror="imgerr(this)">
+</div>
+<figcaption class="figure-caption ">
+<span class="textOverflow">
+「濾鏡之前，人人平等？」沒開濾鏡就寸步難行，美顏文化該由誰決定
+</span>
+</figcaption>
+</figure>
+</a>
+</li>
+<li class="col-lg-3 col-md-6 col-6 boxStyle1 transformY10">
+<a href="https://dq.yam.com/post/15833" target="_blank" class="ga_trackEvent" ga_event="熱門國際新聞" ga_actions="熱門國際新聞點擊" ga_labels="「真真假假，假假真真的AI時代」劍橋詞典2023年度代表字：Hallucinate">
+<figure class="figure">
+<div class="figureImgDiv">
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="1a06b954a3bee31b9bf2f992-|49"></script><img src="https://imagedelivery.net/UYQOTZcPn8gGeaNtnHVGeg/8c835c53-3961-4007-8f60-c326d5631c00/w=340,h=200,fit=cover" class="figure-img img-fluid" alt="..." loading="lazy" onerror="imgerr(this)">
+</div>
+<figcaption class="figure-caption ">
+<span class="textOverflow">
+「真真假假，假假真真的AI時代」劍橋詞典2023年度代表字：Hallucinate
+</span>
+</figcaption>
+</figure>
+</a>
+</li>
+</ul>
+</div>
+</section>
+<section>
+<div class="container rowStyle1">
+<div class="rowTitle">
+<h2><a href="https://168.motc.gov.tw/" class="ga_trackEvent" ga_event="道安話題" ga_actions="道安話題點擊" ga_labels="h2標題">道安話題</a></h2>
+</div>
+<ul class="row g-lg-3 g-3">
+<li class="col-lg-3 col-md-6 col-6 boxStyle1 transformY10">
+<a href="https://k.yam.com/7a8ew" target="_blank" class="ga_trackEvent" ga_event="道安話題" ga_actions="道安話題點擊" ga_labels="完全停止 讓行人過">
+<figure class="figure">
+<div class="figureImgDiv">
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="1a06b954a3bee31b9bf2f992-|49"></script><img src="https://imagedelivery.net/UYQOTZcPn8gGeaNtnHVGeg/02950a6a-c9a5-47c9-ffc9-62a43ed6eb00/w=340,h=200,fit=cover" class="figure-img img-fluid" alt="..." loading="lazy" onerror="imgerr(this)">
+</div>
+<figcaption class="figure-caption ">
+<span class="textOverflow">
+完全停止 讓行人過
+</span>
+</figcaption>
+</figure>
+</a>
+</li>
+<li class="col-lg-3 col-md-6 col-6 boxStyle1 transformY10">
+<a href="https://k.yam.com/ccEh6" target="_blank" class="ga_trackEvent" ga_event="道安話題" ga_actions="道安話題點擊" ga_labels="追劇也要顧安全">
+<figure class="figure">
+<div class="figureImgDiv">
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="1a06b954a3bee31b9bf2f992-|49"></script><img src="https://imagedelivery.net/UYQOTZcPn8gGeaNtnHVGeg/1969a271-f34f-4f88-6e83-66c6f82c5700/w=340,h=200,fit=cover" class="figure-img img-fluid" alt="..." loading="lazy" onerror="imgerr(this)">
+</div>
+<figcaption class="figure-caption ">
+<span class="textOverflow">
+追劇也要顧安全
+</span>
+</figcaption>
+</figure>
+</a>
+</li>
+<li class="col-lg-3 col-md-6 col-6 boxStyle1 transformY10">
+<a href="https://k.yam.com/8y6lT" target="_blank" class="ga_trackEvent" ga_event="道安話題" ga_actions="道安話題點擊" ga_labels="出入安全有撇步">
+<figure class="figure">
+<div class="figureImgDiv">
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="1a06b954a3bee31b9bf2f992-|49"></script><img src="https://imagedelivery.net/UYQOTZcPn8gGeaNtnHVGeg/0ad1afb4-8f34-455a-68c0-6332f577a200/w=340,h=200,fit=cover" class="figure-img img-fluid" alt="..." loading="lazy" onerror="imgerr(this)">
+</div>
+<figcaption class="figure-caption ">
+<span class="textOverflow">
+出入安全有撇步
+</span>
+</figcaption>
+</figure>
+</a>
+</li>
+<li class="col-lg-3 col-md-6 col-6 boxStyle1 transformY10">
+<a href="https://k.yam.com/BYAn2" target="_blank" class="ga_trackEvent" ga_event="道安話題" ga_actions="道安話題點擊" ga_labels="兒童交通安全多重宇宙">
+<figure class="figure">
+<div class="figureImgDiv">
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="1a06b954a3bee31b9bf2f992-|49"></script><img src="https://imagedelivery.net/UYQOTZcPn8gGeaNtnHVGeg/e398fafc-e8b9-4587-a7fa-5caf0d03de00/w=340,h=200,fit=cover" class="figure-img img-fluid" alt="..." loading="lazy" onerror="imgerr(this)">
+</div>
+<figcaption class="figure-caption ">
+<span class="textOverflow">
+兒童交通安全多重宇宙
+</span>
+</figcaption>
+</figure>
+</a>
+</li>
+</ul>
+</div>
+</section>
+<section>
+<div class="container rowStyle1">
+<div class="rowTitle">
+<h2>台北旅遊新聞</h2>
+</div>
+<ul class="row g-lg-3 g-3">
+<li class="col-lg-3 col-md-6 col-6 boxStyle1 transformY10">
+<a href="https://www.facebook.com/taipeitravel/posts/pfbid02xeJUAUBAQ2UVQm23GvAmEQh4oJs6zUr1knPW6oz89EtZPJAP5WE6Tq2oWZgdh2fsl" target="_blank" class="ga_trackEvent" ga_event="台北旅遊新聞" ga_actions="台北旅遊新聞點擊" ga_labels="讓❄️冬季精選☃️的約會神推薦懶人包，滿足你的各種需求！">
+<figure class="figure">
+<div class="figureImgDiv">
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="1a06b954a3bee31b9bf2f992-|49"></script><img src="https://imagedelivery.net/UYQOTZcPn8gGeaNtnHVGeg/85a0a772-3878-453e-d1e3-0a8fbeaa0c00/w=340,h=200,fit=cover" class="figure-img img-fluid" alt="..." loading="lazy" onerror="imgerr(this)">
+</div>
+<figcaption class="figure-caption ">
+<span class="textOverflow">
+讓❄️冬季精選☃️的約會神推薦懶人包，滿足你的各種需求！
+</span>
+</figcaption>
+</figure>
+</a>
+</li>
+<li class="col-lg-3 col-md-6 col-6 boxStyle1 transformY10">
+<a href="https://www.facebook.com/taipeitravel/posts/pfbid0s4AupXREpnydPxD3s4UWBQdfhuCc4PR28aiEXjJXvg8MMyjtnDa9AWoh5iyh3HRDl" target="_blank" class="ga_trackEvent" ga_event="台北旅遊新聞" ga_actions="台北旅遊新聞點擊" ga_labels="㊗️ #全球最佳城市「台北」 上榜！ 「中山區」臺灣唯一">
+<figure class="figure">
+<div class="figureImgDiv">
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="1a06b954a3bee31b9bf2f992-|49"></script><img src="https://imagedelivery.net/UYQOTZcPn8gGeaNtnHVGeg/7210f9f3-e127-4f93-9075-73db5dd2e000/w=340,h=200,fit=cover" class="figure-img img-fluid" alt="..." loading="lazy" onerror="imgerr(this)">
+</div>
+<figcaption class="figure-caption ">
+<span class="textOverflow">
+㊗️ #全球最佳城市「台北」 上榜！ 「中山區」臺灣唯一
+</span>
+</figcaption>
+</figure>
+</a>
+</li>
+<li class="col-lg-3 col-md-6 col-6 boxStyle1 transformY10">
+<a href="https://www.facebook.com/taipeitravel/posts/pfbid02newWeNkN32nAn1FJbjKoCy1obwQSCsxpaACxMjVeQJ1VybJxNZLSxGvqtMaW8q5El" target="_blank" class="ga_trackEvent" ga_event="台北旅遊新聞" ga_actions="台北旅遊新聞點擊" ga_labels="#都市裡的寶藏秘境 台北少見的田園風光❗">
+<figure class="figure">
+<div class="figureImgDiv">
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="1a06b954a3bee31b9bf2f992-|49"></script><img src="https://imagedelivery.net/UYQOTZcPn8gGeaNtnHVGeg/b78a1dab-d0a9-4b9f-8d2a-6ae7030fe800/w=340,h=200,fit=cover" class="figure-img img-fluid" alt="..." loading="lazy" onerror="imgerr(this)">
+</div>
+<figcaption class="figure-caption ">
+<span class="textOverflow">
+#都市裡的寶藏秘境 台北少見的田園風光❗
+</span>
+</figcaption>
+</figure>
+</a>
+</li>
+<li class="col-lg-3 col-md-6 col-6 boxStyle1 transformY10">
+<a href="https://www.facebook.com/taipeitravel/posts/pfbid02bX5TPrZXaDDbmBXmy3pXJ2YTxDyerm9K3oKy4KiKnznENYJ7n6sa1Rb9LPtJUps9l" target="_blank" class="ga_trackEvent" ga_event="台北旅遊新聞" ga_actions="台北旅遊新聞點擊" ga_labels="來北投享受暖呼呼的♨️泡湯之旅吧">
+<figure class="figure">
+<div class="figureImgDiv">
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="1a06b954a3bee31b9bf2f992-|49"></script><img src="https://imagedelivery.net/UYQOTZcPn8gGeaNtnHVGeg/cc9ddef8-5cbd-44d2-e680-5154ed042700/w=340,h=200,fit=cover" class="figure-img img-fluid" alt="..." loading="lazy" onerror="imgerr(this)">
+</div>
+<figcaption class="figure-caption ">
+<span class="textOverflow">
+來北投享受暖呼呼的♨️泡湯之旅吧
+</span>
+</figcaption>
+</figure>
+</a>
+</li>
+</ul>
+</div>
+</section>
+<section>
+<div class="container rowStyle7">
+<div class="rowTitle">
+<h2><a href="https://travel.yam.com/info/play/%E5%9C%8B%E5%A4%96%E6%97%85%E9%81%8A" class="ga_trackEvent" ga_event="國外旅遊資訊" ga_actions="國外旅遊資訊點擊" ga_labels="h2標題">國外旅遊資訊</a></h2>
+</div>
+<div class="row row-cols-2 row-cols-lg-4 g-2 g-lg-3">
+<div class="col col-md-6 ">
+<div class="p-lg-2 p-2 boxStyle7 boxShadowDark">
+<a href="https://travel.yam.com/article/132914" target="_blank" class="ga_trackEvent" ga_event="國外旅遊資訊" ga_actions="國外旅遊資訊點擊" ga_labels="東京｜樂天小熊人形燒：全日本只有3間儂特利有賣放大版無尾熊頭，可愛指數衝破天際！">
+<figure class="figure">
+<div class="figureImgDiv">
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="1a06b954a3bee31b9bf2f992-|49"></script><img src="https://imagedelivery.net/UYQOTZcPn8gGeaNtnHVGeg/420c1ff3-9b6a-407c-6a2a-93f967562900/w=400,h=400,fit=cover" class="figure-img img-fluid" alt="..." loading="lazy" onerror="imgerr(this)">
+</div>
+<figcaption class="figure-caption ">
+<span class="textOverflow">
+東京｜樂天小熊人形燒：全日本只有3間儂特利有賣放大版無尾熊頭，可愛指數衝破天際！
+</span>
+</figcaption>
+</figure>
+</a>
+</div>
+</div>
+<div class="col col-md-6 ">
+<div class="p-lg-2 p-2 boxStyle7 boxShadowDark">
+<a href="https://travel.yam.com/article/132912" target="_blank" class="ga_trackEvent" ga_event="國外旅遊資訊" ga_actions="國外旅遊資訊點擊" ga_labels="京都｜東大寺：世界最大的青銅佛像～奈良大佛，感受建築、雕刻藝術帶來的震撼與感動！">
+<figure class="figure">
+<div class="figureImgDiv">
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="1a06b954a3bee31b9bf2f992-|49"></script><img src="https://imagedelivery.net/UYQOTZcPn8gGeaNtnHVGeg/1ad31b29-2b5a-4b41-f839-cc3bd8a4a200/w=400,h=400,fit=cover" class="figure-img img-fluid" alt="..." loading="lazy" onerror="imgerr(this)">
+</div>
+<figcaption class="figure-caption ">
+<span class="textOverflow">
+京都｜東大寺：世界最大的青銅佛像～奈良大佛，感受建築、雕刻藝術帶來的震撼與感動！
+</span>
+</figcaption>
+</figure>
+</a>
+</div>
+</div>
+<div class="col col-md-6 ">
+<div class="p-lg-2 p-2 boxStyle7 boxShadowDark">
+<a href="https://travel.yam.com/article/132910" target="_blank" class="ga_trackEvent" ga_event="國外旅遊資訊" ga_actions="國外旅遊資訊點擊" ga_labels="京都｜夫婦大國社：奈良神社水占卜太神奇～結上幸福良緣牽繫彼此緣份， 祈願找到另一半">
+<figure class="figure">
+<div class="figureImgDiv">
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="1a06b954a3bee31b9bf2f992-|49"></script><img src="https://imagedelivery.net/UYQOTZcPn8gGeaNtnHVGeg/767d1674-3e0d-4cc8-891c-b773e5984f00/w=400,h=400,fit=cover" class="figure-img img-fluid" alt="..." loading="lazy" onerror="imgerr(this)">
+</div>
+<figcaption class="figure-caption ">
+<span class="textOverflow">
+京都｜夫婦大國社：奈良神社水占卜太神奇～結上幸福良緣牽繫彼此緣份， 祈願找到另一半
+</span>
+</figcaption>
+</figure>
+</a>
+</div>
+</div>
+<div class="col col-md-6 ">
+<div class="p-lg-2 p-2 boxStyle7 boxShadowDark">
+<a href="https://travel.yam.com/article/132903" target="_blank" class="ga_trackEvent" ga_event="國外旅遊資訊" ga_actions="國外旅遊資訊點擊" ga_labels="日本｜大阪環球影城攻略：嗨玩瑪利歐世界、打卡霍格華茲城堡，行前準備、園區介紹、交通指引、退稅攻略報給你">
+<figure class="figure">
+<div class="figureImgDiv">
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="1a06b954a3bee31b9bf2f992-|49"></script><img src="https://imagedelivery.net/UYQOTZcPn8gGeaNtnHVGeg/8ef97a79-bc2d-430b-7bd0-3535f2e01f00/w=400,h=400,fit=cover" class="figure-img img-fluid" alt="..." loading="lazy" onerror="imgerr(this)">
+</div>
+<figcaption class="figure-caption ">
+<span class="textOverflow">
+日本｜大阪環球影城攻略：嗨玩瑪利歐世界、打卡霍格華茲城堡，行前準備、園區介紹、交通指引、退稅攻略報給你
+</span>
+</figcaption>
+</figure>
+</a>
+</div>
+</div>
+<div class="col col-md-6 ">
+<div class="p-lg-2 p-2 boxStyle7 boxShadowDark">
+<a href="https://travel.yam.com/article/132888" target="_blank" class="ga_trackEvent" ga_event="國外旅遊資訊" ga_actions="國外旅遊資訊點擊" ga_labels=" 置地廣塲與您攜手傳遞窩心暖意 一起歡度聖誕">
+<figure class="figure">
+<div class="figureImgDiv">
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="1a06b954a3bee31b9bf2f992-|49"></script><img src="https://imagedelivery.net/UYQOTZcPn8gGeaNtnHVGeg/82a69dee-02ec-4f7e-e0a4-5134fc2c8e00/w=400,h=400,fit=cover" class="figure-img img-fluid" alt="..." loading="lazy" onerror="imgerr(this)">
+</div>
+<figcaption class="figure-caption ">
+<span class="textOverflow">
+置地廣塲與您攜手傳遞窩心暖意 一起歡度聖誕
+</span>
+</figcaption>
+</figure>
+</a>
+</div>
+</div>
+<div class="col col-md-6 ">
+<div class="p-lg-2 p-2 boxStyle7 boxShadowDark">
+<a href="https://travel.yam.com/article/132877" target="_blank" class="ga_trackEvent" ga_event="國外旅遊資訊" ga_actions="國外旅遊資訊點擊" ga_labels="澳門｜莆田餐廳：來銀河度假酒店必吃！新加坡代表美食餐廳，米其林必比登推薦">
+<figure class="figure">
+<div class="figureImgDiv">
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="1a06b954a3bee31b9bf2f992-|49"></script><img src="https://imagedelivery.net/UYQOTZcPn8gGeaNtnHVGeg/b0cb4374-9f14-4d32-fc82-576d36ae9300/w=400,h=400,fit=cover" class="figure-img img-fluid" alt="..." loading="lazy" onerror="imgerr(this)">
+</div>
+<figcaption class="figure-caption ">
+<span class="textOverflow">
+澳門｜莆田餐廳：來銀河度假酒店必吃！新加坡代表美食餐廳，米其林必比登推薦
+</span>
+</figcaption>
+</figure>
+</a>
+</div>
+</div>
+<div class="col col-md-6 ">
+<div class="p-lg-2 p-2 boxStyle7 boxShadowDark">
+<a href="https://travel.yam.com/article/132854" target="_blank" class="ga_trackEvent" ga_event="國外旅遊資訊" ga_actions="國外旅遊資訊點擊" ga_labels="香港｜「10大必玩景點」朝聖香港海洋公園、搭乘太平山纜車、Big Bus遊市街、品嘗美食">
+<figure class="figure">
+<div class="figureImgDiv">
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="1a06b954a3bee31b9bf2f992-|49"></script><img src="https://imagedelivery.net/UYQOTZcPn8gGeaNtnHVGeg/99f32e98-c589-48c2-3c47-307449483b00/w=400,h=400,fit=cover" class="figure-img img-fluid" alt="..." loading="lazy" onerror="imgerr(this)">
+</div>
+<figcaption class="figure-caption ">
+<span class="textOverflow">
+香港｜「10大必玩景點」朝聖香港海洋公園、搭乘太平山纜車、Big Bus遊市街、品嘗美食
+</span>
+</figcaption>
+</figure>
+</a>
+</div>
+</div>
+<div class="col col-md-6 ">
+<div class="p-lg-2 p-2 boxStyle7 boxShadowDark">
+<a href="https://travel.yam.com/article/132850" target="_blank" class="ga_trackEvent" ga_event="國外旅遊資訊" ga_actions="國外旅遊資訊點擊" ga_labels="中國｜洛帶古鎮：漫步四川成都小鎮巷弄，處處可見傳統文化建築，宛如穿越時空">
+<figure class="figure">
+<div class="figureImgDiv">
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="1a06b954a3bee31b9bf2f992-|49"></script><img src="https://imagedelivery.net/UYQOTZcPn8gGeaNtnHVGeg/79bd03e5-d301-4e1d-0d92-9d859a5e6800/w=400,h=400,fit=cover" class="figure-img img-fluid" alt="..." loading="lazy" onerror="imgerr(this)">
+</div>
+<figcaption class="figure-caption ">
+<span class="textOverflow">
+中國｜洛帶古鎮：漫步四川成都小鎮巷弄，處處可見傳統文化建築，宛如穿越時空
+</span>
+</figcaption>
+</figure>
+</a>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="container rowStyle7">
+<div class="rowTitle">
+<h2><a href="https://dq.yam.com/search/t/tag/%E5%9C%B0%E7%90%83%E5%9C%96%E6%9B%B8%E9%A4%A8" class="ga_trackEvent" ga_event="地球圖書館" ga_actions="地球圖書館點擊" ga_labels="h2標題">地球圖書館</a></h2>
+</div>
+<div class="row row-cols-2 row-cols-lg-4 g-2 g-lg-3">
+<div class="col col-md-6 ">
+<div class="p-lg-2 p-2 boxStyle7 boxShadowDark">
+<a href="https://dq.yam.com/post/15812" target="_blank" class="ga_trackEvent" ga_event="地球圖書館" ga_actions="地球圖書館點擊" ga_labels="【地球圖書館】「維吾爾人是被棉花殺死的」中國紡織品競爭力提升的犧牲者">
+<figure class="figure">
+<div class="figureImgDiv">
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="1a06b954a3bee31b9bf2f992-|49"></script><img src="https://imagedelivery.net/UYQOTZcPn8gGeaNtnHVGeg/5e4d770c-859b-49e3-22d5-f069f0504700/w=400,h=400,fit=cover" class="figure-img img-fluid" alt="..." loading="lazy" onerror="imgerr(this)">
+</div>
+<figcaption class="figure-caption ">
+<span class="textOverflow">
+【地球圖書館】「維吾爾人是被棉花殺死的」中國紡織品競爭力提升的犧牲者
+</span>
+</figcaption>
+</figure>
+</a>
+</div>
+</div>
+<div class="col col-md-6 ">
+<div class="p-lg-2 p-2 boxStyle7 boxShadowDark">
+<a href="https://dq.yam.com/post/15808" target="_blank" class="ga_trackEvent" ga_event="地球圖書館" ga_actions="地球圖書館點擊" ga_labels="「不知不覺中就戰勝恐懼？」《困惑的心》平行宇宙中的解碼神經反饋">
+<figure class="figure">
+<div class="figureImgDiv">
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="1a06b954a3bee31b9bf2f992-|49"></script><img src="https://imagedelivery.net/UYQOTZcPn8gGeaNtnHVGeg/800ae9a1-6ac2-4d11-3c77-ba500eab6700/w=400,h=400,fit=cover" class="figure-img img-fluid" alt="..." loading="lazy" onerror="imgerr(this)">
+</div>
+<figcaption class="figure-caption ">
+<span class="textOverflow">
+「不知不覺中就戰勝恐懼？」《困惑的心》平行宇宙中的解碼神經反饋
+</span>
+</figcaption>
+</figure>
+</a>
+</div>
+</div>
+<div class="col col-md-6 ">
+<div class="p-lg-2 p-2 boxStyle7 boxShadowDark">
+<a href="https://dq.yam.com/post/15786" target="_blank" class="ga_trackEvent" ga_event="地球圖書館" ga_actions="地球圖書館點擊" ga_labels="【地球圖書館】看見時間的洞，傾聽石頭的故事「奧丁石不死，只是被嫌礙事」">
+<figure class="figure">
+<div class="figureImgDiv">
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="1a06b954a3bee31b9bf2f992-|49"></script><img src="https://imagedelivery.net/UYQOTZcPn8gGeaNtnHVGeg/3676946d-df32-43fe-2afa-40608a4e2d00/w=400,h=400,fit=cover" class="figure-img img-fluid" alt="..." loading="lazy" onerror="imgerr(this)">
+</div>
+<figcaption class="figure-caption ">
+<span class="textOverflow">
+【地球圖書館】看見時間的洞，傾聽石頭的故事「奧丁石不死，只是被嫌礙事」
+</span>
+</figcaption>
+</figure>
+</a>
+</div>
+</div>
+<div class="col col-md-6 ">
+<div class="p-lg-2 p-2 boxStyle7 boxShadowDark">
+<a href="https://dq.yam.com/post/15683" target="_blank" class="ga_trackEvent" ga_event="地球圖書館" ga_actions="地球圖書館點擊" ga_labels="【地球圖書館】十段線、台海危機　中國新擴張主義，習近平360度全面權力欲">
+<figure class="figure">
+<div class="figureImgDiv">
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="1a06b954a3bee31b9bf2f992-|49"></script><img src="https://imagedelivery.net/UYQOTZcPn8gGeaNtnHVGeg/d658e92f-4347-4d85-3534-3cee268a3b00/w=400,h=400,fit=cover" class="figure-img img-fluid" alt="..." loading="lazy" onerror="imgerr(this)">
+</div>
+<figcaption class="figure-caption ">
+<span class="textOverflow">
+【地球圖書館】十段線、台海危機　中國新擴張主義，習近平360度全面權力欲
+</span>
+</figcaption>
+</figure>
+</a>
+</div>
+</div>
+<div class="col col-md-6 ">
+<div class="p-lg-2 p-2 boxStyle7 boxShadowDark">
+<a href="https://dq.yam.com/post/15479" target="_blank" class="ga_trackEvent" ga_event="地球圖書館" ga_actions="地球圖書館點擊" ga_labels="【地球圖書館】「暴力讓臉書變得富有」在新聞民主之前，社群只是獨裁者的武器">
+<figure class="figure">
+<div class="figureImgDiv">
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="1a06b954a3bee31b9bf2f992-|49"></script><img src="https://imagedelivery.net/UYQOTZcPn8gGeaNtnHVGeg/e8abf600-ee4e-48ee-b89f-927fce146700/w=400,h=400,fit=cover" class="figure-img img-fluid" alt="..." loading="lazy" onerror="imgerr(this)">
+</div>
+<figcaption class="figure-caption ">
+<span class="textOverflow">
+【地球圖書館】「暴力讓臉書變得富有」在新聞民主之前，社群只是獨裁者的武器
+</span>
+</figcaption>
+</figure>
+</a>
+</div>
+</div>
+<div class="col col-md-6 ">
+<div class="p-lg-2 p-2 boxStyle7 boxShadowDark">
+<a href="https://dq.yam.com/post/15412" target="_blank" class="ga_trackEvent" ga_event="地球圖書館" ga_actions="地球圖書館點擊" ga_labels="【地球圖書館】社會主義科學家也難逃文革下放，「雜交水稻之父」把遺傳學帶回田野間">
+<figure class="figure">
+<div class="figureImgDiv">
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="1a06b954a3bee31b9bf2f992-|49"></script><img src="https://imagedelivery.net/UYQOTZcPn8gGeaNtnHVGeg/700551c9-d090-4698-a659-d2d2d0488300/w=400,h=400,fit=cover" class="figure-img img-fluid" alt="..." loading="lazy" onerror="imgerr(this)">
+</div>
+<figcaption class="figure-caption ">
+<span class="textOverflow">
+【地球圖書館】社會主義科學家也難逃文革下放，「雜交水稻之父」把遺傳學帶回田野間
+</span>
+</figcaption>
+</figure>
+</a>
+</div>
+</div>
+<div class="col col-md-6 ">
+<div class="p-lg-2 p-2 boxStyle7 boxShadowDark">
+<a href="https://dq.yam.com/post/15366" target="_blank" class="ga_trackEvent" ga_event="地球圖書館" ga_actions="地球圖書館點擊" ga_labels="【地球圖書館】「是愛還是傷害？」韓國首位犯罪分析師教你如何面對煤氣燈效應">
+<figure class="figure">
+<div class="figureImgDiv">
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="1a06b954a3bee31b9bf2f992-|49"></script><img src="https://imagedelivery.net/UYQOTZcPn8gGeaNtnHVGeg/3a6fc380-51f3-43ba-b3ce-bb6e2e215600/w=400,h=400,fit=cover" class="figure-img img-fluid" alt="..." loading="lazy" onerror="imgerr(this)">
+</div>
+<figcaption class="figure-caption ">
+<span class="textOverflow">
+【地球圖書館】「是愛還是傷害？」韓國首位犯罪分析師教你如何面對煤氣燈效應
+</span>
+</figcaption>
+</figure>
+</a>
+</div>
+</div>
+<div class="col col-md-6 ">
+<div class="p-lg-2 p-2 boxStyle7 boxShadowDark">
+<a href="https://dq.yam.com/post/15249" target="_blank" class="ga_trackEvent" ga_event="地球圖書館" ga_actions="地球圖書館點擊" ga_labels="【地球圖書館】恐怖分子的副業，暗黑經濟的走私鏈">
+<figure class="figure">
+<div class="figureImgDiv">
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="1a06b954a3bee31b9bf2f992-|49"></script><img src="https://imagedelivery.net/UYQOTZcPn8gGeaNtnHVGeg/8842bc46-e9f8-4448-3194-fbc50ebcfb00/w=400,h=400,fit=cover" class="figure-img img-fluid" alt="..." loading="lazy" onerror="imgerr(this)">
+</div>
+<figcaption class="figure-caption ">
+<span class="textOverflow">
+【地球圖書館】恐怖分子的副業，暗黑經濟的走私鏈
+</span>
+</figcaption>
+</figure>
+</a>
+</div>
+</div>
+</div>
+</div>
+</section>
+<div class="newest py-5 bg-light">
+<div class="container">
+<div class="rowTitle">
+<h2 class="bg-light">最新文章</h2>
+</div>
+<div class="row row-cols-2 row-cols-sm-2 row-cols-md-3 g-3">
+<div class="col">
+<div class="card shadow-sm">
+<a class="figureImgDiv ga_trackEvent" href="https://n.yam.com/Article/20231127603009" ga_event="最新文章" ga_actions="最新文章_點擊" ga_labels="以虛擬人民所得來課稅　比專制國家更恐怖">
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="1a06b954a3bee31b9bf2f992-|49"></script><img loading="lazy" src="https://imagedelivery.net/UYQOTZcPn8gGeaNtnHVGeg/6b8170dc-6f22-4782-bc6c-ad45bd5c6d00/w=640,h=360,fit=cover" alt="..." class="bd-placeholder-img card-img-top" onerror="imgerr(this)" />
+</a>
+<div class="card-body">
+<p class="card-text textOverflow">
+<a href="https://n.yam.com/Article/20231127603009">以虛擬人民所得來課稅　比專制國家更恐怖</a>
+</p>
+<div class="d-flex justify-content-between align-items-center">
+<div class="btn-group">
+<a href="https://n.yam.com" class="btn btn-sm btn-outline-success ga_trackEvent" ga_event="最新文章" ga_actions="最新文章_點擊" ga_labels="以虛擬人民所得來課稅　比專制國家更恐怖">蕃新聞</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col">
+<div class="card shadow-sm">
+<a class="figureImgDiv ga_trackEvent" href="https://n.yam.com/Article/20231127427490" ga_event="最新文章" ga_actions="最新文章_點擊" ga_labels="產業領袖齊聚出題&#160;、數據專才角逐競賽技&#160;&#160;第六屆2023全國智慧製造大數據分析競賽&#160;圓滿落幕">
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="1a06b954a3bee31b9bf2f992-|49"></script><img loading="lazy" src="https://imagedelivery.net/UYQOTZcPn8gGeaNtnHVGeg/dc41b962-f7a1-4078-ecd3-6d23c7bbd000/w=640,h=360,fit=cover" alt="..." class="bd-placeholder-img card-img-top" onerror="imgerr(this)" />
+</a>
+<div class="card-body">
+<p class="card-text textOverflow">
+<a href="https://n.yam.com/Article/20231127427490">產業領袖齊聚出題&#160;、數據專才角逐競賽技&#160;&#160;第六屆2023全國智慧製造大數據分析競賽&#160;圓滿落幕</a>
+</p>
+<div class="d-flex justify-content-between align-items-center">
+<div class="btn-group">
+<a href="https://n.yam.com" class="btn btn-sm btn-outline-success ga_trackEvent" ga_event="最新文章" ga_actions="最新文章_點擊" ga_labels="產業領袖齊聚出題&#160;、數據專才角逐競賽技&#160;&#160;第六屆2023全國智慧製造大數據分析競賽&#160;圓滿落幕">蕃新聞</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col">
+<div class="card shadow-sm">
+<a class="figureImgDiv ga_trackEvent" href="https://n.yam.com/Article/20231127202754" ga_event="最新文章" ga_actions="最新文章_點擊" ga_labels="全國兒童聯想創作畫比賽登場  &#160;420位小小高手創意揮灑">
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="1a06b954a3bee31b9bf2f992-|49"></script><img loading="lazy" src="https://imagedelivery.net/UYQOTZcPn8gGeaNtnHVGeg/c6e0d3ae-59a6-4cbc-c2b3-853a0f4f1500/w=640,h=360,fit=cover" alt="..." class="bd-placeholder-img card-img-top" onerror="imgerr(this)" />
+</a>
+<div class="card-body">
+<p class="card-text textOverflow">
+<a href="https://n.yam.com/Article/20231127202754">全國兒童聯想創作畫比賽登場 &#160;420位小小高手創意揮灑</a>
+</p>
+<div class="d-flex justify-content-between align-items-center">
+<div class="btn-group">
+<a href="https://n.yam.com" class="btn btn-sm btn-outline-success ga_trackEvent" ga_event="最新文章" ga_actions="最新文章_點擊" ga_labels="全國兒童聯想創作畫比賽登場  &#160;420位小小高手創意揮灑">蕃新聞</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col">
+<div class="card shadow-sm">
+<a class="figureImgDiv ga_trackEvent" href="https://n.yam.com/Article/20231127375552" ga_event="最新文章" ga_actions="最新文章_點擊" ga_labels="【台北水岸花季】之延平河濱「野花園」賞花看夕陽">
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="1a06b954a3bee31b9bf2f992-|49"></script><img loading="lazy" src="https://imagedelivery.net/UYQOTZcPn8gGeaNtnHVGeg/b4f4f8a1-6c9f-4279-2fe3-2649fd4e7100/w=640,h=360,fit=cover" alt="..." class="bd-placeholder-img card-img-top" onerror="imgerr(this)" />
+</a>
+<div class="card-body">
+<p class="card-text textOverflow">
+<a href="https://n.yam.com/Article/20231127375552">【台北水岸花季】之延平河濱「野花園」賞花看夕陽</a>
+</p>
+<div class="d-flex justify-content-between align-items-center">
+<div class="btn-group">
+<a href="https://n.yam.com" class="btn btn-sm btn-outline-success ga_trackEvent" ga_event="最新文章" ga_actions="最新文章_點擊" ga_labels="【台北水岸花季】之延平河濱「野花園」賞花看夕陽">蕃新聞</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col">
+<div class="card shadow-sm">
+<a class="figureImgDiv ga_trackEvent" href="https://n.yam.com/Article/20231127221859" ga_event="最新文章" ga_actions="最新文章_點擊" ga_labels="屯藝志工創作聯展秀創意　種子變身實用吊飾">
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="1a06b954a3bee31b9bf2f992-|49"></script><img loading="lazy" src="https://imagedelivery.net/UYQOTZcPn8gGeaNtnHVGeg/e7a6f8ed-9a3f-47ef-912e-30eedf94af00/w=640,h=360,fit=cover" alt="..." class="bd-placeholder-img card-img-top" onerror="imgerr(this)" />
+</a>
+<div class="card-body">
+<p class="card-text textOverflow">
+<a href="https://n.yam.com/Article/20231127221859">屯藝志工創作聯展秀創意　種子變身實用吊飾</a>
+</p>
+<div class="d-flex justify-content-between align-items-center">
+<div class="btn-group">
+<a href="https://n.yam.com" class="btn btn-sm btn-outline-success ga_trackEvent" ga_event="最新文章" ga_actions="最新文章_點擊" ga_labels="屯藝志工創作聯展秀創意　種子變身實用吊飾">蕃新聞</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col">
+<div class="card shadow-sm">
+<a class="figureImgDiv ga_trackEvent" href="https://n.yam.com/Article/20231127702803" ga_event="最新文章" ga_actions="最新文章_點擊" ga_labels="臺鐵元旦假期全線加開116列次疏運　12／1開放訂票">
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="1a06b954a3bee31b9bf2f992-|49"></script><img loading="lazy" src="https://imagedelivery.net/UYQOTZcPn8gGeaNtnHVGeg/5a3a4b77-0b24-45f5-6e1c-fccc095eaa00/w=640,h=360,fit=cover" alt="..." class="bd-placeholder-img card-img-top" onerror="imgerr(this)" />
+</a>
+<div class="card-body">
+<p class="card-text textOverflow">
+<a href="https://n.yam.com/Article/20231127702803">臺鐵元旦假期全線加開116列次疏運　12／1開放訂票</a>
+</p>
+<div class="d-flex justify-content-between align-items-center">
+<div class="btn-group">
+<a href="https://n.yam.com" class="btn btn-sm btn-outline-success ga_trackEvent" ga_event="最新文章" ga_actions="最新文章_點擊" ga_labels="臺鐵元旦假期全線加開116列次疏運　12／1開放訂票">蕃新聞</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col">
+<div class="card shadow-sm">
+<a class="figureImgDiv ga_trackEvent" href="https://n.yam.com/Article/20231127131373" ga_event="最新文章" ga_actions="最新文章_點擊" ga_labels="IAR全面支援恩智浦S32M2馬達控制解決方案以提升馬達控制功能">
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="1a06b954a3bee31b9bf2f992-|49"></script><img loading="lazy" src="https://imagedelivery.net/UYQOTZcPn8gGeaNtnHVGeg/e8d7a78f-2648-4c6d-00bf-7c96f2a4be00/w=640,h=360,fit=cover" alt="..." class="bd-placeholder-img card-img-top" onerror="imgerr(this)" />
+</a>
+<div class="card-body">
+<p class="card-text textOverflow">
+<a href="https://n.yam.com/Article/20231127131373">IAR全面支援恩智浦S32M2馬達控制解決方案以提升馬達控制功能</a>
+</p>
+<div class="d-flex justify-content-between align-items-center">
+<div class="btn-group">
+<a href="https://n.yam.com" class="btn btn-sm btn-outline-success ga_trackEvent" ga_event="最新文章" ga_actions="最新文章_點擊" ga_labels="IAR全面支援恩智浦S32M2馬達控制解決方案以提升馬達控制功能">蕃新聞</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col">
+<div class="card shadow-sm">
+<a class="figureImgDiv ga_trackEvent" href="https://n.yam.com/Article/20231126187943" ga_event="最新文章" ga_actions="最新文章_點擊" ga_labels="第七屆福爾摩沙古道國際越野賽圓滿結束">
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="1a06b954a3bee31b9bf2f992-|49"></script><img loading="lazy" src="https://imagedelivery.net/UYQOTZcPn8gGeaNtnHVGeg/7bf505aa-7457-455a-be4e-16f95c75ac00/w=640,h=360,fit=cover" alt="..." class="bd-placeholder-img card-img-top" onerror="imgerr(this)" />
+</a>
+<div class="card-body">
+<p class="card-text textOverflow">
+<a href="https://n.yam.com/Article/20231126187943">第七屆福爾摩沙古道國際越野賽圓滿結束</a>
+</p>
+<div class="d-flex justify-content-between align-items-center">
+<div class="btn-group">
+<a href="https://n.yam.com" class="btn btn-sm btn-outline-success ga_trackEvent" ga_event="最新文章" ga_actions="最新文章_點擊" ga_labels="第七屆福爾摩沙古道國際越野賽圓滿結束">蕃新聞</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col">
+<div class="card shadow-sm">
+<a class="figureImgDiv ga_trackEvent" href="https://travel.yam.com/article/132923" ga_event="最新文章" ga_actions="最新文章_點擊" ga_labels="「2024澎湖花火節」活動時間、地點搶先看！主題、亮點持續更新！">
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="1a06b954a3bee31b9bf2f992-|49"></script><img loading="lazy" src="https://imagedelivery.net/UYQOTZcPn8gGeaNtnHVGeg/3a7f2274-4478-4ec9-1148-5c5b24e9e600/w=640,h=360,fit=cover" alt="..." class="bd-placeholder-img card-img-top" onerror="imgerr(this)" />
+</a>
+<div class="card-body">
+<p class="card-text textOverflow">
+<a href="https://travel.yam.com/article/132923">「2024澎湖花火節」活動時間、地點搶先看！主題、亮點持續更新！</a>
+</p>
+<div class="d-flex justify-content-between align-items-center">
+<div class="btn-group">
+<a href="https://travel.yam.com" class="btn btn-sm btn-outline-success ga_trackEvent" ga_event="最新文章" ga_actions="最新文章_點擊" ga_labels="「2024澎湖花火節」活動時間、地點搶先看！主題、亮點持續更新！">輕旅行</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col">
+<div class="card shadow-sm">
+<a class="figureImgDiv ga_trackEvent" href="https://travel.yam.com/article/132921" ga_event="最新文章" ga_actions="最新文章_點擊" ga_labels="2023屏東聖誕節11/24開跑！6大主題活動、12組燈飾亮點、限定飄雪秀，打造南國最浪漫的粉紅聖誕節">
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="1a06b954a3bee31b9bf2f992-|49"></script><img loading="lazy" src="https://imagedelivery.net/UYQOTZcPn8gGeaNtnHVGeg/18cfb51d-0ca1-4329-53c6-651565ca3c00/w=640,h=360,fit=cover" alt="..." class="bd-placeholder-img card-img-top" onerror="imgerr(this)" />
+</a>
+<div class="card-body">
+<p class="card-text textOverflow">
+<a href="https://travel.yam.com/article/132921">2023屏東聖誕節11/24開跑！6大主題活動、12組燈飾亮點、限定飄雪秀，打造南國最浪漫的粉紅聖誕節</a>
+</p>
+<div class="d-flex justify-content-between align-items-center">
+<div class="btn-group">
+<a href="https://travel.yam.com" class="btn btn-sm btn-outline-success ga_trackEvent" ga_event="最新文章" ga_actions="最新文章_點擊" ga_labels="2023屏東聖誕節11/24開跑！6大主題活動、12組燈飾亮點、限定飄雪秀，打造南國最浪漫的粉紅聖誕節">輕旅行</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col">
+<div class="card shadow-sm">
+<a class="figureImgDiv ga_trackEvent" href="https://travel.yam.com/article/132903" ga_event="最新文章" ga_actions="最新文章_點擊" ga_labels="日本｜大阪環球影城攻略：嗨玩瑪利歐世界、打卡霍格華茲城堡，行前準備、園區介紹、交通指引、退稅攻略報給你">
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="1a06b954a3bee31b9bf2f992-|49"></script><img loading="lazy" src="https://imagedelivery.net/UYQOTZcPn8gGeaNtnHVGeg/8ef97a79-bc2d-430b-7bd0-3535f2e01f00/w=640,h=360,fit=cover" alt="..." class="bd-placeholder-img card-img-top" onerror="imgerr(this)" />
+</a>
+<div class="card-body">
+<p class="card-text textOverflow">
+<a href="https://travel.yam.com/article/132903">日本｜大阪環球影城攻略：嗨玩瑪利歐世界、打卡霍格華茲城堡，行前準備、園區介紹、交通指引、退稅攻略報給你</a>
+</p>
+<div class="d-flex justify-content-between align-items-center">
+<div class="btn-group">
+<a href="https://travel.yam.com" class="btn btn-sm btn-outline-success ga_trackEvent" ga_event="最新文章" ga_actions="最新文章_點擊" ga_labels="日本｜大阪環球影城攻略：嗨玩瑪利歐世界、打卡霍格華茲城堡，行前準備、園區介紹、交通指引、退稅攻略報給你">輕旅行</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col">
+<div class="card shadow-sm">
+<a class="figureImgDiv ga_trackEvent" href="https://dq.yam.com/post/15836" ga_event="最新文章" ga_actions="最新文章_點擊" ga_labels="日本偵測到超強宇宙射線「天照粒子」　繼「歐買尬粒子」後威力最強">
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="1a06b954a3bee31b9bf2f992-|49"></script><img loading="lazy" src="https://imagedelivery.net/UYQOTZcPn8gGeaNtnHVGeg/d7a1a79b-c2e7-4fc9-a3b2-5870d66f4300/w=640,h=360,fit=cover" alt="..." class="bd-placeholder-img card-img-top" onerror="imgerr(this)" />
+</a>
+<div class="card-body">
+<p class="card-text textOverflow">
+<a href="https://dq.yam.com/post/15836">日本偵測到超強宇宙射線「天照粒子」　繼「歐買尬粒子」後威力最強</a>
+</p>
+<div class="d-flex justify-content-between align-items-center">
+<div class="btn-group">
+<a href="https://dq.yam.com" class="btn btn-sm btn-outline-success ga_trackEvent" ga_event="最新文章" ga_actions="最新文章_點擊" ga_labels="日本偵測到超強宇宙射線「天照粒子」　繼「歐買尬粒子」後威力最強">DQ地球圖輯隊</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col">
+<div class="card shadow-sm">
+<a class="figureImgDiv ga_trackEvent" href="https://travel.yam.com/article/132906" ga_event="最新文章" ga_actions="最新文章_點擊" ga_labels=" 台灣三井不動產集團四設施聯手 打造迪士尼100周年主題造景">
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="1a06b954a3bee31b9bf2f992-|49"></script><img loading="lazy" src="https://imagedelivery.net/UYQOTZcPn8gGeaNtnHVGeg/f4719685-9bc1-4f64-5422-b7178e82b000/w=640,h=360,fit=cover" alt="..." class="bd-placeholder-img card-img-top" onerror="imgerr(this)" />
+</a>
+<div class="card-body">
+<p class="card-text textOverflow">
+<a href="https://travel.yam.com/article/132906"> 台灣三井不動產集團四設施聯手 打造迪士尼100周年主題造景</a>
+</p>
+<div class="d-flex justify-content-between align-items-center">
+<div class="btn-group">
+<a href="https://travel.yam.com" class="btn btn-sm btn-outline-success ga_trackEvent" ga_event="最新文章" ga_actions="最新文章_點擊" ga_labels=" 台灣三井不動產集團四設施聯手 打造迪士尼100周年主題造景">輕旅行</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col">
+<div class="card shadow-sm">
+<a class="figureImgDiv ga_trackEvent" href="https://travel.yam.com/article/132915" ga_event="最新文章" ga_actions="最新文章_點擊" ga_labels="屏東｜車城必吃美食Top 7：周末限定在地小吃、無菜單海鮮料理，整桌都是新鮮現流仔！">
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="1a06b954a3bee31b9bf2f992-|49"></script><img loading="lazy" src="https://imagedelivery.net/UYQOTZcPn8gGeaNtnHVGeg/aca4055b-8172-48f7-7a67-91333b177d00/w=640,h=360,fit=cover" alt="..." class="bd-placeholder-img card-img-top" onerror="imgerr(this)" />
+</a>
+<div class="card-body">
+<p class="card-text textOverflow">
+<a href="https://travel.yam.com/article/132915">屏東｜車城必吃美食Top 7：周末限定在地小吃、無菜單海鮮料理，整桌都是新鮮現流仔！</a>
+</p>
+<div class="d-flex justify-content-between align-items-center">
+<div class="btn-group">
+<a href="https://travel.yam.com" class="btn btn-sm btn-outline-success ga_trackEvent" ga_event="最新文章" ga_actions="最新文章_點擊" ga_labels="屏東｜車城必吃美食Top 7：周末限定在地小吃、無菜單海鮮料理，整桌都是新鮮現流仔！">輕旅行</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col">
+<div class="card shadow-sm">
+<a class="figureImgDiv ga_trackEvent" href="https://travel.yam.com/article/132902" ga_event="最新文章" ga_actions="最新文章_點擊" ga_labels="苗栗｜大湖：必吃美食Top 7，大份量平價客家美食和季節限定草莓料理，道地客家粄條這裡吃！">
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="1a06b954a3bee31b9bf2f992-|49"></script><img loading="lazy" src="https://imagedelivery.net/UYQOTZcPn8gGeaNtnHVGeg/e9e3e5b0-cdfa-4307-323f-4d30a5e50800/w=640,h=360,fit=cover" alt="..." class="bd-placeholder-img card-img-top" onerror="imgerr(this)" />
+</a>
+<div class="card-body">
+<p class="card-text textOverflow">
+<a href="https://travel.yam.com/article/132902">苗栗｜大湖：必吃美食Top 7，大份量平價客家美食和季節限定草莓料理，道地客家粄條這裡吃！</a>
+</p>
+<div class="d-flex justify-content-between align-items-center">
+<div class="btn-group">
+<a href="https://travel.yam.com" class="btn btn-sm btn-outline-success ga_trackEvent" ga_event="最新文章" ga_actions="最新文章_點擊" ga_labels="苗栗｜大湖：必吃美食Top 7，大份量平價客家美食和季節限定草莓料理，道地客家粄條這裡吃！">輕旅行</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col">
+<div class="card shadow-sm">
+<a class="figureImgDiv ga_trackEvent" href="https://travel.yam.com/article/132907" ga_event="最新文章" ga_actions="最新文章_點擊" ga_labels="LINE Pay 熊大店長「聖誕魔法村」閃亮登場！點亮南紡購物中心！">
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="1a06b954a3bee31b9bf2f992-|49"></script><img loading="lazy" src="https://imagedelivery.net/UYQOTZcPn8gGeaNtnHVGeg/6e1a215d-ee79-418c-5322-e0e2bc7b8800/w=640,h=360,fit=cover" alt="..." class="bd-placeholder-img card-img-top" onerror="imgerr(this)" />
+</a>
+<div class="card-body">
+<p class="card-text textOverflow">
+<a href="https://travel.yam.com/article/132907">LINE Pay 熊大店長「聖誕魔法村」閃亮登場！點亮南紡購物中心！</a>
+</p>
+<div class="d-flex justify-content-between align-items-center">
+<div class="btn-group">
+<a href="https://travel.yam.com" class="btn btn-sm btn-outline-success ga_trackEvent" ga_event="最新文章" ga_actions="最新文章_點擊" ga_labels="LINE Pay 熊大店長「聖誕魔法村」閃亮登場！點亮南紡購物中心！">輕旅行</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col">
+<div class="card shadow-sm">
+<a class="figureImgDiv ga_trackEvent" href="https://dq.yam.com/post/15835" ga_event="最新文章" ga_actions="最新文章_點擊" ga_labels="韓國慰安婦賠償案二審逆轉　高等法院：可以對日本政府索賠">
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="1a06b954a3bee31b9bf2f992-|49"></script><img loading="lazy" src="https://imagedelivery.net/UYQOTZcPn8gGeaNtnHVGeg/e378f31a-347d-44df-09f7-c45e1d8b9c00/w=640,h=360,fit=cover" alt="..." class="bd-placeholder-img card-img-top" onerror="imgerr(this)" />
+</a>
+<div class="card-body">
+<p class="card-text textOverflow">
+<a href="https://dq.yam.com/post/15835">韓國慰安婦賠償案二審逆轉　高等法院：可以對日本政府索賠</a>
+</p>
+<div class="d-flex justify-content-between align-items-center">
+<div class="btn-group">
+<a href="https://dq.yam.com" class="btn btn-sm btn-outline-success ga_trackEvent" ga_event="最新文章" ga_actions="最新文章_點擊" ga_labels="韓國慰安婦賠償案二審逆轉　高等法院：可以對日本政府索賠">DQ地球圖輯隊</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col">
+<div class="card shadow-sm">
+<a class="figureImgDiv ga_trackEvent" href="https://travel.yam.com/article/132914" ga_event="最新文章" ga_actions="最新文章_點擊" ga_labels="東京｜樂天小熊人形燒：全日本只有3間儂特利有賣放大版無尾熊頭，可愛指數衝破天際！">
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="1a06b954a3bee31b9bf2f992-|49"></script><img loading="lazy" src="https://imagedelivery.net/UYQOTZcPn8gGeaNtnHVGeg/420c1ff3-9b6a-407c-6a2a-93f967562900/w=640,h=360,fit=cover" alt="..." class="bd-placeholder-img card-img-top" onerror="imgerr(this)" />
+</a>
+<div class="card-body">
+<p class="card-text textOverflow">
+<a href="https://travel.yam.com/article/132914">東京｜樂天小熊人形燒：全日本只有3間儂特利有賣放大版無尾熊頭，可愛指數衝破天際！</a>
+</p>
+<div class="d-flex justify-content-between align-items-center">
+<div class="btn-group">
+<a href="https://travel.yam.com" class="btn btn-sm btn-outline-success ga_trackEvent" ga_event="最新文章" ga_actions="最新文章_點擊" ga_labels="東京｜樂天小熊人形燒：全日本只有3間儂特利有賣放大版無尾熊頭，可愛指數衝破天際！">輕旅行</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col">
+<div class="card shadow-sm">
+<a class="figureImgDiv ga_trackEvent" href="https://travel.yam.com/article/132898" ga_event="最新文章" ga_actions="最新文章_點擊" ga_labels="新北｜彼得好咖啡：自家烘焙得獎咖啡豆，搭配美味輕食，來場早午餐、下午茶都很可以！">
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="1a06b954a3bee31b9bf2f992-|49"></script><img loading="lazy" src="https://imagedelivery.net/UYQOTZcPn8gGeaNtnHVGeg/ac00af5d-db48-4c89-56ac-bfdb4296fb00/w=640,h=360,fit=cover" alt="..." class="bd-placeholder-img card-img-top" onerror="imgerr(this)" />
+</a>
+<div class="card-body">
+<p class="card-text textOverflow">
+<a href="https://travel.yam.com/article/132898">新北｜彼得好咖啡：自家烘焙得獎咖啡豆，搭配美味輕食，來場早午餐、下午茶都很可以！</a>
+</p>
+<div class="d-flex justify-content-between align-items-center">
+<div class="btn-group">
+<a href="https://travel.yam.com" class="btn btn-sm btn-outline-success ga_trackEvent" ga_event="最新文章" ga_actions="最新文章_點擊" ga_labels="新北｜彼得好咖啡：自家烘焙得獎咖啡豆，搭配美味輕食，來場早午餐、下午茶都很可以！">輕旅行</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col">
+<div class="card shadow-sm">
+<a class="figureImgDiv ga_trackEvent" href="https://travel.yam.com/article/132896" ga_event="最新文章" ga_actions="最新文章_點擊" ga_labels="桃園｜藏心食堂：天氣冷就是要吃拉麵！主打雞白湯底，雞腿肉、蛤蜊鋪滿滿超飽足">
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="1a06b954a3bee31b9bf2f992-|49"></script><img loading="lazy" src="https://imagedelivery.net/UYQOTZcPn8gGeaNtnHVGeg/8f2fc12e-c6f7-4b36-3fc4-cb7922299500/w=640,h=360,fit=cover" alt="..." class="bd-placeholder-img card-img-top" onerror="imgerr(this)" />
+</a>
+<div class="card-body">
+<p class="card-text textOverflow">
+<a href="https://travel.yam.com/article/132896">桃園｜藏心食堂：天氣冷就是要吃拉麵！主打雞白湯底，雞腿肉、蛤蜊鋪滿滿超飽足</a>
+</p>
+<div class="d-flex justify-content-between align-items-center">
+<div class="btn-group">
+<a href="https://travel.yam.com" class="btn btn-sm btn-outline-success ga_trackEvent" ga_event="最新文章" ga_actions="最新文章_點擊" ga_labels="桃園｜藏心食堂：天氣冷就是要吃拉麵！主打雞白湯底，雞腿肉、蛤蜊鋪滿滿超飽足">輕旅行</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col">
+<div class="card shadow-sm">
+<a class="figureImgDiv ga_trackEvent" href="https://travel.yam.com/article/132912" ga_event="最新文章" ga_actions="最新文章_點擊" ga_labels="京都｜東大寺：世界最大的青銅佛像～奈良大佛，感受建築、雕刻藝術帶來的震撼與感動！">
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="1a06b954a3bee31b9bf2f992-|49"></script><img loading="lazy" src="https://imagedelivery.net/UYQOTZcPn8gGeaNtnHVGeg/1ad31b29-2b5a-4b41-f839-cc3bd8a4a200/w=640,h=360,fit=cover" alt="..." class="bd-placeholder-img card-img-top" onerror="imgerr(this)" />
+</a>
+<div class="card-body">
+<p class="card-text textOverflow">
+<a href="https://travel.yam.com/article/132912">京都｜東大寺：世界最大的青銅佛像～奈良大佛，感受建築、雕刻藝術帶來的震撼與感動！</a>
+</p>
+<div class="d-flex justify-content-between align-items-center">
+<div class="btn-group">
+<a href="https://travel.yam.com" class="btn btn-sm btn-outline-success ga_trackEvent" ga_event="最新文章" ga_actions="最新文章_點擊" ga_labels="京都｜東大寺：世界最大的青銅佛像～奈良大佛，感受建築、雕刻藝術帶來的震撼與感動！">輕旅行</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col">
+<div class="card shadow-sm">
+<a class="figureImgDiv ga_trackEvent" href="https://travel.yam.com/article/132911" ga_event="最新文章" ga_actions="最新文章_點擊" ga_labels="宜蘭｜蘇澳港廟口廖榮川米糕：在地飄香的人氣古早味，廟口米糕每一口都是爽朗好滋味！">
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="1a06b954a3bee31b9bf2f992-|49"></script><img loading="lazy" src="https://imagedelivery.net/UYQOTZcPn8gGeaNtnHVGeg/443dc8c1-46e1-43d8-a098-62c6941e7c00/w=640,h=360,fit=cover" alt="..." class="bd-placeholder-img card-img-top" onerror="imgerr(this)" />
+</a>
+<div class="card-body">
+<p class="card-text textOverflow">
+<a href="https://travel.yam.com/article/132911">宜蘭｜蘇澳港廟口廖榮川米糕：在地飄香的人氣古早味，廟口米糕每一口都是爽朗好滋味！</a>
+</p>
+<div class="d-flex justify-content-between align-items-center">
+<div class="btn-group">
+<a href="https://travel.yam.com" class="btn btn-sm btn-outline-success ga_trackEvent" ga_event="最新文章" ga_actions="最新文章_點擊" ga_labels="宜蘭｜蘇澳港廟口廖榮川米糕：在地飄香的人氣古早味，廟口米糕每一口都是爽朗好滋味！">輕旅行</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col">
+<div class="card shadow-sm">
+<a class="figureImgDiv ga_trackEvent" href="https://travel.yam.com/article/132895" ga_event="最新文章" ga_actions="最新文章_點擊" ga_labels="宜蘭｜卡斯比亞精品民宿：窗景如畫又清幽！大坪數房間+豐盛早餐超滿足">
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="1a06b954a3bee31b9bf2f992-|49"></script><img loading="lazy" src="https://imagedelivery.net/UYQOTZcPn8gGeaNtnHVGeg/37b343f0-b24b-411b-4a93-2e7936f0ac00/w=640,h=360,fit=cover" alt="..." class="bd-placeholder-img card-img-top" onerror="imgerr(this)" />
+</a>
+<div class="card-body">
+<p class="card-text textOverflow">
+<a href="https://travel.yam.com/article/132895">宜蘭｜卡斯比亞精品民宿：窗景如畫又清幽！大坪數房間+豐盛早餐超滿足</a>
+</p>
+<div class="d-flex justify-content-between align-items-center">
+<div class="btn-group">
+<a href="https://travel.yam.com" class="btn btn-sm btn-outline-success ga_trackEvent" ga_event="最新文章" ga_actions="最新文章_點擊" ga_labels="宜蘭｜卡斯比亞精品民宿：窗景如畫又清幽！大坪數房間+豐盛早餐超滿足">輕旅行</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col">
+<div class="card shadow-sm">
+<a class="figureImgDiv ga_trackEvent" href="https://travel.yam.com/article/132910" ga_event="最新文章" ga_actions="最新文章_點擊" ga_labels="京都｜夫婦大國社：奈良神社水占卜太神奇～結上幸福良緣牽繫彼此緣份， 祈願找到另一半">
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="1a06b954a3bee31b9bf2f992-|49"></script><img loading="lazy" src="https://imagedelivery.net/UYQOTZcPn8gGeaNtnHVGeg/767d1674-3e0d-4cc8-891c-b773e5984f00/w=640,h=360,fit=cover" alt="..." class="bd-placeholder-img card-img-top" onerror="imgerr(this)" />
+</a>
+<div class="card-body">
+<p class="card-text textOverflow">
+<a href="https://travel.yam.com/article/132910">京都｜夫婦大國社：奈良神社水占卜太神奇～結上幸福良緣牽繫彼此緣份， 祈願找到另一半</a>
+</p>
+<div class="d-flex justify-content-between align-items-center">
+<div class="btn-group">
+<a href="https://travel.yam.com" class="btn btn-sm btn-outline-success ga_trackEvent" ga_event="最新文章" ga_actions="最新文章_點擊" ga_labels="京都｜夫婦大國社：奈良神社水占卜太神奇～結上幸福良緣牽繫彼此緣份， 祈願找到另一半">輕旅行</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col">
+<div class="card shadow-sm">
+<a class="figureImgDiv ga_trackEvent" href="https://dq.yam.com/post/15833" ga_event="最新文章" ga_actions="最新文章_點擊" ga_labels="「真真假假，假假真真的AI時代」劍橋詞典2023年度代表字：Hallucinate">
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="1a06b954a3bee31b9bf2f992-|49"></script><img loading="lazy" src="https://imagedelivery.net/UYQOTZcPn8gGeaNtnHVGeg/8c835c53-3961-4007-8f60-c326d5631c00/w=640,h=360,fit=cover" alt="..." class="bd-placeholder-img card-img-top" onerror="imgerr(this)" />
+</a>
+<div class="card-body">
+<p class="card-text textOverflow">
+<a href="https://dq.yam.com/post/15833">「真真假假，假假真真的AI時代」劍橋詞典2023年度代表字：Hallucinate</a>
+</p>
+<div class="d-flex justify-content-between align-items-center">
+<div class="btn-group">
+<a href="https://dq.yam.com" class="btn btn-sm btn-outline-success ga_trackEvent" ga_event="最新文章" ga_actions="最新文章_點擊" ga_labels="「真真假假，假假真真的AI時代」劍橋詞典2023年度代表字：Hallucinate">DQ地球圖輯隊</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col">
+<div class="card shadow-sm">
+<a class="figureImgDiv ga_trackEvent" href="https://dq.yam.com/post/15832" ga_event="最新文章" ga_actions="最新文章_點擊" ga_labels="「ChatGPT還在新手村」通用人工智慧AGI的養成之路">
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="1a06b954a3bee31b9bf2f992-|49"></script><img loading="lazy" src="https://imagedelivery.net/UYQOTZcPn8gGeaNtnHVGeg/72b4e5dc-0cb3-4cbf-cd4e-d07350dc2f00/w=640,h=360,fit=cover" alt="..." class="bd-placeholder-img card-img-top" onerror="imgerr(this)" />
+</a>
+<div class="card-body">
+<p class="card-text textOverflow">
+<a href="https://dq.yam.com/post/15832">「ChatGPT還在新手村」通用人工智慧AGI的養成之路</a>
+</p>
+<div class="d-flex justify-content-between align-items-center">
+<div class="btn-group">
+<a href="https://dq.yam.com" class="btn btn-sm btn-outline-success ga_trackEvent" ga_event="最新文章" ga_actions="最新文章_點擊" ga_labels="「ChatGPT還在新手村」通用人工智慧AGI的養成之路">DQ地球圖輯隊</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col">
+<div class="card shadow-sm">
+<a class="figureImgDiv ga_trackEvent" href="https://travel.yam.com/article/132909" ga_event="最新文章" ga_actions="最新文章_點擊" ga_labels="宜蘭｜仙草仙境傳說炸蚵嗲炸蝦餅：蘇澳街邊美食絕不能錯過～黃金大蝦餅、蝦嗲、花枝丸">
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="1a06b954a3bee31b9bf2f992-|49"></script><img loading="lazy" src="https://imagedelivery.net/UYQOTZcPn8gGeaNtnHVGeg/9c5d7c60-b6a4-4215-cbc8-fd89dafedc00/w=640,h=360,fit=cover" alt="..." class="bd-placeholder-img card-img-top" onerror="imgerr(this)" />
+</a>
+<div class="card-body">
+<p class="card-text textOverflow">
+<a href="https://travel.yam.com/article/132909">宜蘭｜仙草仙境傳說炸蚵嗲炸蝦餅：蘇澳街邊美食絕不能錯過～黃金大蝦餅、蝦嗲、花枝丸</a>
+</p>
+<div class="d-flex justify-content-between align-items-center">
+<div class="btn-group">
+<a href="https://travel.yam.com" class="btn btn-sm btn-outline-success ga_trackEvent" ga_event="最新文章" ga_actions="最新文章_點擊" ga_labels="宜蘭｜仙草仙境傳說炸蚵嗲炸蝦餅：蘇澳街邊美食絕不能錯過～黃金大蝦餅、蝦嗲、花枝丸">輕旅行</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col">
+<div class="card shadow-sm">
+<a class="figureImgDiv ga_trackEvent" href="https://dq.yam.com/post/15831" ga_event="最新文章" ga_actions="最新文章_點擊" ga_labels="「濾鏡之前，人人平等？」沒開濾鏡就寸步難行，美顏文化該由誰決定">
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="1a06b954a3bee31b9bf2f992-|49"></script><img loading="lazy" src="https://imagedelivery.net/UYQOTZcPn8gGeaNtnHVGeg/eae5516d-e547-4392-9c66-1ef6b54c5c00/w=640,h=360,fit=cover" alt="..." class="bd-placeholder-img card-img-top" onerror="imgerr(this)" />
+</a>
+<div class="card-body">
+<p class="card-text textOverflow">
+<a href="https://dq.yam.com/post/15831">「濾鏡之前，人人平等？」沒開濾鏡就寸步難行，美顏文化該由誰決定</a>
+</p>
+<div class="d-flex justify-content-between align-items-center">
+<div class="btn-group">
+<a href="https://dq.yam.com" class="btn btn-sm btn-outline-success ga_trackEvent" ga_event="最新文章" ga_actions="最新文章_點擊" ga_labels="「濾鏡之前，人人平等？」沒開濾鏡就寸步難行，美顏文化該由誰決定">DQ地球圖輯隊</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col">
+<div class="card shadow-sm">
+<a class="figureImgDiv ga_trackEvent" href="https://travel.yam.com/article/132904" ga_event="最新文章" ga_actions="最新文章_點擊" ga_labels="宜蘭｜礁溪14間必吃美食：早餐到宵夜！老字號小籠包海鮮、海鮮無菜單料理，千萬不能錯過">
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="1a06b954a3bee31b9bf2f992-|49"></script><img loading="lazy" src="https://imagedelivery.net/UYQOTZcPn8gGeaNtnHVGeg/77612d88-19a1-48f0-a84e-0c5dc1c57f00/w=640,h=360,fit=cover" alt="..." class="bd-placeholder-img card-img-top" onerror="imgerr(this)" />
+</a>
+<div class="card-body">
+<p class="card-text textOverflow">
+<a href="https://travel.yam.com/article/132904">宜蘭｜礁溪14間必吃美食：早餐到宵夜！老字號小籠包海鮮、海鮮無菜單料理，千萬不能錯過</a>
+</p>
+<div class="d-flex justify-content-between align-items-center">
+<div class="btn-group">
+<a href="https://travel.yam.com" class="btn btn-sm btn-outline-success ga_trackEvent" ga_event="最新文章" ga_actions="最新文章_點擊" ga_labels="宜蘭｜礁溪14間必吃美食：早餐到宵夜！老字號小籠包海鮮、海鮮無菜單料理，千萬不能錯過">輕旅行</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col">
+<div class="card shadow-sm">
+<a class="figureImgDiv ga_trackEvent" href="https://travel.yam.com/article/132908" ga_event="最新文章" ga_actions="最新文章_點擊" ga_labels="宜蘭｜中興文化創意園區：五結鄉老廠房重生～打造別具特色藝術展區、廢墟風格美拍景點">
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="1a06b954a3bee31b9bf2f992-|49"></script><img loading="lazy" src="https://imagedelivery.net/UYQOTZcPn8gGeaNtnHVGeg/74038c84-b813-43f6-0df3-a27922351800/w=640,h=360,fit=cover" alt="..." class="bd-placeholder-img card-img-top" onerror="imgerr(this)" />
+</a>
+<div class="card-body">
+<p class="card-text textOverflow">
+<a href="https://travel.yam.com/article/132908">宜蘭｜中興文化創意園區：五結鄉老廠房重生～打造別具特色藝術展區、廢墟風格美拍景點</a>
+</p>
+<div class="d-flex justify-content-between align-items-center">
+<div class="btn-group">
+<a href="https://travel.yam.com" class="btn btn-sm btn-outline-success ga_trackEvent" ga_event="最新文章" ga_actions="最新文章_點擊" ga_labels="宜蘭｜中興文化創意園區：五結鄉老廠房重生～打造別具特色藝術展區、廢墟風格美拍景點">輕旅行</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col">
+<div class="card shadow-sm">
+<a class="figureImgDiv ga_trackEvent" href="https://travel.yam.com/article/132913" ga_event="最新文章" ga_actions="最新文章_點擊" ga_labels="全台｜冬季餐桌的常客，全台「砂鍋料理推薦」，祛寒暖身又美味">
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="1a06b954a3bee31b9bf2f992-|49"></script><img loading="lazy" src="https://imagedelivery.net/UYQOTZcPn8gGeaNtnHVGeg/99c1afbd-6dcf-432f-d000-2e3252896900/w=640,h=360,fit=cover" alt="..." class="bd-placeholder-img card-img-top" onerror="imgerr(this)" />
+</a>
+<div class="card-body">
+<p class="card-text textOverflow">
+<a href="https://travel.yam.com/article/132913">全台｜冬季餐桌的常客，全台「砂鍋料理推薦」，祛寒暖身又美味</a>
+</p>
+<div class="d-flex justify-content-between align-items-center">
+<div class="btn-group">
+<a href="https://travel.yam.com" class="btn btn-sm btn-outline-success ga_trackEvent" ga_event="最新文章" ga_actions="最新文章_點擊" ga_labels="全台｜冬季餐桌的常客，全台「砂鍋料理推薦」，祛寒暖身又美味">輕旅行</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col">
+<div class="card shadow-sm">
+<a class="figureImgDiv ga_trackEvent" href="https://dq.yam.com/post/15830" ga_event="最新文章" ga_actions="最新文章_點擊" ga_labels="開打以來首度停火！以色列同意人道休戰，哈瑪斯將釋放50名人質">
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="1a06b954a3bee31b9bf2f992-|49"></script><img loading="lazy" src="https://imagedelivery.net/UYQOTZcPn8gGeaNtnHVGeg/4f3b61d9-d016-45c4-0a72-4c81f52fa800/w=640,h=360,fit=cover" alt="..." class="bd-placeholder-img card-img-top" onerror="imgerr(this)" />
+</a>
+<div class="card-body">
+<p class="card-text textOverflow">
+<a href="https://dq.yam.com/post/15830">開打以來首度停火！以色列同意人道休戰，哈瑪斯將釋放50名人質</a>
+</p>
+<div class="d-flex justify-content-between align-items-center">
+<div class="btn-group">
+<a href="https://dq.yam.com" class="btn btn-sm btn-outline-success ga_trackEvent" ga_event="最新文章" ga_actions="最新文章_點擊" ga_labels="開打以來首度停火！以色列同意人道休戰，哈瑪斯將釋放50名人質">DQ地球圖輯隊</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col">
+<div class="card shadow-sm">
+<a class="figureImgDiv ga_trackEvent" href="https://travel.yam.com/article/132901" ga_event="最新文章" ga_actions="最新文章_點擊" ga_labels="宜蘭｜礁溪17個必玩景點：從人氣農場、觀光工廠到森林步道，室內到戶外景點一次收藏；還有精選湯屋推薦">
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="1a06b954a3bee31b9bf2f992-|49"></script><img loading="lazy" src="https://imagedelivery.net/UYQOTZcPn8gGeaNtnHVGeg/46bf2e42-0b12-47b9-f481-211e90b53800/w=640,h=360,fit=cover" alt="..." class="bd-placeholder-img card-img-top" onerror="imgerr(this)" />
+</a>
+<div class="card-body">
+<p class="card-text textOverflow">
+<a href="https://travel.yam.com/article/132901">宜蘭｜礁溪17個必玩景點：從人氣農場、觀光工廠到森林步道，室內到戶外景點一次收藏；還有精選湯屋推薦</a>
+</p>
+<div class="d-flex justify-content-between align-items-center">
+<div class="btn-group">
+<a href="https://travel.yam.com" class="btn btn-sm btn-outline-success ga_trackEvent" ga_event="最新文章" ga_actions="最新文章_點擊" ga_labels="宜蘭｜礁溪17個必玩景點：從人氣農場、觀光工廠到森林步道，室內到戶外景點一次收藏；還有精選湯屋推薦">輕旅行</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col">
+<div class="card shadow-sm">
+<a class="figureImgDiv ga_trackEvent" href="https://travel.yam.com/article/132900" ga_event="最新文章" ga_actions="最新文章_點擊" ga_labels="桃園｜八度野溪露營區：復興區超夯露營聖地，清幽營區溪水潺潺，懶人露營必收藏！">
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="1a06b954a3bee31b9bf2f992-|49"></script><img loading="lazy" src="https://imagedelivery.net/UYQOTZcPn8gGeaNtnHVGeg/85b861a8-0e69-4fe9-f112-d909a7a4a600/w=640,h=360,fit=cover" alt="..." class="bd-placeholder-img card-img-top" onerror="imgerr(this)" />
+</a>
+<div class="card-body">
+<p class="card-text textOverflow">
+<a href="https://travel.yam.com/article/132900">桃園｜八度野溪露營區：復興區超夯露營聖地，清幽營區溪水潺潺，懶人露營必收藏！</a>
+</p>
+<div class="d-flex justify-content-between align-items-center">
+<div class="btn-group">
+<a href="https://travel.yam.com" class="btn btn-sm btn-outline-success ga_trackEvent" ga_event="最新文章" ga_actions="最新文章_點擊" ga_labels="桃園｜八度野溪露營區：復興區超夯露營聖地，清幽營區溪水潺潺，懶人露營必收藏！">輕旅行</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col">
+<div class="card shadow-sm">
+<a class="figureImgDiv ga_trackEvent" href="https://dq.yam.com/post/15826" ga_event="最新文章" ga_actions="最新文章_點擊" ga_labels="讓市民從地獄走向天堂　巴黎新版「行人計畫」強化步行空間">
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="1a06b954a3bee31b9bf2f992-|49"></script><img loading="lazy" src="https://imagedelivery.net/UYQOTZcPn8gGeaNtnHVGeg/3407cf5e-83e0-42d5-33d8-a52007923900/w=640,h=360,fit=cover" alt="..." class="bd-placeholder-img card-img-top" onerror="imgerr(this)" />
+</a>
+<div class="card-body">
+<p class="card-text textOverflow">
+<a href="https://dq.yam.com/post/15826">讓市民從地獄走向天堂　巴黎新版「行人計畫」強化步行空間</a>
+</p>
+<div class="d-flex justify-content-between align-items-center">
+<div class="btn-group">
+<a href="https://dq.yam.com" class="btn btn-sm btn-outline-success ga_trackEvent" ga_event="最新文章" ga_actions="最新文章_點擊" ga_labels="讓市民從地獄走向天堂　巴黎新版「行人計畫」強化步行空間">DQ地球圖輯隊</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col">
+<div class="card shadow-sm">
+<a class="figureImgDiv ga_trackEvent" href="https://dq.yam.com/post/15825" ga_event="最新文章" ga_actions="最新文章_點擊" ga_labels="「只是想要能維生的最低薪」全球服飾產業鏈源頭，孟加拉成衣工人的薪資悲歌">
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="1a06b954a3bee31b9bf2f992-|49"></script><img loading="lazy" src="https://imagedelivery.net/UYQOTZcPn8gGeaNtnHVGeg/7cff6c4d-4271-4e8c-1a9d-768aa6f08d00/w=640,h=360,fit=cover" alt="..." class="bd-placeholder-img card-img-top" onerror="imgerr(this)" />
+</a>
+<div class="card-body">
+<p class="card-text textOverflow">
+<a href="https://dq.yam.com/post/15825">「只是想要能維生的最低薪」全球服飾產業鏈源頭，孟加拉成衣工人的薪資悲歌</a>
+</p>
+<div class="d-flex justify-content-between align-items-center">
+<div class="btn-group">
+<a href="https://dq.yam.com" class="btn btn-sm btn-outline-success ga_trackEvent" ga_event="最新文章" ga_actions="最新文章_點擊" ga_labels="「只是想要能維生的最低薪」全球服飾產業鏈源頭，孟加拉成衣工人的薪資悲歌">DQ地球圖輯隊</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer class="footer ">
+<div class="footerMenuArea dFlex container">
+<div class="footerLogo">
+<img src="./assets/images/footerLogo.png" alt>
+</div>
+<nav>
+<ul class="footerNav dFlex">
+<li><a href="https://travel.yam.com/" class="ga_trackEvent" ga_event="Footer" ga_actions="Footer_點擊" ga_labels="輕旅行">輕旅行</a></li>
+<li><a href="https://membercenter.yam.com/" class="ga_trackEvent" ga_event="Footer" ga_actions="Footer_點擊" ga_labels="會員中心">會員中心</a></li>
+<li><a href="https://policies.yam.com/duty" class="ga_trackEvent" ga_event="Footer" ga_actions="Footer_點擊" ga_labels="服務條款">服務條款</a></li>
+<li><a href="https://policies.yam.com/privacy" class="ga_trackEvent" ga_event="Footer" ga_actions="Footer_點擊" ga_labels="隱私權政策">隱私權政策</a></li>
+<li><a href="https://help.yam.com/" class="ga_trackEvent" ga_event="Footer" ga_actions="Footer_點擊" ga_labels="服務中心">服務中心</a></li>
+<li><a href="https://help.yam.com/m/" class="ga_trackEvent" ga_event="Footer" ga_actions="Footer_點擊" ga_labels="聯絡我們">聯絡我們</a></li>
+<li><a href="https://value.yam.com/" class="ga_trackEvent" ga_event="Footer" ga_actions="Footer_點擊" ga_labels="廣告刊登">廣告刊登</a></li>
+</ul>
+</nav>
+</div>
+<p class="copyRight">
+天空傳媒(股)公司版權所有。
+<br>
+本網站已依台灣網站內容分級規定處理
+</p>
+</footer>
+<script src="https://code.jquery.com/jquery-3.6.2.min.js" integrity="sha256-2krYZKh//PcchRtd+H+VyyQoZ/e3EcrkxhM8ycwASPA=" crossorigin="anonymous" type="1a06b954a3bee31b9bf2f992-text/javascript"></script>
+<script src="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.js" type="1a06b954a3bee31b9bf2f992-text/javascript"></script>
+<script src="/bundles/home?v=nel-8Mhy8NgJF4NBZG6E1SjmjokhZOC-vOCLRv12JHE1" type="1a06b954a3bee31b9bf2f992-text/javascript"></script>
+<script type="1a06b954a3bee31b9bf2f992-text/javascript">
+        (function (c, l, a, r, i, t, y) {
+            c[a] = c[a] || function () { (c[a].q = c[a].q || []).push(arguments) };
+            t = l.createElement(r); t.async = 1; t.src = "https://www.clarity.ms/tag/" + i;
+            y = l.getElementsByTagName(r)[0]; y.parentNode.insertBefore(t, y);
+        })(window, document, "clarity", "script", "f9hn5ppphe");
+    </script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-93G1K4V3R1" type="1a06b954a3bee31b9bf2f992-text/javascript"></script>
+<script type="1a06b954a3bee31b9bf2f992-text/javascript">
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'G-93G1K4V3R1');
+        gtag('config', 'G-36CLXC6BX0');
+        //gtag('config', 'UA-16227618-1');
+        function gaevent(en, cn, ln) {
+            gtag('event', 'yam_com_click', {
+                'event_category': en,
+                'event_label': ln
+            });
+        }
+    </script>
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="1a06b954a3bee31b9bf2f992-|49" defer></script></body>
+</html>

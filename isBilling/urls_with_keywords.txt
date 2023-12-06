@@ -1,0 +1,1 @@
+{'url': 'https://www.wonder-shop.co.il/', 'date': None, 'Notifier': None, 'OS': None, 'person': 'eyal ben simon', 'phone': '+972 52 4222058', 'email': 'eyalooo@hotmail.com', 'ip_of_server': '81.218.83.70'}

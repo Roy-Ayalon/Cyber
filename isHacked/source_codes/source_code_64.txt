@@ -1,0 +1,426 @@
+<!doctype html>
+<html lang="en-US" prefix="og: https://ogp.me/ns#">
+<head>
+	<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	
+<!-- Search Engine Optimization by Rank Math PRO - https://s.rankmath.com/home -->
+<title>Page Not Found - VidoFlex</title>
+<meta name="robots" content="follow, noindex"/>
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Page Not Found - VidoFlex" />
+<meta property="og:site_name" content="VidoFlex" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Page Not Found - VidoFlex" />
+<script type="application/ld+json" class="rank-math-schema-pro">{"@context":"https://schema.org","@graph":[{"@type":"Person","@id":"https://vidoflex.com/#person","name":"VidoFlex"},{"@type":"WebSite","@id":"https://vidoflex.com/#website","url":"https://vidoflex.com","name":"VidoFlex","publisher":{"@id":"https://vidoflex.com/#person"},"inLanguage":"en-US"},{"@type":"BreadcrumbList","@id":"#breadcrumb","itemListElement":[{"@type":"ListItem","position":"1","item":{"@id":"https://vidoflex.com","name":"Home"}}]},{"@type":"WebPage","@id":"#webpage","url":"","name":"Page Not Found - VidoFlex","isPartOf":{"@id":"https://vidoflex.com/#website"},"inLanguage":"en-US","breadcrumb":{"@id":"#breadcrumb"}}]}</script>
+<!-- /Rank Math WordPress SEO plugin -->
+
+<link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
+<link rel="alternate" type="application/rss+xml" title="VidoFlex &raquo; Feed" href="https://vidoflex.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="VidoFlex &raquo; Comments Feed" href="https://vidoflex.com/comments/feed/" />
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css' href='http://vidoflex.com/wp-includes/css/dist/block-library/style.min.css?ver=6.3.2' type='text/css' media='all' />
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='hello-elementor-theme-style-css' href='http://vidoflex.com/wp-content/themes/hello-elementor/theme.min.css?ver=2.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='hello-elementor-child-style-css' href='http://vidoflex.com/wp-content/themes/hello-theme-child-master/style.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='hello-elementor-css' href='http://vidoflex.com/wp-content/themes/hello-elementor/style.min.css?ver=2.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-css' href='http://vidoflex.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.15.0' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css' href='http://vidoflex.com/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.6.3' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-13-css' href='http://vidoflex.com/wp-content/uploads/elementor/css/post-13.css?ver=1649859602' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-pro-css' href='http://vidoflex.com/wp-content/plugins/elementor-pro/assets/css/frontend.min.css?ver=3.1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-21-css' href='http://vidoflex.com/wp-content/uploads/elementor/css/post-21.css?ver=1649859603' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-24-css' href='http://vidoflex.com/wp-content/uploads/elementor/css/post-24.css?ver=1649859603' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-939-css' href='http://vidoflex.com/wp-content/uploads/elementor/css/post-939.css?ver=1649859603' type='text/css' media='all' />
+<style id='rocket-lazyload-inline-css' type='text/css'>
+.rll-youtube-player{position:relative;padding-bottom:56.23%;height:0;overflow:hidden;max-width:100%;}.rll-youtube-player iframe{position:absolute;top:0;left:0;width:100%;height:100%;z-index:100;background:0 0}.rll-youtube-player img{bottom:0;display:block;left:0;margin:auto;max-width:100%;width:100%;position:absolute;right:0;top:0;border:none;height:auto;cursor:pointer;-webkit-transition:.4s all;-moz-transition:.4s all;transition:.4s all}.rll-youtube-player img:hover{-webkit-filter:brightness(75%)}.rll-youtube-player .play{height:72px;width:72px;left:50%;top:50%;margin-left:-36px;margin-top:-36px;position:absolute;background:url(http://vidoflex.com/wp-content/plugins/wp-rocket/assets/img/youtube.png) no-repeat;cursor:pointer}
+</style>
+<link rel='stylesheet' id='google-fonts-1-css' href='https://fonts.googleapis.com/css?family=Poppins%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CMontserrat%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=auto&#038;ver=6.3.2' type='text/css' media='all' />
+<link rel="https://api.w.org/" href="https://vidoflex.com/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://vidoflex.com/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.3.2" />
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-P4SRH5Q');</script>
+<!-- End Google Tag Manager -->
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P4SRH5Q"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(86468723, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/86468723" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+<link rel="icon" href="https://vidoflex.com/wp-content/uploads/2021/11/vidofavi.png" sizes="32x32" />
+<link rel="icon" href="https://vidoflex.com/wp-content/uploads/2021/11/vidofavi.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://vidoflex.com/wp-content/uploads/2021/11/vidofavi.png" />
+<meta name="msapplication-TileImage" content="https://vidoflex.com/wp-content/uploads/2021/11/vidofavi.png" />
+<noscript><style id="rocket-lazyload-nojs-css">.rll-youtube-player, [data-lazy-src]{display:none !important;}</style></noscript></head>
+<body class="error404 elementor-default elementor-kit-13">
+
+		<div data-elementor-type="header" data-elementor-id="21" class="elementor elementor-21 elementor-location-header">
+		<div class="elementor-section-wrap">
+					<header class="elementor-section elementor-top-section elementor-element elementor-element-58ed2b48 elementor-section-full_width elementor-section-content-middle elementor-section-height-default elementor-section-height-default" data-id="58ed2b48" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-5c32816b" data-id="5c32816b" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<section class="elementor-section elementor-inner-section elementor-element elementor-element-60e4a36 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="60e4a36" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-51ec20e0" data-id="51ec20e0" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-602bddf elementor-widget elementor-widget-image" data-id="602bddf" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+																<a href="https://vidoflex.com">
+							<img width="588" height="222" src="https://vidoflex.com/wp-content/uploads/2021/06/logobluetransedit22.png" class="attachment-large size-large" alt="" srcset="https://vidoflex.com/wp-content/uploads/2021/06/logobluetransedit22.png 588w, https://vidoflex.com/wp-content/uploads/2021/06/logobluetransedit22-300x113.png 300w" sizes="(max-width: 588px) 100vw, 588px" />								</a>
+															</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-172b78d5" data-id="172b78d5" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-443c8f05 elementor-nav-menu__align-left elementor-nav-menu--indicator-none elementor-nav-menu--stretch elementor-nav-menu--dropdown-tablet elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu" data-id="443c8f05" data-element_type="widget" data-settings="{&quot;full_width&quot;:&quot;stretch&quot;,&quot;layout&quot;:&quot;horizontal&quot;,&quot;toggle&quot;:&quot;burger&quot;}" data-widget_type="nav-menu.default">
+				<div class="elementor-widget-container">
+						<nav role="navigation" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-overline e--animation-fade"><ul id="menu-1-443c8f05" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-378"><a href="https://vidoflex.com/" class="elementor-item">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-52"><a href="https://vidoflex.com/about-us/" class="elementor-item">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-358"><a href="https://vidoflex.com/manufacturing/" class="elementor-item">Manufacturing</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-357"><a href="https://vidoflex.com/quality/" class="elementor-item">Quality</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-371"><a href="https://vidoflex.com/downloads/" class="elementor-item">Downloads</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-364"><a href="https://vidoflex.com/contact-us/" class="elementor-item">Contact us</a></li>
+</ul></nav>
+					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
+			<i class="eicon-menu-bar" aria-hidden="true"></i>
+			<span class="elementor-screen-only">Menu</span>
+		</div>
+			<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" role="navigation" aria-hidden="true"><ul id="menu-2-443c8f05" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-378"><a href="https://vidoflex.com/" class="elementor-item">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-52"><a href="https://vidoflex.com/about-us/" class="elementor-item">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-358"><a href="https://vidoflex.com/manufacturing/" class="elementor-item">Manufacturing</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-357"><a href="https://vidoflex.com/quality/" class="elementor-item">Quality</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-371"><a href="https://vidoflex.com/downloads/" class="elementor-item">Downloads</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-364"><a href="https://vidoflex.com/contact-us/" class="elementor-item">Contact us</a></li>
+</ul></nav>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-54a98908" data-id="54a98908" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-01999f6 elementor-nav-menu--dropdown-mobile elementor-nav-menu--stretch elementor-nav-menu__align-center elementor-nav-menu--indicator-classic elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu" data-id="01999f6" data-element_type="widget" data-settings="{&quot;layout&quot;:&quot;vertical&quot;,&quot;full_width&quot;:&quot;stretch&quot;,&quot;toggle&quot;:&quot;burger&quot;}" data-widget_type="nav-menu.default">
+				<div class="elementor-widget-container">
+						<nav role="navigation" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-vertical e--pointer-underline e--animation-fade"><ul id="menu-1-01999f6" class="elementor-nav-menu sm-vertical"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1052"><a href="https://vidoflex.com/wp-content/uploads/2021/08/VIDOFLEX-CATALOG-GREECE-NO-PRICES-1.pdf" class="elementor-item">Download Catalog</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1047"><a href="#" class="elementor-sub-item elementor-item-anchor">Λήψη Καταλόγου</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1048"><a href="#" class="elementor-sub-item elementor-item-anchor">Descargar Catalogo</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1049"><a href="#" class="elementor-sub-item elementor-item-anchor">СКАЧАТЬ КАТАЛОГ</a></li>
+</ul>
+</li>
+</ul></nav>
+					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
+			<i class="eicon-menu-bar" aria-hidden="true"></i>
+			<span class="elementor-screen-only">Menu</span>
+		</div>
+			<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" role="navigation" aria-hidden="true"><ul id="menu-2-01999f6" class="elementor-nav-menu sm-vertical"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1052"><a href="https://vidoflex.com/wp-content/uploads/2021/08/VIDOFLEX-CATALOG-GREECE-NO-PRICES-1.pdf" class="elementor-item">Download Catalog</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1047"><a href="#" class="elementor-sub-item elementor-item-anchor">Λήψη Καταλόγου</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1048"><a href="#" class="elementor-sub-item elementor-item-anchor">Descargar Catalogo</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1049"><a href="#" class="elementor-sub-item elementor-item-anchor">СКАЧАТЬ КАТАЛОГ</a></li>
+</ul>
+</li>
+</ul></nav>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</header>
+				</div>
+		</div>
+		<main class="site-main" role="main">
+			<header class="page-header">
+			<h1 class="entry-title">The page can&rsquo;t be found.</h1>
+		</header>
+		<div class="page-content">
+		<p>It looks like nothing was found at this location.</p>
+	</div>
+
+</main>
+		<div data-elementor-type="footer" data-elementor-id="24" class="elementor elementor-24 elementor-location-footer">
+		<div class="elementor-section-wrap">
+					<section class="elementor-section elementor-top-section elementor-element elementor-element-3fa4d397 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="3fa4d397" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-4969f5dd" data-id="4969f5dd" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<section class="elementor-section elementor-inner-section elementor-element elementor-element-3dd6c3b3 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="3dd6c3b3" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-a875bed" data-id="a875bed" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-be195bd elementor-widget elementor-widget-image" data-id="be195bd" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img width="588" height="222" src="https://vidoflex.com/wp-content/uploads/2021/06/logobluetransedit22.png" class="attachment-large size-large" alt="" srcset="https://vidoflex.com/wp-content/uploads/2021/06/logobluetransedit22.png 588w, https://vidoflex.com/wp-content/uploads/2021/06/logobluetransedit22-300x113.png 300w" sizes="(max-width: 588px) 100vw, 588px" />															</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<div class="elementor-element elementor-element-4fe6c0e7 elementor-widget elementor-widget-text-editor" data-id="4fe6c0e7" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Vidoflex®, represents line of high quality insulation products, Manufactured in several plants around the world<br />according to the stringent quality control and technical requirements specified by the applicable standards.</p>						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-1d9f5810" data-id="1d9f5810" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-571386d0 elementor-widget elementor-widget-heading" data-id="571386d0" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">SiteMap</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-6f1114a elementor-nav-menu--indicator-classic elementor-nav-menu--dropdown-tablet elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu" data-id="6f1114a" data-element_type="widget" data-settings="{&quot;layout&quot;:&quot;vertical&quot;,&quot;toggle&quot;:&quot;burger&quot;}" data-widget_type="nav-menu.default">
+				<div class="elementor-widget-container">
+						<nav role="navigation" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-vertical e--pointer-underline e--animation-fade"><ul id="menu-1-6f1114a" class="elementor-nav-menu sm-vertical"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-378"><a href="https://vidoflex.com/" class="elementor-item">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-52"><a href="https://vidoflex.com/about-us/" class="elementor-item">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-358"><a href="https://vidoflex.com/manufacturing/" class="elementor-item">Manufacturing</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-357"><a href="https://vidoflex.com/quality/" class="elementor-item">Quality</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-371"><a href="https://vidoflex.com/downloads/" class="elementor-item">Downloads</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-364"><a href="https://vidoflex.com/contact-us/" class="elementor-item">Contact us</a></li>
+</ul></nav>
+					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
+			<i class="eicon-menu-bar" aria-hidden="true"></i>
+			<span class="elementor-screen-only">Menu</span>
+		</div>
+			<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" role="navigation" aria-hidden="true"><ul id="menu-2-6f1114a" class="elementor-nav-menu sm-vertical"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-378"><a href="https://vidoflex.com/" class="elementor-item">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-52"><a href="https://vidoflex.com/about-us/" class="elementor-item">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-358"><a href="https://vidoflex.com/manufacturing/" class="elementor-item">Manufacturing</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-357"><a href="https://vidoflex.com/quality/" class="elementor-item">Quality</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-371"><a href="https://vidoflex.com/downloads/" class="elementor-item">Downloads</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-364"><a href="https://vidoflex.com/contact-us/" class="elementor-item">Contact us</a></li>
+</ul></nav>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-11de1501" data-id="11de1501" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-13453cca elementor-widget elementor-widget-heading" data-id="13453cca" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Contact us</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-90f5d5a elementor-button-align-stretch elementor-widget elementor-widget-form" data-id="90f5d5a" data-element_type="widget" data-settings="{&quot;step_next_label&quot;:&quot;Next&quot;,&quot;step_previous_label&quot;:&quot;Previous&quot;,&quot;button_width&quot;:&quot;100&quot;,&quot;step_type&quot;:&quot;number_text&quot;,&quot;step_icon_shape&quot;:&quot;circle&quot;}" data-widget_type="form.default">
+				<div class="elementor-widget-container">
+					<form class="elementor-form" method="post" name="New Form">
+			<input type="hidden" name="post_id" value="24"/>
+			<input type="hidden" name="form_id" value="90f5d5a"/>
+
+			
+			<div class="elementor-form-fields-wrapper elementor-labels-above">
+								<div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-name elementor-col-100">
+					<label for="form-field-name" class="elementor-field-label">Name\  Όνομα  \  Nombre \ имя</label><input size="1" type="text" name="form_fields[name]" id="form-field-name" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="Name">				</div>
+								<div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-field_8530d4b elementor-col-100">
+					<label for="form-field-field_8530d4b" class="elementor-field-label">Company Name \ Εταιρεία \  Compania \  Компания</label><input size="1" type="text" name="form_fields[field_8530d4b]" id="form-field-field_8530d4b" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="Company Name">				</div>
+								<div class="elementor-field-type-email elementor-field-group elementor-column elementor-field-group-email elementor-col-100 elementor-field-required">
+					<label for="form-field-email" class="elementor-field-label">Email \ Εμαιλ \ Correo Electronico \  Эл. адрес</label><input size="1" type="email" name="form_fields[email]" id="form-field-email" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="Email" required="required" aria-required="true">				</div>
+								<div class="elementor-field-type-tel elementor-field-group elementor-column elementor-field-group-field_b30fecd elementor-col-100 elementor-field-required">
+					<label for="form-field-field_b30fecd" class="elementor-field-label">Telephone \ Τηλέφωνο \ Telefono \ телефон</label><input size="1" type="tel" name="form_fields[field_b30fecd]" id="form-field-field_b30fecd" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="Telephone" required="required" aria-required="true" pattern="[0-9()#&amp;+*-=.]+" title="Only numbers and phone characters (#, -, *, etc) are accepted.">				</div>
+								<div class="elementor-field-type-textarea elementor-field-group elementor-column elementor-field-group-message elementor-col-100">
+					<label for="form-field-message" class="elementor-field-label">Note \ σχόλια \ Notas \ Примечания </label><textarea class="elementor-field-textual elementor-field  elementor-size-sm" name="form_fields[message]" id="form-field-message" rows="4" placeholder="Note"></textarea>				</div>
+								<div class="elementor-field-group elementor-column elementor-field-type-submit elementor-col-100 e-form__buttons">
+					<button type="submit" class="elementor-button elementor-size-sm">
+						<span >
+															<span class=" elementor-button-icon">
+																										</span>
+																						<span class="elementor-button-text">Send</span>
+													</span>
+					</button>
+				</div>
+			</div>
+		</form>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-edc5cca" data-id="edc5cca" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-312dd76 elementor-widget elementor-widget-heading" data-id="312dd76" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Downloads</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-5824a50 elementor-nav-menu--dropdown-mobile elementor-nav-menu--stretch elementor-nav-menu__align-center elementor-nav-menu--indicator-classic elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu" data-id="5824a50" data-element_type="widget" data-settings="{&quot;layout&quot;:&quot;vertical&quot;,&quot;full_width&quot;:&quot;stretch&quot;,&quot;toggle&quot;:&quot;burger&quot;}" data-widget_type="nav-menu.default">
+				<div class="elementor-widget-container">
+						<nav role="navigation" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-vertical e--pointer-underline e--animation-fade"><ul id="menu-1-5824a50" class="elementor-nav-menu sm-vertical"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1052"><a href="https://vidoflex.com/wp-content/uploads/2021/08/VIDOFLEX-CATALOG-GREECE-NO-PRICES-1.pdf" class="elementor-item">Download Catalog</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1047"><a href="#" class="elementor-sub-item elementor-item-anchor">Λήψη Καταλόγου</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1048"><a href="#" class="elementor-sub-item elementor-item-anchor">Descargar Catalogo</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1049"><a href="#" class="elementor-sub-item elementor-item-anchor">СКАЧАТЬ КАТАЛОГ</a></li>
+</ul>
+</li>
+</ul></nav>
+					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
+			<i class="eicon-menu-bar" aria-hidden="true"></i>
+			<span class="elementor-screen-only">Menu</span>
+		</div>
+			<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" role="navigation" aria-hidden="true"><ul id="menu-2-5824a50" class="elementor-nav-menu sm-vertical"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1052"><a href="https://vidoflex.com/wp-content/uploads/2021/08/VIDOFLEX-CATALOG-GREECE-NO-PRICES-1.pdf" class="elementor-item">Download Catalog</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1047"><a href="#" class="elementor-sub-item elementor-item-anchor">Λήψη Καταλόγου</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1048"><a href="#" class="elementor-sub-item elementor-item-anchor">Descargar Catalogo</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1049"><a href="#" class="elementor-sub-item elementor-item-anchor">СКАЧАТЬ КАТАЛОГ</a></li>
+</ul>
+</li>
+</ul></nav>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<footer class="elementor-section elementor-top-section elementor-element elementor-element-6d05b359 elementor-section-height-min-height elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-items-middle" data-id="6d05b359" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-3f599de4" data-id="3f599de4" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-4d99d09d elementor-widget elementor-widget-heading" data-id="4d99d09d" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">© 2021 VIDOFLEX.  All rights reserved.</h3>		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-3cc512a4" data-id="3cc512a4" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-35214326 elementor-widget elementor-widget-heading" data-id="35214326" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">Terms & Conditions.</h3>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</footer>
+				</div>
+		</div>
+		
+		<div data-elementor-type="popup" data-elementor-id="939" class="elementor elementor-939 elementor-location-popup" data-elementor-settings="{&quot;triggers&quot;:{&quot;page_load_delay&quot;:10,&quot;page_load&quot;:&quot;yes&quot;},&quot;timing&quot;:{&quot;times&quot;:&quot;yes&quot;,&quot;times_times&quot;:3}}">
+		<div class="elementor-section-wrap">
+					<section class="elementor-section elementor-top-section elementor-element elementor-element-e816158 elementor-section-full_width elementor-section-height-min-height elementor-section-height-default elementor-section-items-middle" data-id="e816158" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-2a2026a" data-id="2a2026a" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-cecf5e1 elementor-widget elementor-widget-heading" data-id="cecf5e1" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Contact us today<br>
+To get an inquiry</h2>		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-5667dd6" data-id="5667dd6" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-a8cb206 elementor-button-align-stretch elementor-widget elementor-widget-form" data-id="a8cb206" data-element_type="widget" data-settings="{&quot;step_next_label&quot;:&quot;Next&quot;,&quot;step_previous_label&quot;:&quot;Previous&quot;,&quot;button_width&quot;:&quot;100&quot;,&quot;step_type&quot;:&quot;number_text&quot;,&quot;step_icon_shape&quot;:&quot;circle&quot;}" data-widget_type="form.default">
+				<div class="elementor-widget-container">
+					<form class="elementor-form" method="post" name="New Form">
+			<input type="hidden" name="post_id" value="939"/>
+			<input type="hidden" name="form_id" value="a8cb206"/>
+
+			
+			<div class="elementor-form-fields-wrapper elementor-labels-above">
+								<div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-name elementor-col-100">
+					<label for="form-field-name" class="elementor-field-label">Name</label><input size="1" type="text" name="form_fields[name]" id="form-field-name" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="Name">				</div>
+								<div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-field_8530d4b elementor-col-100">
+					<label for="form-field-field_8530d4b" class="elementor-field-label">Company Name</label><input size="1" type="text" name="form_fields[field_8530d4b]" id="form-field-field_8530d4b" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="Company Name">				</div>
+								<div class="elementor-field-type-email elementor-field-group elementor-column elementor-field-group-email elementor-col-100 elementor-field-required">
+					<label for="form-field-email" class="elementor-field-label">Email</label><input size="1" type="email" name="form_fields[email]" id="form-field-email" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="Email" required="required" aria-required="true">				</div>
+								<div class="elementor-field-type-tel elementor-field-group elementor-column elementor-field-group-field_b30fecd elementor-col-100 elementor-field-required">
+					<label for="form-field-field_b30fecd" class="elementor-field-label">Telephone</label><input size="1" type="tel" name="form_fields[field_b30fecd]" id="form-field-field_b30fecd" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="Telephone" required="required" aria-required="true" pattern="[0-9()#&amp;+*-=.]+" title="Only numbers and phone characters (#, -, *, etc) are accepted.">				</div>
+								<div class="elementor-field-type-textarea elementor-field-group elementor-column elementor-field-group-message elementor-col-100">
+					<label for="form-field-message" class="elementor-field-label">Note</label><textarea class="elementor-field-textual elementor-field  elementor-size-sm" name="form_fields[message]" id="form-field-message" rows="4" placeholder="Note"></textarea>				</div>
+								<div class="elementor-field-group elementor-column elementor-field-type-submit elementor-col-100 e-form__buttons">
+					<button type="submit" class="elementor-button elementor-size-sm">
+						<span >
+															<span class=" elementor-button-icon">
+																										</span>
+																						<span class="elementor-button-text">Send</span>
+													</span>
+					</button>
+				</div>
+			</div>
+		</form>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				</div>
+		</div>
+		<script id="rocket-browser-checker-js-after" type="text/javascript">
+"use strict";var _createClass=function(){function defineProperties(target,props){for(var i=0;i<props.length;i++){var descriptor=props[i];descriptor.enumerable=descriptor.enumerable||!1,descriptor.configurable=!0,"value"in descriptor&&(descriptor.writable=!0),Object.defineProperty(target,descriptor.key,descriptor)}}return function(Constructor,protoProps,staticProps){return protoProps&&defineProperties(Constructor.prototype,protoProps),staticProps&&defineProperties(Constructor,staticProps),Constructor}}();function _classCallCheck(instance,Constructor){if(!(instance instanceof Constructor))throw new TypeError("Cannot call a class as a function")}var RocketBrowserCompatibilityChecker=function(){function RocketBrowserCompatibilityChecker(options){_classCallCheck(this,RocketBrowserCompatibilityChecker),this.passiveSupported=!1,this._checkPassiveOption(this),this.options=!!this.passiveSupported&&options}return _createClass(RocketBrowserCompatibilityChecker,[{key:"_checkPassiveOption",value:function(self){try{var options={get passive(){return!(self.passiveSupported=!0)}};window.addEventListener("test",null,options),window.removeEventListener("test",null,options)}catch(err){self.passiveSupported=!1}}},{key:"initRequestIdleCallback",value:function(){!1 in window&&(window.requestIdleCallback=function(cb){var start=Date.now();return setTimeout(function(){cb({didTimeout:!1,timeRemaining:function(){return Math.max(0,50-(Date.now()-start))}})},1)}),!1 in window&&(window.cancelIdleCallback=function(id){return clearTimeout(id)})}},{key:"isDataSaverModeOn",value:function(){return"connection"in navigator&&!0===navigator.connection.saveData}},{key:"supportsLinkPrefetch",value:function(){var elem=document.createElement("link");return elem.relList&&elem.relList.supports&&elem.relList.supports("prefetch")&&window.IntersectionObserver&&"isIntersecting"in IntersectionObserverEntry.prototype}},{key:"isSlowConnection",value:function(){return"connection"in navigator&&"effectiveType"in navigator.connection&&("2g"===navigator.connection.effectiveType||"slow-2g"===navigator.connection.effectiveType)}}]),RocketBrowserCompatibilityChecker}();
+</script>
+<script type='text/javascript' id='rocket-preload-links-js-extra'>
+/* <![CDATA[ */
+var RocketPreloadLinksConfig = {"excludeUris":"\/(.+\/)?feed\/?.+\/?|\/(?:.+\/)?embed\/|\/(index\\.php\/)?wp\\-json(\/.*|$)|\/wp-admin|\/logout|https:\/\/vidoflex.com\/wp-login.php","usesTrailingSlash":"","imageExt":"jpg|jpeg|gif|png|tiff|bmp|webp|avif","fileExt":"jpg|jpeg|gif|png|tiff|bmp|webp|avif|php|pdf|html|htm","siteUrl":"https:\/\/vidoflex.com","onHoverDelay":"100","rateThrottle":"3"};
+/* ]]> */
+</script>
+<script id="rocket-preload-links-js-after" type="text/javascript">
+(function() {
+"use strict";var r="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(e){return typeof e}:function(e){return e&&"function"==typeof Symbol&&e.constructor===Symbol&&e!==Symbol.prototype?"symbol":typeof e},e=function(){function i(e,t){for(var n=0;n<t.length;n++){var i=t[n];i.enumerable=i.enumerable||!1,i.configurable=!0,"value"in i&&(i.writable=!0),Object.defineProperty(e,i.key,i)}}return function(e,t,n){return t&&i(e.prototype,t),n&&i(e,n),e}}();function i(e,t){if(!(e instanceof t))throw new TypeError("Cannot call a class as a function")}var t=function(){function n(e,t){i(this,n),this.browser=e,this.config=t,this.options=this.browser.options,this.prefetched=new Set,this.eventTime=null,this.threshold=1111,this.numOnHover=0}return e(n,[{key:"init",value:function(){!this.browser.supportsLinkPrefetch()||this.browser.isDataSaverModeOn()||this.browser.isSlowConnection()||(this.regex={excludeUris:RegExp(this.config.excludeUris,"i"),images:RegExp(".("+this.config.imageExt+")$","i"),fileExt:RegExp(".("+this.config.fileExt+")$","i")},this._initListeners(this))}},{key:"_initListeners",value:function(e){-1<this.config.onHoverDelay&&document.addEventListener("mouseover",e.listener.bind(e),e.listenerOptions),document.addEventListener("mousedown",e.listener.bind(e),e.listenerOptions),document.addEventListener("touchstart",e.listener.bind(e),e.listenerOptions)}},{key:"listener",value:function(e){var t=e.target.closest("a"),n=this._prepareUrl(t);if(null!==n)switch(e.type){case"mousedown":case"touchstart":this._addPrefetchLink(n);break;case"mouseover":this._earlyPrefetch(t,n,"mouseout")}}},{key:"_earlyPrefetch",value:function(t,e,n){var i=this,r=setTimeout(function(){if(r=null,0===i.numOnHover)setTimeout(function(){return i.numOnHover=0},1e3);else if(i.numOnHover>i.config.rateThrottle)return;i.numOnHover++,i._addPrefetchLink(e)},this.config.onHoverDelay);t.addEventListener(n,function e(){t.removeEventListener(n,e,{passive:!0}),null!==r&&(clearTimeout(r),r=null)},{passive:!0})}},{key:"_addPrefetchLink",value:function(i){return this.prefetched.add(i.href),new Promise(function(e,t){var n=document.createElement("link");n.rel="prefetch",n.href=i.href,n.onload=e,n.onerror=t,document.head.appendChild(n)}).catch(function(){})}},{key:"_prepareUrl",value:function(e){if(null===e||"object"!==(void 0===e?"undefined":r(e))||!1 in e||-1===["http:","https:"].indexOf(e.protocol))return null;var t=e.href.substring(0,this.config.siteUrl.length),n=this._getPathname(e.href,t),i={original:e.href,protocol:e.protocol,origin:t,pathname:n,href:t+n};return this._isLinkOk(i)?i:null}},{key:"_getPathname",value:function(e,t){var n=t?e.substring(this.config.siteUrl.length):e;return n.startsWith("/")||(n="/"+n),this._shouldAddTrailingSlash(n)?n+"/":n}},{key:"_shouldAddTrailingSlash",value:function(e){return this.config.usesTrailingSlash&&!e.endsWith("/")&&!this.regex.fileExt.test(e)}},{key:"_isLinkOk",value:function(e){return null!==e&&"object"===(void 0===e?"undefined":r(e))&&(!this.prefetched.has(e.href)&&e.origin===this.config.siteUrl&&-1===e.href.indexOf("?")&&-1===e.href.indexOf("#")&&!this.regex.excludeUris.test(e.href)&&!this.regex.images.test(e.href))}}],[{key:"run",value:function(){"undefined"!=typeof RocketPreloadLinksConfig&&new n(new RocketBrowserCompatibilityChecker({capture:!0,passive:!0}),RocketPreloadLinksConfig).init()}}]),n}();t.run();
+}());
+</script>
+<script type='text/javascript' src='http://vidoflex.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.0' id='jquery-core-js'></script>
+<script type='text/javascript' src='http://vidoflex.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1' id='jquery-migrate-js'></script>
+<script type='text/javascript' src='http://vidoflex.com/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.0.1' id='smartmenus-js'></script>
+<script type='text/javascript' src='http://vidoflex.com/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.1.0' id='elementor-pro-webpack-runtime-js'></script>
+<script type='text/javascript' src='http://vidoflex.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.6.3' id='elementor-webpack-runtime-js'></script>
+<script type='text/javascript' src='http://vidoflex.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.6.3' id='elementor-frontend-modules-js'></script>
+<script type='text/javascript' src='http://vidoflex.com/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=3.1.0' id='elementor-sticky-js'></script>
+<script id="elementor-pro-frontend-js-before" type="text/javascript">
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/vidoflex.com\/wp-admin\/admin-ajax.php","nonce":"23ec26c4a6","urls":{"assets":"http:\/\/vidoflex.com\/wp-content\/plugins\/elementor-pro\/assets\/"},"i18n":{"toc_no_headings_found":"No headings were found on this page."},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"google":{"title":"Google+","has_counter":true},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"facebook_sdk":{"lang":"en_US","app_id":""},"lottie":{"defaultAnimationUrl":"http:\/\/vidoflex.com\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+</script>
+<script type='text/javascript' src='http://vidoflex.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.1.0' id='elementor-pro-frontend-js'></script>
+<script type='text/javascript' src='http://vidoflex.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2' id='elementor-waypoints-js'></script>
+<script type='text/javascript' src='http://vidoflex.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2' id='jquery-ui-core-js'></script>
+<script id="elementor-frontend-js-before" type="text/javascript">
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Extra","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Extra","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.6.3","is_static":false,"experimentalFeatures":{"e_dom_optimization":true,"e_optimized_assets_loading":true,"a11y_improvements":true,"e_import_export":true,"e_hidden_wordpress_widgets":true,"landing-pages":true,"elements-color-picker":true,"favorite-widgets":true,"admin-top-bar":true},"urls":{"assets":"http:\/\/vidoflex.com\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"editorPreferences":[]},"kit":{"body_background_background":"classic","active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":0,"title":"Page Not Found - VidoFlex","excerpt":""}};
+</script>
+<script type='text/javascript' src='http://vidoflex.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.6.3' id='elementor-frontend-js'></script>
+<script type='text/javascript' src='http://vidoflex.com/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.1.0' id='pro-elements-handlers-js'></script>
+<script>window.lazyLoadOptions={elements_selector:"img[data-lazy-src],.rocket-lazyload,iframe[data-lazy-src]",data_src:"lazy-src",data_srcset:"lazy-srcset",data_sizes:"lazy-sizes",class_loading:"lazyloading",class_loaded:"lazyloaded",threshold:300,callback_loaded:function(element){if(element.tagName==="IFRAME"&&element.dataset.rocketLazyload=="fitvidscompatible"){if(element.classList.contains("lazyloaded")){if(typeof window.jQuery!="undefined"){if(jQuery.fn.fitVids){jQuery(element).parent().fitVids()}}}}}};window.addEventListener('LazyLoad::Initialized',function(e){var lazyLoadInstance=e.detail.instance;if(window.MutationObserver){var observer=new MutationObserver(function(mutations){var image_count=0;var iframe_count=0;var rocketlazy_count=0;mutations.forEach(function(mutation){for(i=0;i<mutation.addedNodes.length;i++){if(typeof mutation.addedNodes[i].getElementsByTagName!=='function'){continue}
+if(typeof mutation.addedNodes[i].getElementsByClassName!=='function'){continue}
+images=mutation.addedNodes[i].getElementsByTagName('img');is_image=mutation.addedNodes[i].tagName=="IMG";iframes=mutation.addedNodes[i].getElementsByTagName('iframe');is_iframe=mutation.addedNodes[i].tagName=="IFRAME";rocket_lazy=mutation.addedNodes[i].getElementsByClassName('rocket-lazyload');image_count+=images.length;iframe_count+=iframes.length;rocketlazy_count+=rocket_lazy.length;if(is_image){image_count+=1}
+if(is_iframe){iframe_count+=1}}});if(image_count>0||iframe_count>0||rocketlazy_count>0){lazyLoadInstance.update()}});var b=document.getElementsByTagName("body")[0];var config={childList:!0,subtree:!0};observer.observe(b,config)}},!1)</script><script data-no-minify="1" async src="http://vidoflex.com/wp-content/plugins/wp-rocket/assets/js/lazyload/16.1/lazyload.min.js"></script><script>function lazyLoadThumb(e){var t='<img loading="lazy" data-lazy-src="https://i.ytimg.com/vi/ID/hqdefault.jpg" alt="" width="480" height="360"><noscript><img src="https://i.ytimg.com/vi/ID/hqdefault.jpg" alt="" width="480" height="360"></noscript>',a='<div class="play"></div>';return t.replace("ID",e)+a}function lazyLoadYoutubeIframe(){var e=document.createElement("iframe"),t="ID?autoplay=1";t+=0===this.dataset.query.length?'':'&'+this.dataset.query;e.setAttribute("src",t.replace("ID",this.dataset.src)),e.setAttribute("frameborder","0"),e.setAttribute("allowfullscreen","1"),e.setAttribute("allow", "accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"),this.parentNode.replaceChild(e,this)}document.addEventListener("DOMContentLoaded",function(){var e,t,a=document.getElementsByClassName("rll-youtube-player");for(t=0;t<a.length;t++)e=document.createElement("div"),e.setAttribute("data-id",a[t].dataset.id),e.setAttribute("data-query", a[t].dataset.query),e.setAttribute("data-src", a[t].dataset.src),e.innerHTML=lazyLoadThumb(a[t].dataset.id),e.onclick=lazyLoadYoutubeIframe,a[t].appendChild(e)});</script>
+</body>
+</html>

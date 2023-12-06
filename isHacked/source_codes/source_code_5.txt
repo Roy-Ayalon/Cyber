@@ -1,0 +1,1200 @@
+<!DOCTYPE html>
+<html dir="rtl" lang="he-IL" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+<head>
+	<meta charset="UTF-8">
+		<title>Hacked by Hamas - דיסנטר - פרסום דיגיטלי שמייצר תוצאות</title>
+<meta name='robots' content='max-image-preview:large' />
+
+<!-- This site is optimized with the Yoast SEO Premium plugin v6.2 - https://yoa.st/1yg?utm_content=6.2 -->
+<link rel="canonical" href="https://www.dicenter.co.il/" />
+<meta property="og:locale" content="he_IL" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Hacked by Hamas - דיסנטר - פרסום דיגיטלי שמייצר תוצאות" />
+<meta property="og:description" content="taking your business to !the top מי אנחנו? בחדשנות, יצירתיות ונועזות שיעזרו לך לבלוט מעל כולם ולהצליח, עם יכולות של בינה מלאכותית אנו מובילים את עולם השיווק הדיגיטלי בעולם הפרסום הדיגיטלי, זה לא מספיק רק להיות שם. אתה צריך לבלוט מעל כולם כדי למשוך את תשומת הלב של הלקוחות הפוטנציאליים שלך. דיסנטר הוא משרד פרסום &hellip;" />
+<meta property="og:url" content="https://www.dicenter.co.il/" />
+<meta property="og:site_name" content="דיסנטר - פרסום דיגיטלי שמייצר תוצאות" />
+<meta property="og:image" content="https://www.dicenter.co.il/wp-content/uploads/2020/09/לוגו.png" />
+<meta property="og:image:secure_url" content="https://www.dicenter.co.il/wp-content/uploads/2020/09/לוגו.png" />
+<meta property="og:image" content="https://www.dicenter.co.il/wp-content/uploads/2020/04/woman-2-small.png" />
+<meta property="og:image:secure_url" content="https://www.dicenter.co.il/wp-content/uploads/2020/04/woman-2-small.png" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="taking your business to !the top מי אנחנו? בחדשנות, יצירתיות ונועזות שיעזרו לך לבלוט מעל כולם ולהצליח, עם יכולות של בינה מלאכותית אנו מובילים את עולם השיווק הדיגיטלי בעולם הפרסום הדיגיטלי, זה לא מספיק רק להיות שם. אתה צריך לבלוט מעל כולם כדי למשוך את תשומת הלב של הלקוחות הפוטנציאליים שלך. דיסנטר הוא משרד פרסום [&hellip;]" />
+<meta name="twitter:title" content="Hacked by Hamas - דיסנטר - פרסום דיגיטלי שמייצר תוצאות" />
+<meta name="twitter:image" content="https://www.dicenter.co.il/wp-content/uploads/2020/09/לוגו.png" />
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"https:\/\/www.dicenter.co.il\/","name":"\u05d3\u05d9\u05e1\u05e0\u05d8\u05e8 - \u05e4\u05e8\u05e1\u05d5\u05dd \u05d3\u05d9\u05d2\u05d9\u05d8\u05dc\u05d9 \u05e9\u05de\u05d9\u05d9\u05e6\u05e8 \u05ea\u05d5\u05e6\u05d0\u05d5\u05ea","potentialAction":{"@type":"SearchAction","target":"https:\/\/www.dicenter.co.il\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<!-- / Yoast SEO Premium plugin. -->
+
+<link rel="alternate" type="application/rss+xml" title="דיסנטר - פרסום דיגיטלי שמייצר תוצאות &laquo; פיד‏" href="https://www.dicenter.co.il/feed/" />
+<link rel="alternate" type="application/rss+xml" title="דיסנטר - פרסום דיגיטלי שמייצר תוצאות &laquo; פיד תגובות‏" href="https://www.dicenter.co.il/comments/feed/" />
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.dicenter.co.il\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.3.2"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-rtl-css' href='https://www.dicenter.co.il/wp-includes/css/dist/block-library/style-rtl.min.css?ver=6.3.2' type='text/css' media='all' />
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='hello-elementor-css' href='https://www.dicenter.co.il/wp-content/themes/hello-elementor/style.min.css?ver=2.2.0' type='text/css' media='all' />
+<link rel='stylesheet' id='hello-elementor-theme-style-css' href='https://www.dicenter.co.il/wp-content/themes/hello-elementor/theme.min.css?ver=2.2.0' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-css' href='https://www.dicenter.co.il/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.15.0' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-frontend-legacy-css' href='https://www.dicenter.co.il/wp-content/plugins/elementor/assets/css/frontend-legacy-rtl.min.css?ver=3.6.0' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css' href='https://www.dicenter.co.il/wp-content/plugins/elementor/assets/css/frontend-rtl.min.css?ver=3.6.0' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-254-css' href='https://www.dicenter.co.il/wp-content/uploads/elementor/css/post-254.css?ver=1699362491' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-global-css' href='https://www.dicenter.co.il/wp-content/uploads/elementor/css/global.css?ver=1699362531' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-559-css' href='https://www.dicenter.co.il/wp-content/uploads/elementor/css/post-559.css?ver=1699362531' type='text/css' media='all' />
+<link rel='stylesheet' id='google-fonts-1-css' href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CTitillium+Web%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CHeebo%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=auto&#038;subset=hebrew&#038;ver=6.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-shared-0-css' href='https://www.dicenter.co.il/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-solid-css' href='https://www.dicenter.co.il/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3' type='text/css' media='all' />
+<link rel="https://api.w.org/" href="https://www.dicenter.co.il/wp-json/" /><link rel="alternate" type="application/json" href="https://www.dicenter.co.il/wp-json/wp/v2/pages/559" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.dicenter.co.il/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.3.2" />
+<link rel='shortlink' href='https://www.dicenter.co.il/' />
+<link rel="alternate" type="application/json+oembed" href="https://www.dicenter.co.il/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.dicenter.co.il%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.dicenter.co.il/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.dicenter.co.il%2F&#038;format=xml" />
+		<style type="text/css" id="wp-custom-css">
+			
+
+/** Start Envato Elements CSS: Lifestyle Gym (21-3-cbabed31f43e935d3678349c4da89809) **/
+
+.text-bg .elementor-heading-title {
+	background-color:#674B90;
+	padding:0 15px 0px 15px;
+	color: white;
+	display: inline-block;
+}
+
+
+
+/** End Envato Elements CSS: Lifestyle Gym (21-3-cbabed31f43e935d3678349c4da89809) **/
+
+
+
+/** Start Envato Elements CSS: Blocks (142-3-a175df65179b9ef6a5ca9f1b2c0202b9) **/
+
+.envato-block__preview{
+	overflow: visible;
+}
+
+/* Border Radius */
+.envato-kit-139-accordion .elementor-widget-container{
+	border-radius: 10px !important;
+}
+.envato-kit-139-map iframe,
+.envato-kit-139-slider .slick-slide,
+.envato-kit-139-flipbox .elementor-flip-box div{
+		border-radius: 10px !important;
+
+}
+
+
+/** End Envato Elements CSS: Blocks (142-3-a175df65179b9ef6a5ca9f1b2c0202b9) **/
+
+
+
+/** Start Envato Elements CSS: Blocks (69-3-4f8cfb8a1a68ec007f2be7a02bdeadd9) **/
+
+.envato-kit-66-menu .e--pointer-framed .elementor-item:before{
+	border-radius:1px;
+}
+
+.envato-kit-66-subscription-form .elementor-form-fields-wrapper{
+	position:relative;
+}
+
+.envato-kit-66-subscription-form .elementor-form-fields-wrapper .elementor-field-type-submit{
+	position:static;
+}
+
+.envato-kit-66-subscription-form .elementor-form-fields-wrapper .elementor-field-type-submit button{
+	position: absolute;
+    top: 50%;
+    right: 6px;
+    transform: translate(0, -50%);
+		-moz-transform: translate(0, -50%);
+		-webmit-transform: translate(0, -50%);
+}
+
+.envato-kit-66-testi-slider .elementor-testimonial__footer{
+	margin-top: -60px !important;
+	z-index: 99;
+  position: relative;
+}
+
+.envato-kit-66-featured-slider .elementor-slides .slick-prev{
+	width:50px;
+	height:50px;
+	background-color:#ffffff !important;
+	transform:rotate(45deg);
+	-moz-transform:rotate(45deg);
+	-webkit-transform:rotate(45deg);
+	left:-25px !important;
+	-webkit-box-shadow: 0px 1px 2px 1px rgba(0,0,0,0.32);
+	-moz-box-shadow: 0px 1px 2px 1px rgba(0,0,0,0.32);
+	box-shadow: 0px 1px 2px 1px rgba(0,0,0,0.32);
+}
+
+.envato-kit-66-featured-slider .elementor-slides .slick-prev:before{
+	display:block;
+	margin-top:0px;
+	margin-left:0px;
+	transform:rotate(-45deg);
+	-moz-transform:rotate(-45deg);
+	-webkit-transform:rotate(-45deg);
+}
+
+.envato-kit-66-featured-slider .elementor-slides .slick-next{
+	width:50px;
+	height:50px;
+	background-color:#ffffff !important;
+	transform:rotate(45deg);
+	-moz-transform:rotate(45deg);
+	-webkit-transform:rotate(45deg);
+	right:-25px !important;
+	-webkit-box-shadow: 0px 1px 2px 1px rgba(0,0,0,0.32);
+	-moz-box-shadow: 0px 1px 2px 1px rgba(0,0,0,0.32);
+	box-shadow: 0px 1px 2px 1px rgba(0,0,0,0.32);
+}
+
+.envato-kit-66-featured-slider .elementor-slides .slick-next:before{
+	display:block;
+	margin-top:-5px;
+	margin-right:-5px;
+	transform:rotate(-45deg);
+	-moz-transform:rotate(-45deg);
+	-webkit-transform:rotate(-45deg);
+}
+
+.envato-kit-66-orangetext{
+	color:#f4511e;
+}
+
+.envato-kit-66-countdown .elementor-countdown-label{
+	display:inline-block !important;
+	border:2px solid rgba(255,255,255,0.2);
+	padding:9px 20px;
+}
+
+/** End Envato Elements CSS: Blocks (69-3-4f8cfb8a1a68ec007f2be7a02bdeadd9) **/
+
+
+
+/** Start Envato Elements CSS: Mobile App Website (101-3-a1290bab19d133bc10952282618c7bad) **/
+
+.envato-kit-95-clip{overflow: hidden;}
+/* Custom Form Input Style */
+.envato-kit-95-custom-form .elementor-field-textual{
+    background: transparent !important;
+    padding-left:0;
+}
+
+/* Shadow and Zoom for Hover Effect */
+.envato-kit-95-shadow-box:hover{
+    transform: scale(1.1);
+    box-shadow: 0 0 30px rgba(0,0,0,0.05);
+}
+.envato-kit-95-shadow-box{
+     transition: all .2s ease-in-out;
+}
+
+/* Hover Box */
+.envato-kit-95-hover-box:hover{
+    background: #fbfbfb;
+}
+.envato-kit-95-hover-box{
+     transition: all .2s ease-in-out;
+}
+
+/* Testimonial Name */
+.envato-kit-95-name-font cite{
+	font-family: 'Muli',sans-serif !important;
+}
+
+/** End Envato Elements CSS: Mobile App Website (101-3-a1290bab19d133bc10952282618c7bad) **/
+
+
+
+/** Start Envato Elements CSS: Business Coach (65-3-2b72c82c903c8e46932615136ba35dc1) **/
+
+/* Kit 62 Custom Styling - use with the Advanced options of the element it affects */
+
+/* Fancy Titles */
+.envato-kit-62-ttl-mixed .elementor-heading-title b {
+    color: #46eeaa;
+    font-weight: bold;
+}
+
+.envato-kit-62-ttl-mixed .elementor-heading-title i {
+    font-weight: normal;
+    text-transform: lowercase;
+    font-family: "Lora", Sans-serif;
+    font-style: italic;
+}
+
+/* Subtitles */
+.envato-kit-62-ttl-green h6, .envato-kit-62-ttl-white h6 {
+    position: relative;
+    width: auto !important;
+    display: inline-block !important;
+}
+
+.envato-kit-62-ttl-green h6:before, .envato-kit-62-ttl-white h6:before {
+    position: absolute;
+    content: '';
+    top: 0;
+    bottom: 0;
+    margin: 13px auto 0 -65px;
+    width: 40px;
+    height: 2px;
+}
+
+.envato-kit-62-ttl-green h6:before {
+    background-color: rgb(72, 207, 173);
+}
+
+.envato-kit-62-ttl-white h6:before {
+    background-color: rgb(255, 255, 255);
+}
+
+/* Forms */
+.envato-kit-62-form textarea, .envato-kit-62-form input, .envato-kit-62-form-transparent textarea, .envato-kit-62-form-transparent input {
+    background: rgba(255, 255, 255, 0.3) !important;
+    padding: 22px 35px !important;
+    min-height: 100%;
+}
+
+.envato-kit-62-form input, .envato-kit-62-form-transparent input {
+    height: 100% !important;
+    min-height: 100% !important;
+    vertical-align: middle;
+}
+
+.envato-kit-62-form-solid input, .envato-kit-62-form-solid textarea {
+    padding: 22px 35px !important;
+}
+
+/* Oversize Images */
+.envato-kit-62-oversize {
+    width: 130%;
+}
+
+@media (max-width: 767px) {
+    .envato-kit-62-oversize {
+        width: 100%;
+    }
+
+}
+
+.envato-kit-62-form-transparent button {
+    background: none !important;
+    height: 100%;
+}
+
+.envato-kit-62-btn-transparent .elementor-button {
+    background: transparent !important;
+}
+
+/* Lists */
+.envato-kit-62-list ul {
+    padding-left: 20px;
+}
+
+.envato-kit-62-list ul li {
+    position: relative;
+    list-style-type: none;
+    margin: 10px 0;
+}
+
+.envato-kit-62-list ul li:before {
+    position: absolute;
+    content: '';
+    width: 6px;
+    height: 6px;
+    left: -20px;
+    top: 13px;
+    border-radius: 100%;
+    background-color: #48cfad;
+}
+
+/* Image Buttons */
+.envato-kit-62-img-btm .elementor-widget {
+    position: static;
+}
+
+.envato-kit-62-img-btm .elementor-testimonial-image {
+    position: absolute;
+    bottom: -105px;
+    left: 0;
+    right: 0;
+    margin: auto !important;
+}
+
+/* Transparent sections */
+.envato-kit-62-bg-transparent h3 {
+    position: absolute;
+    bottom: 20px;
+    left: 0;
+    right: 0;
+    padding: 15px 0 !important;
+    background: rgba(82, 204, 173, 0.9);
+}
+
+/* Labels */
+.envato-kit-62-label {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 1;
+    width: 90px;
+    height: 90px;
+    background: #48cfad;
+}
+
+.envato-kit-62-label strong {
+    font-size: 34px;
+}
+
+.envato-kit-62-label p {
+    margin: 0;
+}
+
+/* FAQ */
+.envato-kit-62-faq .elementor-accordion-item {
+    margin-bottom: 6px;
+}
+
+.envato-kit-62-faq .elementor-tab-title {
+    position: relative;
+}
+
+.envato-kit-62-faq .elementor-accordion-icon-right {
+    position: absolute;
+    top: 0;
+    right: 40px;
+    bottom: 0;
+    margin: auto;
+    display: flex !important;
+    align-items: center;
+    align-content: flex-end;
+    justify-content: flex-end;
+}
+
+/* Fancy Links */
+.envato-kit-62-contact-link a {
+    color: #747373;
+}
+
+/* Fixes */
+.envato-kit-62-testimonials img {
+    margin-top: 20px;
+}
+
+.envato-kit-62-form .elementor-message-success, .envato-kit-62-form-transparent .elementor-message-success, .envato-kit-62-form-solid .elementor-message-success {
+    position: absolute;
+    bottom: -10px;
+    color: #fff;
+    font-family: "Lora", sans-serif;
+    font-size: 16px;
+    left: 0;
+    right: 0;
+    text-align: center;
+}
+
+.envato-kit-62-form-solid .elementor-message-success {
+    color: #747373;
+}
+
+@media (max-width: 374px) {
+    .envato-kit-62-form .elementor-message-success, .envato-kit-62-form-transparent .elementor-message-success, .envato-kit-62-form-solid .elementor-message-success {
+        bottom: -20px;
+    }
+}
+
+.envato-kit-62-video .elementor-custom-embed-image-overlay:before {
+    content: '';
+    position: absolute;
+    width: 70px;
+    height: 70px;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    margin: auto;
+    background-color: #48cfad;
+}
+
+.envato-kit-62-video .elementor-custom-embed-image-overlay:after {
+    content: '';
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 50%;
+    margin: auto 0 auto -8px;
+    border-width: 14px 20px;
+    border-color: transparent transparent transparent #fff;
+    border-style: solid;
+    width: 10px;
+    height: 10px;
+}
+
+/** End Envato Elements CSS: Business Coach (65-3-2b72c82c903c8e46932615136ba35dc1) **/
+
+
+
+/** Start Envato Elements CSS: Block Kit 2 (69-3-4f8cfb8a1a68ec007f2be7a02bdeadd9) **/
+
+.envato-kit-66-menu .e--pointer-framed .elementor-item:before{
+	border-radius:1px;
+}
+
+.envato-kit-66-subscription-form .elementor-form-fields-wrapper{
+	position:relative;
+}
+
+.envato-kit-66-subscription-form .elementor-form-fields-wrapper .elementor-field-type-submit{
+	position:static;
+}
+
+.envato-kit-66-subscription-form .elementor-form-fields-wrapper .elementor-field-type-submit button{
+	position: absolute;
+    top: 50%;
+    right: 6px;
+    transform: translate(0, -50%);
+		-moz-transform: translate(0, -50%);
+		-webmit-transform: translate(0, -50%);
+}
+
+.envato-kit-66-testi-slider .elementor-testimonial__footer{
+	margin-top: -60px !important;
+	z-index: 99;
+  position: relative;
+}
+
+.envato-kit-66-featured-slider .elementor-slides .slick-prev{
+	width:50px;
+	height:50px;
+	background-color:#ffffff !important;
+	transform:rotate(45deg);
+	-moz-transform:rotate(45deg);
+	-webkit-transform:rotate(45deg);
+	left:-25px !important;
+	-webkit-box-shadow: 0px 1px 2px 1px rgba(0,0,0,0.32);
+	-moz-box-shadow: 0px 1px 2px 1px rgba(0,0,0,0.32);
+	box-shadow: 0px 1px 2px 1px rgba(0,0,0,0.32);
+}
+
+.envato-kit-66-featured-slider .elementor-slides .slick-prev:before{
+	display:block;
+	margin-top:0px;
+	margin-left:0px;
+	transform:rotate(-45deg);
+	-moz-transform:rotate(-45deg);
+	-webkit-transform:rotate(-45deg);
+}
+
+.envato-kit-66-featured-slider .elementor-slides .slick-next{
+	width:50px;
+	height:50px;
+	background-color:#ffffff !important;
+	transform:rotate(45deg);
+	-moz-transform:rotate(45deg);
+	-webkit-transform:rotate(45deg);
+	right:-25px !important;
+	-webkit-box-shadow: 0px 1px 2px 1px rgba(0,0,0,0.32);
+	-moz-box-shadow: 0px 1px 2px 1px rgba(0,0,0,0.32);
+	box-shadow: 0px 1px 2px 1px rgba(0,0,0,0.32);
+}
+
+.envato-kit-66-featured-slider .elementor-slides .slick-next:before{
+	display:block;
+	margin-top:-5px;
+	margin-right:-5px;
+	transform:rotate(-45deg);
+	-moz-transform:rotate(-45deg);
+	-webkit-transform:rotate(-45deg);
+}
+
+.envato-kit-66-orangetext{
+	color:#f4511e;
+}
+
+.envato-kit-66-countdown .elementor-countdown-label{
+	display:inline-block !important;
+	border:2px solid rgba(255,255,255,0.2);
+	padding:9px 20px;
+}
+
+/** End Envato Elements CSS: Block Kit 2 (69-3-4f8cfb8a1a68ec007f2be7a02bdeadd9) **/
+
+
+
+/** Start Envato Elements CSS: Block Kit 1 (33-3-f2d4515681d0cdeb2a000d0405e47669) **/
+
+.envato-kit-30-phone-overlay {
+	position: absolute !important;
+	display: block !important;
+	top: 0%;
+	left: 0%;
+	right: 0%;
+	margin: auto;
+	z-index: 1;
+}
+.envato-kit-30-div-rotate{
+	transform: rotate(90deg);
+}
+
+/** End Envato Elements CSS: Block Kit 1 (33-3-f2d4515681d0cdeb2a000d0405e47669) **/
+
+
+
+/** Start Envato Elements CSS: Creative Agency (5-3-5b52b5435bdba0b3bb11f2a212031adc) **/
+
+/**
+ * Dividers
+ */
+.title-divider {
+	position: absolute;
+	right: 100%;
+	width: 100px;
+	top: 0;
+	margin-right: 15px;
+	margin-top: .7rem;
+}
+
+/**
+ * Portfolio grids
+ */
+.portfolio-grid .widget-image-caption {
+    position: absolute;
+    top: 10%;
+    left: 10%;
+    color: black !important;
+    font-weight: bold;
+    font-size: 1.6em;
+    opacity: 0;
+    transform: translate3d(-100px,0,0);
+    transition: all .3s ease-in-out;
+    background: white;
+    padding: 6px 14px;
+}
+.portfolio-grid img {
+	transition: transform .3s ease-in-out;
+	transform: scale(1);
+}
+.portfolio-grid .elementor-image {
+	overflow: hidden;
+}
+.portfolio-grid .elementor-widget-image {
+    margin-bottom: 0;
+}
+.portfolio-grid .elementor-image:hover img {
+	transform: scale(1.2);
+}
+.portfolio-grid .elementor-image:hover .widget-image-caption {
+	transform: translate3d(0px,0,0);
+	opacity: 1;
+}
+
+/**
+ * Posts list
+ */
+.posts-list ul {
+	list-style: none;
+	padding-left: 0;
+	font-size: 1.4rem;
+	font-family: Helvetica, Arial, sans-serif;
+	margin-top: 0;
+}
+.posts-list li {
+	border-bottom: 1px solid #dedede;
+	margin: 0;
+	display: flex;
+	align-items: center;
+}
+.posts-list h5 {
+	display: none;
+}
+.posts-list a {
+	color: black;
+	padding: 17px 0;
+  display: inline-block;
+	transition: all .3s ease-in-out;
+}
+.posts-list .post-date {
+	margin-left: auto;
+	font-size: .9rem;
+	opacity: .3;
+}
+
+/**
+ * Team members
+ */
+.team-members a.elementor-icon.elementor-social-icon {
+    background: transparent;
+/* 	  opacity: 0; */
+}
+.team-members .elementor-widget-image:hover + .elementor-widget-social-icons .elementor-social-icon {
+	  opacity: 1;
+}
+
+.team-members a.elementor-icon.elementor-social-icon i {
+    color: black;
+}
+.team-members figcaption.widget-image-caption.wp-caption-text {
+    color: black;
+    position: absolute;
+    bottom: 0;
+    background: white;
+    padding: 13px;
+		width: 230px;
+}
+
+/**
+ * Social Bar
+ */
+.social-bar a.elementor-icon.elementor-social-icon {
+    margin: 0 !important;
+    border-radius: 0;
+    padding: .8rem 1rem !important;
+}
+.social-bar a.elementor-icon.elementor-social-icon:first-child {
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
+}
+.social-bar a.elementor-icon.elementor-social-icon:last-child {
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+}
+
+/**
+ * Icon boxes
+ */
+.ewp-icon-box.elementor-widget-icon-box .elementor-icon-box-content .elementor-icon-box-title {
+    margin-top: 0;
+}
+.ewp-icon-box.elementor-widget-icon-box .elementor-icon {
+    transform: translate3d(0px, 0, 0);
+}
+.ewp-icon-box.elementor-widget-icon-box:hover .elementor-icon {
+    transform: translate3d(-20px, 0, 0);
+}
+
+/** End Envato Elements CSS: Creative Agency (5-3-5b52b5435bdba0b3bb11f2a212031adc) **/
+
+
+
+/** Start Envato Elements CSS: Block Kit 10 (136-3-fc37602abad173a9d9d95d89bbe6bb80) **/
+
+.envato-block__preview{overflow: visible !important;}
+
+/** End Envato Elements CSS: Block Kit 10 (136-3-fc37602abad173a9d9d95d89bbe6bb80) **/
+
+
+
+/** Start Envato Elements CSS: Block Kit 4 (71-3-d415519effd9e11f35d2438c58ea7ebf) **/
+
+.envato-block__preview{overflow: visible;}
+
+/** End Envato Elements CSS: Block Kit 4 (71-3-d415519effd9e11f35d2438c58ea7ebf) **/
+
+		</style>
+			<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" /></head>
+<body class="rtl home page-template page-template-elementor_canvas page page-id-559 elementor-default elementor-template-canvas elementor-kit-254 elementor-page elementor-page-559">
+			<div data-elementor-type="wp-page" data-elementor-id="559" class="elementor elementor-559">
+						<div class="elementor-inner">
+				<div class="elementor-section-wrap">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-f142c20 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="f142c20" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-48b8643" data-id="48b8643" data-element_type="column">
+			<div class="elementor-column-wrap">
+							<div class="elementor-widget-wrap">
+								</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-a84ed92" data-id="a84ed92" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-9228f6a elementor-widget elementor-widget-image" data-id="9228f6a" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-image">
+												<img decoding="async" width="358" height="133" src="https://www.dicenter.co.il/wp-content/uploads/2020/09/לוגו.png" class="attachment-full size-full" alt="" srcset="https://www.dicenter.co.il/wp-content/uploads/2020/09/לוגו.png 358w, https://www.dicenter.co.il/wp-content/uploads/2020/09/לוגו-300x111.png 300w" sizes="(max-width: 358px) 100vw, 358px" />														</div>
+						</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<header class="elementor-section elementor-top-section elementor-element elementor-element-245e62f5 elementor-section-height-full elementor-section-boxed elementor-section-height-default elementor-section-items-middle" data-id="245e62f5" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;shape_divider_bottom&quot;:&quot;clouds&quot;,&quot;shape_divider_bottom_negative&quot;:&quot;yes&quot;}">
+							<div class="elementor-background-overlay"></div>
+						<div class="elementor-shape elementor-shape-bottom" data-negative="true">
+			<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 283.5 27.8" preserveAspectRatio="xMidYMax slice">
+	<path class="elementor-shape-fill" d="M265.8 3.5c-10.9 0-15.9 6.2-15.9 6.2s-3.6-3.5-9.2-.9c-9.1 4.1-4.4 13.4-4.4 13.4s-1.2.2-1.9.9c-.6.7-.5 1.9-.5 1.9s-1-.5-2.3-.2c-1.3.3-1.6 1.4-1.6 1.4s.4-3.4-1.5-5c-3.9-3.4-8.3-.2-8.3-.2s-.6-.7-.9-.9c-.4-.2-1.2-.2-1.2-.2s-4.4-3.6-11.5-2.6-10.4 7.9-10.4 7.9-.5-3.3-3.9-4.9c-4.8-2.4-7.4 0-7.4 0s2.4-4.1-1.9-6.4-6.2 1.2-6.2 1.2-.9-.5-2.1-.5-2.3 1.1-2.3 1.1.1-.7-1.1-1.1c-1.2-.4-2 0-2 0s3.6-6.8-3.5-8.9c-6-1.8-7.9 2.6-8.4 4-.1-.3-.4-.7-.9-1.1-1-.7-1.3-.5-1.3-.5s1-4-1.7-5.2c-2.7-1.2-4.2 1.1-4.2 1.1s-3.1-1-5.7 1.4-2.1 5.5-2.1 5.5-.9 0-2.1.7-1.4 1.7-1.4 1.7-1.7-1.2-4.3-1.2c-2.6 0-4.5 1.2-4.5 1.2s-.7-1.5-2.8-2.4c-2.1-.9-4 0-4 0s2.6-5.9-4.7-9c-7.3-3.1-12.6 3.3-12.6 3.3s-.9 0-1.9.2c-.9.2-1.5.9-1.5.9S99.4 3 94.9 3.9c-4.5.9-5.7 5.7-5.7 5.7s-2.8-5-12.3-3.9-11.1 6-11.1 6-1.2-1.4-4-.7c-.8.2-1.3.5-1.8.9-.9-2.1-2.7-4.9-6.2-4.4-3.2.4-4 2.2-4 2.2s-.5-.7-1.2-.7h-1.4s-.5-.9-1.7-1.4-2.4 0-2.4 0-2.4-1.2-4.7 0-3.1 4.1-3.1 4.1-1.7-1.4-3.6-.7c-1.9.7-1.9 2.8-1.9 2.8s-.5-.5-1.7-.2c-1.2.2-1.4.7-1.4.7s-.7-2.3-2.8-2.8c-2.1-.5-4.3.2-4.3.2s-1.7-5-11.1-6c-3.8-.4-6.6.2-8.5 1v21.2h283.5V11.1c-.9.2-1.6.4-1.6.4s-5.2-8-16.1-8z"/>
+</svg>
+		</div>
+					<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-5f4c38e1" data-id="5f4c38e1" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<section class="elementor-section elementor-inner-section elementor-element elementor-element-3afc008 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-invisible" data-id="3afc008" data-element_type="section" data-settings="{&quot;animation_mobile&quot;:&quot;fadeIn&quot;,&quot;animation&quot;:&quot;zoomIn&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-30080cc" data-id="30080cc" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-8a51988 envato-kit-62-ttl-mixed elementor-widget elementor-widget-heading" data-id="8a51988" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h1 class="elementor-heading-title elementor-size-default">taking your business to </h1>		</div>
+				</div>
+				<div class="elementor-element elementor-element-f912134 elementor-widget elementor-widget-heading" data-id="f912134" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h1 class="elementor-heading-title elementor-size-default">!the top</h1>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<div class="elementor-element elementor-element-a6e72ce animated-slow elementor-invisible elementor-widget elementor-widget-image" data-id="a6e72ce" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_mobile&quot;:&quot;fadeIn&quot;}" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-image">
+												<img decoding="async" fetchpriority="high" width="800" height="534" src="https://www.dicenter.co.il/wp-content/uploads/2020/04/woman-2-small.png" class="attachment-large size-large" alt="" srcset="https://www.dicenter.co.il/wp-content/uploads/2020/04/woman-2-small.png 1000w, https://www.dicenter.co.il/wp-content/uploads/2020/04/woman-2-small-300x200.png 300w, https://www.dicenter.co.il/wp-content/uploads/2020/04/woman-2-small-768x512.png 768w" sizes="(max-width: 800px) 100vw, 800px" />														</div>
+						</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</header>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-3f1084b0 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-invisible" data-id="3f1084b0" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;fadeIn&quot;}">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-no">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-7b9a125f" data-id="7b9a125f" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-2eb192a5 elementor-widget elementor-widget-heading" data-id="2eb192a5" data-element_type="widget" data-settings="{&quot;_animation_mobile&quot;:&quot;none&quot;}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h4 class="elementor-heading-title elementor-size-default">מי אנחנו?</h4>		</div>
+				</div>
+				<div class="elementor-element elementor-element-7c3ab11 elementor-widget elementor-widget-heading" data-id="7c3ab11" data-element_type="widget" data-settings="{&quot;_animation_mobile&quot;:&quot;none&quot;}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h4 class="elementor-heading-title elementor-size-default">בחדשנות, יצירתיות ונועזות שיעזרו לך לבלוט מעל כולם ולהצליח, עם יכולות של בינה מלאכותית אנו מובילים את עולם השיווק הדיגיטלי</h4>		</div>
+				</div>
+				<div class="elementor-element elementor-element-779e81ef elementor-widget elementor-widget-text-editor" data-id="779e81ef" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p data-sourcepos="7:1-7:121">בעולם הפרסום הדיגיטלי, זה לא מספיק רק להיות שם. אתה צריך לבלוט מעל כולם כדי למשוך את תשומת הלב של הלקוחות הפוטנציאליים שלך.</p>
+<p data-sourcepos="9:1-9:122">דיסנטר הוא משרד פרסום דיגיטלי שמאמין שבעולם השיווק החדש פרסומות צריכות להיות יותר מאשר רק מודעות. הן צריכות להיות יצירתיות, חדשניות ונועזות.</p>
+<p data-sourcepos="11:1-11:143">אנו משתמשים בידע, בניסיון וביצירתיות שלנו כדי ליצור פרסומות שיעזרו לך להגיע ללקוחות שלך בדיוק בזמן הנכון, עם המסר הנכון, בשילוב עם בינה מלאכותית אנו יוצרים שיווק דיגיטלי טוב יותר ואיכותי יותר</p>
+<p>כבר לא צריך לרדוף אחרי לידים, אנחנו דואגים לכם להכל מא-ת וכל מה שנשאר לכם זה להינות מלידים איכותיים והמון המון סגירות של לקוחות.</p>					</div>
+						</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-9d50b98 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="9d50b98" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-187ca87" data-id="187ca87" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+								</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-7e97a26a elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-invisible" data-id="7e97a26a" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;,&quot;animation&quot;:&quot;fadeIn&quot;}">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-44b4d8e8" data-id="44b4d8e8" data-element_type="column" data-settings="{&quot;animation_mobile&quot;:&quot;fadeIn&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-1c167fa4 elementor-widget elementor-widget-heading" data-id="1c167fa4" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">לוקחים אתכם הכי גבוהה שאפשר!</h2>		</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-6e3de319 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="6e3de319" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-52bc1178 elementor-invisible" data-id="52bc1178" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;fadeIn&quot;,&quot;animation_mobile&quot;:&quot;fadeIn&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+					<div class="elementor-background-overlay"></div>
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-8f1133d elementor-view-stacked elementor-shape-circle elementor-widget elementor-widget-icon" data-id="8f1133d" data-element_type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-wrapper">
+			<div class="elementor-icon elementor-animation-float">
+			<i aria-hidden="true" class="fas fa-burn"></i>			</div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-3fd3ff9 elementor-widget elementor-widget-heading" data-id="3fd3ff9" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">אסטרטגיה</h3>		</div>
+				</div>
+				<div class="elementor-element elementor-element-5586d8a elementor-widget elementor-widget-text-editor" data-id="5586d8a" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p>אנחנו נבנה עבורך את התוכנית הטובה ביותר לעסק שלך</p>					</div>
+						</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-74ebe13d elementor-invisible" data-id="74ebe13d" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;fadeIn&quot;,&quot;animation_mobile&quot;:&quot;fadeIn&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+					<div class="elementor-background-overlay"></div>
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-5f156bd6 elementor-view-stacked elementor-shape-circle elementor-widget elementor-widget-icon" data-id="5f156bd6" data-element_type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-wrapper">
+			<div class="elementor-icon elementor-animation-float">
+			<i aria-hidden="true" class="fas fa-broom"></i>			</div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-3f61fabc elementor-widget elementor-widget-heading" data-id="3f61fabc" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">מיתוג ועיצוב</h3>		</div>
+				</div>
+				<div class="elementor-element elementor-element-41c587d elementor-widget elementor-widget-text-editor" data-id="41c587d" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p>אנחנו נדאג שהעסק שלך יראה הכי טוב בכל פלטפורמה אפשרית</p>					</div>
+						</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-75fb1e10 elementor-invisible" data-id="75fb1e10" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;fadeIn&quot;,&quot;animation_mobile&quot;:&quot;fadeIn&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+					<div class="elementor-background-overlay"></div>
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-72b01a2 elementor-view-stacked elementor-shape-circle elementor-widget elementor-widget-icon" data-id="72b01a2" data-element_type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-wrapper">
+			<div class="elementor-icon elementor-animation-float">
+			<i aria-hidden="true" class="fas fa-mobile-alt"></i>			</div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-5541940b elementor-widget elementor-widget-heading" data-id="5541940b" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">מדיה</h3>		</div>
+				</div>
+				<div class="elementor-element elementor-element-710ee47f elementor-widget elementor-widget-text-editor" data-id="710ee47f" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p>אנחנו נדאג שהעסק שלך יקבל נוכחות דיגיטלית שאף אחד לא יוכל להתעלם ממנה</p>					</div>
+						</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-ac9272b elementor-invisible" data-id="ac9272b" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;fadeIn&quot;,&quot;animation_mobile&quot;:&quot;fadeIn&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+					<div class="elementor-background-overlay"></div>
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-6a961a0 elementor-view-stacked elementor-shape-circle elementor-widget elementor-widget-icon" data-id="6a961a0" data-element_type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-wrapper">
+			<div class="elementor-icon elementor-animation-float">
+			<i aria-hidden="true" class="fas fa-chart-line"></i>			</div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-15164da elementor-widget elementor-widget-heading" data-id="15164da" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">לידים ומכירות</h3>		</div>
+				</div>
+				<div class="elementor-element elementor-element-bc2fa98 elementor-widget elementor-widget-text-editor" data-id="bc2fa98" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p>אנחנו נדאג שתקבלו את התוצאות הטובות ביותר עבור העסק שלך! אנחנו ערבים להצלחה שלך!</p>					</div>
+						</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-5a43732e elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5a43732e" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-no">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-15e352f1" data-id="15e352f1" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-6862a7bc elementor-widget elementor-widget-heading" data-id="6862a7bc" data-element_type="widget" data-settings="{&quot;_animation_mobile&quot;:&quot;none&quot;}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h4 class="elementor-heading-title elementor-size-default">רוצים להתחיל ליהנות מלידים חמים ואיכותיים ולחסוך בזמן עבודה יקר?
+</h4>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-5d0781be elementor-section-content-middle elementor-reverse-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5d0781be" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;}">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-no">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-49b8a429" data-id="49b8a429" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-120146e2 elementor-widget elementor-widget-heading" data-id="120146e2" data-element_type="widget" data-settings="{&quot;_animation_mobile&quot;:&quot;none&quot;}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">What Thy Say About Us</h2>		</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-5c5423ad elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="5c5423ad" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-1807b8a0" data-id="1807b8a0" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-3812dbfc elementor-widget elementor-widget-testimonial" data-id="3812dbfc" data-element_type="widget" data-widget_type="testimonial.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-testimonial-wrapper">
+							<div class="elementor-testimonial-content">נכנסים לי בכל יום 150 לידים למערכת, אני יודע על מה אני משלם, אני יודע כמה אני משלם אין הפתעות והכל מתקתק בדיוק כמו שהבטיחו לי </div>
+			
+						<div class="elementor-testimonial-meta">
+				<div class="elementor-testimonial-meta-inner">
+					
+										<div class="elementor-testimonial-details">
+														<div class="elementor-testimonial-name">אמנון ל</div>
+																						<div class="elementor-testimonial-job">חברה להלוואות</div>
+													</div>
+									</div>
+			</div>
+					</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-d5a2f8b" data-id="d5a2f8b" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-1c5de09 elementor-widget elementor-widget-testimonial" data-id="1c5de09" data-element_type="widget" data-widget_type="testimonial.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-testimonial-wrapper">
+							<div class="elementor-testimonial-content">מקצוענים אמיתיים, מזרימים לי עשרות לידים איכותיים בכל יום, אני מרגיש שבאמת אכפת להם ממני ומאיכות הלידים אני כל הזמן רואה שיפור באיכות הלידים והכי חשוב לצוות המכירות שלי תמיד יש עם מה לעבוד, בדיוק מה שאני צריך</div>
+			
+						<div class="elementor-testimonial-meta">
+				<div class="elementor-testimonial-meta-inner">
+					
+										<div class="elementor-testimonial-details">
+														<div class="elementor-testimonial-name">משה מיראלי</div>
+																						<div class="elementor-testimonial-job">סוכנות לביטוח</div>
+													</div>
+									</div>
+			</div>
+					</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-81d3c15" data-id="81d3c15" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-088c302 elementor-widget elementor-widget-testimonial" data-id="088c302" data-element_type="widget" data-widget_type="testimonial.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-testimonial-wrapper">
+							<div class="elementor-testimonial-content">הגעתי אליהם דרך פרסום בפייסבוק, לא הבנתי בדיוק איך זה אפשרי להשיג לי לידים בכזאת איכות בזמן כל כך קצר, הם באמת הפתיעו אני מקבלת בכל יום לידים, האיכות מצויינת ואין לי הוצאות מיותרות. </div>
+			
+						<div class="elementor-testimonial-meta">
+				<div class="elementor-testimonial-meta-inner">
+					
+										<div class="elementor-testimonial-details">
+														<div class="elementor-testimonial-name">דפנה ל</div>
+																						<div class="elementor-testimonial-job">מנטורית ויועצת </div>
+													</div>
+									</div>
+			</div>
+					</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-49d6e7a4 elementor-section-height-min-height elementor-section-boxed elementor-section-height-default elementor-section-items-middle" data-id="49d6e7a4" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-5ad5ed47 elementor-invisible" data-id="5ad5ed47" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeIn&quot;,&quot;animation_delay&quot;:&quot;1000&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-3e3ffb6b elementor-widget elementor-widget-counter" data-id="3e3ffb6b" data-element_type="widget" data-widget_type="counter.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-counter">
+			<div class="elementor-counter-number-wrapper">
+				<span class="elementor-counter-number-prefix"></span>
+				<span class="elementor-counter-number" data-duration="2000" data-to-value="13" data-from-value="" data-delimiter=","></span>
+				<span class="elementor-counter-number-suffix"></span>
+			</div>
+							<div class="elementor-counter-title">שנות ניסיון</div>
+					</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-1fca5e67 elementor-invisible" data-id="1fca5e67" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeIn&quot;,&quot;animation_delay&quot;:&quot;1500&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-404ca1e0 elementor-widget elementor-widget-counter" data-id="404ca1e0" data-element_type="widget" data-widget_type="counter.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-counter">
+			<div class="elementor-counter-number-wrapper">
+				<span class="elementor-counter-number-prefix"></span>
+				<span class="elementor-counter-number" data-duration="2000" data-to-value="4931" data-from-value="" data-delimiter=","></span>
+				<span class="elementor-counter-number-suffix"></span>
+			</div>
+							<div class="elementor-counter-title">לידים בחודש</div>
+					</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-39569611 elementor-invisible" data-id="39569611" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeIn&quot;,&quot;animation_delay&quot;:&quot;2000&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-563f3dea elementor-widget elementor-widget-counter" data-id="563f3dea" data-element_type="widget" data-widget_type="counter.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-counter">
+			<div class="elementor-counter-number-wrapper">
+				<span class="elementor-counter-number-prefix"></span>
+				<span class="elementor-counter-number" data-duration="4000" data-to-value="560" data-from-value="" data-delimiter=","></span>
+				<span class="elementor-counter-number-suffix"></span>
+			</div>
+							<div class="elementor-counter-title">לקוחות מרוצים</div>
+					</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-3625e13a elementor-invisible" data-id="3625e13a" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeIn&quot;,&quot;animation_delay&quot;:&quot;2500&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-3cca721 elementor-widget elementor-widget-counter" data-id="3cca721" data-element_type="widget" data-widget_type="counter.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-counter">
+			<div class="elementor-counter-number-wrapper">
+				<span class="elementor-counter-number-prefix">%</span>
+				<span class="elementor-counter-number" data-duration="6000" data-to-value="96" data-from-value="" data-delimiter=","></span>
+				<span class="elementor-counter-number-suffix"></span>
+			</div>
+							<div class="elementor-counter-title">הצלחה</div>
+					</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-2ea14e0d elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-invisible" data-id="2ea14e0d" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;,&quot;animation&quot;:&quot;fadeIn&quot;}">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-542b2436" data-id="542b2436" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-41fb3b36 elementor-widget elementor-widget-heading" data-id="41fb3b36" data-element_type="widget" data-settings="{&quot;_animation_mobile&quot;:&quot;none&quot;}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">רוצים לידים חמים שיטיסו את העסק שלכם קדימה?</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-17f8075 elementor-widget elementor-widget-heading" data-id="17f8075" data-element_type="widget" data-settings="{&quot;_animation_mobile&quot;:&quot;none&quot;}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">השאירו פרטים ובואו נתחיל לעבוד על העסק שלכם</h2>		</div>
+				</div>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-37542c6 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="37542c6" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-5cd45a6e" data-id="5cd45a6e" data-element_type="column">
+			<div class="elementor-column-wrap">
+							<div class="elementor-widget-wrap">
+								</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+									</div>
+			</div>
+					</div>
+		<link rel='stylesheet' id='e-animations-css' href='https://www.dicenter.co.il/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.6.0' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.dicenter.co.il/wp-includes/js/jquery/jquery.min.js?ver=3.7.0' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://www.dicenter.co.il/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1' id='jquery-migrate-js'></script>
+<script type='text/javascript' src='https://www.dicenter.co.il/wp-content/plugins/elementor/assets/lib/jquery-numerator/jquery-numerator.min.js?ver=0.2.1' id='jquery-numerator-js'></script>
+<script type='text/javascript' src='https://www.dicenter.co.il/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.6.0' id='elementor-webpack-runtime-js'></script>
+<script type='text/javascript' src='https://www.dicenter.co.il/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.6.0' id='elementor-frontend-modules-js'></script>
+<script type='text/javascript' src='https://www.dicenter.co.il/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2' id='elementor-waypoints-js'></script>
+<script type='text/javascript' src='https://www.dicenter.co.il/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2' id='jquery-ui-core-js'></script>
+<script type='text/javascript' src='https://www.dicenter.co.il/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6' id='swiper-js'></script>
+<script type='text/javascript' src='https://www.dicenter.co.il/wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js?ver=3.6.0' id='share-link-js'></script>
+<script type='text/javascript' src='https://www.dicenter.co.il/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.9.0' id='elementor-dialog-js'></script>
+<script id="elementor-frontend-js-before" type="text/javascript">
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"\u05e9\u05ea\u05e3 \u05d1\u05e4\u05d9\u05d9\u05e1\u05d1\u05d5\u05e7","shareOnTwitter":"\u05e9\u05ea\u05e3 \u05d1\u05d8\u05d5\u05d5\u05d9\u05d8\u05e8","pinIt":"\u05dc\u05e0\u05e2\u05d5\u05e5 \u05d1\u05e4\u05d9\u05e0\u05d8\u05e8\u05e1\u05d8","download":"\u05d4\u05d5\u05e8\u05d3\u05d4","downloadImage":"\u05d4\u05d5\u05e8\u05d3\u05ea \u05ea\u05de\u05d5\u05e0\u05d4","fullscreen":"\u05de\u05e1\u05da \u05de\u05dc\u05d0","zoom":"\u05de\u05d9\u05e7\u05d5\u05d3","share":"\u05e9\u05ea\u05e3","playVideo":"\u05e0\u05d2\u05df \u05d5\u05d9\u05d3\u05d0\u05d5","previous":"\u05e7\u05d5\u05d3\u05dd","next":"\u05d4\u05d1\u05d0","close":"\u05e1\u05d2\u05d5\u05e8"},"is_rtl":true,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"\u05de\u05d5\u05d1\u05d9\u05d9\u05dc","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Extra","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"\u05d8\u05d0\u05d1\u05dc\u05d8","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Extra","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"\u05dc\u05e4\u05d8\u05d5\u05e4","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"\u05de\u05e1\u05da \u05e8\u05d7\u05d1","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.6.0","is_static":false,"experimentalFeatures":{"e_import_export":true,"e_hidden_wordpress_widgets":true,"landing-pages":true,"elements-color-picker":true,"favorite-widgets":true,"admin-top-bar":true},"urls":{"assets":"https:\/\/www.dicenter.co.il\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":559,"title":"Hacked%20by%20Hamas%20-%20%D7%93%D7%99%D7%A1%D7%A0%D7%98%D7%A8%20-%20%D7%A4%D7%A8%D7%A1%D7%95%D7%9D%20%D7%93%D7%99%D7%92%D7%99%D7%98%D7%9C%D7%99%20%D7%A9%D7%9E%D7%99%D7%99%D7%A6%D7%A8%20%D7%AA%D7%95%D7%A6%D7%90%D7%95%D7%AA","excerpt":"","featuredImage":false}};
+</script>
+<script type='text/javascript' src='https://www.dicenter.co.il/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.6.0' id='elementor-frontend-js'></script>
+<script type='text/javascript' src='https://www.dicenter.co.il/wp-content/plugins/elementor/assets/js/preloaded-modules.min.js?ver=3.6.0' id='preloaded-modules-js'></script>
+	</body>
+</html>

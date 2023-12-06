@@ -1,0 +1,1032 @@
+<html><head>
+		<title>חנות משחקים וצעצועים לילדים | וונדר שופ</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta name="description" content="צעצועים לילדים ומשחקים קונים רק בוונדר שופ - קניון משחקים וצעצועים לילדים הגדול בישראל המציע חווית קנייה כיפית ונעימה במחירים זולים ונוחים!">
+		<meta name="keywords" content="">
+		<meta name="viewport" content="width=640">
+		<link rel="stylesheet" type="text/css" href="mobile/css/fonts.css">
+		<link rel="stylesheet" type="text/css" href="mobile/css/main.css?num=1">
+		<link rel="stylesheet" type="text/css" href="mobile/css/header.css?num=35">
+		<link rel="stylesheet" type="text/css" href="mobile/css/header_hanut.css?num=1">
+		<link rel="stylesheet" type="text/css" href="mobile/css/main_menu.css?num=1">
+		<link rel="stylesheet" type="text/css" href="mobile/css/slideshow.css?num=4">
+		<link rel="stylesheet" type="text/css" href="mobile/css/homepage.css?num=6">
+		<link rel="stylesheet" type="text/css" href="mobile/css/homepage_hanut.css?num=11">
+		<link rel="stylesheet" type="text/css" href="mobile/css/homepage_tabs.css">
+		<link rel="stylesheet" type="text/css" href="mobile/css/footer.css?num=6">
+		<link rel="stylesheet" type="text/css" href="mobile/css/page.css?num=6">
+		<link rel="stylesheet" type="text/css" href="mobile/css/contact_page.css?num=1">
+		<link rel="stylesheet" type="text/css" href="mobile/css/nav.css">
+		<link rel="stylesheet" type="text/css" href="mobile/css/gallery.css?num=1">
+		<link rel="stylesheet" type="text/css" href="mobile/css/links.css?num=2">
+		<link rel="stylesheet" type="text/css" href="mobile/css/sidebar.css">
+		<link rel="stylesheet" type="text/css" href="mobile/css/landpage.css?num=1">
+		<link rel="stylesheet" type="text/css" href="mobile/css/slider.css?num=1">
+		<link rel="stylesheet" type="text/css" href="mobile/css/product_block.css?num=9">
+		<link rel="stylesheet" type="text/css" href="mobile/css/form.css?num=4">
+		<link rel="stylesheet" type="text/css" href="mobile/css/product.css?num=13">
+		<link rel="stylesheet" type="text/css" href="mobile/css/buy.css?num=9">
+		<link rel="stylesheet" type="text/css" href="mobile/css/popup.css?num=1">
+		<link rel="stylesheet" type="text/css" href="mobile/css/login.css?num=1">
+		<link rel="stylesheet" type="text/css" href="mobile/css/cart.css?num=17">
+		<link rel="stylesheet" type="text/css" href="mobile/css/add_product.css?num=8">
+		<link rel="stylesheet" type="text/css" href="mobile/css/products_filter.css?num=12">
+		<link rel="stylesheet" type="text/css" href="mobile/css/my_orders.css?num=1">
+		<link rel="stylesheet" type="text/css" href="css/share_bar.css?num=1">
+		<link rel="stylesheet" type="text/css" href="mobile/css/form_details.css?num=14">
+		<link rel="stylesheet" type="text/css" href="mobile/css/register.css?num=3">
+		<link rel="stylesheet" type="text/css" href="css/alert.css?num=6">
+		<!-- more css here -->
+		
+		<!-- jquery ui -->
+		<link rel="stylesheet" href="//code.jquery.com/ui/1.11.0/themes/smoothness/jquery-ui.css">
+		<script src="https://connect.facebook.net/signals/config/1124498877741933?v=2.9.138&amp;r=stable&amp;domain=www.wonder-shop.co.il" async=""></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-J5ZVC89P9S&amp;l=dataLayer&amp;cx=c"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-T2T4Q4K"></script><script src="//code.jquery.com/jquery-1.10.2.js"></script>
+		<script src="//code.jquery.com/jquery-migrate-1.2.1.js"></script>
+		<script src="//code.jquery.com/ui/1.11.0/jquery-ui.js"></script>
+		
+		<!-- local js -->
+		<script>var base_url = "https://www.wonder-shop.co.il/";</script>
+		<script>var cookie_name_user = "yaloo_wondershop_user";</script>
+		<script>var cookie_name_cart = "yaloo_wondershop_cart";</script>
+		<script>var cookie_name_lang = "yaloo_wondershop_lang";</script>
+		<script>var cookie_name_popup = "yaloo_wondershop_popup";</script>
+		<script>var cookie_name_mobile_cart = "yaloo_wondershop_mobile_cart";</script>
+		<script>var cookie_name_captcha = "yaloo_wondershop_captcha";</script>
+		<script>var cookie_name_mobile = "yaloo_wondershop_mobile";</script>
+		<script>var cookie_name_wishlist = "yaloo_wondershop_wishlist";</script>
+		<script>var pre_path = "";</script>
+		<script>var subdomain = "";</script>
+		<script>var site_user_id = "";</script>
+		<script>var is_inner_store = false;</script>
+		<script>var is_tadmit = false;</script>
+		<script>var is_mobile = true;</script>
+		<script language="javascript" src="js/init.js?num=103"></script>
+		<script language="javascript" src="js/captcha.js?num=1"></script>
+		<script language="javascript" src="js/cookie.js"></script>
+		<script language="javascript" src="js/ajax.js?num=2"></script>
+		<script language="javascript" src="js/helper.js"></script>
+		<script language="javascript" src="js/slider.js"></script>
+		<script language="javascript" src="js/cart.js?num=16"></script>
+		<script language="javascript" src="js/wishlist.js?num=3"></script>
+		
+		<!-- google_maps -->
+		<script type="text/javascript" src="//maps.googleapis.com/maps/api/js?key=AIzaSyAS7V5XcMnvvzXkyKh-vL74zwHNHJOCQxU&amp;sensor=true&amp;language=he"></script>
+		<script type="text/javascript" src="js/map.js"></script>
+        
+		<!-- prettyPhoto -->
+        <script type="text/javascript" src="plugins/prettyPhoto/jquery.prettyPhoto.js" charset="utf-8"></script>
+		<link rel="stylesheet" href="plugins/prettyPhoto/prettyPhoto.css" type="text/css" media="screen" charset="utf-8">
+		 
+		<!-- image area select -->
+		<link rel="stylesheet" type="text/css" href="plugins/jquery.imgareaselect-0.9.10/css/imgareaselect-default.css">
+		<script type="text/javascript" src="plugins/jquery.imgareaselect-0.9.10/scripts/jquery.imgareaselect.pack.js"></script>
+		
+		
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-93070929-7"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-93070929-7');
+</script>
+<meta name="facebook-domain-verification" content="2vvsyl6afz622biixf9a11gqrlar23">
+
+<!-- Hotjar Tracking Code for https://www.wonder-shop.co.il/ -->
+<script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:2755364,hjsv:6};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+</script><script async="" src="https://static.hotjar.com/c/hotjar-2755364.js?sv=6"></script>		<script src="//www.negishim.com/accessibility/accessibility_pro.js" type="text/javascript"></script>
+		<script type="text/javascript">
+			accessibility_rtl = true;
+			pixel_from_side = 20;
+			pixel_from_start = 20;
+		</script>
+		
+		<script type="text/javascript" src="plugins/ckeditor/ckeditor.js"></script>
+			
+		<script>
+		function ToggleMobile()
+		{
+			var page_width = 1200;
+			if(window.innerWidth > page_width)
+			{
+				setCookie(cookie_name_mobile,"",1);
+				location.reload();
+			}
+		}
+		</script>
+		
+		
+		<!-- Google Tag Manager -->
+		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-T2T4Q4K');</script>
+		<!-- End Google Tag Manager -->
+
+		
+	<style type="text/css">.links_underline{text-decoration:underline  !important;}.readable_font{font-family:arial !important;}.accessibility_contrast_yellow_on_black {background:none !important;background-color:black !important;color:yellow !important;}.accessibility_contrast_yellow_on_black_a,.accessibility_contrast_yellow_on_black_a::before{background:none !important;background-color:black !important;color:yellow !important;outline:1px dashed yellow !important;}.accessibility_contrast_yellow_on_black_a:hover,.accessibility_contrast_yellow_on_black_a:focus,.accessibility_contrast_yellow_on_black_a:hover::before,.accessibility_contrast_yellow_on_black_a:focus::before{color:#ffffff !important;outline:1px dashed #ffffff !important;}.accessibility_contrast_yellow_on_black_input {background:none !important;background-color:#ffffff !important;color:#000000 !important;}.accessibility_contrast_black_on_blue {background:none !important;background-color:#c2d3fc !important;color:#000000 !important;}.accessibility_contrast_black_on_blue_a,.accessibility_contrast_black_on_blue_a::before{background:none !important;background-color:#c2d3fc !important;color:#000000 !important;outline:1px dashed #000000 !important;}.accessibility_contrast_black_on_blue_a:hover,.accessibility_contrast_black_on_blue_a:hover div,.accessibility_contrast_black_on_blue_a:hover span,.accessibility_contrast_black_on_blue_a:focus,.accessibility_contrast_black_on_blue_a:hover::before,.accessibility_contrast_black_on_blue_a:focus::before{color:#ffffff !important;outline:1px dashed #ffffff !important;background-color:#89ABFA !important;}.accessibility_contrast_black_on_blue_input {background:none !important;background-color:#ffffff !important;color:#000000 !important;}.btn_accessibility {padding:8px 6px 0px 0px;width:34px;height:34px;color:#000000 !important;background-color: #ffffff !important;text-decoration:none;top:20px;display: inline-block;border-radius:6px;overflow: hidden;position: fixed!important;right:20px;z-index: 2147483647;box-sizing: border-box;text-align: right;margin: 0 auto;-webkit-transition: all 0.3s;transition: all 0.3s;-webkit-box-shadow: 0px 0px 5px 0px #000000;-moz-box-shadow: 0px 0px 5px 0px #000000;box-shadow: 0px 0px 5px 0px #000000;font-weight:normal;font-size:18px!important;direction:rtl;}.btn_accessibility span{font-size:18px!important;}.btn_accessibility img{vertical-align:top;width:auto;}.btn_accessibility:hover,.btn_accessibility:focus{font-size:18px;background-color:#E5E5E5 !important;text-decoration:underline;-webkit-box-shadow: 0px 0px 5px 1px #757575;-moz-box-shadow: 0px 0px 5px 1px #757575;box-shadow: 0px 0px 5px 1px #757575;outline:0;}.btn_accessibility:hover strong,.btn_accessibility:focus strong{right:20px;color:yellow !important;}.btn_accessibility_action {height:34px;font-size:16px!important;padding:8px 10px 0px 0px;color:#000000 !important;background-color: #ffffff !important;letter-spacing:1px;text-decoration:none;font-weight: bold;font-family:arial!important;visibility: hidden;top:20px;display: inline-block;border-radius:6px;width:280px;overflow: hidden;position:fixed!important;right:20px;box-sizing: border-box;text-align:right!important;margin: 0 auto;-webkit-transition: background-color 0.3s;transition: background-color 0.3s;-webkit-box-shadow: 0px 0px 5px 0px #000000;-moz-box-shadow: 0px 0px 5px 0px #000000;box-shadow: 0px 0px 5px 0px #000000;}.btn_accessibility_action span{font-size:16px!important;}.btn_accessibility_action img{vertical-align:top;margin-left:8px;width:auto;}.btn_accessibility_action strong {color: #000000;-webkit-transition: all 0.3s;transition: all 0.3s;}.btn_accessibility_action:hover{-webkit-box-shadow: 0px 0px 5px 1px #000000;-moz-box-shadow: 0px 0px 5px 1px #757575;box-shadow: 0px 0px 5px 1px #757575;}a.btn_accessibility_action:hover,a.btn_accessibility_action:focus{font-size:16px!important;text-decoration:underline;background-color:#EBEBEB !important;outline:0;}.btn_accessibility_action_active{background-color:#EBEBEB !important;outline:0;}a.btn_accessibility_action:hover div,a.btn_accessibility_action:focus div,.btn_accessibility_action_active div{}.a_gray{-webkit-transition: color 0.3s;transition: color 0.3s;}.a_gray:hover,.a_gray:focus,.a_gray_active{color:gray !important;text-decoration:underline !important;outline:0;}.btn_accessibility_action .accessibility_action_icn{font-size:22px;position:absolute;top:14px;right:10px;}.btn_accessibility_action:hover .accessibility_action_icn,.btn_accessibility_action:focus .accessibility_action_icn,.btn_accessibility_action_active .accessibility_action_icn{right:6px;color:yellow !important;}.btn_font_size:hover strong,.btn_font_size:focus strong{color:yellow !important;}.a_hover_opacity:hover, .a_hover_opacity:focus {-webkit-text-shadow: 1px 1px 0px #003755;-moz-text-shadow: 1px 1px 0px #003755;box-shadow: 1px 1px 0px #003755;}.font_size_icn_b {font-size: 19px;top: 17px;right: 8px;position: absolute;}.font_size_icn_s {font-size: 15px;right: 21px;top: 20px;position: absolute;}.btn_accessibility_action:hover .font_size_icn_b, .btn_accessibility_action:focus .font_size_icn_b {right: 5px;color: yellow !important;}.btn_accessibility_action:hover .font_size_icn_s, .btn_accessibility_action:focus .font_size_icn_s {right: 18px;color: yellow !important;}.accessibility_component {line-height: 1.1 !important;font-family:arial!important;direction:rtl;}img.accessibility_component {display:inline !important;}.gray_images {-webkit-filter: grayscale(100%);filter: grayscale(100%);}</style><script async="" src="https://script.hotjar.com/modules.28e3191d8757c557b4b7.js" charset="utf-8"></script><meta http-equiv="origin-trial" content="AymqwRC7u88Y4JPvfIF2F37QKylC04248hLCdJAsh8xgOfe/dVJPV3XS3wLFca1ZMVOtnBfVjaCMTVudWM//5g4AAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjk1MTY3OTk5LCJpc1RoaXJkUGFydHkiOnRydWV9"></head>
+    
+
+	<body dir="rtl" lang="he" onload="init_site()" onkeyup="SiteKeyPressed(event)" onresize="ToggleMobile()" data-font-size="16" data-font-size-type="px" style="zoom: 1;">
+    
+		
+	<!-- Google Tag Manager (noscript) -->
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T2T4Q4K"
+	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<!-- End Google Tag Manager (noscript) -->
+
+	
+	<div id="popup_mask" onclick="ClosePopup()" data-font-size="16" data-font-size-type="px"></div>
+	<div id="popup_parent" data-font-size="16" data-font-size-type="px">
+		<div class="page_area" id="popup_btn_area" data-font-size="16" data-font-size-type="px">
+			<div class="inner" data-font-size="16" data-font-size-type="px"><a class="fade" href="javascript: ClosePopup()" data-font-size="16" data-font-size-type="px"></a></div>
+		</div>
+		<div class="page_area" id="popup_box" data-font-size="16" data-font-size-type="px"></div>
+	</div>
+	
+	<div id="popup_alert_mask" onclick="HideAlertBig()" data-font-size="16" data-font-size-type="px"></div>
+	<div id="popup_alert_parent" data-font-size="16" data-font-size-type="px">
+		<div id="popup_alert" data-font-size="16" data-font-size-type="px">
+			<div class="logo" data-font-size="16" data-font-size-type="px"><img src="media-lib/dynamic_1_1.png" alt="wonder shop - הבית למשחקים וחומרי יצירה"></div>			<div class="msg" id="popup_alert_msg"></div>
+			<div class="btn_area" data-font-size="16" data-font-size-type="px">
+				<input type="button" value="אישור" onclick="HideAlertBig()">
+			</div>
+		</div>
+	</div>
+	
+    
+
+<script>
+function FormatNumber(num)
+{
+	var new_num = num.toFixed(0).replace(/./g, function(c, i, a) {
+		return i && c !== "." && ((a.length - i) % 3 === 0) ? ',' + c : c;
+	});
+	return new_num;
+}
+function PopupAddProduct_UpdateAmountRight()
+{
+	var form = document.form_add_product_from_popup;
+	var amount_input = form.amount;
+	var amount_box = $("#product_amount_box")[0];
+	
+	var amount = amount_input.value;
+	amount = parseInt(amount);
+	amount--;
+	amount = Math.max(amount,1);
+	amount_input.value = amount;
+	amount_box.innerHTML = amount;
+	
+	selected_product_color = form.color.value;
+	selected_product_size = form.size.value;
+	UpdateCart(form.product_id.value, amount);
+	
+	UpdatePrice();
+}
+function PopupAddProduct_UpdateAmountLeft()
+{
+	//alert("UpdateAmountLeft start");
+	
+	var form = document.form_add_product_from_popup;
+	var amount_input = form.amount;
+	var amount_box = $("#product_amount_box")[0];
+	
+	var amount = amount_input.value;
+	amount = parseInt(amount);
+	amount++;
+	amount_input.value = amount;
+	amount_box.innerHTML = amount;
+	
+	selected_product_color = form.color.value;
+	selected_product_size = form.mida.value;
+	//alert("before UpdateCart");
+	UpdateCart(form.product_id.value, amount);
+	//alert("after UpdateCart");
+	
+	UpdatePrice();
+}
+</script>
+<script>
+function rgb2hex(rgb)
+{
+	rgb = rgb.match(/^rgba?[\s+]?\([\s+]?(\d+)[\s+]?,[\s+]?(\d+)[\s+]?,[\s+]?(\d+)[\s+]?/i);
+	return (rgb && rgb.length === 4) ? "#" +
+		("0" + parseInt(rgb[1],10).toString(16)).slice(-2) +
+		("0" + parseInt(rgb[2],10).toString(16)).slice(-2) +
+		("0" + parseInt(rgb[3],10).toString(16)).slice(-2) : '';
+}
+function PopupAddProduct_CloseSelectors()
+{
+	$("#popup_add_product #selected_color_area").css("display","block");
+	$("#popup_add_product #color_selector_area").css("display","none");
+	$("#popup_add_product #selected_mida_area").css("display","block");
+	$("#popup_add_product #midot_selector_area").css("display","none");
+}
+function PopupAddProduct_ShowColorSelectorsArea()
+{
+	$("#popup_add_product #selected_color_area").css("display","none");
+	$("#popup_add_product #color_selector_area").css("display","block");
+	$("#popup_add_product #selected_mida_area").css("display","none");
+	$("#popup_add_product #midot_selector_area").css("display","none");
+}
+function PopupAddProduct_ShowMidotSelectorsArea()
+{
+	$("#popup_add_product #selected_color_area").css("display","none");
+	$("#popup_add_product #color_selector_area").css("display","none");
+	$("#popup_add_product #selected_mida_area").css("display","none");
+	$("#popup_add_product #midot_selector_area").css("display","block");
+}
+function PopupAddProduct_ChangeColor(new_color)
+{
+	document.form_add_product_from_popup.color.value = new_color;
+	$("#popup_add_product #selected_color_area span").css("background-color",new_color);
+	PopupAddProduct_CloseSelectors();
+}
+function PopupAddProduct_ChangeSize(new_size)
+{
+	document.form_add_product_from_popup.mida.value = new_size;
+	$("#popup_add_product #selected_mida_area span").html(new_size);
+	PopupAddProduct_CloseSelectors();
+}
+</script>
+<script>
+function PopupAddProduct_CouponButtonPressed()
+{
+	//alert("CouponButtonPressed");
+	var form = document.form_add_product_from_popup;
+	var coupon_number = form.coupon_number.value;
+	//alert("coupon_number: " + coupon_number);
+	if(coupon_number == "") alert("לא הוכנס קופון");
+	else UpdatePrice();
+}
+function PopupAddProduct_GetCouponData()
+{
+	//alert("PopupAddProduct_GetCouponData start");
+	
+	var form = document.form_add_product_from_popup;
+	var entered_coupon_number = form.coupon_number.value;	
+	var product_id = form.product_id.value;	
+	if(entered_coupon_number == "") return "";
+	
+	//alert("PopupAddProduct_GetCouponData test");
+	
+	var all_coupons = document.getElementById("coupons_list" + product_id).innerHTML.split("|");
+	for(var i = 0; i < all_coupons.length; i++)
+	{
+		var str_coupon_data = all_coupons[i];
+		var coupon_data = str_coupon_data.split(",");
+		var coupon_number = coupon_data[0];
+		if(entered_coupon_number == coupon_number) return str_coupon_data;
+	}
+	
+	alert("הקופון שהכנסת שגוי או שאינו בתוקף");
+	return "";
+}
+function PopupAddProduct_GetCouponDiscount()
+{
+	//alert("PopupAddProduct_GetCouponDiscount start");
+	
+	var str_coupon_data = PopupAddProduct_GetCouponData();
+	//alert("str_coupon_data: " + str_coupon_data);
+	if(str_coupon_data == "") return 0;
+
+	var coupon_data = str_coupon_data.split(",");
+	var coupon_type = coupon_data[1];
+	var coupon_value = coupon_data[2];
+	var coupon_discount = coupon_data[3];
+	var coupon_is_percent = coupon_data[4];
+	var coupon_total_discount = 0;
+	
+	//alert("PopupAddProduct_GetCouponDiscount test1");
+	
+	var form = document.form_add_product_from_popup;
+	var product_id = parseInt(form.product_id.value);
+	var product_price = parseInt(form.price.value);
+	var product_amount = parseInt(form.amount.value);
+	var mid_sum = product_price*product_amount;
+	
+	//alert("PopupAddProduct_GetCouponDiscount test2");
+	//alert("coupon_type: " + coupon_type);
+	
+	switch(coupon_type)
+	{
+		case "0":
+			//alert("test4");
+			//alert("coupon_is_percent: " + coupon_is_percent);
+			if(coupon_is_percent == "1")
+			{
+				coupon_total_discount = ( (mid_sum*coupon_discount) / 100 );
+			}
+			else coupon_total_discount = coupon_discount;
+			break;
+		case "1":
+			// free delivary 
+			var delivary_price = parseInt(form.delivary_price.value);
+			var sum_limit = parseInt(coupon_value);
+			if(mid_sum >= sum_limit) coupon_total_discount = delivary_price;
+			/*
+			var product_groups = form.product_groups.value.split(",");
+			//alert(product_groups);
+			var is_found = false;
+			for(var j = 0; j < product_groups.length; j++)
+			{
+				var group_id = product_groups[j];
+				if(group_id == coupon_value)
+				{
+					is_found = true;
+					if(coupon_is_percent == "1")
+					{
+						coupon_total_discount = ( (mid_sum*coupon_discount) / 100 );
+					}
+					else coupon_total_discount = parseInt(coupon_discount);
+				}
+			}
+			if(is_found == false)
+			{
+				alert("קופון זה אינו מתאים לקטגוריות של המוצר הנ\"ל");
+				return 0;
+			}
+			*/
+			break;
+		case "2":
+			var sum_limit = parseInt(coupon_value);
+			if(mid_sum >= sum_limit) 
+			{
+				if(coupon_is_percent == "1")
+				{
+					coupon_total_discount = ( (mid_sum*coupon_discount) / 100 );
+				}
+				else coupon_total_discount = coupon_discount;
+			}
+			/*
+			//alert("coupon_value: " + coupon_value);
+			//alert("product_id: " + product_id);
+			if(coupon_value == product_id)
+			{
+				//alert("coupon_total_discount: " + coupon_total_discount);
+				if(coupon_is_percent == "1")
+				{
+					coupon_total_discount = ( (mid_sum*coupon_discount) / 100 );
+				}
+				else coupon_total_discount = parseInt(coupon_discount)*product_amount;
+				//alert("coupon_total_discount: " + coupon_total_discount);
+			}
+			else
+			{
+				alert("קופון זה אינו מתאים למוצר הנבחר");
+				return 0;
+			}
+			*/
+			break;
+		
+			
+	}
+
+	//alert("coupon_total_discount: " + coupon_total_discount);
+	return coupon_total_discount;
+}
+</script>
+<script>
+function PopupAddProduct_ChangeDelivaryMethod(method_id,price)
+{
+	var delivary_options_list = $("#delivary_options_list");
+	$("#popup_add_product #delivary_options_list .option").each(function(index, element)
+	{
+		if(element.id == ("option" + method_id)) element.className = "option checked";
+		else element.className = "option";
+	});
+	
+	//alert("before loop");
+	
+	//alert(form);
+	var delivary_input_list = document.form_add_product_from_popup.delivary_method;
+	if(delivary_input_list.nodeName == "INPUT")
+	{
+		delivary_input_list.checked = true;
+	}
+	else
+	{
+		for(var i = 0; i < delivary_input_list.length; i++)
+		{
+			var node = delivary_input_list[i];
+			//alert(node.value);
+			if(node.value == method_id) node.checked = true;
+		}
+	}
+	
+	document.form_add_product_from_popup.delivary_price.value = price;
+	
+	UpdatePrice();
+}
+function UpdatePrice()
+{
+	//alert("UpdatePrice");
+	
+	var form = document.form_add_product_from_popup;
+	var amount = parseInt(form.amount.value);
+	var price = parseInt(form.price.value);
+	var delivary_price = parseInt(form.delivary_price.value);
+	
+	
+	var mid_sum = amount * price;
+	
+	var mid_summery_span = $("#popup_add_product #mid_summery")[0];
+	mid_summery_span.innerHTML = FormatNumber(mid_sum) + " ₪";
+	
+	var final_sum = mid_sum;
+	
+	final_sum += delivary_price;
+	var delivary_price_span = $("#popup_add_product #delivary_price")[0];
+	delivary_price_span.innerHTML = delivary_price + " ₪";
+	
+	//alert("before");
+	
+	var coupon_discount = PopupAddProduct_GetCouponDiscount();
+	coupon_discount = parseInt(coupon_discount);
+	//alert("coupon_discount: " + coupon_discount);
+	final_sum -= coupon_discount;
+	//alert("new final_sum: " + final_sum);
+	var coupon_discount_span = $("#popup_add_product #coupon_discount")[0];
+	//alert(coupon_discount_span);
+	coupon_discount_span.innerHTML = FormatNumber(coupon_discount) + " ₪";
+	form.coupon_discount.value = coupon_discount;
+	
+	
+	var final_sum_span = $("#popup_add_product #final_summery")[0];
+	//alert(final_sum_span);
+	final_sum_span.innerHTML = FormatNumber(final_sum) + " ₪";
+	
+}
+</script>
+
+<script>
+function ToggleFullMenu()
+{
+	var btn_full_menu = document.getElementById("btn_full_menu");
+	var full_menu = document.getElementById("full_menu");
+	if(full_menu.style.display == "block")
+	{
+		full_menu.style.display = "none";
+		btn_full_menu.className = "";
+	}
+	else
+	{
+		full_menu.style.display = "block";
+		btn_full_menu.className = "btn_close_menu";
+		var h = $(full_menu).height();
+		full_menu.style.height = "0px";
+		$(full_menu).animate({height:h},500);
+	}
+}
+function ToggleSubMenu(item_id)
+{
+	var full_menu = document.getElementById("full_menu");
+	var full_menu_item = document.getElementById("full_menu_item" + item_id);
+	if(full_menu_item.style.height == "auto")
+	{
+		full_menu_item.style.height = "71px";
+	}
+	else 
+	{
+		full_menu_item.style.height = "auto";
+		full_menu.style.height = "auto";
+		
+	}
+}
+function ToggleSubSubMenu(item_id)
+{
+	//var full_menu = document.getElementById("full_menu");
+	var sub_item = document.getElementById("sub_item" + item_id);
+	var group_sub_sub_menu = document.getElementById("group_sub_sub_menu" + item_id);
+	if(group_sub_sub_menu.style.height == "auto")
+	{
+		group_sub_sub_menu.style.height = "0px";
+		$(sub_item).removeClass("open");
+	}
+	else 
+	{
+		group_sub_sub_menu.style.height = "auto";
+		$(sub_item).addClass("open");
+		
+	}
+}
+function TogglePopupLogin()
+{
+	var popup_login = document.getElementById("popup_login");
+	if(popup_login.style.display == "block")
+	{
+		popup_login.style.display = "none";
+	}
+	else
+	{
+		popup_login.style.display = "block";
+	}
+}
+function TogglePopupUserMenu()
+{
+	var popup_user_menu = document.getElementById("popup_user_menu");
+	if(popup_user_menu.style.display == "block")
+	{
+		popup_user_menu.style.display = "none";
+	}
+	else
+	{
+		popup_user_menu.style.display = "block";
+	}
+}
+function TogglePopupSearch()
+{
+	var popup_search = document.getElementById("popup_search");
+	if(popup_search.style.display == "block")
+	{
+		popup_search.style.display = "none";
+	}
+	else
+	{
+		popup_search.style.display = "block";
+	}
+}
+function TogglePopupCart()
+{
+	var popup_cart = document.getElementById("popup_cart");
+	if(popup_cart.style.display == "block")
+	{
+		popup_cart.style.display = "none";
+	}
+	else
+	{
+		popup_cart.style.display = "block";
+	}
+}
+function SwitchToLogin()
+{
+	ToggleFullMenu();
+	TogglePopupLogin();
+}
+</script>
+
+<div class="page_area" id="header" data-font-size="16" data-font-size-type="px">
+
+	<a href="javascript: ToggleFullMenu()" id="btn_full_menu" data-font-size="16" data-font-size-type="px"></a>
+		
+	<a href="https://www.wonder-shop.co.il/" id="logo" title="wonder shop - הבית למשחקים וחומרי יצירה" data-font-size="16" data-font-size-type="px"><img src="media-lib/dynamic_1_1.png?rnd=859248032" alt="wonder shop - הבית למשחקים וחומרי יצירה"></a>	
+	
+	
+	<ul id="store_top_menu" data-font-size="16" data-font-size-type="px"><li data-font-size="16" data-font-size-type="px"><a href="javascript: TogglePopupSearch()" class="fade btn btn_search" data-font-size="16" data-font-size-type="px"></a></li><li class="seperator" data-font-size="16" data-font-size-type="px"></li><li data-font-size="16" data-font-size-type="px"><a href="javascript: TogglePopupCart()" class="fade btn btn_cart" data-font-size="16" data-font-size-type="px"></a></li></ul>	
+
+</div>
+
+
+
+<div id="full_menu" data-font-size="16" data-font-size-type="px">
+<div class="full_menu_item" id="full_menu_item1" data-font-size="16" data-font-size-type="px"><a href="javascript: ToggleSubMenu(1)" class="main_item"><span>תחפושות לילדים</span></a><div class="full_menu_item sub_item" id="full_menu_item3" data-font-size="16" data-font-size-type="px"><a href="https://www.wonder-shop.co.il/%D7%AA%D7%97%D7%A4%D7%95%D7%A9%D7%95%D7%AA-%D7%9C%D7%AA%D7%99%D7%A0%D7%95%D7%A7%D7%95%D7%AA/" class="main_item"><span>&gt; תחפושות לילדים ותינוקות</span></a></div><div class="full_menu_item sub_item" id="full_menu_item18" data-font-size="16" data-font-size-type="px"><a href="https://www.wonder-shop.co.il/רובוטים/" class="main_item"><span>&gt; רובוטים</span></a></div><div class="full_menu_item sub_item" id="full_menu_item19" data-font-size="16" data-font-size-type="px"><a href="https://www.wonder-shop.co.il/כלי-תחבורה/" class="main_item"><span>&gt; כלי תחבורה</span></a></div><div class="full_menu_item sub_item" id="full_menu_item20" data-font-size="16" data-font-size-type="px"><a href="https://www.wonder-shop.co.il/על-שלט/" class="main_item"><span>&gt; על שלט</span></a></div><div class="full_menu_item sub_item" id="full_menu_item21" data-font-size="16" data-font-size-type="px"><a href="javascript: ToggleSubMenu(21)" class="main_item"><span>&gt; כמו גדולים</span></a><a href="https://www.wonder-shop.co.il/%D7%91%D7%95%D7%91%D7%95%D7%AA/" class="sub_sub_item"><span>&gt; בובות</span></a><a href="https://www.wonder-shop.co.il/%D7%A2%D7%92%D7%9C%D7%95%D7%AA-%D7%91%D7%95%D7%91%D7%94/" class="sub_sub_item"><span>&gt; עגלות בובה</span></a><a href="https://www.wonder-shop.co.il/%D7%9E%D7%98%D7%91%D7%97%D7%99%D7%9D-%D7%9C%D7%99%D7%9C%D7%93%D7%99%D7%9D/" class="sub_sub_item"><span>&gt; מטבחים לילדים</span></a><a href="https://www.wonder-shop.co.il/%D7%91%D7%AA%D7%99-%D7%91%D7%95%D7%91%D7%95%D7%AA/" class="sub_sub_item"><span>&gt; בתי בובות</span></a><a href="https://www.wonder-shop.co.il/%D7%9B%D7%9C%D7%99-%D7%A2%D7%91%D7%95%D7%93%D7%94-%D7%9C%D7%99%D7%9C%D7%93%D7%99%D7%9D/" class="sub_sub_item"><span>&gt; כלי עבודה לילדים</span></a><a href="https://www.wonder-shop.co.il/%D7%A2%D7%A8%D7%9B%D7%95%D7%AA-%D7%90%D7%99%D7%A4%D7%95%D7%A8/" class="sub_sub_item last"><span>&gt; ערכות איפור</span></a></div><div class="full_menu_item sub_item" id="full_menu_item25" data-font-size="16" data-font-size-type="px"><a href="javascript: ToggleSubMenu(25)" class="main_item"><span>&gt; תינוקות ופעוטות</span></a><a href="https://www.wonder-shop.co.il/%D7%9E%D7%A9%D7%97%D7%A7%D7%99%D7%9D-%D7%9C%D7%94%D7%AA%D7%A4%D7%AA%D7%97%D7%95%D7%AA/" class="sub_sub_item"><span>&gt; משחקי התפתחות</span></a><a href="https://www.wonder-shop.co.il/%D7%A6%D7%A2%D7%A6%D7%95%D7%A2%D7%99%D7%9D-%D7%9C%D7%A4%D7%A2%D7%95%D7%98%D7%95%D7%AA-%D7%95%D7%92%D7%99%D7%9C-%D7%94%D7%A8%D7%9A/" class="sub_sub_item"><span>&gt; פעוטות והגיל הרך</span></a><a href="https://www.wonder-shop.co.il/%D7%94%D7%9C%D7%99%D7%9B%D7%95%D7%A0%D7%99%D7%9D-%D7%95%D7%91%D7%99%D7%9E%D7%91%D7%95%D7%AA/" class="sub_sub_item"><span>&gt; הליכונים ובימבות</span></a><a href="https://www.wonder-shop.co.il/%D7%9E%D7%A2%D7%95%D7%93%D7%93%D7%99-%D7%96%D7%97%D7%99%D7%9C%D7%94/" class="sub_sub_item"><span>&gt; מעודדי זחילה</span></a><a href="https://www.wonder-shop.co.il/%D7%90%D7%95%D7%94%D7%9C%D7%99%D7%9D-%D7%95%D7%9E%D7%A0%D7%94%D7%A8%D7%95%D7%AA/" class="sub_sub_item"><span>&gt; אוהלים ומנהרות</span></a><a href="https://www.wonder-shop.co.il/%D7%99%D7%A9%D7%91%D7%A0%D7%95%D7%9F-/" class="sub_sub_item"><span>&gt; ישבנון</span></a><a href="https://www.wonder-shop.co.il/%D7%9C%D7%95%D7%97%D7%95%D7%AA-%D7%A6%D7%99%D7%95%D7%A8/" class="sub_sub_item last"><span>&gt; לוחות ציור</span></a></div><div class="full_menu_item sub_item" id="full_menu_item22" data-font-size="16" data-font-size-type="px"><a href="https://www.wonder-shop.co.il/%D7%9E%D7%91%D7%A6%D7%A2%D7%99%D7%9D/" class="main_item"><span>&gt; מבצעים</span></a></div><div class="full_menu_item sub_item" id="full_menu_item23" data-font-size="16" data-font-size-type="px"><a href="javascript: ToggleSubMenu(23)" class="main_item"><span>&gt; משחקי חשיבה והרכבה</span></a><a href="https://www.wonder-shop.co.il/%D7%9E%D7%92%D7%A0%D7%98%D7%99%D7%9D/" class="sub_sub_item"><span>&gt; מגנטים</span></a><a href="https://www.wonder-shop.co.il/%D7%9C%D7%92%D7%95/" class="sub_sub_item"><span>&gt; לגו</span></a><a href="https://www.wonder-shop.co.il/%D7%9C%D7%92%D7%95-%D7%A1%D7%99%D7%98%D7%99/" class="sub_sub_item"><span>&gt; לגו סיטי</span></a><a href="https://www.wonder-shop.co.il/%D7%A4%D7%9C%D7%99%D7%99%D7%9E%D7%95%D7%91%D7%99%D7%9C/" class="sub_sub_item"><span>&gt; פליימוביל</span></a><a href="https://www.wonder-shop.co.il/%D7%94%D7%A8%D7%9B%D7%91%D7%95%D7%AA/" class="sub_sub_item"><span>&gt; הרכבות</span></a><a href="https://www.wonder-shop.co.il/%D7%A4%D7%90%D7%96%D7%9C%D7%99%D7%9D/" class="sub_sub_item"><span>&gt; פאזלים</span></a><a href="https://www.wonder-shop.co.il/%D7%9E%D7%A9%D7%97%D7%A7%D7%99-%D7%97%D7%A9%D7%99%D7%91%D7%94-%D7%9E%D7%A9%D7%97%D7%A7%D7%99-%D7%94%D7%A8%D7%9B%D7%91%D7%94/" class="sub_sub_item"><span>&gt; משחקי חשיבה</span></a><a href="https://www.wonder-shop.co.il/%D7%A2%D7%A8%D7%9B%D7%95%D7%AA-%D7%A7%D7%A1%D7%9E%D7%99%D7%9D/" class="sub_sub_item"><span>&gt; ערכות קסמים</span></a><a href="https://www.wonder-shop.co.il/%D7%9E%D7%A9%D7%97%D7%A7%D7%99-%D7%99%D7%A6%D7%99%D7%A8%D7%94/" class="sub_sub_item last"><span>&gt; משחקי יצירה</span></a></div><div class="full_menu_item sub_item last" id="full_menu_item24" data-font-size="16" data-font-size-type="px"><a href="javascript: ToggleSubMenu(24)" class="main_item"><span>&gt; משחקי קופסא</span></a><a href="https://www.wonder-shop.co.il/%D7%9E%D7%A9%D7%97%D7%A7-%D7%97%D7%91%D7%A8%D7%94-%D7%9C%D7%99%D7%9C%D7%93%D7%99%D7%9D/" class="sub_sub_item"><span>&gt; משחקי חברה</span></a><a href="https://www.wonder-shop.co.il/%D7%9E%D7%A9%D7%97%D7%A7%D7%99-%D7%A7%D7%9C%D7%A4%D7%99%D7%9D/" class="sub_sub_item"><span>&gt; משחקי קלפים</span></a><a href="https://www.wonder-shop.co.il/%D7%9E%D7%A9%D7%97%D7%A7%D7%99%D7%9D-%D7%97%D7%99%D7%A0%D7%95%D7%9B%D7%99%D7%99%D7%9D-%D7%9C%D7%99%D7%9C%D7%93%D7%99%D7%9D/" class="sub_sub_item last"><span>&gt; משחקים חינוכיים לילדים</span></a></div></div><div class="full_menu_item" id="full_menu_item56" data-font-size="16" data-font-size-type="px"><a href="https://www.wonder-shop.co.il/%D7%9E%D7%A9%D7%97%D7%A7%D7%99-%D7%A7%D7%95%D7%A4%D7%A1%D7%90-%D7%9C%D7%99%D7%9C%D7%93%D7%99%D7%9D/" class="main_item"><span>משחקי קופסא</span></a></div><div class="full_menu_item" id="full_menu_item53" data-font-size="16" data-font-size-type="px"><a href="https://www.wonder-shop.co.il/%D7%9E%D7%A9%D7%97%D7%A7%D7%99-%D7%97%D7%A9%D7%99%D7%91%D7%94/" class="main_item"><span>משחקי חשיבה</span></a></div><div class="full_menu_item" id="full_menu_item52" data-font-size="16" data-font-size-type="px"><a href="javascript: ToggleSubMenu(52)" class="main_item"><span>דמויות וגיבורי על</span></a><div class="full_menu_item sub_item" id="full_menu_item77" data-font-size="16" data-font-size-type="px"><a href="https://www.wonder-shop.co.il/סמי-הכבאי/" class="main_item"><span>&gt; סמי הכבאי</span></a></div><div class="full_menu_item sub_item" id="full_menu_item78" data-font-size="16" data-font-size-type="px"><a href="https://www.wonder-shop.co.il/מפרץ-ההרפתקאות/" class="main_item"><span>&gt; מפרץ ההרפתקאות</span></a></div><div class="full_menu_item sub_item" id="full_menu_item79" data-font-size="16" data-font-size-type="px"><a href="https://www.wonder-shop.co.il/טובוט-TOBOT/" class="main_item"><span>&gt; טובוט / TOBOT</span></a></div><div class="full_menu_item sub_item" id="full_menu_item80" data-font-size="16" data-font-size-type="px"><a href="https://www.wonder-shop.co.il/האצימל-HATCHIMALS/" class="main_item"><span>&gt; האצימלס - HATCHIMALS</span></a></div><div class="full_menu_item sub_item" id="full_menu_item81" data-font-size="16" data-font-size-type="px"><a href="https://www.wonder-shop.co.il/נה-נה-נה-Na!Na!Na!/" class="main_item"><span>&gt; נה נה נה Na!Na!Na!</span></a></div><div class="full_menu_item sub_item" id="full_menu_item82" data-font-size="16" data-font-size-type="px"><a href="https://www.wonder-shop.co.il/LOL-לול/" class="main_item"><span>&gt; בובות לול - LOL</span></a></div><div class="full_menu_item sub_item" id="full_menu_item83" data-font-size="16" data-font-size-type="px"><a href="https://www.wonder-shop.co.il/להיטים-ומוצרי-אספנות/" class="main_item"><span>&gt; להיטים ומוצרי אספנות</span></a></div><div class="full_menu_item sub_item" id="full_menu_item84" data-font-size="16" data-font-size-type="px"><a href="https://www.wonder-shop.co.il/מטוסי-על/" class="main_item"><span>&gt; מטוסי על</span></a></div><div class="full_menu_item sub_item" id="full_menu_item85" data-font-size="16" data-font-size-type="px"><a href="https://www.wonder-shop.co.il/צבי-הנינגה/" class="main_item"><span>&gt; צבי הנינגה</span></a></div><div class="full_menu_item sub_item" id="full_menu_item86" data-font-size="16" data-font-size-type="px"><a href="https://www.wonder-shop.co.il/כוח-פיגיי/" class="main_item"><span>&gt; כוח פיגיי</span></a></div><div class="full_menu_item sub_item" id="full_menu_item88" data-font-size="16" data-font-size-type="px"><a href="https://www.wonder-shop.co.il/מפרץ-ההרפתקאות/" class="main_item"><span>&gt; מפרץ ההרפתקאות</span></a></div><div class="full_menu_item sub_item" id="full_menu_item89" data-font-size="16" data-font-size-type="px"><a href="https://www.wonder-shop.co.il/ריינבוקורן/" class="main_item"><span>&gt; ריינבוקורן</span></a></div><div class="full_menu_item sub_item" id="full_menu_item90" data-font-size="16" data-font-size-type="px"><a href="https://www.wonder-shop.co.il/טובוט-TOBOT/" class="main_item"><span>&gt; טובוט - TOBOT</span></a></div><div class="full_menu_item sub_item last" id="full_menu_item91" data-font-size="16" data-font-size-type="px"><a href="https://www.wonder-shop.co.il/כוח-פי-גיי-PJ/" class="main_item"><span>&gt; מיקי גיבורת הילדים</span></a></div></div><div class="full_menu_item" id="full_menu_item57" data-font-size="16" data-font-size-type="px"><a href="https://www.wonder-shop.co.il/חומרי-יצירה/" class="main_item"><span>חומרי יצירה</span></a></div><div class="full_menu_item" id="full_menu_item58" data-font-size="16" data-font-size-type="px"><a href="https://www.wonder-shop.co.il/%D7%9E%D7%91%D7%A6%D7%A2%D7%99%D7%9D/" class="main_item"><span>מבצעים</span></a></div><div class="full_menu_item" id="full_menu_item92" data-font-size="16" data-font-size-type="px"><a href="https://www.wonder-shop.co.il/מוצרי-פופ-וגאדגטים/" class="main_item"><span>מוצרי-פופ-וגאדגטים</span></a></div><div class="full_menu_item logout" id="full_menu_item0" data-font-size="16" data-font-size-type="px"><a href="javascript: SwitchToLogin()" class="main_item"><span>התחבר</span></a></div></div>
+
+
+<div class="header_popup" id="popup_login" data-font-size="16" data-font-size-type="px">
+	<div class="header_popup_top" data-font-size="16" data-font-size-type="px"></div>
+	<div class="header_popup_main_area" data-font-size="16" data-font-size-type="px">
+		
+		<div class="popup_title" data-font-size="16" data-font-size-type="px"><span>כניסה</span></div>
+
+		<form action="" method="post" name="form_login">
+			<input type="hidden" name="form_login" value="true">
+			<table data-font-size="16" data-font-size-type="px"><tbody><tr data-font-size="16" data-font-size-type="px">
+				<td data-font-size="16" data-font-size-type="px"><label>דוא"ל</label></td>
+				<td data-font-size="16" data-font-size-type="px"><input type="text" name="email"></td>
+			</tr><tr data-font-size="16" data-font-size-type="px">
+				<td data-font-size="16" data-font-size-type="px"><label>סיסמא</label></td>
+				<td data-font-size="16" data-font-size-type="px"><input type="password" name="password"></td>
+			</tr><tr data-font-size="16" data-font-size-type="px">
+				<td data-font-size="16" data-font-size-type="px"></td>
+				<td data-font-size="16" data-font-size-type="px">
+					<div class="btn_area" data-font-size="16" data-font-size-type="px">
+						<input type="submit" class="fade" value="כניסה">
+					</div>
+				</td>
+			</tr><tr data-font-size="16" data-font-size-type="px">
+				<td colspan="2" width="1" data-font-size="16" data-font-size-type="px">
+					<div class="btn_area" data-font-size="16" data-font-size-type="px">
+						<center></center>
+						<div class="remember" data-font-size="16" data-font-size-type="px">
+							<input type="checkbox" name="remember">
+							<span></span>
+						</div>
+						<center><div class="helpers" data-font-size="16" data-font-size-type="px">
+							<a class="fade" href="javascript: SendMePassword()">שכחתי את הסיסמא</a>
+							<span class="seperator" data-font-size="16" data-font-size-type="px"></span>
+							<a class="fade" href="?page=register">צור חשבון חדש</a>
+						</div></center>
+					</div>
+				</td>
+			</tr></tbody></table>
+		</form>
+		
+	</div>
+	<div class="header_popup_bottom" data-font-size="16" data-font-size-type="px"></div>
+</div><div class="header_popup" id="popup_user_menu" data-font-size="16" data-font-size-type="px">
+	<div class="header_popup_top" data-font-size="16" data-font-size-type="px"></div>
+	<div class="header_popup_main_area" data-font-size="16" data-font-size-type="px">
+		
+		<ul class="menu fade" id="user_menu" data-font-size="16" data-font-size-type="px"><li id="user_menu_item1" class="user_menu_item " data-font-size="16" data-font-size-type="px"><a href="https://www.wonder-shop.co.il/wishlist/" id="user_menu_item1_link" class="link fade level0" tabindex=""><span class="fade icon"></span><span class="fade">המועדפים שלי</span></a></li><li id="user_menu_item2" class="user_menu_item " data-font-size="16" data-font-size-type="px"><a href="https://www.wonder-shop.co.il/my_orders/" id="user_menu_item2_link" class="link fade level0" tabindex="1"><span class="fade icon"></span><span class="fade">הזמנות שביצעתי</span></a></li><li id="user_menu_item3" class="user_menu_item " data-font-size="16" data-font-size-type="px"><a href="https://www.wonder-shop.co.il/edit_profile/" id="user_menu_item3_link" class="link fade level0" tabindex="2"><span class="fade icon"></span><span class="fade">החשבון שלי</span></a></li><li id="user_menu_item4" class="user_menu_item " data-font-size="16" data-font-size-type="px"><a href="https://www.wonder-shop.co.il/search/||1/" id="user_menu_item4_link" class="link fade level0" tabindex="3"><span class="fade icon"></span><span class="fade">המבצעים המומלצים שלנו</span></a></li><li id="user_menu_item5" class="user_menu_item " data-font-size="16" data-font-size-type="px"><a href="javascript: void()" id="user_menu_item5_link" class="link fade level0" tabindex="4"><span class="fade icon"></span><span class="fade">עזרה</span></a></li><li id="user_menu_item6" class="user_menu_item  last" data-font-size="16" data-font-size-type="px"><a href="https://www.wonder-shop.co.il/?logout=1/" id="user_menu_item6_link" class="link fade level0" tabindex="5"><span class="fade icon"></span><span class="fade">התנתק</span></a></li></ul>		
+	</div>
+	<div class="header_popup_bottom" data-font-size="16" data-font-size-type="px"></div>
+</div><script>
+function UpdateHeaderSearchAutoComplete()
+{
+	var search_value = document.form_header_search.search_value.value;
+	var url = pre_path + "template/ajax/search_autocomplete_header.php?search_value=" + search_value;
+	ExecutePageAsync(url,"UpdateHeaderSearchAutoComplete2('#')");
+}
+function UpdateHeaderSearchAutoComplete2(str_search_products)
+{
+	//alert(str_search_products);
+	
+	var ul = $("#popup_search .search_form_area ul")[0];
+	ul.innerHTML = "";
+	
+	var search_products = str_search_products.split("|");
+	for(var i = 0; i < search_products.length; i++)
+	{
+		var str_product_data = search_products[i];
+		//alert("str_product_data: " + str_product_data);
+		if(str_product_data == "") continue;
+		
+		var product_data = str_product_data.split(",");
+		var product_id = product_data[0];
+		var product_name = product_data[1];
+		var product_name_url = product_data[2];
+		
+		var li = document.createElement("LI");
+		li.innerHTML = "<a class='fade' href='" + base_url + product_name_url + "/' >" + product_name + "</a>";
+		ul.appendChild(li);
+	}
+	
+	
+	
+}
+function HeaderSearchGotoPage()
+{
+	var search_value = document.form_header_search.search_value.value;
+	var url = base_url + "search/" + search_value + "/";
+	window.open(url,'_self');
+	return false;
+}
+</script>
+
+<div class="header_popup" id="popup_search" data-font-size="16" data-font-size-type="px">
+	<div class="header_popup_top" data-font-size="16" data-font-size-type="px"></div>
+	<div class="header_popup_main_area" data-font-size="16" data-font-size-type="px">
+		
+		<div class="search_form_area" data-font-size="16" data-font-size-type="px">
+		
+			<form action="" method="get" name="form_header_search" autocomplete="off" onsubmit="return HeaderSearchGotoPage()">
+				<input type="hidden" name="page" value="search">
+				<input type="text" name="search_value" value="" onkeyup="UpdateHeaderSearchAutoComplete()" autocomplete="off">
+				<input type="submit" class="fade" value="">
+			</form>
+			
+			<ul data-font-size="16" data-font-size-type="px"></ul>
+		
+		</div>
+		
+	</div>
+	<div class="header_popup_bottom" data-font-size="16" data-font-size-type="px"></div>
+</div><script>
+function CartBlockRemoveProduct(selected_order_id)
+{
+	var str_mobile_cart = getCookie(cookie_name_mobile_cart);
+	var mobile_cart_orders = str_mobile_cart.split(",");
+	
+	var new_str_mobile_cart = "";
+	for(var i = 0; i < mobile_cart_orders.length; i++)
+	{
+		var order_id = mobile_cart_orders[i];
+		if(order_id == selected_order_id) continue;
+		
+		if(new_str_mobile_cart != "") new_str_mobile_cart += ",";
+		new_str_mobile_cart += order_id;
+	}
+	//alert("new_str_mobile_cart: " + new_str_mobile_cart);
+	setCookie(cookie_name_mobile_cart,new_str_mobile_cart,7);
+	window.open('https://www.wonder-shop.co.il/','_self');
+}
+</script>
+
+<div class="header_popup" id="popup_cart" data-font-size="16" data-font-size-type="px">
+	<div class="header_popup_top" data-font-size="16" data-font-size-type="px"></div>
+	<div class="header_popup_main_area" data-font-size="16" data-font-size-type="px">
+		
+		<div class="cart_block_area" data-font-size="16" data-font-size-type="px">
+		
+					
+			<center><b>עגלה&nbsp;ריקה</b></center>		
+		</div>
+		
+	</div>
+	<div class="header_popup_bottom" data-font-size="16" data-font-size-type="px"></div>
+</div><script>
+function HomepageSearchGotoPage()
+{
+	var search_value = document.form_search.search_value.value;
+	var url = base_url + "search/" + search_value + "/";
+	window.open(url,'_self');
+	return false;
+}
+</script>
+
+<div id="slideshow_box" data-font-size="16" data-font-size-type="px">
+	<script>
+var slider_t = null;
+var events_list = Array();
+function ClearEvents()
+{
+	while(events_list.length > 0)
+	{
+		var t = events_list.pop();
+		clearTimeout(t);
+	}
+}
+function custom_fade_out(id, duration)
+{
+	//ClearEvents();
+	
+	var steps = Math.floor(duration / 100);
+	for(var i = 0; i <= steps; i++)
+	{
+		var percent = 1- (i / steps);
+		var command1 = "document.getElementById('"+id+"').style.opacity = "+percent+";"
+		var percent = 100 * percent;
+		var command2 = "document.getElementById('" + id + "').style.filter = 'alpha(opacity=" + percent + ")';";
+		
+		events_list.push(setTimeout(command1,100*i));
+		events_list.push(setTimeout(command2,100*i));
+	}
+	
+	var command1 = "document.getElementById('"+id+"').style.opacity = 0;"
+	var command2 = "document.getElementById('" + id + "').style.filter = 'alpha(opacity=0)';";
+	events_list.push(setTimeout(command1,duration));
+	events_list.push(setTimeout(command2,duration));		
+}
+function custom_fade_in(id, duration)
+{
+	//ClearEvents();
+	
+	var steps = Math.floor(duration / 100);
+	for(var i = 0; i <= steps; i++)
+	{
+		var percent = i / steps;
+		var command1 = "document.getElementById('"+id+"').style.opacity = '"+percent+"';";
+		var percent = 100 * percent;
+		var command2 = "document.getElementById('" + id + "').style.filter = 'alpha(opacity=" + percent + ")';";
+		
+		events_list.push(setTimeout(command1,100*i));
+		events_list.push(setTimeout(command2,100*i));
+	}
+	
+	var command1 = "document.getElementById('"+id+"').style.opacity = 1;"
+	var command2 = "document.getElementById('" + id + "').style.filter = 'alpha(opacity=100)';";
+	events_list.push(setTimeout(command1,duration));
+	events_list.push(setTimeout(command2,duration));	
+}
+// swappint pictures functions
+function init_slideshow()
+{
+	var image_count = document.getElementById("slideshow_counter").innerHTML;
+	
+	// show first image
+	var img = document.getElementById("slideshow_img1");
+	var img_selector = document.getElementById("img_selector1");
+	img.style.display = "block";
+	img.style.opacity = "1";	
+	img_selector.style.opacity = "1";
+	// init for jquery
+	for(var i = 2; i <= image_count; i++)
+	{
+		var id = "slideshow_img"+i;
+		var img = document.getElementById(id);
+		img.style.opacity = "0";
+		img.style.display = "block";
+		//custom_fade_in(id,1);
+		//custom_fade_out(id,1);
+		
+		var id_selector = "img_selector"+i;
+		var img_selector = document.getElementById(id_selector);
+		img_selector.style.opacity = "0";
+		//custom_fade_in(id_selector,1);
+		//custom_fade_out(id_selector,1);
+	}
+	slider_t = setInterval("next_image()",6000);
+
+	//var slideshow =  document.getElementById("main_container");
+	
+}
+
+function next_image()
+{
+	var image_count = document.getElementById("slideshow_counter").innerHTML;
+	image_count = parseInt(image_count);
+	var slideshow_current = document.getElementById("slideshow_current").innerHTML;
+	slideshow_current = parseInt(slideshow_current);
+	
+	if(slideshow_current < image_count)
+	{
+		goto_image(slideshow_current + 1);
+	}
+	else goto_image(1);
+}
+function prev_image()
+{
+	var image_count = document.getElementById("slideshow_counter").innerHTML;
+	image_count = parseInt(image_count);
+	var slideshow_current = document.getElementById("slideshow_current").innerHTML;
+	slideshow_current = parseInt(slideshow_current);
+	
+	if(slideshow_current > 1)
+	{
+		goto_image(slideshow_current - 1);
+	}
+	else goto_image(image_count);
+}
+
+
+function goto_image(index)
+{
+	var image_count = document.getElementById("slideshow_counter").innerHTML;	
+	document.getElementById("slideshow_current").innerHTML = index;
+	
+	//alert(index);
+	var img = null;
+	for(var i = 1; i <= image_count; i++)
+	{
+		var id = "slideshow_img"+i;
+		var img = document.getElementById(id);
+		var img_selector = document.getElementById("img_selector"+i);
+		var img_desc = document.getElementById("slideshow_img_desc"+i);
+		if(img.className == "fade slideshow_img selected")
+		{
+			var next_img = document.getElementById("slideshow_img"+index);
+			var next_img_selector = document.getElementById("img_selector"+index);
+			var next_img_desc = document.getElementById("slideshow_img_desc"+index);
+			if(next_img == null) 
+			{
+				next_img = document.getElementById("slideshow_img1");
+				next_img_selector = document.getElementById("img_selector1");
+				next_img_desc = document.getElementById("slideshow_img_desc1");
+			}
+			if(next_img.id == img.id) return;
+			
+			next_img.className = "fade slideshow_img selected";
+			img.className = "fade slideshow_img";
+			
+			ClearEvents();
+			//alert("change");
+			next_img.style.opacity = "1";
+			img.style.opacity = "0";
+			next_img_selector.style.opacity = "1";
+			img_selector.style.opacity = "0";
+			//custom_fade_in(next_img.id,1000);
+			//custom_fade_out(img.id,1000);
+			//custom_fade_in(next_img_selector.id,1000);
+			//custom_fade_out(img_selector.id,1000);
+			break;
+		}
+	}
+	
+	img_desc.style.right = "-100%";
+	var cmd = "document.getElementById('" + next_img_desc.id + "')";
+	cmd += ".style.right='0%'";
+	setTimeout(cmd,500);
+	//next_img_desc.style.left = "50%";
+	
+	/*
+	$(img_desc).animate({left: "100%" },500, function()
+	{
+		$(next_img_desc).animate({left: "50%" },500);
+	});
+	*/
+	
+	//alert("ok");
+	
+	clearInterval(slider_t);
+	slider_t = setInterval("next_image()",8000);
+}
+
+function image_click()
+{
+	var image_count = document.getElementById("slideshow_counter").innerHTML;	
+	
+	var img = null;
+	for(var i = 1; i <= image_count; i++)
+	{
+		var id = "slideshow_img"+i;
+		var img = document.getElementById(id);
+		if(img.className == "slideshow_img selected")
+		{
+			setTimeout(img.onclick,100);
+			break;
+		}
+	}
+}
+</script>
+
+<div id="slideshow" onclick="image_click()" data-font-size="16" data-font-size-type="px">
+	<div id="slideshow_counter" style="display:none" data-font-size="16" data-font-size-type="px">1</div><div id="slideshow_current" style="display:none" data-font-size="16" data-font-size-type="px">1</div><img id="slideshow_img1" class="fade slideshow_img selected" alt="" src="media-lib/media_7_3.jpg" style="margin-left: -320px; display: block; opacity: 1;" onload="init_slideshow()"><div id="slideshow_img_desc1" class="fade slideshow_img_desc page_area" '="" style="top:-0px;right:0%;" data-font-size="16" data-font-size-type="px"><div class="inner" data-font-size="32" data-font-size-type="px"><div class="slideshow_desc_title"></div><div class="slideshow_desc_text"><p>
+	חפשו את המשחק שאתם אוהבים</p>
+</div></div></div></div>
+<div id="slideshow_selectors_area" class="page_area" data-font-size="16" data-font-size-type="px"><div class="fade img_selector" style="left:-0px;" onclick="goto_image(1)" data-font-size="16" data-font-size-type="px"></div><div id="img_selector1" class="fade img_selector selected" style="left: 0px; opacity: 1;" onclick="goto_image(1)" data-font-size="16" data-font-size-type="px"></div></div>
+<div class="page_area" id="slideshow_arrows_area" data-font-size="16" data-font-size-type="px">
+	<div id="slideshow_prev" class="fade" onclick="prev_image()" data-font-size="16" data-font-size-type="px"></div>
+	<div id="slideshow_next" class="fade" onclick="next_image()" data-font-size="16" data-font-size-type="px"></div>
+</div>	<div class="page_area" id="homepage_search_area" data-font-size="16" data-font-size-type="px">
+				<form action="" method="get" name="form_search" id="form_search" onsubmit="return HomepageSearchGotoPage()">
+			<input type="hidden" name="page" value="search">
+			<input type="text" name="search_value" value="" placeholder="מה ברצונך לרכוש?">
+			<input type="submit" class="fade" value="חפש/י">			
+		</form>
+	</div>
+</div>
+
+<div class="page_area" id="homepage_products_area" data-font-size="16" data-font-size-type="px">
+	
+	<div href="https://www.wonder-shop.co.il/מכונית-שלט-עם-הגה-BW/" tabindex="6" class="product_block fade" data-font-size="16" data-font-size-type="px"><div class="inner_block fade" data-font-size="16" data-font-size-type="px"><div class="img" data-font-size="16" data-font-size-type="px"><a href="https://www.wonder-shop.co.il/מכונית-שלט-עם-הגה-BW/" title="מכונית שלט עם הגה BW" data-font-size="16" data-font-size-type="px"><img src="https://www.toys-empire.co.il/media-lib/product4222_image1.jpg?rnd=1004769778" style="margin-top:0px;" alt="מכונית שלט עם הגה BW"></a></div><h2 class="name" data-line-height="25px"><span data-line-height="25px">מכונית שלט עם הגה BW</span></h2><div class="desc">
+	מכונית שלט עם הגה BW
+
+	וונדר שופ
+
+	כתובת: הבנים 14, הוד השרון
+...</div><div class="price" data-font-size="16" data-font-size-type="px"><span data-font-size="32" data-font-size-type="px">30.00</span><span class="icon" data-font-size="16" data-font-size-type="px">ש"ח</span></div><div class="link fade" data-font-size="16" data-font-size-type="px"><a class="btn_product fade" href="javascript: AddToCartFullReload('1.4159', 1,'','')" data-font-size="16" data-font-size-type="px"><span class="icon"></span><span>הוסף לעגלה</span></a><a class="btn_add_wishlist fade" href="javascript: AddToWishlistFull('1.4159',1,'','')" data-font-size="16" data-font-size-type="px"></a><a class="btn_read_more fade" href="https://www.wonder-shop.co.il/מכונית-שלט-עם-הגה-BW/" data-font-size="16" data-font-size-type="px"></a></div></div><div class="product_colors" style="display:none" data-font-size="16" data-font-size-type="px"></div><div class="product_sizes" style="display:none" data-font-size="16" data-font-size-type="px"></div><div class="new" data-font-size="16" data-font-size-type="px"></div><div class="sale" data-font-size="16" data-font-size-type="px"></div></div><div class="product_seperator" data-font-size="16" data-font-size-type="px"></div><div href="https://www.wonder-shop.co.il/עוגת-שוקולד-תות-PIT-TOYS/" tabindex="7" class="product_block fade last" data-font-size="16" data-font-size-type="px"><div class="inner_block fade" data-font-size="16" data-font-size-type="px"><div class="img" data-font-size="16" data-font-size-type="px"><a href="https://www.wonder-shop.co.il/עוגת-שוקולד-תות-PIT-TOYS/" title="עוגת שוקולד תות PIT TOYS" data-font-size="16" data-font-size-type="px"><img src="https://www.toys-empire.co.il/media-lib/product2987_image1.jpg?rnd=1215629152" style="margin-top:0px;" alt="עוגת שוקולד תות PIT TOYS"></a></div><h2 class="name" data-line-height="25px"><span data-line-height="25px">עוגת שוקולד תות PIT TOYS</span></h2><div class="desc">
+	עוגת שוקולד מעץ איכותי כוללת מגש הגשה וכף פריסה שתהפוך כל משחק חגיג...</div><div class="price" data-font-size="16" data-font-size-type="px"><span data-font-size="32" data-font-size-type="px">70.00</span><span class="icon" data-font-size="16" data-font-size-type="px">ש"ח</span></div><div class="link fade" data-font-size="16" data-font-size-type="px"><a class="btn_product fade" href="javascript: AddToCartFullReload('1.2930', 1,'','')" data-font-size="16" data-font-size-type="px"><span class="icon"></span><span>הוסף לעגלה</span></a><a class="btn_add_wishlist fade" href="javascript: AddToWishlistFull('1.2930',1,'','')" data-font-size="16" data-font-size-type="px"></a><a class="btn_read_more fade" href="https://www.wonder-shop.co.il/עוגת-שוקולד-תות-PIT-TOYS/" data-font-size="16" data-font-size-type="px"></a></div></div><div class="product_colors" style="display:none" data-font-size="16" data-font-size-type="px"></div><div class="product_sizes" style="display:none" data-font-size="16" data-font-size-type="px"></div><div class="new" data-font-size="16" data-font-size-type="px"></div><div class="sale" data-font-size="16" data-font-size-type="px"></div></div><div href="https://www.wonder-shop.co.il/ריינבוקורן-בינוני-עונה-4-Rainbocorns-Puppycorn /" tabindex="8" class="product_block fade" data-font-size="16" data-font-size-type="px"><div class="inner_block fade" data-font-size="16" data-font-size-type="px"><div class="img" data-font-size="16" data-font-size-type="px"><a href="https://www.wonder-shop.co.il/ריינבוקורן-בינוני-עונה-4-Rainbocorns-Puppycorn /" title="ריינבוקורן בינוני עונה 4 Rainbocorns Pup..." data-font-size="16" data-font-size-type="px"><img src="https://www.toys-empire.co.il/media-lib/product2486_image1.jpg?rnd=999138881" style="margin-top:0px;" alt="ריינבוקורן בינוני עונה 4 Rainbocorns Pup..."></a></div><h2 class="name" data-line-height="25px"><span data-line-height="25px">ריינבוקורן בינוני עונה 4 Rainbocorns Pup...</span></h2><div class="desc">
+	ביצת ריינבוקורן בינוני עונה 4 (הפתעת כלבלבים) 
+
+	Rainbocorns Pupp...</div><div class="price" data-font-size="16" data-font-size-type="px"><span data-font-size="32" data-font-size-type="px">70.00</span><span class="icon" data-font-size="16" data-font-size-type="px">ש"ח</span></div><div class="link fade" data-font-size="16" data-font-size-type="px"><a class="btn_product fade" href="javascript: AddToCartFullReload('1.2430', 1,'','')" data-font-size="16" data-font-size-type="px"><span class="icon"></span><span>הוסף לעגלה</span></a><a class="btn_add_wishlist fade" href="javascript: AddToWishlistFull('1.2430',1,'','')" data-font-size="16" data-font-size-type="px"></a><a class="btn_read_more fade" href="https://www.wonder-shop.co.il/ריינבוקורן-בינוני-עונה-4-Rainbocorns-Puppycorn /" data-font-size="16" data-font-size-type="px"></a></div></div><div class="product_colors" style="display:none" data-font-size="16" data-font-size-type="px"></div><div class="product_sizes" style="display:none" data-font-size="16" data-font-size-type="px"></div><div class="new" data-font-size="16" data-font-size-type="px"></div><div class="sale" data-font-size="16" data-font-size-type="px"></div></div><div class="product_seperator" data-font-size="16" data-font-size-type="px"></div><div href="https://www.wonder-shop.co.il/הך-פטיש-קסילופון/" tabindex="9" class="product_block fade last" data-font-size="16" data-font-size-type="px"><div class="inner_block fade" data-font-size="16" data-font-size-type="px"><div class="img" data-font-size="16" data-font-size-type="px"><a href="https://www.wonder-shop.co.il/הך-פטיש-קסילופון/" title="הך פטיש קסילופון" data-font-size="16" data-font-size-type="px"><img src="https://www.toys-empire.co.il/media-lib/product192_image1.jpg?rnd=303950242" style="margin-top:0px;" alt="הך פטיש קסילופון"></a></div><h2 class="name" data-line-height="25px"><span data-line-height="25px">הך פטיש קסילופון</span></h2><div class="desc">
+	משחקים ומתפתחים!
+
+	קסילופון בעל קלידים צבעוניים!
+
+	השחילו את הכ...</div><div class="price" data-font-size="16" data-font-size-type="px"><span data-font-size="32" data-font-size-type="px">60.00</span><span class="icon" data-font-size="16" data-font-size-type="px">ש"ח</span></div><div class="link fade" data-font-size="16" data-font-size-type="px"><a class="btn_product fade" href="javascript: AddToCartFullReload('1.179', 1,'','')" data-font-size="16" data-font-size-type="px"><span class="icon"></span><span>הוסף לעגלה</span></a><a class="btn_add_wishlist fade" href="javascript: AddToWishlistFull('1.179',1,'','')" data-font-size="16" data-font-size-type="px"></a><a class="btn_read_more fade" href="https://www.wonder-shop.co.il/הך-פטיש-קסילופון/" data-font-size="16" data-font-size-type="px"></a></div></div><div class="product_colors" style="display:none" data-font-size="16" data-font-size-type="px"></div><div class="product_sizes" style="display:none" data-font-size="16" data-font-size-type="px"></div><div class="new" data-font-size="16" data-font-size-type="px"></div><div class="sale" data-font-size="16" data-font-size-type="px"></div></div><div href="https://www.wonder-shop.co.il/תשבצעיר-3-חוברת-95/" tabindex="10" class="product_block fade" data-font-size="16" data-font-size-type="px"><div class="inner_block fade" data-font-size="16" data-font-size-type="px"><div class="img" data-font-size="16" data-font-size-type="px"><a href="https://www.wonder-shop.co.il/תשבצעיר-3-חוברת-95/" title="תשבצעיר 3 חוברת 95" data-font-size="16" data-font-size-type="px"><img src="https://www.toys-empire.co.il/media-lib/product1245_image1.JPG?rnd=1582093638" style="margin-top:0px;" alt="תשבצעיר 3 חוברת 95"></a></div><h2 class="name" data-line-height="25px"><span data-line-height="25px">תשבצעיר 3 חוברת 95</span></h2><div class="desc">
+	תשבצעיר הינה סדרת חוברות תשבצים ומשחקי חשיבה לבני הנוער הכוללות בתו...</div><div class="price" data-font-size="16" data-font-size-type="px"><span data-font-size="32" data-font-size-type="px">16.00</span><span class="icon" data-font-size="16" data-font-size-type="px">ש"ח</span></div><div class="link fade" data-font-size="16" data-font-size-type="px"><a class="btn_product fade" href="javascript: AddToCartFullReload('1.1220', 1,'','')" data-font-size="16" data-font-size-type="px"><span class="icon"></span><span>הוסף לעגלה</span></a><a class="btn_add_wishlist fade" href="javascript: AddToWishlistFull('1.1220',1,'','')" data-font-size="16" data-font-size-type="px"></a><a class="btn_read_more fade" href="https://www.wonder-shop.co.il/תשבצעיר-3-חוברת-95/" data-font-size="16" data-font-size-type="px"></a></div></div><div class="product_colors" style="display:none" data-font-size="16" data-font-size-type="px"></div><div class="product_sizes" style="display:none" data-font-size="16" data-font-size-type="px"></div><div class="new" data-font-size="16" data-font-size-type="px"></div><div class="sale" data-font-size="16" data-font-size-type="px"></div></div><div class="product_seperator" data-font-size="16" data-font-size-type="px"></div><div href="https://www.wonder-shop.co.il/לומדים-לספור/" tabindex="11" class="product_block fade last" data-font-size="16" data-font-size-type="px"><div class="inner_block fade" data-font-size="16" data-font-size-type="px"><div class="img" data-font-size="16" data-font-size-type="px"><a href="https://www.wonder-shop.co.il/לומדים-לספור/" title="לומדים לספור" data-font-size="16" data-font-size-type="px"><img src="https://www.toys-empire.co.il/media-lib/product2974_image1.png?rnd=167156710" style="margin-top:0px;" alt="לומדים לספור"></a></div><h2 class="name" data-line-height="25px"><span data-line-height="25px">לומדים לספור</span></h2><div class="desc">
+	משחק השחלה מהנה עם עיצוב מקסים.,בסיס עץ עם 4 מוטות השחלה, טבעות ממו...</div><div class="price" data-font-size="16" data-font-size-type="px"><span data-font-size="32" data-font-size-type="px">60.00</span><span class="icon" data-font-size="16" data-font-size-type="px">ש"ח</span></div><div class="link fade" data-font-size="16" data-font-size-type="px"><a class="btn_product fade" href="javascript: AddToCartFullReload('1.2917', 1,'','')" data-font-size="16" data-font-size-type="px"><span class="icon"></span><span>הוסף לעגלה</span></a><a class="btn_add_wishlist fade" href="javascript: AddToWishlistFull('1.2917',1,'','')" data-font-size="16" data-font-size-type="px"></a><a class="btn_read_more fade" href="https://www.wonder-shop.co.il/לומדים-לספור/" data-font-size="16" data-font-size-type="px"></a></div></div><div class="product_colors" style="display:none" data-font-size="16" data-font-size-type="px"></div><div class="product_sizes" style="display:none" data-font-size="16" data-font-size-type="px"></div><div class="new" data-font-size="16" data-font-size-type="px"></div><div class="sale" data-font-size="16" data-font-size-type="px"></div></div><div href="https://www.wonder-shop.co.il/לגו-קלאסיק-CLASIC/" tabindex="12" class="product_block fade" data-font-size="16" data-font-size-type="px"><div class="inner_block fade" data-font-size="16" data-font-size-type="px"><div class="img" data-font-size="16" data-font-size-type="px"><a href="https://www.wonder-shop.co.il/לגו-קלאסיק-CLASIC/" title="לגו קלאסיק CLASIC" data-font-size="16" data-font-size-type="px"><img src="https://www.toys-empire.co.il/media-lib/product1973_image1.jpg?rnd=692003946" style="margin-top:56px;" alt="לגו קלאסיק CLASIC"></a></div><h2 class="name" data-line-height="25px"><span data-line-height="25px">לגו קלאסיק CLASIC</span></h2><div class="desc">
+	לגו מסידרת קלאסיק CLASSIC,
+
+	קופסאת הלבנים היצירתית, גודל בינוני,...</div><div class="price" data-font-size="16" data-font-size-type="px"><div class="new_price" data-font-size="16" data-font-size-type="px"><span data-font-size="32" data-font-size-type="px">190</span><span class="icon" data-font-size="16" data-font-size-type="px">ש"ח</span></div><div class="old_price" data-font-size="16" data-font-size-type="px"><span data-font-size="32" data-font-size-type="px">במקום&nbsp;280</span><span class="icon" data-font-size="16" data-font-size-type="px">₪</span></div></div><div class="link fade" data-font-size="16" data-font-size-type="px"><a class="btn_product fade" href="javascript: AddToCartFullReload('1.1925', 1,'','')" data-font-size="16" data-font-size-type="px"><span class="icon"></span><span>הוסף לעגלה</span></a><a class="btn_add_wishlist fade" href="javascript: AddToWishlistFull('1.1925',1,'','')" data-font-size="16" data-font-size-type="px"></a><a class="btn_read_more fade" href="https://www.wonder-shop.co.il/לגו-קלאסיק-CLASIC/" data-font-size="16" data-font-size-type="px"></a></div></div><div class="product_colors" style="display:none" data-font-size="16" data-font-size-type="px"></div><div class="product_sizes" style="display:none" data-font-size="16" data-font-size-type="px"></div><div class="new" data-font-size="16" data-font-size-type="px"></div><div class="sale" data-font-size="16" data-font-size-type="px"></div></div><div class="product_seperator" data-font-size="16" data-font-size-type="px"></div><div href="https://www.wonder-shop.co.il/משולשים/" tabindex="13" class="product_block fade last" data-font-size="16" data-font-size-type="px"><div class="inner_block fade" data-font-size="16" data-font-size-type="px"><div class="img" data-font-size="16" data-font-size-type="px"><a href="https://www.wonder-shop.co.il/משולשים/" title="משולשים" data-font-size="16" data-font-size-type="px"><img src="https://www.toys-empire.co.il/media-lib/product966_image1.jpg?rnd=107809415" style="margin-top:25px;" alt="משולשים"></a></div><h2 class="name" data-line-height="25px"><span data-line-height="25px">משולשים</span></h2><div class="desc">
+	משולשים - במשחק, מרכיבים הילדים משולשים צבעוניים על פי כרטיסי דגם ו...</div><div class="price" data-font-size="16" data-font-size-type="px"><span data-font-size="32" data-font-size-type="px">60.00</span><span class="icon" data-font-size="16" data-font-size-type="px">ש"ח</span></div><div class="link fade" data-font-size="16" data-font-size-type="px"><a class="btn_product fade" href="javascript: AddToCartFullReload('1.942', 1,'','')" data-font-size="16" data-font-size-type="px"><span class="icon"></span><span>הוסף לעגלה</span></a><a class="btn_add_wishlist fade" href="javascript: AddToWishlistFull('1.942',1,'','')" data-font-size="16" data-font-size-type="px"></a><a class="btn_read_more fade" href="https://www.wonder-shop.co.il/משולשים/" data-font-size="16" data-font-size-type="px"></a></div></div><div class="product_colors" style="display:none" data-font-size="16" data-font-size-type="px"></div><div class="product_sizes" style="display:none" data-font-size="16" data-font-size-type="px"></div><div class="new" data-font-size="16" data-font-size-type="px"></div><div class="sale" data-font-size="16" data-font-size-type="px"></div></div><div href="https://www.wonder-shop.co.il/קסם-של-צביעה-מנדלות/" tabindex="14" class="product_block fade" data-font-size="16" data-font-size-type="px"><div class="inner_block fade" data-font-size="16" data-font-size-type="px"><div class="img" data-font-size="16" data-font-size-type="px"><a href="https://www.wonder-shop.co.il/קסם-של-צביעה-מנדלות/" title="קסם של צביעה מנדלות" data-font-size="16" data-font-size-type="px"><img src="https://www.toys-empire.co.il/media-lib/product2254_image1.jpg?rnd=203172717" style="margin-top:0px;" alt="קסם של צביעה מנדלות"></a></div><h2 class="name" data-line-height="25px"><span data-line-height="25px">קסם של צביעה מנדלות</span></h2><div class="desc">
+	קובץ עשיר ומזמין של איורים מקוריים ומלאי קסם, דמיון ויצירה, מחכים ל...</div><div class="price" data-font-size="16" data-font-size-type="px"><span data-font-size="32" data-font-size-type="px">20.00</span><span class="icon" data-font-size="16" data-font-size-type="px">ש"ח</span></div><div class="link fade" data-font-size="16" data-font-size-type="px"><a class="btn_product fade" href="javascript: AddToCartFullReload('1.2201', 1,'','')" data-font-size="16" data-font-size-type="px"><span class="icon"></span><span>הוסף לעגלה</span></a><a class="btn_add_wishlist fade" href="javascript: AddToWishlistFull('1.2201',1,'','')" data-font-size="16" data-font-size-type="px"></a><a class="btn_read_more fade" href="https://www.wonder-shop.co.il/קסם-של-צביעה-מנדלות/" data-font-size="16" data-font-size-type="px"></a></div></div><div class="product_colors" style="display:none" data-font-size="16" data-font-size-type="px"></div><div class="product_sizes" style="display:none" data-font-size="16" data-font-size-type="px"></div><div class="new" data-font-size="16" data-font-size-type="px"></div><div class="sale" data-font-size="16" data-font-size-type="px"></div></div><div class="product_seperator" data-font-size="16" data-font-size-type="px"></div><div href="https://www.wonder-shop.co.il/לגו-אווטאר-הרפתקאות-סקימינג-75576-LEGO-AVATAR/" tabindex="15" class="product_block fade last" data-font-size="16" data-font-size-type="px"><div class="inner_block fade" data-font-size="16" data-font-size-type="px"><div class="img" data-font-size="16" data-font-size-type="px"><a href="https://www.wonder-shop.co.il/לגו-אווטאר-הרפתקאות-סקימינג-75576-LEGO-AVATAR/" title="לגו אווטאר הרפתקאות סקימינג 75576 LEGO A..." data-font-size="16" data-font-size-type="px"><img src="https://www.toys-empire.co.il/media-lib/product5370_image1.jpg?rnd=1742018147" style="margin-top:7px;" alt="לגו אווטאר הרפתקאות סקימינג 75576 LEGO A..."></a></div><h2 class="name" data-line-height="25px"><span data-line-height="25px">לגו אווטאר הרפתקאות סקימינג 75576 LEGO A...</span></h2><div class="desc">
+	הפעילו את כוחו של הנאבי קורו להתחבר ל-skimming הנועז. תחזיקו חזק ור...</div><div class="price" data-font-size="16" data-font-size-type="px"><span data-font-size="32" data-font-size-type="px">115.00</span><span class="icon" data-font-size="16" data-font-size-type="px">ש"ח</span></div><div class="link fade" data-font-size="16" data-font-size-type="px"><a class="btn_product fade" href="javascript: AddToCartFullReload('1.5314', 1,'','')" data-font-size="16" data-font-size-type="px"><span class="icon"></span><span>הוסף לעגלה</span></a><a class="btn_add_wishlist fade" href="javascript: AddToWishlistFull('1.5314',1,'','')" data-font-size="16" data-font-size-type="px"></a><a class="btn_read_more fade" href="https://www.wonder-shop.co.il/לגו-אווטאר-הרפתקאות-סקימינג-75576-LEGO-AVATAR/" data-font-size="16" data-font-size-type="px"></a></div></div><div class="product_colors" style="display:none" data-font-size="16" data-font-size-type="px"></div><div class="product_sizes" style="display:none" data-font-size="16" data-font-size-type="px"></div><div class="new" data-font-size="16" data-font-size-type="px"></div><div class="sale" data-font-size="16" data-font-size-type="px"></div></div><div href="https://www.wonder-shop.co.il/עוגת-יום-הולדת-עם-6-נרות-ומגש/" tabindex="16" class="product_block fade" data-font-size="16" data-font-size-type="px"><div class="inner_block fade" data-font-size="16" data-font-size-type="px"><div class="img" data-font-size="16" data-font-size-type="px"><a href="https://www.wonder-shop.co.il/עוגת-יום-הולדת-עם-6-נרות-ומגש/" title="עוגת יום הולדת עם 6 נרות ומגש" data-font-size="16" data-font-size-type="px"><img src="https://www.toys-empire.co.il/media-lib/product2986_image1.jpg?rnd=624927045" style="margin-top:0px;" alt="עוגת יום הולדת עם 6 נרות ומגש"></a></div><h2 class="name" data-line-height="25px"><span data-line-height="25px">עוגת יום הולדת עם 6 נרות ומגש</span></h2><div class="desc">
+	עוגת יום הולדת ממש כמו של גדולים, עשויה עץ איכותי ומתאימה למשחק ליל...</div><div class="price" data-font-size="16" data-font-size-type="px"><span data-font-size="32" data-font-size-type="px">80.00</span><span class="icon" data-font-size="16" data-font-size-type="px">ש"ח</span></div><div class="link fade" data-font-size="16" data-font-size-type="px"><a class="btn_product fade" href="javascript: AddToCartFullReload('1.2929', 1,'','')" data-font-size="16" data-font-size-type="px"><span class="icon"></span><span>הוסף לעגלה</span></a><a class="btn_add_wishlist fade" href="javascript: AddToWishlistFull('1.2929',1,'','')" data-font-size="16" data-font-size-type="px"></a><a class="btn_read_more fade" href="https://www.wonder-shop.co.il/עוגת-יום-הולדת-עם-6-נרות-ומגש/" data-font-size="16" data-font-size-type="px"></a></div></div><div class="product_colors" style="display:none" data-font-size="16" data-font-size-type="px"></div><div class="product_sizes" style="display:none" data-font-size="16" data-font-size-type="px"></div><div class="new" data-font-size="16" data-font-size-type="px"></div><div class="sale" data-font-size="16" data-font-size-type="px"></div></div><div class="product_seperator" data-font-size="16" data-font-size-type="px"></div><div href="https://www.wonder-shop.co.il/כיסוי-מלבני-סולארי-732X366/" tabindex="17" class="product_block fade last" data-font-size="16" data-font-size-type="px"><div class="inner_block fade" data-font-size="16" data-font-size-type="px"><div class="img" data-font-size="16" data-font-size-type="px"><a href="https://www.wonder-shop.co.il/כיסוי-מלבני-סולארי-732X366/" title="כיסוי מלבני סולארי 732X366" data-font-size="16" data-font-size-type="px"><img src="https://www.toys-empire.co.il/media-lib/product3704_image1.jpg?rnd=1346718924" style="margin-top:0px;" alt="כיסוי מלבני סולארי 732X366"></a></div><h2 class="name" data-line-height="25px"><span data-line-height="25px">כיסוי מלבני סולארי 732X366</span></h2><div class="desc">
+	כיסוי סולארי לבריכת מלבנית 732X366 Bestway מק"ט 58228
+
+	כיסו...</div><div class="price" data-font-size="16" data-font-size-type="px"><span data-font-size="32" data-font-size-type="px">380.00</span><span class="icon" data-font-size="16" data-font-size-type="px">ש"ח</span></div><div class="link fade" data-font-size="16" data-font-size-type="px"><a class="btn_product fade" href="javascript: AddToCartFullReload('1.3645', 1,'','')" data-font-size="16" data-font-size-type="px"><span class="icon"></span><span>הוסף לעגלה</span></a><a class="btn_add_wishlist fade" href="javascript: AddToWishlistFull('1.3645',1,'','')" data-font-size="16" data-font-size-type="px"></a><a class="btn_read_more fade" href="https://www.wonder-shop.co.il/כיסוי-מלבני-סולארי-732X366/" data-font-size="16" data-font-size-type="px"></a></div></div><div class="product_colors" style="display:none" data-font-size="16" data-font-size-type="px"></div><div class="product_sizes" style="display:none" data-font-size="16" data-font-size-type="px"></div><div class="new" data-font-size="16" data-font-size-type="px"></div><div class="sale" data-font-size="16" data-font-size-type="px"></div></div><div href="https://www.wonder-shop.co.il/להיות-מוכן-לקראת-חשבון-חוברת-105/" tabindex="18" class="product_block fade" data-font-size="16" data-font-size-type="px"><div class="inner_block fade" data-font-size="16" data-font-size-type="px"><div class="img" data-font-size="16" data-font-size-type="px"><a href="https://www.wonder-shop.co.il/להיות-מוכן-לקראת-חשבון-חוברת-105/" title="להיות מוכן לקראת חשבון חוברת 105" data-font-size="16" data-font-size-type="px"><img src="https://www.toys-empire.co.il/media-lib/product1066_image1.JPG?rnd=610968640" style="margin-top:0px;" alt="להיות מוכן לקראת חשבון חוברת 105"></a></div><h2 class="name" data-line-height="25px"><span data-line-height="25px">להיות מוכן לקראת חשבון חוברת 105</span></h2><div class="desc">
+	
+		
+			
+				
+					
+						
+חוברת עבודה חשיבה והדבקה עבה במיוחד...</div><div class="price" data-font-size="16" data-font-size-type="px"><span data-font-size="32" data-font-size-type="px">34.00</span><span class="icon" data-font-size="16" data-font-size-type="px">ש"ח</span></div><div class="link fade" data-font-size="16" data-font-size-type="px"><a class="btn_product fade" href="javascript: AddToCartFullReload('1.1042', 1,'','')" data-font-size="16" data-font-size-type="px"><span class="icon"></span><span>הוסף לעגלה</span></a><a class="btn_add_wishlist fade" href="javascript: AddToWishlistFull('1.1042',1,'','')" data-font-size="16" data-font-size-type="px"></a><a class="btn_read_more fade" href="https://www.wonder-shop.co.il/להיות-מוכן-לקראת-חשבון-חוברת-105/" data-font-size="16" data-font-size-type="px"></a></div></div><div class="product_colors" style="display:none" data-font-size="16" data-font-size-type="px"></div><div class="product_sizes" style="display:none" data-font-size="16" data-font-size-type="px"></div><div class="new" data-font-size="16" data-font-size-type="px"></div><div class="sale" data-font-size="16" data-font-size-type="px"></div></div><div class="product_seperator" data-font-size="16" data-font-size-type="px"></div><div href="https://www.wonder-shop.co.il/ריינבוקורן-בינוני-עונה-4-Rainbocorns-Puppycorn /" tabindex="19" class="product_block fade last" data-font-size="16" data-font-size-type="px"><div class="inner_block fade" data-font-size="16" data-font-size-type="px"><div class="img" data-font-size="16" data-font-size-type="px"><a href="https://www.wonder-shop.co.il/ריינבוקורן-בינוני-עונה-4-Rainbocorns-Puppycorn /" title="ריינבוקורן בינוני עונה 4 Rainbocorns Pup..." data-font-size="16" data-font-size-type="px"><img src="https://www.toys-empire.co.il/media-lib/product2486_image1.jpg?rnd=1008550551" style="margin-top:0px;" alt="ריינבוקורן בינוני עונה 4 Rainbocorns Pup..."></a></div><h2 class="name" data-line-height="25px"><span data-line-height="25px">ריינבוקורן בינוני עונה 4 Rainbocorns Pup...</span></h2><div class="desc">
+	ביצת ריינבוקורן בינוני עונה 4 (הפתעת כלבלבים) 
+
+	Rainbocorns Pupp...</div><div class="price" data-font-size="16" data-font-size-type="px"><span data-font-size="32" data-font-size-type="px">70.00</span><span class="icon" data-font-size="16" data-font-size-type="px">ש"ח</span></div><div class="link fade" data-font-size="16" data-font-size-type="px"><a class="btn_product fade" href="javascript: AddToCartFullReload('1.2430', 1,'','')" data-font-size="16" data-font-size-type="px"><span class="icon"></span><span>הוסף לעגלה</span></a><a class="btn_add_wishlist fade" href="javascript: AddToWishlistFull('1.2430',1,'','')" data-font-size="16" data-font-size-type="px"></a><a class="btn_read_more fade" href="https://www.wonder-shop.co.il/ריינבוקורן-בינוני-עונה-4-Rainbocorns-Puppycorn /" data-font-size="16" data-font-size-type="px"></a></div></div><div class="product_colors" style="display:none" data-font-size="16" data-font-size-type="px"></div><div class="product_sizes" style="display:none" data-font-size="16" data-font-size-type="px"></div><div class="new" data-font-size="16" data-font-size-type="px"></div><div class="sale" data-font-size="16" data-font-size-type="px"></div></div><div href="https://www.wonder-shop.co.il/בובה-סטפי-בייביסיטר-steffi/" tabindex="20" class="product_block fade" data-font-size="16" data-font-size-type="px"><div class="inner_block fade" data-font-size="16" data-font-size-type="px"><div class="img" data-font-size="16" data-font-size-type="px"><a href="https://www.wonder-shop.co.il/בובה-סטפי-בייביסיטר-steffi/" title="בובה סטפי בייביסיטר steffi" data-font-size="16" data-font-size-type="px"><img src="https://www.toys-empire.co.il/media-lib/product3357_image1.jpg?rnd=600601754" style="margin-top:35px;" alt="בובה סטפי בייביסיטר steffi"></a></div><h2 class="name" data-line-height="25px"><span data-line-height="25px">בובה סטפי בייביסיטר steffi</span></h2><div class="desc">
+	בובה סטפי בייביסיטר שומרת על 2 תינוקות
+	תינוקת אחת במנשא ואחת בסלק...</div><div class="price" data-font-size="16" data-font-size-type="px"><span data-font-size="32" data-font-size-type="px">150.00</span><span class="icon" data-font-size="16" data-font-size-type="px">ש"ח</span></div><div class="link fade" data-font-size="16" data-font-size-type="px"><a class="btn_product fade" href="javascript: AddToCartFullReload('1.3300', 1,'','')" data-font-size="16" data-font-size-type="px"><span class="icon"></span><span>הוסף לעגלה</span></a><a class="btn_add_wishlist fade" href="javascript: AddToWishlistFull('1.3300',1,'','')" data-font-size="16" data-font-size-type="px"></a><a class="btn_read_more fade" href="https://www.wonder-shop.co.il/בובה-סטפי-בייביסיטר-steffi/" data-font-size="16" data-font-size-type="px"></a></div></div><div class="product_colors" style="display:none" data-font-size="16" data-font-size-type="px"></div><div class="product_sizes" style="display:none" data-font-size="16" data-font-size-type="px"></div><div class="new" data-font-size="16" data-font-size-type="px"></div><div class="sale" data-font-size="16" data-font-size-type="px"></div></div><div class="product_seperator" data-font-size="16" data-font-size-type="px"></div><div href="https://www.wonder-shop.co.il/קורקינט-פעלולים-2-גלגלים-דגם-S5-שחור-LEO-PRO/" tabindex="21" class="product_block fade last" data-font-size="16" data-font-size-type="px"><div class="inner_block fade" data-font-size="16" data-font-size-type="px"><div class="img" data-font-size="16" data-font-size-type="px"><a href="https://www.wonder-shop.co.il/קורקינט-פעלולים-2-גלגלים-דגם-S5-שחור-LEO-PRO/" title="קורקינט פעלולים 2 גלגלים דגם S5 שחור LEO..." data-font-size="16" data-font-size-type="px"><img src="https://www.toys-empire.co.il/media-lib/product4954_image1.jpg?rnd=502816301" style="margin-top:0px;" alt="קורקינט פעלולים 2 גלגלים דגם S5 שחור LEO..."></a></div><h2 class="name" data-line-height="25px"><span data-line-height="25px">קורקינט פעלולים 2 גלגלים דגם S5 שחור LEO...</span></h2><div class="desc">
+	קורקינט פעלולים 2 גלגלים דגם S5 שחור LEO PRO
+
+	סקייט פעלולים לילד...</div><div class="price" data-font-size="16" data-font-size-type="px"><span data-font-size="32" data-font-size-type="px">350.00</span><span class="icon" data-font-size="16" data-font-size-type="px">ש"ח</span></div><div class="link fade" data-font-size="16" data-font-size-type="px"><a class="btn_product fade" href="javascript: AddToCartFullReload('1.4898', 1,'','')" data-font-size="16" data-font-size-type="px"><span class="icon"></span><span>הוסף לעגלה</span></a><a class="btn_add_wishlist fade" href="javascript: AddToWishlistFull('1.4898',1,'','')" data-font-size="16" data-font-size-type="px"></a><a class="btn_read_more fade" href="https://www.wonder-shop.co.il/קורקינט-פעלולים-2-גלגלים-דגם-S5-שחור-LEO-PRO/" data-font-size="16" data-font-size-type="px"></a></div></div><div class="product_colors" style="display:none" data-font-size="16" data-font-size-type="px"></div><div class="product_sizes" style="display:none" data-font-size="16" data-font-size-type="px"></div><div class="new" data-font-size="16" data-font-size-type="px"></div><div class="sale" data-font-size="16" data-font-size-type="px"></div></div>	
+</div>
+
+<div class="page_area" id="homepage_groups_area" data-font-size="16" data-font-size-type="px">
+	<a class="group_block" href="?page=group&amp;id=1" data-font-size="16" data-font-size-type="px"><span class="group_name">צעצועים</span><span class="link_desc">&gt; קנה עכשיו</span><div class="img_area" data-font-size="16" data-font-size-type="px"></div></a><a class="group_block" href="?page=group&amp;id=129" data-font-size="16" data-font-size-type="px"><span class="group_name">מבצעים</span><span class="link_desc">&gt; קנה עכשיו</span><div class="img_area" data-font-size="16" data-font-size-type="px"></div></a><a class="group_block" href="?page=group&amp;id=4" data-font-size="16" data-font-size-type="px"><span class="group_name">כמו גדולים</span><span class="link_desc">&gt; קנה עכשיו</span><div class="img_area" data-font-size="16" data-font-size-type="px"></div></a><a class="group_block" href="?page=group&amp;id=6" data-font-size="16" data-font-size-type="px"><span class="group_name">משחקי חשיבה והרכבה</span><span class="link_desc">&gt; קנה עכשיו</span><div class="img_area" data-font-size="16" data-font-size-type="px"></div></a><a class="group_block" href="?page=group&amp;id=8" data-font-size="16" data-font-size-type="px"><span class="group_name">משחקי קופסא</span><span class="link_desc">&gt; קנה עכשיו</span><div class="img_area" data-font-size="16" data-font-size-type="px"></div></a><a class="group_block" href="?page=group&amp;id=9" data-font-size="16" data-font-size-type="px"><span class="group_name">תינוקות ופעוטות</span><span class="link_desc">&gt; קנה עכשיו</span><div class="img_area" data-font-size="16" data-font-size-type="px"></div></a></div>
+
+
+<div id="footer_bg" data-font-size="16" data-font-size-type="px">
+
+	<div class="page_area" id="footer" data-font-size="16" data-font-size-type="px">
+		
+		<div class="newsletter_block" data-font-size="16" data-font-size-type="px"><div class="newsletter_title">הזינו דוא"ל ותהנו ממגוון מבצעים והטבות</div><form action="" method="post" name="form_newsletter"><input type="hidden" name="form_newsletter" value="true"><input type="text" name="email" value="" tab_index=""><input type="submit" class="fade" value="שלח/י" tab_index="1"></form></div>		
+		<a href="https://www.wonder-shop.co.il/" id="logo2" class="main_site" title="" tabindex="-1" data-font-size="16" data-font-size-type="px"><img src="media-lib/dynamic_15_1.png?rnd=1605371532"></a><ul class="menu fade" id="footer_menu" data-font-size="16" data-font-size-type="px"><li id="footer_menu_item1" class="footer_menu_item  open has_items" data-font-size="16" data-font-size-type="px"><a href="javascript: void()" id="footer_menu_item1_link" class="link fade level0" tabindex="22"><span class="fade icon"></span><span class="fade">ניווט באתר</span></a><div class="sub_menu" data-font-size="16" data-font-size-type="px"><div class="sub_menu_top" data-font-size="16" data-font-size-type="px"></div><ul class="menu fade" id="footer_menu_sublist1" data-font-size="16" data-font-size-type="px"><li id="footer_menu_sublist1_item5" class="footer_menu_sublist1_item  selected" data-font-size="16" data-font-size-type="px"><a href="https://www.wonder-shop.co.il/" id="footer_menu_sublist1_item5_link" class="link fade level1" tabindex="23"><span class="fade icon"></span><span class="fade">דף הבית</span></a></li><li id="footer_menu_sublist1_item6" class="footer_menu_sublist1_item " data-font-size="16" data-font-size-type="px"><a href="https://www.wonder-shop.co.il/%D7%9B%D7%AA%D7%91%D7%95%D7%AA%20%D7%95%D7%94%D7%9E%D7%9C%D7%A6%D7%95%D7%AA%20%D7%9C%D7%A7%D7%95%D7%A0%D7%99%D7%9D/" id="footer_menu_sublist1_item6_link" class="link fade level1" tabindex="24"><span class="fade icon"></span><span class="fade">מאמרים</span></a></li><li id="footer_menu_sublist1_item7" class="footer_menu_sublist1_item " data-font-size="16" data-font-size-type="px"><a href="https://www.wonder-shop.co.il/contact/" id="footer_menu_sublist1_item7_link" class="link fade level1" tabindex="25"><span class="fade icon"></span><span class="fade">צור קשר</span></a></li><li id="footer_menu_sublist1_item19" class="footer_menu_sublist1_item  last" data-font-size="16" data-font-size-type="px"><a href="https://www.wonder-shop.co.il/%D7%9E%D7%93%D7%99%D7%A0%D7%99%D7%95%D7%AA-%D7%9E%D7%A9%D7%9C%D7%95%D7%97%D7%99%D7%9D-%D7%95%D7%94%D7%97%D7%96%D7%A8%D7%AA-%D7%9E%D7%95%D7%A6%D7%A8%D7%99%D7%9D/" id="footer_menu_sublist1_item19_link" class="link fade level1" tabindex="26"><span class="fade icon"></span><span class="fade">החזרת מוצרים ומשלוחים</span></a></li></ul></div></li><li id="footer_menu_item2" class="footer_menu_item  has_items" data-font-size="16" data-font-size-type="px"><a href="javascript: void()" id="footer_menu_item2_link" class="link fade level0" tabindex="27"><span class="fade icon"></span><span class="fade">הכוכבים שלנו</span></a><div class="sub_menu" data-font-size="16" data-font-size-type="px"><div class="sub_menu_top" data-font-size="16" data-font-size-type="px"></div><ul class="menu fade" id="footer_menu_sublist2" data-font-size="16" data-font-size-type="px"><li id="footer_menu_sublist2_item8" class="footer_menu_sublist2_item " data-font-size="16" data-font-size-type="px"><a href="https://www.wonder-shop.co.il/%D7%A7%D7%95%D7%A7%D7%95%D7%9E%D7%9C%D7%95%D7%9F-%D7%A1%D7%98-%D7%91%D7%99%D7%AA-%D7%9E%D7%A9%D7%A4%D7%97%D7%94-%D7%93%D7%9C%D7%95%D7%A7%D7%A1-COCOMELON/" id="footer_menu_sublist2_item8_link" class="link fade level1" tabindex="28"><span class="fade icon"></span><span class="fade">קוקומלון</span></a></li><li id="footer_menu_sublist2_item9" class="footer_menu_sublist2_item " data-font-size="16" data-font-size-type="px"><a href="https://www.wonder-shop.co.il/%D7%90%D7%9E%D7%A4%D7%A8%D7%99%D7%99%D7%AA%20%D7%94%D7%A6%D7%A2%D7%A6%D7%95%D7%A2%D7%99%D7%9D/%D7%91%D7%A7%D7%95%D7%92%D7%9F/" id="footer_menu_sublist2_item9_link" class="link fade level1" tabindex="29"><span class="fade icon"></span><span class="fade">בקוגן</span></a></li><li id="footer_menu_sublist2_item10" class="footer_menu_sublist2_item " data-font-size="16" data-font-size-type="px"><a href="https://www.wonder-shop.co.il/%D7%A7%D7%95%D7%A8%D7%A7%D7%99%D7%A0%D7%98-%D7%97%D7%A9%D7%9E%D7%9C%D7%99-%D7%9C%D7%99%D7%9C%D7%93%D7%99%D7%9D-%D7%9B%D7%97%D7%95%D7%9C-KIMI/" id="footer_menu_sublist2_item10_link" class="link fade level1" tabindex="30"><span class="fade icon"></span><span class="fade">קורקינט חשמלי לילדים</span></a></li><li id="footer_menu_sublist2_item11" class="footer_menu_sublist2_item " data-font-size="16" data-font-size-type="px"><a href="https://www.wonder-shop.co.il/%D7%90%D7%9E%D7%A4%D7%A8%D7%99%D7%99%D7%AA%20%D7%94%D7%A6%D7%A2%D7%A6%D7%95%D7%A2%D7%99%D7%9D/%D7%94%D7%90%D7%A6%D7%99%D7%9E%D7%9C-HATCHIMALS/" id="footer_menu_sublist2_item11_link" class="link fade level1" tabindex="31"><span class="fade icon"></span><span class="fade">האצימל</span></a></li><li id="footer_menu_sublist2_item18" class="footer_menu_sublist2_item " data-font-size="16" data-font-size-type="px"><a href="https://www.wonder-shop.co.il/%D7%90%D7%9E%D7%A4%D7%A8%D7%99%D7%99%D7%AA%20%D7%94%D7%A6%D7%A2%D7%A6%D7%95%D7%A2%D7%99%D7%9D/%D7%9C%D7%92%D7%95-%D7%A1%D7%A4%D7%99%D7%A0%D7%94-%D7%91%D7%90%D7%95%D7%A7%D7%99%D7%99%D7%A0%D7%95%D7%A1/" id="footer_menu_sublist2_item18_link" class="link fade level1" tabindex="32"><span class="fade icon"></span><span class="fade">לגו ספינה</span></a></li><li id="footer_menu_sublist2_item20" class="footer_menu_sublist2_item  last" data-font-size="16" data-font-size-type="px"><a href="https://www.wonder-shop.co.il/%D7%91%D7%99%D7%AA-%D7%91%D7%95%D7%91%D7%95%D7%AA-%D7%91%D7%A8%D7%91%D7%99-%D7%91%D7%99%D7%AA-%D7%97%D7%9C%D7%95%D7%9E%D7%95%D7%AA-%D7%A2%D7%A0%D7%A7-Barbie-%D7%93%D7%92%D7%9D-FHY73-9997/" id="footer_menu_sublist2_item20_link" class="link fade level1" tabindex="33"><span class="fade icon"></span><span class="fade">בית החלומות של ברבי</span></a></li></ul></div></li><li id="footer_menu_item3" class="footer_menu_item  last has_items" data-font-size="16" data-font-size-type="px"><a href="javascript: void()" id="footer_menu_item3_link" class="link fade level0" tabindex="34"><span class="fade icon"></span><span class="fade">קטגוריות המוצרים שלנו</span></a><div class="sub_menu" data-font-size="16" data-font-size-type="px"><div class="sub_menu_top" data-font-size="16" data-font-size-type="px"></div><ul class="menu fade" id="footer_menu_sublist3" data-font-size="16" data-font-size-type="px"><li id="footer_menu_sublist3_item12" class="footer_menu_sublist3_item " data-font-size="16" data-font-size-type="px"><a href="https://www.wonder-shop.co.il/%D7%9E%D7%A9%D7%97%D7%A7%D7%99-%D7%A7%D7%95%D7%A4%D7%A1%D7%90-%D7%9C%D7%99%D7%9C%D7%93%D7%99%D7%9D/" id="footer_menu_sublist3_item12_link" class="link fade level1" tabindex="35"><span class="fade icon"></span><span class="fade">משחקי קופסא</span></a></li><li id="footer_menu_sublist3_item13" class="footer_menu_sublist3_item " data-font-size="16" data-font-size-type="px"><a href="https://www.wonder-shop.co.il/%D7%93%D7%9E%D7%95%D7%99%D7%95%D7%AA-%D7%95%D7%92%D7%99%D7%91%D7%95%D7%A8%D7%99-%D7%A2%D7%9C/" id="footer_menu_sublist3_item13_link" class="link fade level1" tabindex="36"><span class="fade icon"></span><span class="fade">גיבורי על</span></a></li><li id="footer_menu_sublist3_item14" class="footer_menu_sublist3_item " data-font-size="16" data-font-size-type="px"><a href="https://www.wonder-shop.co.il/%D7%9E%D7%A9%D7%97%D7%A7%D7%99-%D7%97%D7%A9%D7%99%D7%91%D7%94/" id="footer_menu_sublist3_item14_link" class="link fade level1" tabindex="37"><span class="fade icon"></span><span class="fade">משחקי חשיבה</span></a></li><li id="footer_menu_sublist3_item15" class="footer_menu_sublist3_item " data-font-size="16" data-font-size-type="px"><a href="https://www.wonder-shop.co.il/%D7%AA%D7%99%D7%A0%D7%95%D7%A7%D7%95%D7%AA-%D7%95%D7%A4%D7%A2%D7%95%D7%98%D7%95%D7%AA/" id="footer_menu_sublist3_item15_link" class="link fade level1" tabindex="38"><span class="fade icon"></span><span class="fade">תינוקות ופעוטות</span></a></li><li id="footer_menu_sublist3_item16" class="footer_menu_sublist3_item  last" data-font-size="16" data-font-size-type="px"><a href="https://www.wonder-shop.co.il/%D7%A4%D7%90%D7%96%D7%9C%D7%99%D7%9D/" id="footer_menu_sublist3_item16_link" class="link fade level1" tabindex="39"><span class="fade icon"></span><span class="fade">פאזלים</span></a></li></ul></div></li></ul><div style="clear:both" data-font-size="16" data-font-size-type="px"></div><div class="social_block" data-font-size="16" data-font-size-type="px"><div class="social_title">שתפו אותנו ברשתות החברתיות</div><ul class="menu fade" id="footer_social_menu" data-font-size="16" data-font-size-type="px"><li id="footer_social_menu_item1" class="footer_social_menu_item " data-font-size="16" data-font-size-type="px"><a href="javascript: void()" id="footer_social_menu_item1_link" class="link fade level0" tabindex="40" data-font-size="16" data-font-size-type="px"><img src="media-lib/menu_item5_1_1.png?rnd=665533395" id="footer_social_menu_item1_icon"><img src="media-lib/menu_item5_1_2.png?rnd=1718445454" id="footer_social_menu_item1_icon_hover" class="hover fade"><span class="fade icon" data-font-size="16" data-font-size-type="px"></span><span class="fade" data-font-size="16" data-font-size-type="px"></span></a></li><li id="footer_social_menu_item2" class="footer_social_menu_item " data-font-size="16" data-font-size-type="px"><a href="https://twitter.com/WondershopShop" id="footer_social_menu_item2_link" class="link fade level0" tabindex="41" data-font-size="16" data-font-size-type="px" target="_blank"><img src="media-lib/menu_item5_2_1.png?rnd=282119139" id="footer_social_menu_item2_icon" alt="twitter"><img src="media-lib/menu_item5_2_2.png?rnd=1664672276" id="footer_social_menu_item2_icon_hover" class="hover fade" alt="twitter"><span class="fade icon" data-font-size="16" data-font-size-type="px"></span><span class="fade" data-font-size="16" data-font-size-type="px">twitter</span></a></li><li id="footer_social_menu_item3" class="footer_social_menu_item " data-font-size="16" data-font-size-type="px"><a href="https://www.youtube.com/channel/UC1yiXjRvJyduGHYipVdebNg/featured?disable_polymer=1" id="footer_social_menu_item3_link" class="link fade level0" tabindex="42" data-font-size="16" data-font-size-type="px" target="_blank"><img src="media-lib/menu_item5_3_1.png?rnd=1798399791" id="footer_social_menu_item3_icon" alt="youtube"><img src="media-lib/menu_item5_3_2.jpg?rnd=586069382" id="footer_social_menu_item3_icon_hover" class="hover fade" alt="youtube"><span class="fade icon" data-font-size="16" data-font-size-type="px"></span><span class="fade" data-font-size="16" data-font-size-type="px">youtube</span></a></li><li id="footer_social_menu_item5" class="footer_social_menu_item " data-font-size="16" data-font-size-type="px"><a href="https://www.instagram.com/wondershopshop/" id="footer_social_menu_item5_link" class="link fade level0" tabindex="43" data-font-size="16" data-font-size-type="px" target="_blank"><img src="media-lib/menu_item5_5_1.png?rnd=2141102966" id="footer_social_menu_item5_icon" alt="instagram"><img src="media-lib/menu_item5_5_2.png?rnd=1233009782" id="footer_social_menu_item5_icon_hover" class="hover fade" alt="instagram"><span class="fade icon" data-font-size="16" data-font-size-type="px"></span><span class="fade" data-font-size="16" data-font-size-type="px">instagram</span></a></li><li id="footer_social_menu_item6" class="footer_social_menu_item " data-font-size="16" data-font-size-type="px"><a href="https://vimeo.com/user74206825" id="footer_social_menu_item6_link" class="link fade level0" tabindex="44" data-font-size="16" data-font-size-type="px" target="_blank"><img src="media-lib/menu_item5_6_1.png?rnd=1515461072" id="footer_social_menu_item6_icon" alt="vimeo"><img src="media-lib/menu_item5_6_2.png?rnd=160776028" id="footer_social_menu_item6_icon_hover" class="hover fade" alt="vimeo"><span class="fade icon" data-font-size="16" data-font-size-type="px"></span><span class="fade" data-font-size="16" data-font-size-type="px">vimeo</span></a></li><li id="footer_social_menu_item7" class="footer_social_menu_item " data-font-size="16" data-font-size-type="px"><a href="https://www.pinterest.com/wondershop200786/" id="footer_social_menu_item7_link" class="link fade level0" tabindex="45" data-font-size="16" data-font-size-type="px" target="_blank"><img src="media-lib/menu_item5_7_1.png?rnd=1934652403" id="footer_social_menu_item7_icon" alt="pinterest"><img src="media-lib/menu_item5_7_2.png?rnd=59981370" id="footer_social_menu_item7_icon_hover" class="hover fade" alt="pinterest"><span class="fade icon" data-font-size="16" data-font-size-type="px"></span><span class="fade" data-font-size="16" data-font-size-type="px">pinterest</span></a></li><li id="footer_social_menu_item8" class="footer_social_menu_item  last" data-font-size="16" data-font-size-type="px"><a href="http://www.wonder-shop.co.il/?page=contact" id="footer_social_menu_item8_link" class="link fade level0" tabindex="46" data-font-size="16" data-font-size-type="px" target="_blank"><img src="media-lib/menu_item5_8_1.png?rnd=339094859" id="footer_social_menu_item8_icon" alt="gmail"><img src="media-lib/menu_item5_8_2.png?rnd=2042461819" id="footer_social_menu_item8_icon_hover" class="hover fade" alt="gmail"><span class="fade icon" data-font-size="16" data-font-size-type="px"></span><span class="fade" data-font-size="16" data-font-size-type="px">gmail</span></a></li></ul></div>		
+	</div>
+	
+</div>
+
+<div id="footer3_bg" data-font-size="16" data-font-size-type="px">
+	<div class="page_area" id="footer3" data-font-size="16" data-font-size-type="px">
+		<a class="copyright_box" href="http://www.yaloo.co.il" tabindex="47" data-font-size="16" data-font-size-type="px" target="_blank"><img src="media-lib/dynamic_18_2.png?rnd=815831725"><div class="desc">עוצב ונבנה ע"י יאלו עיצוב ובניית אתרים</div></a><div style="clear:both" data-font-size="16" data-font-size-type="px"></div><div class="copyright_line"><span>כל הזכויות שמורות לוונדר-שופ בע"מ<sup>©</sup></span></div>	
+	</div>
+	
+</div>
+<a href="javascript: $('html, body').animate({ scrollTop: 0 }, 500);" id="btn_go_up" class="fade" tabindex="48" title="חזרה לראש העמוד" data-font-size="16" data-font-size-type="px"></a>	
+	
+    
+<div class="accessibility_component accessibility_div_wrap" style="display: block; position: relative; z-index: 2147483647;"><a role="button" tabindex="1" href="javascript:void(0);" onclick="StartAccessibility();return false;" class="btn_accessibility accessibility_component" title="לחץ להפעלת אפשרויות נגישות"><img id="accessibility_icon" src="https://www.negishim.com/accessibility/wheelchair.ashx?is_pro=1&amp;fps=786103401f76b87f5e3b017de1e95d5a&amp;v=133&amp;css_style=1&amp;src=www.wonder-shop.co.il&amp;purl=https://www.wonder-shop.co.il/&amp;ii=1701604419571" alt="נגישות" class="accessibility_component" aria-hidden="true"></a><div id="accessibility_action1" class="btn_accessibility_action accessibility_component" style="z-index:2147483646;" title="תפריט נגישות" aria-hidden="true"><img src="https://www.negishim.com/accessibility/menu_18_black.png" alt="menu" class="accessibility_component" aria-hidden="true"> תפריט נגישות</div><div id="accessibility_action2" class="btn_accessibility_action accessibility_component" style="padding-top:2px !important;z-index:2147483645;" title="גודל טקסט"><img src="https://www.negishim.com/accessibility/font_size_18_black.png" alt="menu" class="accessibility_component" style="margin-top:6px;"> <a role="button" tabindex="2" href="javascript:void(0);" title="גודל טקסט רגיל" id="a_fs_d" onclick="FontSizeDefault();return false;" class="accessibility_component a_gray" style="font-weight:bold!important;display:inline;font-size:20px !important;font-family:arial !important;text-decoration:none;color:#000000;vertical-align:baseline !important;"><span class="accessibility_component" aria-hidden="true" style="font-size:20px !important;">א</span></a> &nbsp;  <a role="button" tabindex="3" href="javascript:void(0);" title="הגדלת טקסט רמה 1" id="a_fs_m" onclick="FontSizeM();return false;" class="accessibility_component a_gray" style="font-weight:bold!important;display:inline;font-size:22px !important;font-family:arial !important;text-decoration:none;color:#000000;vertical-align:baseline !important;"><span class="accessibility_component" aria-hidden="true" style="font-size:22px !important;">א</span></a> &nbsp;  <a role="button" tabindex="4" href="javascript:void(0);" title="הגדלת טקסט רמה 2" id="a_fs_l" onclick="FontSizeL();return false;" class="accessibility_component a_gray" style="font-weight:bold!important;display:inline;font-size:24px !important;font-family:arial !important;text-decoration:none;color:#000000;vertical-align:baseline !important;"><span class="accessibility_component" aria-hidden="true" style="font-size:24px !important;">א</span></a> &nbsp;  <a role="button" tabindex="5" href="javascript:void(0);" title="הגדלת טקסט רמה 3" id="a_fs_xl" onclick="FontSizeXl();return false;" class="accessibility_component a_gray" style="font-weight:bold!important;display:inline;font-size:26px !important;font-family:arial !important;text-decoration:none;color:#000000;vertical-align:baseline !important;"><span class="accessibility_component" aria-hidden="true" style="font-size:26px !important;">א</span></a></div><a role="button" tabindex="6" id="accessibility_action3" href="javascript:void(0);" onclick="AccessibilityContrastBlackOnBlue();return false;" class="btn_accessibility_action accessibility_component" style="z-index:2147483644;" title="ניגודיות עדינה"><img src="https://www.negishim.com/accessibility/contrast_18_black.png" alt="contrast" class="accessibility_component" style="border:0" aria-hidden="true"><span class="accessibility_component" aria-hidden="true">ניגודיות עדינה</span></a><a role="button" tabindex="7" id="accessibility_action4" href="javascript:void(0);" onclick="AccessibilityContrastYellowOnBlack();return false;" class="btn_accessibility_action accessibility_component" style="z-index:2147483643;" title="ניגודיות גבוהה"><img src="https://www.negishim.com/accessibility/contrast_18_black.png" alt="contrast" class="accessibility_component" style="border:0" aria-hidden="true"><span class="accessibility_component" aria-hidden="true">ניגודיות גבוהה</span></a><a role="button" tabindex="8" id="accessibility_action10" href="javascript:void(0);" onclick="GrayImages();return false;" class="btn_accessibility_action accessibility_component" style="z-index:2147483642;" title="ביטול צבעים והצגת האתר בגווני שחור לבן"><img src="https://www.negishim.com/accessibility/gray_images_18_black.png" alt="gray images" class="accessibility_component" style="border:0" aria-hidden="true"><span class="accessibility_component" aria-hidden="true">מונוכרום</span></a><a role="button" tabindex="9" id="accessibility_action5" href="javascript:void(0);" onclick="LinksUnderline();return false;" class="btn_accessibility_action accessibility_component" style="z-index:2147483641;" title="הדגשת קישורים - הצגת קו תחתי מתחת לקישורים"><img src="https://www.negishim.com/accessibility/underline_18_black.png" alt="underline" class="accessibility_component" style="border:0" aria-hidden="true"><span class="accessibility_component" aria-hidden="true">הדגשת קישורים</span></a><a role="button" tabindex="10" id="accessibility_action6" href="javascript:void(0);" onclick="BlockAnimation();return false;" class="btn_accessibility_action accessibility_component" style="z-index:2147483640;" title="חסימת אנימציה"><img src="https://www.negishim.com/accessibility/eye_blocked_18_black.png" alt="eye_blocked" class="accessibility_component" style="border:0" aria-hidden="true"><span class="accessibility_component" aria-hidden="true">חסימת אנימציה</span></a><a role="button" tabindex="11" id="accessibility_action7" href="javascript:void(0);" onclick="ReadableFont();return false;" class="btn_accessibility_action accessibility_component" style="z-index:2147483639;" title="שנה את פונט האתר לפונט קריא יותר"><img src="https://www.negishim.com/accessibility/font_18_black.png" alt="font" class="accessibility_component" style="border:0" aria-hidden="true"><span class="accessibility_component" aria-hidden="true">פונט קריא</span></a><a role="button" tabindex="12" id="accessibility_action11" href="javascript:void(0);" onclick="StartAccessibility();return false;" class="btn_accessibility_action accessibility_component" style="z-index:2147483638;" title="סגור רכיב נגישות"><img src="https://www.negishim.com/accessibility/close_18_black.png" alt="close" class="accessibility_component" style="border:0" aria-hidden="true"><span class="accessibility_component" aria-hidden="true">סגור</span></a><a role="button" tabindex="13" id="accessibility_action9" href="javascript:void(0);" onclick="AccessibilityReset();return false;" class="btn_accessibility_action accessibility_component" style="z-index:2147483637;" title="איפוס הגדרות נגישות למצב ברירת מחדל"><img src="https://www.negishim.com/accessibility/power_off_18_black.png" alt="power off" class="accessibility_component" style="border:0" aria-hidden="true"><span class="accessibility_component" aria-hidden="true">איפוס הגדרות נגישות</span></a><a role="button" tabindex="14" id="accessibility_action8" href="http://www.negishim.org/" target="_blank" class="btn_accessibility_action accessibility_component btn_accessibility_action_active" style="z-index:2147483636;" title="להורדת מודול נגישות חינם"><img src="https://www.negishim.com/accessibility/info_18_black.png" alt="info" class="accessibility_component" style="border:0" aria-hidden="true"><span class="accessibility_component" aria-hidden="true">להורדת מודול נגישות חינם</span></a></div>
+<script type="text/javascript" id="">!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","1124498877741933");fbq("set","agent","tmgoogletagmanager","1124498877741933");fbq("track","PageView");</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1124498877741933&amp;ev=PageView&amp;noscript=1"></noscript>
+<iframe id="_hjSafeContext_94735146" title="_hjSafeContext" tabindex="-1" aria-hidden="true" src="about:blank" style="display: none !important; width: 1px !important; height: 1px !important; opacity: 0 !important; pointer-events: none !important;"></iframe></body></html>

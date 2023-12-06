@@ -1,0 +1,84 @@
+<!doctype html>
+<html class="no-js" lang="">
+    <head>
+        <link rel=stylesheet href="//fonts.googleapis.com/css?family=Merriweather:300italic,300,700">
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title> Hacked By Krypton-X  | START by Serge Tiroche</title>
+        <meta name="viewport" content="width=1200px">
+        
+                <link rel=stylesheet href="/css/all.css">
+                <script>
+          (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+          (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+          m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+          })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+          ga('create', 'UA-61248208-2', 'auto');
+          ga('send', 'pageview');
+        </script>
+
+    </head>
+
+            <body>
+            <!--[if lt IE 8]>
+            <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+
+        <!-- Add your site or application content here -->
+        <header>
+            <nav>
+    <a href="https://st-art.co.il/collection/featured">Collection</a> / <a href="https://st-art.co.il/artists">Artists</a> / <a href="https://st-art.co.il/exhibition/current">Gallery</a> / <a href="https://st-art.co.il/now">Now</a> / <a href="https://st-art.co.il/about" class="on">Story</a>
+    <span class="social"><a href="https://st-art.co.il/contact"><i class="fa fa-envelope"></i></a><a href="https://www.facebook.com/pages/START-Collection/720902488023387"><i class="fa fa-facebook-square"></i></a><a href="https://www.instagram.com/sergetiroche/"><i class="fa fa-instagram"></i></a><a href="https://www.youtube.com/channel/UCj89BYXtcETNaAeFYsc1aIQ"><i class="fa fa-youtube-square"></i></a></span>
+</nav>            <a href="https://st-art.co.il" class="logo"><img src="https://st-art.co.il/img/logod.png"></a>
+        </header>
+
+        <div class="content clearfix">
+    <div class="leftCol">
+        <h1>Hacked By Krypton-X</h1>
+        <hr>
+        <em><p>This message is directed towards the Israeli government, the Zionists, the United States, blind-minded pro-Israel supporters, and the money-greedy media. The war you have been waging against innocent people for over 56 years, simply because of your hatred towards them, will come at a cost. You will all have to pay for the suffering you have caused.</p></em>
+        <p><img src="/img/pages/1.jpg"></p>
+        <p>This message is directed towards the Israeli government, the Zionists, the United States, blind-minded pro-Israel supporters, and the money-greedy media. The war you have been waging against innocent people for over 56 years, simply because of your hatred towards them, will come at a cost. You will all have to pay for the suffering you have caused.</p>
+    </div>
+    <div class="sidebar">
+        <h2>Story</h2>
+        <hr>
+        <nav>
+    <a href="https://st-art.co.il/about">About</a>
+    <a href="https://st-art.co.il/about/projects">Activity</a>
+    <a href="https://st-art.co.il/about/team">Team</a>
+</nav>
+<h2>Join our newsletter</h2>
+<!-- Begin MailChimp Signup Form -->
+<div id="mc_embed_signup">
+<form action="//st-art.us11.list-manage.com/subscribe/post?u=5e60e4f78a94e50791091d2db&amp;id=4702f54530" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <div id="mc_embed_signup_scroll">
+        <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+        <div style="position: absolute; left: -5000px;"><input type="text" name="b_5e60e4f78a94e50791091d2db_4702f54530" tabindex="-1" value=""></div>
+        <div class="mc-field-group">
+            <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" placeholder="Email Address">
+            <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button" style="margin-top:0.5rem;">
+        </div>
+        <div id="mce-responses" class="clear">
+            <div class="response" id="mce-error-response" style="display:none"></div>
+            <div class="response" id="mce-success-response" style="display:none"></div>
+        </div>
+    </div>
+</form>
+</div>
+<!--End mc_embed_signup-->
+<p style="font-size:0.9em;margin-top:3em;">
+	For more updates:<br>
+    <div class="socials"><a href="https://www.facebook.com/pages/START-Collection/720902488023387"><i class="fa fa-facebook-square fa-2x"></i></a> <a href="https://instagram.com/start_collection/"><i class="fa fa-instagram fa-2x"></i></a><a href="https://www.youtube.com/channel/UCj89BYXtcETNaAeFYsc1aIQ"><i class="fa fa-youtube-square fa-2x"></i></a></div>
+</p>    </div>
+</div>
+
+                    <footer>
+                &copy; START 2019. All rights reserved | <a href="https://st-art.co.il/contact">Contact</a>
+                <span class="credit">Designed by: <a href="https://twodesign.co.il/">Noa Even Paz</a>  |  Developed by: <a href="https://boaideas.com/">BOA Ideas</a></span>
+            </footer>
+        
+                <script src="/js/all.js"></script>
+            </body>
+</html>
